@@ -73,3 +73,13 @@ This paper introduces a document grounded dataset for conversations. We define "
       * 'index': the index of the movie, corresponding to the 'docLinkIdx' field in conversation data.
 
 ## References
+
+This repo contains the code and data of the following paper:
+>A Dataset for Document Grounded Conversations. *Kangyan Zhou, Shrimai Prabhumoye, Alan W Black*. EMNLP 2018. [arXiv](https://arxiv.org/pdf/xxx.pdf)
+
+    @inproceedings{document_grounded_emnlp18,
+    title={A Dataset for Document Grounded Conversations},
+    author={Zhou, Kangyan and Prabhumoye, Shrimai and Black, Alan W},
+    year={2018},
+    booktitle={Proc. EMNLP}
+    }
