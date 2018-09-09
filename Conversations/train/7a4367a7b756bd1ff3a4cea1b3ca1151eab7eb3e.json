@@ -1,0 +1,176 @@
+{
+  "date": "2018-03-21T15:35:47.084Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:36:00.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:36:36.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Real Steel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:36:44.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i enjoyed it, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:37:16.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:37:45.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was pleasantly surprised", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:02.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I went into it with really low expectations", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:10.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman has a mixed track record at best.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:23.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes the bar should be set low with a name like \"Real Steel\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:48.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean a movie about a bunch of giant robots fighting is literally just a middling\n futurama episode.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:39:50.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoy futurama much more.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:40:59.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:41:31.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How do we advance or is the review timed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:48.601Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There we go.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:42:00.351Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea I think they also didn't set the film far enough in the future to be honest", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:42:26.198Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know who thought we would have giant robots by 2020", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:42:38.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but thats a bit of a stretch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:42:45.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I agree at least 2100 or something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:43:24.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its like blade runner which was supposed to happen like 10 years ago at this point", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:43:53.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I mean not all films can get it as right as The Running Man (1987) but at least get it closer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:44:48.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, also I do not know if I would call it enjoyable family entertainment.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:45:22.849Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean real steel is basically if rocky was a family movei staring robots instead of sylvester stallone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:46:45.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and rocky is a family movie if you have older children", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:47:08.954Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:49:23.267Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:35:47.085Z", 
+  "uid1LogOutTime": "2018-03-21T15:51:05.743Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:35:47.092Z", 
+  "uid2LogOutTime": "2018-03-21T15:49:55.217Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2764", 
+  "user2_id": "USR4783", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

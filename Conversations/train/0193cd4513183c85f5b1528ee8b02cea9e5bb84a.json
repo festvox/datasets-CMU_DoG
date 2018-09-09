@@ -1,0 +1,115 @@
+{
+  "date": "2018-02-15T03:08:28.600Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! We'll be discussing the movie John Wick!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:09:22.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, sounds great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:09:57.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What can I expect from John Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:10:34.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard really good things but dog killing can be a a bit of a downer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:11:44.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Firstly, it received great reviews on Rotten Tomatoes! And it's about a former human who returns to the criminal underworld to extract revenge following the death of his wife!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:12:06.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you a fan of Keanu Reeves?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:12:32.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a great fan of him and his work, I don't think he's avenging his wife though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:13:04.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "from what I understand she dies of natural causes and leaves him a puppy so he has a reason to go on, but then some people break into his home and kill the dog", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:14:04.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Critics certainly praised his performance in this film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:14:13.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well critical praise is definitely a reason to check out a performance as is a good overall rt score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:15:07.394Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "True. It all tales place following the death of his wife after a run in with a Russian crime syndicate. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:15:26.318Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what kind of action movie is it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:15:38.382Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Very true! It also received a Cinemascore of B as well!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:16:01.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it like the marvel movies heavy on the comedy or more like classic action movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:16:39.481Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its sort of an American neo-noir action flick. One critic described it as  \"fired up, ferocious B movie fun we can't get enough of\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:17:11.661Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T03:08:28.600Z", 
+  "uid1LogOutTime": "2018-02-15T03:17:37.108Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T03:08:29.351Z", 
+  "uid2LogOutTime": "2018-02-15T03:18:50.222Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2538", 
+  "user2_id": "USR3781", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

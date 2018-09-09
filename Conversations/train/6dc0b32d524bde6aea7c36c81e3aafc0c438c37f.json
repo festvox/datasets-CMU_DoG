@@ -1,0 +1,275 @@
+{
+  "date": "2018-03-19T20:35:15.847Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you? Which movie did you see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:35:32.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:35:38.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lets talk about the movie SuperHero that came out 2008. :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:35:56.386Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So which movie is it? Can you tell me the title?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:36:24.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am very sorry. Lol, I misread the title. The movie is Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:37:07.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I meant superhero movie haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:37:18.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sweet! Who is in it? What is it about? Can you tell me a bit about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:37:32.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man is about Tony Stark, CEO of Stark Industries, a weapons manufacturer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:38:27.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty cool! Who plays Tony Stark? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:39:15.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Basically Iron Man is a billionaire with an armored suit to fight injustice in the world lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:39:21.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tony Stark is played by Robert Downey Jr.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:39:30.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You havent watched it yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:39:36.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You don't know Iron Man? :O", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:39:44.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds great! So tell me more about the movie. The armored suit is great and all. And what happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:40:43.950Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So when Tony Stark was showing his tech somewhere like in a deserted country, when he was about to get home he got kidnapped by terrorists...\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:41:53.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When he was held captive. He got help from a guy named Yinsen to build the very first armored suit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:42:34.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He used it to escape and kill the bad peeps.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:42:42.938Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jeez. Terrorists kidnap the CEO of weapons manufacturers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:43:20.766Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay now he escapes and then what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:43:34.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Scary stuff huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:43:40.074Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When he got back, he wanted to end being a weapons manufacturing company and use his tech to good use.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:44:05.807Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Still he made a better armored suit though haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:44:29.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Quite smart he built an armoured suit in the desert. He must be very intelligent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:44:57.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He sure is, he's a genius, billionaire, playboy philanthropist kind of dude.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:45:33.094Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can see that. And the terrorists were messing with the wrong person!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:45:59.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ohhh man they sure was unlucky haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:46:51.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Good thing Yinsen was there too to help him create the first armored suit with just scraps.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:47:07.620Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow with just scraps? I can see why you call him a genius. It would take a scientist ages to build an armoured suit even with proper tools", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:48:22.952Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know right?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:49:03.282Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean he did made the suit out of his own tech, his own manufactured missile launcher,.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:49:34.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes Brilliant! I should definitely check out this movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:49:55.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting with me mate", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:50:09.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I still have some key scenes to tell you about.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:50:24.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure thing. What happens next?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:50:42.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are shrapnels inside his chest...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:50:43.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He got it when he was attacked and kidnapped. A missile hit nearby him and he got saved by Yinsen, so he built a miniaturized arc reactor to pull the shrapnels away from his heart... :O", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:51:44.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ain't that bad ass?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:51:51.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha a miniature arc reactor? That is brilliant", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:52:17.754Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay so Tony Stark escapes and then what happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:53:06.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well nice chatting with ya!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:53:35.594Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T20:35:15.847Z", 
+  "uid1LogOutTime": "2018-03-19T20:53:39.038Z", 
+  "uid1response": {
+    "feedback": "My conversation partner was friendly and talkative. He explains well why this movie would be interesting to watch", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:35:15.876Z", 
+  "uid2LogOutTime": "2018-03-19T20:52:57.007Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR1672", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

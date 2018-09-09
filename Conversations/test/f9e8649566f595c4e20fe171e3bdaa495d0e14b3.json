@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-19T19:43:32.974Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "\nHi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:43:59.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:44:08.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why did you leave lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:44:50.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you read about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:49:17.422Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:43:32.974Z", 
+  "uid1LogOutTime": "2018-02-19T19:49:22.568Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:43:33.072Z", 
+  "uid2LogOutTime": "2018-02-19T19:44:21.165Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3114", 
+  "user2_id": "USR1900", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

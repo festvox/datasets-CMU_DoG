@@ -1,0 +1,284 @@
+{
+  "date": "2018-03-26T17:52:13.447Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:52:34.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:52:38.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have the document also?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:52:46.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the 2017 American fantasy drama film \"The Shape of Water\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:52:58.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:52:59.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i watched it yesterday!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:53:11.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The key actors of the movie are Sally Hawkins and Michael Shannon. What did you think about their performance?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:53:57.583Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I  was impressed, very impressed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:54:11.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the first critical response.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:54:28.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And did you like the set of the movie? Baltimore, 1962", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:54:48.807Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, i did. have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:55:00.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I have not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:55:14.322Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not yet at least", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:55:18.396Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like movies of this genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:55:47.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not generally but I liked this. How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:56:36.938Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do, I usually prefer fantasy movies!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:56:52.643Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The description of scene 1 is interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:57:27.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love the character of Elisa, I think her story is really touching and the way it develops is both sad and joyful at the same time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:57:56.643Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The fact that she keeps the creature in the bathtub, adding salt to the water in order to keep him alive is something, huh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:58:27.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. The govt laboratory would be an interesting place to work. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:58:59.805Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:59:13.800Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you think about the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:59:27.543Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "On target", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:59:34.534Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And do you usually take in consideration rating before watching something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:59:38.766Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:59:44.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the document make you want to see the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:59:56.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It does, the trailer wasn't really enough for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:00:15.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it appears that the plot is really well thought. Each conflict looks very well designed. Like the one between Strickland and Elisa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:00:57.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like you have seen the movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:01:16.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the performance of the two actors is amazing and it deserves all the positive critical response.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:01:40.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I don't know...I was just interested in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:01:52.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well I agree that their performance was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:02:14.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about the ending? How do you think it was?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:02:35.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Liked it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:02:50.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know del Toro as a director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:03:18.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the last scene where Giles conveys his belief that Elisa lived \"happily ever after\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:03:36.092Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Critical response said that the movie has tenderness uncommon to his films. Apparently this is something positive.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:04:20.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i thought it was. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:04:31.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All right then, I think we're done.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:04:40.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Goodbye, have a good one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:04:46.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "agreed. have a good day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:04:47.618Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T17:52:13.447Z", 
+  "uid1LogOutTime": "2018-03-26T18:04:52.460Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T17:52:13.738Z", 
+  "uid2LogOutTime": "2018-03-26T18:04:50.655Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2805", 
+  "user2_id": "USR3494", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

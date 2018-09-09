@@ -1,0 +1,104 @@
+{
+  "date": "2018-03-01T04:48:17.152Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you ever seen \"Bruce Almighty\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:49:21.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it's not a bad movie.  I love Jim Carey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:51:07.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Carrey.  Do you like Jim Carrey?\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:51:14.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I pretty much agree with your view of the movie. I USED to be a big fan of Jim Carrey. Not so much anymore though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:51:45.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll always love Jim Carrey.  I've loved him since I was a kid back in the \"In Living Color\" days.  There's a sequel, Evan Almighty with Steve Carrell, and they are both in a movie together called BURT WONDERSTONE.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:52:51.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know it got a cinema score of an A?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:53:12.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen Evan Almighty. Bruce Almighty is definitely better. Never seen Burt Wonderstone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:53:22.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it depends on WHO is scoring it. Critics never liked the movie but the fans DID.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:53:46.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch it.  Classic as can be.  Steve Buscemi is in it also.  \n\nThat's true.  If you like certain actors, it's hard to not like anything they do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:54:07.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan Freeman as god is pretty fun, also. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:54:43.428Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a real shame Carrey seems to have fallen apart recently. I did enjoy a lot of his movies, \"Liar, Liar\" \"The Mask\" \"Bruce Almighty,\"...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:55:14.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think I've ever seen something where I didn't like Morgan Freeman in it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:55:49.213Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T04:48:17.152Z", 
+  "uid1LogOutTime": "2018-03-01T04:54:54.559Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T04:48:17.179Z", 
+  "uid2LogOutTime": "2018-03-01T04:56:15.872Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1213", 
+  "user2_id": "USR362", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

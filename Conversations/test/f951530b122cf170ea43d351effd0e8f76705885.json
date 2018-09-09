@@ -1,0 +1,211 @@
+{
+  "date": "2017-12-19T20:39:03.116Z", 
+  "docLinkIdx": 5, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello have you ever watched the movie The Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:39:40.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think so! Tell me about it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:40:01.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a group of people that go into dreams of other people in order to get important information from their memories.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:40:47.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, that sounds interesting. Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:41:14.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, and Tom Hardy", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:42:22.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you describe an exciting scene in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:42:40.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the ending when the audience is not sure if the main character is dreaming or awake.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:43:14.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How does the character determine whether or not he is dreaming or awake?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:43:33.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He spins a top, if it falls down then he is awake. If it keeps spinning he is dreaming", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:44:27.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:44:40.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "about two hours and thirty minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:45:29.510Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Describe another exciting scene to me, please.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:45:58.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "when the main character firsts shows his female companion that everything around them is a dream, and the world they are living in is created ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:46:44.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How does she react?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:47:25.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she is scared, and they end the dream to calm her down.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:47:44.389Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does she eventually become okay with it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:48:04.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yep, she eventually goes into the dreams with the problem", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:48:44.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the director of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:49:21.492Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Christopher Nolan is the director ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:49:40.991Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year was it produced?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:51:06.093Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It  was produced in 2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:51:23.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you tell me an interesting fact about the movie? Or something interesting in the movie that was less ob\nvious?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:52:08.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The ending was the best part honestly. You don't know if the main character is dreaming or awake. It does not show if the top stops spinning or not", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:53:14.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how much money it made in its opening week?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:53:42.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure to be honest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:54:08.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the movie end abruptly but then starts again in the middle of the credits?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:55:25.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not that I am aware of.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:55:46.662Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else that you can tell me about the movie to help me decide whether or not to watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T20:56:27.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it is a really good movie, and it totally worth watching at least once", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T20:57:46.348Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-19T20:39:03.116Z", 
+  "uid1LogOutTime": "2017-12-19T20:57:47.580Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T20:39:03.159Z", 
+  "uid2LogOutTime": "2017-12-19T20:56:37.861Z", 
+  "uid2response": {
+    "feedback": "Despite the short descriptions given by the other user, the movie sounds very interesting. I like psychological thrillers and this seems like one.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4913", 
+  "user2_id": "USR883", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

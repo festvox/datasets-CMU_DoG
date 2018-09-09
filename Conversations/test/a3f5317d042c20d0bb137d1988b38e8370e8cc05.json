@@ -1,0 +1,242 @@
+{
+  "date": "2018-03-21T18:27:37.760Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you got to see the new movie The Post yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:28:51.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:28:55.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a Steven Spielberg film. It is one of his best ones yet, in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:29:20.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the movie. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:29:32.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If it is from Spielberg, I can imagine it is good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:31:53.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "User 2, are you still there? I am interested in finding out about this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:33:38.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me anything about the movie? I may want to see it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:36:05.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Like who are some of the main characters? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:36:44.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie is a historical drama. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:36:45.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Tom Hanks and Meryl Streep in it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:36:56.354Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is set in the 1970s and follows the attempts of journalists to publish the Pentagon papers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:37:26.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. They are both excellent actors. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:37:36.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it based on a true story? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:38:07.588Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is based on a true story! Spielberg does a great job making the story flow and easy to follow.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:38:27.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It even gets a 7.9/10 rating on Rotten Tomatoes which says a lot!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:38:43.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is it?  Long movies tend to get boring. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:39:31.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a bit on the long side because it covers so much information, but it is really fantastic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:40:32.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what year it was made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:40:41.554Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was just released in 2017. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:40:52.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It won several awards this awards season.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:41:16.709Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh so it's fairly new. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:41:26.574Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't believe I've never heard of it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:41:47.930Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How many times have you seen it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:42:02.794Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it is. I love historical movies so I find this one very interesting since it covers information about the Vietnam War.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:42:16.174Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have watched it twice now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:42:21.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What role does Streep play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:43:04.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She plays Katharine Graham. She is the first female publisher of a major American newspaper.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:44:31.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you recommended it to any family or friends yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:44:47.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, the second time I watched it I made my sister watch it with me. I also just finished telling my coworker how she should watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:45:57.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She enjoys political dramas so it is right up her alley.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:46:17.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for taking the time to inform me about The Post. I think I have all the information I need to make a decision about watching it now. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:46:58.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You are very welcome! I hope you enjoy this movie as much as I did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:47:52.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure I will. Thank you again. Have a great day. Goodbye. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T18:48:39.250Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you! Have a great evening.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:54:56.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bye.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T18:55:01.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks again!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:01:41.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't forget this movie is called The Post!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:16:56.831Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-21T18:27:37.760Z", 
+  "uid1LogOutTime": "2018-03-21T19:26:12.168Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T18:27:37.922Z", 
+  "user1_id": "USR3138", 
+  "user2_id": "USR1122", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "date": "2018-03-28T16:28:57.499Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello ! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:29:18.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I would like to chat with you about the movie Home Alone. Does that work for you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:31:17.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes . Seen it many times  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:31:28.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "one of my favorites ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:31:43.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your opinion of the first half of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:31:59.331Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": ". Parental disobedience, undisciplined kid, watching violent movies, foul language, siblings bullying each other. Nested on all these are the laughs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:33:32.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so otherwise a goodmovie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:33:41.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about the booby traps Culkin constructed. Were not very fancy were they.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:34:28.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:34:49.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorta cheesy . like did it really happen ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:35:01.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like my own kids would never contruct anything like that . ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:35:38.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The writer had fun bashing the adults as incompetent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:35:40.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:36:29.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "overall i think it is a classic movie and just very creative", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:36:58.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "fun to watch ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:37:07.280Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol.I agree with your assessment.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:37:21.400Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the movie would get flack these days from t", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:38:15.282Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T16:28:57.499Z", 
+  "uid1LogOutTime": "2018-03-28T16:38:18.426Z", 
+  "uid1response": {
+    "feedback": "Ive seen it many times ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T16:28:57.522Z", 
+  "uid2LogOutTime": "2018-03-28T16:38:08.468Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3749", 
+  "user2_id": "USR3751", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

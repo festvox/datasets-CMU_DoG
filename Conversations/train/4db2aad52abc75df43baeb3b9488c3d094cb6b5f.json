@@ -1,0 +1,228 @@
+{
+  "date": "2018-03-23T02:25:24.318Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:25:49.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:26:43.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:26:46.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:26:55.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you curious about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:28:06.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:28:17.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:28:38.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:28:48.115Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's a superhero movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:28:59.112Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool, I like those", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:29:09.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:29:20.654Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "angelina jolie plays the main character ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:29:24.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's loosely based on the sleeping beauty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:29:36.456Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:29:51.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:29:58.676Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:30:08.685Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "does it have a good plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:30:37.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes it's very interesting, i like how the they take a twist on sleeping beauty by showing you the antagonist fairy's side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:31:31.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds like a really cool angle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:31:53.215Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like a good anti-hero", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:32:02.151Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also it's heartbreaking because her childhood love ends up becoming the king/father of the sleeping beauty princess. and the king tries to kill her and he cuts off her fairy wings. that's when the fairy becomes dark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:32:45.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow! It sounds like a dark take on a fairy tale", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:33:46.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "however, she ends up growing fond over princess aurora, who starts to call her \"fairy godmother\".  it shows you angelina jolie's dark character is not so dark after all", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:33:50.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like something I would love", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:33:58.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes it's super cool!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:34:00.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you should watch it when you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:34:07.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like a anti-hero's back story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:34:31.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "why exactly they turned into the person they did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:34:48.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it got an A grading on\n CinemScore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:34:48.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:35:00.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then you'll love this movie :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:35:01.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK take care!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:35:10.901Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T02:25:24.318Z", 
+  "uid1LogOutTime": "2018-03-23T02:35:13.183Z", 
+  "uid1response": {
+    "feedback": "Maleficent sounds like exactly the kind of movie I would love!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T02:25:24.501Z", 
+  "uid2LogOutTime": "2018-03-23T02:35:17.679Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4277", 
+  "user2_id": "USR580", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

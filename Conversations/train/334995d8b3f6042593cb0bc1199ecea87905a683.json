@@ -1,0 +1,115 @@
+{
+  "date": "2018-03-19T23:31:03.629Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, My name is Henry. How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:32:05.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My name is Tony. If you haven't seen The Great Gatsby (2013) film staring Leonardo DiCaprio, then I would probably pass if given the chance to do so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:33:15.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:33:36.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've actually seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:33:52.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It doesn't align itself well with the book and the stand out acting performance isn't even that of the protagonist. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:34:41.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've actually never read the book. What was it that ruined the movie for you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:35:29.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was an unconventional portrayal and more gaudy than anything else.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:38:58.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "With the enormous budget they had, they really utilized it in the wrong ways to tell the story well. \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:42:40.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What could they have done better?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:43:38.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Acknowledged the book and delivered an accurate portrayal of the book. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:47:12.234Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How was Leo's character different from his character in the book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:49:07.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In the book, Jay Gatsby is the stand-out character. In the movie, his intricacies are not portrayed as well as the other characters. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:52:13.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The importance of the story rests within the character arc of Jay Gatsby. There was nothing to heighten with his character in the film, which made things very underwhelming. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:54:59.049Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:59:53.280Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T23:31:03.629Z", 
+  "uid1LogOutTime": "2018-03-20T00:04:59.958Z", 
+  "uid1response": {
+    "feedback": "The other user was extremely negative about the movie. This turned me off to continue the conversation more than anything else.", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T23:31:03.647Z", 
+  "uid2LogOutTime": "2018-03-20T00:04:44.615Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1307", 
+  "user2_id": "USR3513", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

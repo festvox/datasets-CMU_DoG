@@ -1,0 +1,79 @@
+{
+  "date": "2018-02-08T22:08:57.868Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:09:41.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:10:08.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see Marvels The Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:29.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:10:52.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite superhero between Captain America and Iron man?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:11:33.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really loved the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:11:37.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mw too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:11:42.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow now that one is a very tough one umm I would have to say captain America.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:12:47.798Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:08:57.868Z", 
+  "uid1LogOutTime": "2018-02-08T22:13:09.991Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:08:57.941Z", 
+  "uid2LogOutTime": "2018-02-08T22:12:49.738Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2783", 
+  "user2_id": "USR4288", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

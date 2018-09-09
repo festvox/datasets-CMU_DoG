@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-02T21:55:03.230Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen La La Land?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:55:26.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "La La Land is a 2016 American musical romantic comedy-drama film written and directed by\nDamien Chazelle. It stars Ryan Gosling as a jazz pianist and Emma Stone as an aspiring actress,\nwho meet and fall in love in Los Angeles while pursuing their dreams. The film's title refers\nsimultaneously to music, the city of Los Angeles, and to the idiom for being out of touch with\nreality.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:56:09.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don't copy and paste, it's says in the instructions.  Emma Stone, who played Mia Dolan, do you think she is hot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:56:59.878Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-02T21:55:03.230Z", 
+  "uid1LogOutTime": "2018-02-02T21:57:29.798Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T21:55:03.511Z", 
+  "uid2LogOutTime": "2018-02-02T21:56:29.093Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR336", 
+  "user2_id": "USR1369", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

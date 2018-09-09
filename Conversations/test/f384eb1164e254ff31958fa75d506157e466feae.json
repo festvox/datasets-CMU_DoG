@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-16T17:56:35.863Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Ho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:56:39.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:56:41.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:56:47.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:56:56.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not much, have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:57:12.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:57:26.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Begins, it should be on the left side of your screen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:57:52.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't seen batman begins.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:58:18.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Neither have I.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:58:27.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "should I see it? What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:58:36.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a superhero film based on the DC Comics character batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:59:32.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:59:58.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:00:03.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:00:17.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christian Bale plays batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:00:32.957Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome they are both really talented I loved when the worked together on The Prestige", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:00:58.343Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The beginning is sad as a young boy his parents are murdered.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:01:05.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen that either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:01:18.579Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so its a tragedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:01:22.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I suppose when he grows up he's looking to get revenge on the guy who killed his parents.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:02:25.891Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds like a reasonable thing to do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:03:03.834Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "honestly I think I would want revenge too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:03:10.826Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "From the info on the left it seems like a pretty interesting movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:03:33.128Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you know I can't see that right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:04:05.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, just saying", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:04:23.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so I don't know what you are talking about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:04:31.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else can you tell me about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:05:19.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Im not sure if I want to watch a revenge film right now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:05:41.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie is a telling of the origin story of Bruce Wayne from the death of his parents to his journey to become Batman and his fight to stop the Scarecrow from plunging Gotham City into chaos.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:06:14.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so he grows out of his need for revenge to become a savior?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:06:53.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:07:00.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like fun.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:07:27.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:07:38.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:07:53.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont have time for a Lawrence of Arabia lengthed film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:08:20.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know it doesn't say.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:08:36.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:09:06.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well thanks for the help", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:09:15.507Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T17:56:35.863Z", 
+  "uid1LogOutTime": "2018-03-16T18:09:17.116Z", 
+  "uid1response": {
+    "feedback": "I love Christopher Nolan so I will watch any of his films even a \"superhero\" movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:56:35.941Z", 
+  "uid2LogOutTime": "2018-03-16T18:09:23.130Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4783", 
+  "user2_id": "USR2361", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2018-03-22T21:56:19.638Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen The Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:57:14.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What year was the movie made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:57:39.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was released in 2013. It is a comedy based on the life of Jordan Belfort a stockbroker in New York City.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:58:25.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:58:41.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the actor playing Jordan Belfort?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:59:24.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an alright movie, it gives an interesting look into the lives of business men in the 1980's.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:59:30.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio plays Jordan Belfort", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:59:46.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long is the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:00:29.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is not his best work, but he really plays the character well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:37.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember the movie being about 2 hours long, but I could be mistaken.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:58.827Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the film \nis a remake.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:01:24.635Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T21:56:19.638Z", 
+  "uid1LogOutTime": "2018-03-22T22:01:54.987Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T21:56:19.788Z", 
+  "uid2LogOutTime": "2018-03-22T22:02:22.730Z", 
+  "uid2response": {
+    "feedback": "Short talk", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3818", 
+  "user2_id": "USR3486", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

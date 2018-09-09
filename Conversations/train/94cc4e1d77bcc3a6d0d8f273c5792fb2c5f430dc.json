@@ -1,0 +1,157 @@
+{
+  "date": "2018-03-05T17:23:48.577Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "i think that the casting in this is fantastic. steve carell was on top in comedy at the time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:24:32.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this movei came out in 2010, but it feels like yesterday", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:25:23.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this movie is where minions come from", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:14.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats true. it has serious spawned alot of media and spinoffs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:27:24.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i always liked Gru himself and the girls a lot more", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:59.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me too. the relationship that grows in the film is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:28:24.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was one of a few good 3d movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:28:32.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The antagonist was funny too, i used to have a friend who was obsessed with him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:31:50.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah it was great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:18.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i just really love the minions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:25.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:27.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so you like the sequels? i haven't seen any of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:40.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "would you shrink the moon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:45:28.387Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "or steal a monument?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:46:50.161Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "shrink the moon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:55:59.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i saw the minions on netflix", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:56:08.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "was great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:56:10.432Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i saw it in theaters, with my elderly mom", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:00:33.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats nice. i enjoy the occasional kids movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:01:07.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "inside out wasanother one that i liked", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:01:35.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i recommend Coco", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:01:43.791Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:23:48.577Z", 
+  "uid1LogOutTime": "2018-03-05T18:02:12.372Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:23:48.598Z", 
+  "uid2LogOutTime": "2018-03-05T18:02:03.408Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1605", 
+  "user2_id": "USR4515", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2018-02-13T19:29:27.855Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "this was a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:29:53.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:02.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the action sequences.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:12.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea the action was the best part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:31:23.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also keanu reeves is bad ass", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:31:32.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is. I love any movie he does.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:44.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "although i think the premise of the movie is a little bit dry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:32:56.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It was.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:33:21.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see the sequel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:34:04.878Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no i havent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:34:48.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i thought about it but it didnt look good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:34:58.395Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It wasn't as good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:35:04.078Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i figured", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:35:32.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do u think about the key scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:35:38.560Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:29:27.855Z", 
+  "uid1LogOutTime": "2018-02-13T19:39:27.947Z", 
+  "uid1response": {
+    "feedback": "user left midway", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:29:27.906Z", 
+  "uid2LogOutTime": "2018-02-13T19:37:45.204Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2463", 
+  "user2_id": "USR1069", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

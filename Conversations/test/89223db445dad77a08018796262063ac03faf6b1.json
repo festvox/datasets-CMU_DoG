@@ -1,0 +1,253 @@
+{
+  "date": "2018-02-15T21:40:27.337Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:40:51.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:41:35.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Let's talk movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:41:46.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely! What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:41:53.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of How to Train Your Dragon?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:41:59.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it! I have not seen it though. I have read snippets of the book, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:42:14.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is loosely based on the book.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:42:37.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting! Is it considered a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:43:12.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the Rotten Tomatoes score was 98%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:43:33.559Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow!! That is great! Often Rotten Tomatoes can give such poor scores. It sounds like a good movie! Is it animated or live-action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:44:00.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "3D computer animated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:44:25.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice, and I'm sure with the technology these days it is really high quality. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:45:02.607Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is exhilirating. I did see it in theater.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:45:35.668Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a mix of adventure, comedy, and coming-of age", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:46:17.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool. Is it a movie directed at children?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:46:24.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, the main character is a young man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:47:09.351Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where is it supposed to be set?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:47:39.234Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Berk, a remote Viking Village", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:48:11.358Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Neat. What time period?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:48:27.130Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's not specific but during the time of vikings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:49:23.648Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That makes sense, of course. Is it just one dragon that is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:49:41.276Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No there are several dragons.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:50:32.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. Is there a love story piece to it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:50:50.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:51:40.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a sequel to this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:52:25.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:52:53.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What year was this movie made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:53:07.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:53:13.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there female characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:53:53.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:54:17.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are the dragons the characters' pets?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:54:49.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they train the dragons", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:55:28.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you recommend this movie to a friend?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:55:47.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would. I enjoyed it quite a bit and my kids did also.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:56:10.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds great. Perhaps I will watch it in the near future! Thanks for chatting with me!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:56:31.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:56:37.485Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T21:40:27.337Z", 
+  "uid1LogOutTime": "2018-02-15T21:56:42.388Z", 
+  "uid1response": {
+    "feedback": "The user made the movie sound really great!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T21:40:27.391Z", 
+  "uid2LogOutTime": "2018-02-15T21:57:03.980Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4333", 
+  "user2_id": "USR1058", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

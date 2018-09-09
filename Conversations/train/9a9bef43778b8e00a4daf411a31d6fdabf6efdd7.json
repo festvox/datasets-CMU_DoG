@@ -1,0 +1,167 @@
+{
+  "date": "2018-04-02T19:50:09.570Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:50:31.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:51:00.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen any good movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:51:15.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I've recently seen the wolf of wall street, it was made awhile ago but pretty good. Have you ever heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:51:36.771Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard the title but not seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:51:59.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Leonardo DiCaprio, are you a fan of any of his other work?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:52:27.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some but not all of it. I liked Titanic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:52:50.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else is in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:53:26.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Titanic was very good, he takes on a slightly different role in this movie. Much more comedy, but hes not alone. The movie boasts an action packed cast with Jonah Hill, Margot Robbie, and Rob Reiner", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:53:54.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, I like Jonah Hill.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:54:28.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the plot ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:55:05.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not familiar with Margot Robbie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:56:17.076Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you like Jonah Hill you're going to love him with Leonardo in this movie. The two work great together. The movie focuses around Jordan Bellfort played by DiCaprio and his career as a stockbroker on wall street. He starts his own firm and gets intertwined with corruption and fraud.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:56:17.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that sounds pretty interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:56:45.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "would this make a good date movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:57:24.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Margot Robbie is famous for other movies like Suicide Squad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:57:25.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen that one either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:57:42.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "does this have a predictable end?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:58:18.518Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not at all, its a thrill from the start to the finish with lots of twists and turns and conflicts with characters.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T19:58:42.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so it has a lot of surprises?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:59:06.113Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it more of a guy movie or is it more for girls?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T19:59:42.348Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutely, I think its good for either or. its a comedy movie so if you like comedies it will be perfect", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T20:01:29.386Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well I may have to check it out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T20:01:52.158Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T19:50:09.570Z", 
+  "uid1LogOutTime": "2018-04-02T20:01:58.256Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-04-02T19:50:09.592Z", 
+  "uid2LogOutTime": "2018-04-02T20:02:02.706Z", 
+  "uid2response": {
+    "feedback": "other user left the chat and was slow responding", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2100", 
+  "user2_id": "USR4148", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

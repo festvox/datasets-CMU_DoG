@@ -1,0 +1,209 @@
+{
+  "date": "2018-02-08T21:30:18.020Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, I'm ready to chat whenever you are.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:32:28.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:32:32.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:32:54.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:32:59.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has good reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:12.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it come out recently?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:33:20.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes in the last few years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:42.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there any big names starring in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:33:58.206Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "None that I can recognize", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:34:40.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are there any sequels planned?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:34:58.783Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No indication of that at this time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:35:19.696Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the director's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:35:34.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Patty Jenkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:35:42.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the movie win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:35:52.040Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is not indicated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:36:18.850Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What's the basic plotline?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:36:28.610Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a war movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:37:46.220Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where is the war located?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:38:01.977Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In Paris.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:38:22.372Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does the story include any sex?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:38:48.853Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is no indication of this but it seems that it may not be the best movie for children.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:39:43.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you heard of this movie before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:40:04.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have not heard of this before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:40:14.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the antagonist in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:40:49.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ares, Zues' son.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:15.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does this movie talk a lot about Greek mythology?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:34.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it seems so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:46.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How does that pertain to Paris?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:40.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:33.811Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:30:18.020Z", 
+  "uid1LogOutTime": "2018-02-08T21:43:41.979Z", 
+  "uid1response": {
+    "feedback": "The movie seems weird and doesn't make sense. Also, it had no awards given to it.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:30:18.127Z", 
+  "uid2LogOutTime": "2018-02-08T21:44:43.356Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4163", 
+  "user2_id": "USR2125", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

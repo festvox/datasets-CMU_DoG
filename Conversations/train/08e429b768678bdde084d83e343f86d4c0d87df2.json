@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-30T05:04:24.171Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T05:05:07.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T05:05:13.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Shape of Water? It is an amazing movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T05:05:41.198Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T05:04:24.171Z", 
+  "uid1LogOutTime": "2018-03-30T05:05:58.114Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T05:04:25.388Z", 
+  "uid2LogOutTime": "2018-03-30T05:06:16.161Z", 
+  "uid2response": {
+    "feedback": "the person left the chat.... i was not sure what else to do..", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3568", 
+  "user2_id": "USR2670", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

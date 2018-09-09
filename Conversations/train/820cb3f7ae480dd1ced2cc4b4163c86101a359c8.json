@@ -1,0 +1,141 @@
+{
+  "date": "2018-03-06T15:30:34.256Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:39.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:45.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:53.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:56.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:05.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:11.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is that the one with ryan gosling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:22.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:27.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and rachel... whats her name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:47.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mcadams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:54.519Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:59.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:05.095Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:09.167Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:13.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sappy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:21.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "love story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:31.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "good story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:58.708Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:04.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"Audiences craving big, gooey over-the-top romance have their must-see summer movie in\nThe Notebook.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:40.004Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:48.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lolz", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:55.092Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:30:34.256Z", 
+  "uid2LogInTime": "2018-03-06T15:30:34.259Z", 
+  "user1_id": "USR4469", 
+  "user2_id": "USR2832", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

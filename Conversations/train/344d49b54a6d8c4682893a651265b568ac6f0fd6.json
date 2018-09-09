@@ -1,0 +1,307 @@
+{
+  "date": "2018-03-21T15:56:57.764Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:57:31.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:57:35.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:59:00.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is The Wolf of Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:59:16.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:59:21.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:59:42.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:59:45.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its lead actor is Leonardo Dicaprio as Jordan Belfort ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:00:07.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, who else plays in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:01:31.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its an all start cast and director. Margot Robbie is in it, Jonah Hill and Martin Scorsese directed it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:01:49.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I like Jonah Hill", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:02:25.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What ratings did it get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:04:22.086Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is based off a guy name Jordan Belfort. It depicts Belforts career as a broker and his firm which conducted lots of pump and dump schemes on wall street. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:04:45.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:06:37.772Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie was graded as average by many critics but I thought it was much better than it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:06:40.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was its rotten tomato score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:06:53.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie was thrilling as it was comedic. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:07:03.315Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Critics rated as average. Rotten tomatoes gavie it a grade of 7.8/10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:07:46.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Meltacriti 75/100 and Cinema Score gave it a C.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:08:13.192Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:08:30.563Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it is lots of drugs, sex, alcohol. Pretty much a rock n roll life style as a fraudulent stock broker. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:09:17.152Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a lot of cursing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:10:29.434Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It doesn't sound like a family movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:10:35.907Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely not a movie for kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:10:54.884Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "one of my favorite scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:11:09.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is when Jordan Belfort and Jonah Hill took too many quaaludes and he had to get in his Ferrari and drive it back to his home. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:12:30.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was a very funny scene.. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:12:40.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh goodness", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:13:13.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the genre exactly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:13:28.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if im not mistaken its comedy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:13:51.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So is Leonardo a good guy or a bad guy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:14:50.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in general hes a bad guy for screwing many people out of their money but....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:15:37.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in some ways he was good because he made his circle of friends and colleagues very wealthy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:16:25.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gotcha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:16:51.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like an interesting premise", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:17:22.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it a true story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:17:25.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:18:31.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "usually movies are exaggerated but I wouldn't be surprised if this movie wasn't exaggerated. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:18:56.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow thats pretty cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:19:43.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what the real like guy is like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:19:52.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leo is a great actor so I'm sure he portrayed him well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:20:01.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people say it was based on another guy Danna Giacchetto", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:20:02.052Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who was Leonardos real life financial adviser ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:20:27.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok i think we can finish the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:20:49.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:20:54.735Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T15:56:57.764Z", 
+  "uid1LogOutTime": "2018-03-21T16:21:32.690Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:56:57.892Z", 
+  "uid2LogOutTime": "2018-03-21T16:22:16.700Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4553", 
+  "user2_id": "USR2249", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

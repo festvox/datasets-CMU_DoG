@@ -1,0 +1,260 @@
+{
+  "date": "2017-12-01T20:53:13.249Z", 
+  "docLinkIdx": 5, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! We are supposed to discuss the movie Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:54:21.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi,", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:54:34.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:54:41.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:54:47.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me what it is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:54:59.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems to be a movie about a thief who steals secrets from peoples dreams.  Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:55:30.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm also curious to see if you think there will be a lot of action in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:55:39.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I think it is a more psychological movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:02.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds familiar, but it's been a long time since it came out", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:56:06.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, almost 10 years.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:20.200Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it complicated and difficult to follow? Or can I sit back and just let it unfold?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:56:44.078Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems like it would be a movie that you really will need to pay attention to.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:08.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who stars in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:57:09.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo dicaprio is the lead actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:30.456Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, it's ringing a bell now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:57:41.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are the movie sets real elaborate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:57:57.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would think so seeing as the movie seems to take place in peoples dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:58:16.601Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a female lead in the movie also?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:58:23.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think a lead but there is a female cast in the movie though i do not know who ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:58:55.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it the kind of movie where people are chasing the lead character and trying to discover what he's doing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:59:03.493Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure.  I think it could be.  I am not very familiar with the plot.  Just what is being shown to me here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:59:40.004Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think he uses the secrets he steals to blackmail people?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:59:45.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that was the intention of the technology.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:00:15.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That would be really creepy having someone rooting around in my dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:01:06.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know.  I  don't remember mine most of the time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:01:29.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the lead character work for an organization with this technology or is he doing it on his own?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:02:51.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The premise of the movie seems very neat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:02:54.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He seems to be working with an institution. Or at least the people that developed this technology", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:03:27.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would imagine they target wealthy people and those that possess particular types of knowledge.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:04:07.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would think so.  Although what I read did not go into who this was meant to target.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:04:39.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My short memory can't remember how long we're supposed to chat. lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:05:43.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me either.  I was just wondering that.  I think it said like 10 minutes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:06:08.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then we're there. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:06:20.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wouldn't a button show up when we are done? My directions were specific about not clicking the Abort Conversation button.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:06:49.065Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting and have a great day. I think I may have to watch this movie again sometime.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:06:50.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a good day too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:07:05.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mine has a button to finish conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:07:08.601Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-01T20:53:13.249Z", 
+  "uid1LogOutTime": "2017-12-01T21:07:21.644Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T20:53:13.296Z", 
+  "uid2LogOutTime": "2017-12-01T21:07:24.198Z", 
+  "uid2response": {
+    "feedback": "My chat partner said the movie is a type of psychological thriller and that appeals to me. Based on the information they gave me, I will definitely watch it again soon as it's been so long, I really can't remember much about it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR269", 
+  "user2_id": "USR2133", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

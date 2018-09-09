@@ -1,0 +1,166 @@
+{
+  "date": "2018-02-16T19:13:48.533Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:14:04.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:14:32.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good. Did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:14:38.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I love musicals, and you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:14:51.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think they are tolerable, but this one was pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:15:03.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like that it was located in LA and made it pretty relatable.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:16:03.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you live in L.A.?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:16:12.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Vegas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:16:18.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh very cool. I'm in the South", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:16:25.486Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you a Gosling's fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:17:16.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Emma Stone fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:17:29.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really like them both. Which is your favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:17:40.001Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Both are good actors, Goslings more attractive. HA!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:18:09.191Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the film\u2019s perspective on success and satisfaction? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:19:02.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I lost you somewhere in the conversation. Since it has been 5 minutes without a response from you, I am going to abandon the discussion. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:24:28.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have a great day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:24:31.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thanks for the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:24:43.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:37.647Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:39.358Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:40.471Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:41.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:43.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:46.062Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T19:13:48.533Z", 
+  "uid1LogOutTime": "2018-02-16T19:28:49.343Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T19:13:48.546Z", 
+  "uid2LogOutTime": "2018-02-16T19:26:04.584Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2232", 
+  "user2_id": "USR1832", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

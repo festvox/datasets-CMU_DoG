@@ -1,0 +1,81 @@
+{
+  "date": "2018-02-05T23:52:10.399Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:52:24.281Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:52:53.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "r u enjoy this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:53:02.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a really good movie.  It got a 97% rating on Rotten Tomatoes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:53:28.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya it too good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:53:38.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i give 95% rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:53:57.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Roy Scheider in it.  And was directed by Steven Spielberg.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:54:43.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya they good director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:55:20.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And if you like scary thriller movies, this one is the one to watch!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:55:54.712Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T23:52:10.399Z", 
+  "uid1LogOutTime": "2018-02-06T00:02:58.081Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T23:52:12.576Z", 
+  "uid2LogOutTime": "2018-02-05T23:55:29.085Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR866", 
+  "user2_id": "USR96", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

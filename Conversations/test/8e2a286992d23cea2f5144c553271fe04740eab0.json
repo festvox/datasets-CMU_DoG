@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-13T17:59:45.075Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:51.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:42.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:00:50.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:57.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:05.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember hearing about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:16.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:01:34.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So its pretty good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:53.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a score of 92% on Rotten Tomatoes, with an average score of 7.6.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:20.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder whats so good about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:02:43.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like Superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:03:20.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do for the most part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:03:29.794Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:04:19.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Love them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:04:31.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is your favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:05:10.134Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'd say the new Thor movie by far, very funny movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:05:41.157Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nYours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:05:45.368Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was a good one. I like the batman movies from Nolan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:05:59.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Those were awesome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:06:55.753Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and some of the new marvel movies are okay too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:06:56.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "like the winter soldier", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:07:10.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Excellent movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:07:30.092Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you generally watch movies with good ratings? How important is the rating to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:07:50.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess Ill have to check out wonder woman here soon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:07:55.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do sometimes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:07:59.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they can be subjective but its hard to go against over 90 percent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:08:08.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel the same way, when the rating are in the 60- 80 range on RT it's kind of a toss up huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:08:56.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it can be", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:09:17.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its usually just best to go see a movie regardless, reviews are so subjective", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:09:43.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I like to form my own opinion. It' hard to let yourself enjoy a movie sometimes when you see it had bad reviews, almost like it poisoned your mind against it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:10:52.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*it's", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:11:09.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, that happens all of the time now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:11:11.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:11:12.963Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T17:59:45.075Z", 
+  "uid1LogOutTime": "2018-02-13T18:12:03.169Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T17:59:45.102Z", 
+  "uid2LogOutTime": "2018-02-13T18:12:09.763Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR76", 
+  "user2_id": "USR1169", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

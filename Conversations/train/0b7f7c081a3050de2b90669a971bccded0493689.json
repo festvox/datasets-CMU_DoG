@@ -1,0 +1,295 @@
+{
+  "date": "2018-03-01T21:07:23.723Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:07:37.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:07:37.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:07:43.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "let's talk about Batman Begins. Are you familiar?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:07:54.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2005 SuperHero movie directed by Christopher\n\nNolan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:08:19.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I've heard of it. I just havent seen it yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:08:21.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:08:37.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes: 84% and average: 7.7/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:08:38.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Metacritic Score: 70/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:08:44.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "CinemaScore: A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:08:50.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the most 'realistic' take on batman yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:09:02.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm actually interested in seeing it. Doesn't it have Christain Bale as Batman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:09:05.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:09:12.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Christian Bale, Michael Caine,\nLiam Neeson, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Ken\nWatanabe, and Morgan Freeman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:09:27.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:09:34.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, even Morgan Freeman!? That is a good cast. Who does Freeman play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:09:57.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays Lucious Fox. He's like Batman's Q (from 007)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:10:47.637Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the tech guy who helps him out. So it's less of a one-man operation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:11:05.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I remember the Character from the comics. That's awesome that they put him in the film. Does he play a big role? or is he just seen a little bit?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:11:39.302Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A fairly significant role. More-so in the sequels.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:12:11.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also stars Liam Neeson as Henri Ducard, a devious villian and member of the League of Shadows", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:12:39.972Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is really cool, normally they give those kinds of characters small roles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:12:43.909Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The league of shadows is in the film!? Wait so that means Neeson is Ras Algul?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:13:21.486Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Special guest appearance by Ken Watanabe as Ras Al Ghul", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:13:47.792Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do they mention his immortality in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:14:07.434Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's hinted at, but it's implied it's a mantle that's passed down for a more realistic take", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:14:53.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "As a child, Bruce Wayne falls down into a dry well and is attacked by a swarm of bats,\nsubsequently developing a phobia of the creatures. While watching an opera with his\nparents, Thomas and Martha, Bruce becomes frightened by performers masquerading as\nbats and asks to leave. Outside, mugger Joe Chill murders Bruce's parents in front of him.\nOrphaned, Bruce is raised by the family butler, Alfred Pennyworth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:15:14.746Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah so they stick to the comic closely, thats a good thing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:16:02.424Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Michael Caine must be Alfred. I can't see him playing anyone else.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:16:40.931Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, origin-wise, it's pretty close. Bruce's traveling around the world and training is a part of it. Which has never been shown on screen before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:17:03.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes he's an amazing Alfred", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:17:14.878Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Fourteen years later, Chill is freed in exchange for testifying against Gotham City mafia\nboss Carmine Falcone. Bruce intends to murder Chill, but one of Falcone's assassins does\nso first. Bruce's childhood friend, assistant district attorney Rachel Dawes, berates him for\nattempting to undermine the justice system, saying that his father would be ashamed. Bruce\nconfronts Falcone, who tells him that real power comes from being feared. Bruce decides to\ntravel the world and learn how to confront injustice. While serving a prison sentence for theft\nin Bhutan, he meets Henri Ducard, who trains him as a member of the League of Shadows,\nled by Ra's al Ghul. After completing his training and purging his fears, Bruce learns that the\nLeague intends to destroy Gotham, believing it to be corrupt, decadent, hypocritical and\nbeyond saving. Bruce rejects the League's cause and burns down their temple during his\nescape. Ra's is killed by falling debris, while Bruce saves the unconscious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:17:41.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can only imagine the sarcastic jokes he makes in the film. Caine is perfect for that character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:17:47.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He has some gread monolouges", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:18:05.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Batman intercepts a drug shipment, provides Rachel with evidence against Falcone, and\nenlists Sergeant James Gordon, one of the few honest cops left in Gotham, to arrest him. In\nprison, Falcone meets with Dr. Jonathan Crane, a corrupt psychiatrist whom he has helped\nsmuggle drugs into Gotham, and threatens to reveal his complicity if he does not declare\n\nhim mentally unfit for trial. Crane puts on a scarecrow mask and sprays Falcone with a fear-\ninducing hallucinogen that drives him insane (which causes Falcone to constantly mouth the\n\nword \"Scarecrow\"), and has him transferred to Arkham Asylum. While investigating \"the\nScarecrow\", Batman is exposed to the hallucinogen and left incapacitated. He is saved by\nAlfred and given an antidote developed by Fox. When Rachel accuses Crane of corruption,\nCrane reveals that he has been pouring his fear-inducing drug into Gotham's water supply.\nHe drugs Rachel with it, but Batman saves her and subdues Crane, who claims to work for\nRa's al Ghul. Batman evades the police to get Rachel to safety, administers the antidote,\nand gives her a vial of it for Gordon and another for mass production. Ducard reappears at\nBruce's birthday party and reveals himself to be the true Ra's al Ghul. Having stolen a\npowerful microwave emitter from Wayne Enterprises, he plans to vaporize Gotham's water\nsupply, rendering Crane's drug airborne and causing mass hysteria that will destroy the city.\nHe sets Wayne Manor aflame and leaves Bruce to die, but Alfred rescues him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:18:18.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting Scarecrow is even in the film. That seems like a lot of plot if they have multiple villans in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:19:30.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How was the story in your opinion?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:19:38.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It does not crowd the film in my opinion. Unlike how it turned out with Batman and Robin.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:20:05.821Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You can have multiple villians as long as you use them correctly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:20:39.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought it was a great story. OVerall very solid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:20:58.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree,  does the League ever bump heads with Crane in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:21:04.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or do they work together?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:21:08.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, and it fits naturally.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:21:27.579Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T21:07:23.724Z", 
+  "uid1LogOutTime": "2018-03-01T21:21:31.358Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:07:23.734Z", 
+  "uid2LogOutTime": "2018-03-01T21:21:59.195Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR144", 
+  "user2_id": "USR3319", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

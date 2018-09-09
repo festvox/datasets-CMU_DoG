@@ -1,0 +1,241 @@
+{
+  "date": "2018-03-20T17:53:01.113Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hii...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:53:14.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:53:17.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie do you want to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:53:46.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:54:34.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The one that appears in the document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:54:36.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you know about Real Steel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:54:58.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not much, I have not seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:55:32.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looks like it was produced in 2011. I see that Hugh Jackman appears in it as a character named Charlie Kenton. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:56:24.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It received a 5.9/10 on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:56:40.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:57:36.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:57:42.471Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "according to the critics it was not so good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:57:59.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "although H\nugh is one of my favorite actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:58:38.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should watch it. It's an American science fiction sports film. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:58:57.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who is the director??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:59:24.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Shawn Levy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:59:31.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's based on the short story Steel which was published in 1956", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:00:11.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Shawn Levy often makes good movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:00:36.944Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's a book?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:00:39.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep it's a book", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:00:46.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It looks like the movie is about human boxers who are replaced by robots. Seems rather intriguing to me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:01:20.902Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I know what it is but I'm not sure if I read it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:01:43.948Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hey you hear interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:02:02.165Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Another actor in it is Dakota Goyo who plays Max Kenton", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:02:46.061Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It looks like there is a fight between a father and his son in the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:03:33.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "although it has not very good rating the movie has good cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:03:40.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I believe so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:03:46.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It looks like there's a lot of fighting between humans and robots in this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:04:20.078Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And what else has this story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:04:48.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but not much spoiler hehehehe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:04:49.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol....a key scene is a fight between Zeus and Atom", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:05:16.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's a superior machine that remains undefeated but almost lost to a human named Atom. Atom is hailed as the \"People's Champion\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:06:30.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright I think we're good now and can finish the conversation. It was nice talking with you. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:06:54.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "also my friend, thank you very much for this review...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:07:36.517Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T17:53:01.113Z", 
+  "uid1LogOutTime": "2018-03-20T18:07:18.119Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:53:01.596Z", 
+  "uid2LogOutTime": "2018-03-20T18:07:41.564Z", 
+  "uid2response": {
+    "feedback": "good talk, always active and fluid, thanks", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2201", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

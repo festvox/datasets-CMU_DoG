@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-06T19:55:22.475Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:55:52.281Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:56:03.963Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "camwe talk about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:56:34.208Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:55:22.475Z", 
+  "uid1LogOutTime": "2018-02-06T19:56:14.856Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:55:22.696Z", 
+  "uid2LogOutTime": "2018-02-06T19:57:02.570Z", 
+  "uid2response": {
+    "feedback": "Good", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2575", 
+  "user2_id": "USR1741", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2018-01-30T21:21:43.840Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:22:14.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:22:21.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know what a great movie to watch is? The original Jaws, it's a thriller from 1975, directed by Spielberg!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:23:13.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard great things about that film! Is it scary...you know, with gore?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:24:00.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well gore is to be expected when you're watching a movie about a giant man eating shark attacking swimmers!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:24:33.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're probably right! Did it win any awards in the 70's?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:24:53.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It might've. But you know what's pretty impressive? The scores it received. Rotten Tomatoes gave it a 97%, and that's not common at all! You know if Rotten Tomatoes gives it a top notch rating, it's worth a watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:26:56.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A 97% is unheard of! I usually trust Rotten Tomatoes ratings, too. Who stars in the film? Anyone I would recognize?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:27:43.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Roy Scheider plays Chief Brody, Robert Shaw plays Quint, Richard Dreyfuss as Hooper, and Lorraine Gary as Ellen Brody. Pretty good actors for their time!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:28:51.401Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great actors! Is it a long film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:29:39.394Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe you can check online but I'm not really sure. You know what's interesting though? The movie is based on a novel from 1974 by Peter Benchley! Sounds like a great movie based on an intriguing read!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:32:12.490Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good to know. Might be a good read. Does it have any sequels if I really like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:32:43.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure but it should be easy to find out online! Do you want to hear more about the movie? Perhaps a key scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:34:03.033Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "absolutely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:34:28.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, a major introductory scene takes place at dusk on Amity Island. A woman by the name of Chrissie Watkins decides to go skinny dipping, where she is pulled underwater. The next day her partial remains are found on shore, and the examiner ruled her death was caused by a shark attack. There is also some political/economic context where Police chief Brody tries to close down the beaches for safety, but Mayor Vaughn overrules him fearing it will ruin the towns economy. Do you want to know more?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:37:35.926Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T21:21:43.840Z", 
+  "uid2LogInTime": "2018-01-30T21:21:43.879Z", 
+  "uid2LogOutTime": "2018-01-30T21:46:02.874Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1296", 
+  "user2_id": "USR2008", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

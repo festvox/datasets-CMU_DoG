@@ -1,0 +1,337 @@
+{
+  "date": "2018-03-30T17:02:21.156Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:02:51.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:03:00.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen and of Guillermi del Toro's movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:03:31.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen Pacific Rim and Pan's Labrynth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:04:08.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His films have a fairy tale quality. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:04:17.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I would agree with that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:04:43.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His newest film The Shape of Water is no exceptiom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:04:44.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*exception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:04:50.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I have not seen that yet.  It looks good in the previews. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:05:03.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:05:05.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty much it's a love story between two outcasts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:05:26.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "one is a woman who cannot talk and the other is the mysterious sea creature", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:05:48.074Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "or merman ...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:05:56.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is interesting.  Who plays the lead female role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:14.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sally Hawkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:06:23.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure I know who that is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:37.322Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who plays the male lead?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:40.638Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is amazing in it. I've mostly seen her in indie roles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:06:41.471Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the sea creature?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:06:50.033Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:55.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or is it CGI?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:07:01.605Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cgi i beleive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:07:40.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The set design is amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:08:01.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "though it does look a bit like that video game BioShock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:08:14.244Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sort of post wwII steampunk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:08:27.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds cool,  I am familiar with what Bioshock looks like.  That makes me more interested in seeing it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:08:53.210Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The set alone and the imagery alone are worth watching it for", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:08:56.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What kind of ratings did it receive\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:09:18.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well it won best picture", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:09:26.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at the oscars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:09:30.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "92% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:09:48.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I was not aware of that.  Now I will definitely\n have to check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:09:54.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is a great score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:10:03.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's an interesting film. It isn't the most goundbreaking story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:10:48.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "as far as plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:10:51.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but the acting and the world del Toro creates are fanatstic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:11:12.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Everything I have seen him direct has turned out to be pretty good in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:11:38.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, Even just the films he produces", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:11:56.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like the Orphanage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:12:03.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot about that one, I really enjoyed that when it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:12:21.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did not realize that he was associated with that film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:12:33.563Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sally Hawkins is worth looking up as well - she's british i beleive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:12:33.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah he produced the orphanage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:12:48.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I looked her up and she has a very familiar\n face but I can not place what I have seen her in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:13:32.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If anyone can make a cross species love story set in a cold war era government testing facility it's del toro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:13:37.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Shes in a movie called Submarine that' really good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:14:04.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well both those movies sound good, now I have something to watch :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:14:22.543Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anyway I hope you'll see Shape of Water, and Submarine ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:14:27.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice chatting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:14:34.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was nice talking to you, thank you for telling me about those movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:14:37.017Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T17:02:21.156Z", 
+  "uid1LogOutTime": "2018-03-30T17:14:42.783Z", 
+  "uid1response": {
+    "feedback": "I did not know that the movie one Best Picture and I do really enjoy Del Toro's work and was not aware that he was behind this film.  I am eager to see it now.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T17:02:21.215Z", 
+  "uid2LogOutTime": "2018-03-30T17:14:36.538Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3456", 
+  "user2_id": "USR4069", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

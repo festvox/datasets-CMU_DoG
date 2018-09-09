@@ -1,0 +1,246 @@
+{
+  "date": "2018-03-16T21:03:11.641Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:03:45.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:03:56.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie despicable me?\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:04:06.206Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen Despicable Me. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:04:30.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is an animated film about a mean supervillain!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:05:01.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a great score on rotten tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:05:11.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And CinemaScore rated it with an '\nA'.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:05:24.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds good. Who are the main voice actors for it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:05:39.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carell as the main character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:06:05.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jason Segel as Victor and Pussell Brand as Dr. Nefario.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:06:24.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of character does Steve Carell play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:06:38.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is a supervillain", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:07:55.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds interesting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:08:18.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about Jason Segel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:08:23.993Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He plays the archenemy of Gru (Steve Carell)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:09:07.666Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is Dr. Nefario?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:09:57.822Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The colleague of Gru. He helps him with evil things!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:10:38.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They team up to shrink and steal the moon!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:10:57.458Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That does sound pretty evil. Is it a movie intended for kids or adults?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:11:18.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is intended for both!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:11:29.586Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What's the soundtrack for Despicable Me like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:12:12.210Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One critic said that it is fun for kids and smart for adults", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:12:15.361Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds like a good soundtrack. Does the movie dive into topics such as communism?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:13:34.647Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do not know about the soundtrack. The movie does not touch the topic of communism to my knowledge", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:14:35.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "On a separate note, Gru seems like a nice guy even though he is a supervillain.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:15:07.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I thought you meant the soundtrack is fun. I was hoping to hear more about the soundtrack, but that's okay. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:15:37.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How is the animation for the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:15:42.582Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems top notch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:16:00.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Universal Studios is a quality corporation when it comes to animation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:16:14.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not entirely familiar with Universal Studios, so that information is lost on me! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:17:10.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any other characters besides Gru, his\n companion, and his nemesis?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:17:44.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are these three little girls!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:17:56.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why are they in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:18:23.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not exactly sure. It seems as though the bring out the best in Gru.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:18:51.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This sounds like an interesting movie. I will go and see it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:19:15.804Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T21:03:11.641Z", 
+  "uid1LogOutTime": "2018-03-16T21:19:40.942Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T21:03:11.661Z", 
+  "uid2LogOutTime": "2018-03-16T21:19:44.630Z", 
+  "uid2response": {
+    "feedback": "This was pretty fun. The other user convinced me that the movie had a good cast, solid animation, and raving reviews. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1373", 
+  "user2_id": "USR4800", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

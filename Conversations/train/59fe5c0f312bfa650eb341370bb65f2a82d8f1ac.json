@@ -1,0 +1,79 @@
+{
+  "date": "2018-02-16T02:34:50.258Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:35:48.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:35:59.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw the movie Zootopia. It was pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:36:26.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:36:54.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked how the animal character avoided\n the stereotypes of their species.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:38:25.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that is pretty good and how things go , it also\n reflects the struggles of women entering male-dominated spheres", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:40:12.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it had a very inclusive message.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:40:39.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yesis a great movie for kids and adults", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:41:29.513Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T02:34:50.258Z", 
+  "uid1LogOutTime": "2018-02-16T02:43:34.707Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T02:34:50.379Z", 
+  "uid2LogOutTime": "2018-02-16T02:42:38.684Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3209", 
+  "user2_id": "USR174", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

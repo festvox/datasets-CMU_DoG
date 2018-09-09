@@ -1,0 +1,247 @@
+{
+  "date": "2018-03-28T20:06:05.495Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:06:15.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HEY!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:06:41.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:06:47.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh it's \"Monster University\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:07:13.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "was that a Pixar film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:07:32.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy animation movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:07:37.947Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nah!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:07:55.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was released in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:08:14.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who made it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:08:26.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean which company?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:08:59.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh sorry It is actually a Pixar Animation movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:09:04.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it before now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:09:39.655Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nope", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:09:45.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok let me run you through the cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:10:15.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:10:22.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Billy Crystal as michael,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:10:34.585Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he's good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:10:52.891Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "as an actor/entertainer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:11:23.069Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "John Goodmnan, Steve Buscemi, Helen Mirem and peter sohn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:11:34.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm surprised Helen Mirem was in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:12:09.092Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Michael was a 7 year old monster in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:12:09.798Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and he aspires to be a scarer who enters human world at night to scare children", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:13:02.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting premise for a kids movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:13:39.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he went on to the University to be a scare major, there he met fellow scarer, sullivan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:14:27.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they eventually formed a friendship thing but had to scatter after a fracas between them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:15:20.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't want to break your train of thought, but what were the reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:15:30.931Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or were the reviews good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:15:46.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK, I was just trying to give you the major hints, but about the reviews,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:16:13.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rotten tomatoes; 79", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:16:28.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "average 6.8 of 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:16:43.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "metacritic; 65/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:16:58.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a little low, but not too bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:17:10.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "while the cinema score is A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:17:10.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:17:19.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was directed by Dan Scanion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:17:34.432Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T20:06:05.495Z", 
+  "uid1LogOutTime": "2018-03-28T20:17:32.822Z", 
+  "uid1response": {
+    "feedback": "The other user gave me the info that I wanted to make a decision on whether to see this movie or not.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T20:06:05.772Z", 
+  "uid2LogOutTime": "2018-03-28T20:19:39.378Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4663", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

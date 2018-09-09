@@ -1,0 +1,290 @@
+{
+  "date": "2018-03-28T15:50:11.969Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:50:39.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:50:50.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine, thank you. What do you think about the 1990 American comedy film \"Home Alone\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:51:15.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it. I think Macaulay Culkin was hilarious in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:51:46.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's one of the most memorable and all in all beautiful motion pictures ever.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:51:49.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I totally agree with you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:51:58.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Hughes has a lot of memorable films, including this one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:52:19.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And the other actors like Joe Pesci and Daniel Stern who play the burglar played their role extremely well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:53:13.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its such a simple plot too. even though its unrealistic. its almost all in the title.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:53:45.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the overall plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:53:45.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that is true!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:54:03.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like comedy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:54:22.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its basic, and you have to suspend some disbelief (as in the parents would have noticed much sooner), but its really well executed. I like comedy movies in general.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:54:41.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what did you think of the scene where they miss the alarm and have to scramble to get to the airport?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:55:55.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah well the McCalliter family forgetting their youngest son is a bit too much but most viewers get past that. I love the dynamic of the family in the day of departure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:56:01.433Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I could totally imagine them getting out the door without him in a panic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:56:32.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm, that's basically the whole pretext of why they forgot Kevin. Even if it was forced.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:56:36.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also the power outage contributes to the disaster by resetting the alarm clocks so the family oversleeps.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:57:17.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:57:33.229Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the ratings are surprisingly low. Its not the smartest film, but I think the ratings don't really reflect the sentiment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:58:14.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I'd have too agree. The movie just sort of has a magic to it which the critical response doesn't really get.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:59:08.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Another crucial moment is when the mom (Kate) discovers mid-flight that they left Kevin behind.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:59:53.398Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The mom's trek back to kevin is also kinda funny. its like its own little side journey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:00:03.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah that's were that journey begins.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:00:31.634Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "in real life I would have imagined that she would call a friend or relative to check in on him. but that wouldn't have been as good a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:00:47.910Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I guess that's true!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:01:02.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "flying to and from chicago during the holdiays is such a nightmare too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:01:46.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would imagine!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:02:04.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anyways, the middle and final part of the movie are the reason it's so popular and loved.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:02:36.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when kevin starts setting up traps for the burglars is where the movie really starts to shine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:02:44.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "True! The way he rigs those traps and plans everything is amazing. Almost unbelivable for a 8 year old !", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:03:18.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think thats why the movie is loved. every kid can relate to the situation (at least in their imagination!)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:03:56.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think about the moments when he almost got caught? What did you think will happen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:04:04.325Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its a nailbiter for  a stretch or two there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:05:06.650Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And being a comedy, in the end, the bad guys get busted because the police get there and the family is reunited with Kevin.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:05:07.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you generally prefer movies with good or bad rating? Is it relevant to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:05:55.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When Kevin has to answer for messing up Buzz's stuff its pretty funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:02.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ratings can sometimes be relevant....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:18.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree! That is so true! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:06:36.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Although I prefer to know something about a movie before watching it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:06:57.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, you left, goodbye then!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:07:04.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're finished anyway.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:07:21.584Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T15:50:11.969Z", 
+  "uid1LogOutTime": "2018-03-28T16:06:23.934Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:50:12.031Z", 
+  "uid2LogOutTime": "2018-03-28T16:07:23.402Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1715", 
+  "user2_id": "USR2805", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

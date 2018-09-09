@@ -1,0 +1,123 @@
+{
+  "date": "2018-02-16T15:22:21.430Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:22:40.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:22:45.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Notebook is hands-down one of my favorite movies EVER!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:23:06.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think mind is trading places", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:23:51.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen The Notebook?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:24:14.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have never seen this movie. I am going tod try it out now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:24:48.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a heartwarming story of young love.  The main characters are played by Ryan Gosling and Rachel McAdams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:25:18.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok this sounds nice. I think Ryan is a good actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:26:15.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For all the praise it received, I was surprised to see that it only got a 5.7/10 on Rotten Tomatoes.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:26:23.147Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is interesting. They never get the rating correct.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:27:10.958Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan is a great actor, as well as Rachel McAdams.  The story goes back and forth between present day and the past.  Older Ryan is played by James Garner and older Rachel is played by Gena Rowlands.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:27:20.668Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, Rotten Tomatoes never gets the right ratings..LOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:27:37.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I always like to see the ratings but if I want to see a movie, I will watch it even if it has a bad rating.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:27:54.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I  am the same way and I will watch it no matter what.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:28:39.147Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of the best scenes in the movie (without spoiling anything) is a big fight that Ryan and Rachel have one night when her parents couldn't find her and they have the police search for them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:28:55.932Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:29:20.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what happen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:29:30.150Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you want me to spoil it?  LOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:30:17.850Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-02-16T15:22:21.430Z", 
+  "uid2LogInTime": "2018-02-16T15:22:21.461Z", 
+  "user1_id": "USR1383", 
+  "user2_id": "USR3181", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

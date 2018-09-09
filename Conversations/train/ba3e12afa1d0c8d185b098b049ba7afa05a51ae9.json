@@ -1,0 +1,69 @@
+{
+  "date": "2018-02-21T17:36:31.909Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen the move Despicable Me? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T17:37:29.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:37:30.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:37:35.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actually which one is that about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:37:59.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont think I was saw it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:38:32.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a wonderful animated movie, with a number of cute little characters.  It stars Steve Carell, Jason Segal and Russell Brand.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T17:39:19.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what conflict do those cute little characters have to face?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:41:00.194Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-21T17:36:31.909Z", 
+  "uid1LogOutTime": "2018-02-21T17:41:25.500Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-21T17:36:31.924Z", 
+  "uid2LogOutTime": "2018-02-21T17:40:57.462Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR662", 
+  "user2_id": "USR2513", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "date": "2018-02-20T19:40:30.242Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:40:47.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:40:56.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable me is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:41:12.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you should watch it. it has an A cinema score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:41:56.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like animation movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:42:50.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:43:43.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like anmation movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:43:59.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:44:03.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is about a megalomanical rogue supervillian named Gru", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:44:47.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh nice. Who is Gru voiced by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:45:37.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gru is voiced by Steve Carell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:45:47.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What rotton tomato score did it get>", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:46:45.957Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got a 81% on rotten tomatoes and an average of 6.8/10 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:47:15.215Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it was better than that for a comedy. Do you like movies that are good for all ages?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:49:05.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow thats pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:49:11.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so both parents and adults would like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:49:22.865Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes! It is good for parents and kids. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:50:06.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what is the movie about? What happens in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:50:33.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The supervillain, Gru, has a rivalry with another villain named Vector after he steals the great pyramid. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:51:24.018Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ooh interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:52:23.152Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is Vector voiced by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:52:35.520Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "vector is voiced by jason segel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:52:54.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:53:16.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So what else happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:53:26.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gru steals a shrink ray fro\nm Vector and becomes responsible for some children named Margo, Edith, and Agnes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:54:21.911Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what does he do with the shrink ray?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:56:24.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he steals it because \nhe wants to steal the moon when it is nearest to the earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:56:50.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh goodness", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:57:06.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this movie sounds really funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:57:29.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do the critics say about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:58:09.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "critics said that is has \"Despicable Me is a 3D cartoon comedy of whiplash-quick laughs, funny punch lines and a\nwickedly gimmicky appreciation for 3D.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:58:36.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I bet the 3d would be fun to see it it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:58:51.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:58:54.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you generally watch 3d movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:58:54.348Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not usually, but I would be interested", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:59:28.603Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the ending is very cute too. I liked how there is a mid-air rescue", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:00:00.832Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T19:40:30.242Z", 
+  "uid1LogOutTime": "2018-02-20T20:00:52.191Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:40:30.252Z", 
+  "uid2LogOutTime": "2018-02-20T20:00:40.600Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4553", 
+  "user2_id": "USR2026", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

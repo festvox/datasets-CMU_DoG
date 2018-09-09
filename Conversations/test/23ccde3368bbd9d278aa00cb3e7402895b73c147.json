@@ -1,0 +1,218 @@
+{
+  "date": "2018-02-02T20:19:18.002Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:19:30.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:19:32.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:19:56.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have. Do you love war movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:20:11.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do. They are great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:20:27.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I am talking about is Dunkirk. Its a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:21:02.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever heard of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:21:19.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never seen this one though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:21:49.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:21:58.274Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its a good one, you ll love it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:04.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:11.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's shot in the back drop of world war II to evacuate soldiers from the town of Dunkirk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:48.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds good. Did you see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:58.887Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I have and I loved it... ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:18.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it still in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:56.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would recommend you to watch it. Its directed by christopher nolan... It might be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:17.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The scores it has are off the charts. It must be good. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:21.683Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten tomatoes has 8.6/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:43.284Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The story sounds really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:55.112Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The Metacritic score of 94/100 is really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:25:11.216Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah... awesome war movie... It would be good to watch in theater...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:25:40.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So are you going to watch the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:26:12.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I saw it was released in 2017, so it is definitely something new", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:26:18.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I am", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:26:20.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:26:27.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you want to know anything more about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:26:41.295Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No thanks. I know plenty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:26:49.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay dokay.  Shall we end this conversation?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:27:26.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked all of Christopher Nolan's movies before. This one must be just as good. Yes, let's end it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:27:32.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice chatting with you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:27:43.047Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T20:19:18.002Z", 
+  "uid1LogOutTime": "2018-02-02T20:27:35.991Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T20:19:18.401Z", 
+  "uid2LogOutTime": "2018-02-02T20:27:45.684Z", 
+  "uid2response": {
+    "feedback": "Very communicative and understanding. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4474", 
+  "user2_id": "USR364", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

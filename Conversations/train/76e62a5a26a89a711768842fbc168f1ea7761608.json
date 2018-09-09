@@ -1,0 +1,252 @@
+{
+  "date": "2018-03-30T15:35:17.172Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:35:29.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:35:43.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie was outstanding!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:36:02.282Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a bit about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:36:22.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure it is about a mute housekeeper who works at a top secret lab.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:36:54.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What does the lab do?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:37:31.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They have captured an alien creature and are keeping it there to study.  Do you want to know the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:37:57.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes please", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:07.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is The Shape of Water.  It attracted a lot of positive attention for the good critic ratings and reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:36.032Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:59.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The story of how she falls in love with the creature and how she begins secretly visiting him.  She only communicates through sign language.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:47.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh wow, that does sound really interesting!  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:40:30.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sally Field plays the cleaning lady.  There is a Russian spy working at the lab, spying on the work the lab is doing with the creature.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:34.076Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love Sally Field, I think she is a great actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:40:50.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The creature was discovered in South America.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:54.373Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is \nhalf amphibian half human.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:41:13.486Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did it seem to possess a lot of human qualities?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:41:36.661Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes.  ally Field takes the creature to her home, and keeps it alive in the bathtub.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:12.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "*Sally", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:16.483Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does she have to try to hide it from the authorities?  That sounds like a really intriguing plot. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:42:43.079Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes!  The man who discovered it is in charge of the research project and he is looking diligently for it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:43:06.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One of Sally Field's neighbors discovers the creature eating one of his cats.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:43:31.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I bet that would definitely cause some issues!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:43:59.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The creature slashes at his arm and runs away.  Sally Field finds him and takes him back to her apartment.  He touches the neighbors arms where he slashed it and it heals by the next morning.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:44:33.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh so the creature has some kind of other-wordly powers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:44:53.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! \nThe creature also touches his bald head and the hair grows back.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:45:04.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahaha that is a bit comedic ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:45:19.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Once Sally Field gets the creature back, the two of them start having sex in her bathtub.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:45:42.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about their relationship?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:46:02.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pretty strange.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:46:12.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any chance for a sequel?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:46:36.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is a standoff at the end where the Project Manager battles with the creature, I won't spoil the ending for you.  You really need to see this.  I think there might just be a sequel.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:47:08.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love movies with sequels!  It definitely sounds like a good mix of drama and action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:03.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for all of the details.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:13.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its been fun chatting with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:16.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You as well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:22.514Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T15:35:17.172Z", 
+  "uid1LogOutTime": "2018-03-30T15:48:28.187Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:35:17.210Z", 
+  "uid2LogOutTime": "2018-03-30T15:48:23.597Z", 
+  "uid2response": {
+    "feedback": "I am not very interested in alien movies, and the relationship with an alien and a human is just a bit too weird for me. ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR46", 
+  "user2_id": "USR201", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

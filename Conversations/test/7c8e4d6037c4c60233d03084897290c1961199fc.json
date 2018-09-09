@@ -1,0 +1,142 @@
+{
+  "date": "2018-02-12T19:27:42.794Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello have you ever seen the movie Frozen? If you haven\u2019t you have to see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:47.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. I have seen it. Great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:06.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really love the story, it\u2019s really adorable. Who is your favorite character? Mine is Elsa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:30:06.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Elsa is my favorite character too. What other characters do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:30:54.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think what really makes it a great movie is that the sister doesn\u2019t give up on Elsa no matter what and ends up making Elsa feel better!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:31:00.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also really like Olof and Sphen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:31:12.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Olof is hilarious! I think the songs are great too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:31:48.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, her sister is great. I forget her name though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:35.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it is Anna", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:32:50.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the voice actors that they chose?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:33:07.679Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could be. I don't remember.  I saw it a while ago. The voice actors are good. I don't remember who they are though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:33:56.799Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know any of the actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:34:54.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or when it was produced ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:19.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:55.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Olof is the snowman right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:17.013Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:52.030Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's going on I wonder?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:38:23.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well it was nice chatting with you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:39:24.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know what happened!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:39:41.687Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:40:15.209Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:27:42.794Z", 
+  "uid2LogInTime": "2018-02-12T19:27:42.845Z", 
+  "uid2LogOutTime": "2018-02-12T19:40:41.104Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1656", 
+  "user2_id": "USR108", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

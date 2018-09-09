@@ -1,0 +1,392 @@
+{
+  "date": "2018-02-14T21:09:37.139Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:09:51.094Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:10:11.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just watched this movie, did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:10:23.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems interesting. The naming of the characters is odd. Sebastian & Mia vs Keith & Tracy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:10:56.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I found it a bit hard to follow.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:11:28.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what shot in \"cinema scope\" means? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:11:48.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I do not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:11:58.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it might be uber widescreen or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:12:09.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll Google it later. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:12:23.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critical response it incoherent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:13:05.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's like they looked up words in a thesaurus to put in their reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:13:21.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I enjoy Jazz, but piano really isn't my favorite kind. I find pianos to dominate the soundscape and leave little room for other instruments. What do you think? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:13:26.351Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've  never really listened to jazz that didn't have piano in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:13:47.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, they are getting good use of of their thesaurus!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:13:48.973Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sebastian sounds like a real piece of work. He is supposed to play Christmas songs, and instead he improvs? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:14:55.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, I was think that that would end up badly, but it didn't", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:15:27.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they could have used that to good effect, but oh well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:15:36.434Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He got fired, but met Mia. I guess that worked out for him. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:15:55.457Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, always the cliche", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:16:08.290Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "something bad happens, but something really good happens to balance it out!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:16:21.997Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did it seem out of touch with reality? Cause I thought it did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:16:57.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It must have been so disheartening to Seb as a character when he had to play music he didn't like to pay the bills. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:17:04.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know, doing something you don't love to pay the bills seems in touch with reality to me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:17:23.698Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:17:53.348Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And, him brushing Mia off when they first meet and then later getting together seems to be in tune with the general idea that \"women love jerks.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:18:32.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In touch with reality again!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:18:47.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The argument that ended their relationship seemed quite believable to me, you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:19:46.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If I was a musciian I would be ok with playing music I didn't really care for if it paid the bills...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:19:49.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol, and the ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:20:27.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd be okay with playing most music, for sure. At least it is music. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:20:36.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Better than being a starving burger-flipping musician that plays gigs a few times a month. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:21:07.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at least it didn't have a cheesy ending.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:21:13.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, the ending was real. I enjoyed that. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:21:27.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, career: \nskilled musician and fast food worker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:21:34.909Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "had good looking actors, like Ryan Gosling and Emma Stone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:21:59.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't find Emma attractive. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:22:33.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it had a good rotten tomatoes score, which is in keeping with keeping it real I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:23:11.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is Damien Chazelle?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:23:56.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A director I've never heard of. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:24:10.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "white guy saving a black musical genre from extinction...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:25:14.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:25:33.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I tend to not like musicals in general. The plot moves so slowly because of all the music. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:26:09.979Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, I've never heard of pieces like \"Summer Montage.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:26:25.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess it was okay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:26:30.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie did sag badly in the middle. It did seem like worn out mattress to me, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:27:43.189Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The worn out mattress was a very apt description. I can't think of any better way to describe it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:28:14.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what other metaphors would you use?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:28:37.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Moves at the speed of a sleepy sloth. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:29:00.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seemed like soggy bread to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:29:11.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One person said it was year's most pleasurable entertainment. But why though?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:30:24.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They probably really like music. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:30:33.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But there's ituns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:30:48.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:31:05.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you normally watch romance movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:31:16.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, well, not willingly, gf dragged me to it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:31:33.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:31:45.440Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "continues along the lines of sagging/dragging metaphors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:32:01.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "should we click \"finish conversation\" I'm not sure what more it wants us to talk about regarding this movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:32:41.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I'd say so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:32:51.251Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T21:09:37.139Z", 
+  "uid1LogOutTime": "2018-02-14T21:32:54.001Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T21:09:37.150Z", 
+  "uid2LogOutTime": "2018-02-14T21:32:58.992Z", 
+  "uid2response": {
+    "feedback": "Didn't seem to end automatically after 3 rounds. Other user clicked \"finish conversation.\"", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4259", 
+  "user2_id": "USR2334", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2018-03-07T20:19:02.364Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:19:32.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Batman Return movie seem to be average one\n according to the rating. Do you agree? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:21:36.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Batman Return movie seem to be average one\n according to the rating. Do you agree? \nIt had pretty good cast: Ryan Gosling, Joan Allen, and the rest. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:23:50.946Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T20:19:02.364Z", 
+  "uid1LogOutTime": "2018-03-07T20:24:20.442Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T20:19:02.371Z", 
+  "uid2LogOutTime": "2018-03-07T20:19:52.312Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2250", 
+  "user2_id": "USR445", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

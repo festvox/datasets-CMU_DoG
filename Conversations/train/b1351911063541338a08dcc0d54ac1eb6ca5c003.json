@@ -1,0 +1,289 @@
+{
+  "date": "2018-03-24T00:31:49.947Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. What is the name of the movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:32:44.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! The name of the movie is Iron Man ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:33:03.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK. Tell me what is is about ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:33:27.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The genre of the movie is labeled as Superhero. Its a film based on the Marvel Comics character of the same name (Iron Man)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:35:02.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr. is Tony Stark/IronMan an industrialist, genius inventor and consummate playboy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:35:39.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he builds a powered exoskeleton and becomes the technologically advanced superhero known as Iron Man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:36:20.497Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie before? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:36:31.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What does he do as this superhero ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:37:07.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he is CEO of Stark industries and a chief weapons manufacturer for the U.S. military", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:38:58.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave it a 94% ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:39:49.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK. But you said he is a superhero. What does he do as this superhero ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:40:07.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I apologize the Genre is labelled Superhero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:40:30.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "94% is good !!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:40:36.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, you said that before", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:41:12.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "As, a superhero, what does he do ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:43:43.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tony Stark aka Iron Man is a genius, billionaire, playboy, who has inherited the defense contractor Stark Industries from his father. Throughout the movie they demonstrate the Jericho missile. After the demonstration Stark becomes wounded by one of his own company's rocket propelled grenades. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:44:24.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Where is he wounded at ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:45:32.722Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good question, in the movie Yinsen the doctor implants an electromagnet into Stark's chet to keep the shrapnel shards that wounded him from reaching his heart and killing him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:46:49.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Time has flown just realized this movie\n was released in 2008 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:47:45.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I had just graduated college", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:47:54.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like action packed movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:48:04.818Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "or Marvel comics/characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:48:15.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. I still don't understand just what he does as this superhero. Does he save the world somehow ? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:48:33.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like action packed movies, but not necessarily Marvel comics. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:49:44.354Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Basically there is a war in Afghanistan, where Stark/Iron Man flies to in order to save the villagers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:49:51.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Save the villagers from what ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:50:20.910Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "from being attacked", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:50:45.199Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Being attacked by whom ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:51:00.267Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reporter Christine Everhar informs Stark that his company's weapons , including the Jericho were recently delivered to the Ten Rings and are being used to attack Yinsen's home village", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:51:49.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yinsen is the doctor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:52:24.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you familiar with directors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:52:43.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IF so Jon Favreau directed this film ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:53:26.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not familiar with directors. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:53:53.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Understood ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:54:03.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Terrence Howard  who plays James \"Rhodey\" Rhodes is in the movie if you are familar with actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:54:36.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So his own weapons are in this doctors village and he is going there to save his own weapons ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:54:54.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jeff Bridges, Shaun Toub and Gwyneth Paltrow as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:54:57.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Stane which is Jeff Bridges character has been arm trafficking ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:56:29.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "arm trafficking to the criminals worldwide.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:56:53.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK. I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:57:02.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So Iron Man is up against Stane ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:57:39.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Correct ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:57:57.170Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-24T00:31:49.947Z", 
+  "uid1LogOutTime": "2018-03-24T00:58:02.289Z", 
+  "uid1response": {
+    "feedback": "The movie seems like a good movie. I would go see it. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-24T00:31:50.203Z", 
+  "uid2LogOutTime": "2018-03-24T00:58:00.112Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4505", 
+  "user2_id": "USR2983", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "date": "2018-03-30T15:35:36.228Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:37:10.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, it looks pretty boring.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:37:22.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I like foreign movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:00.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was pretty good actually", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:15.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a hard sell on movies these days, but I liked it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:25.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not like this director's past movies, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:49.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's all in Russia?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:53.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but I like the lead woman, sally Hawkins, so I gave it a chance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:15.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, it's iin the U.S.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:24.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, I've never heard of any of these people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:39:34.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I might be suprised.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:39:55.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a fantasy where this woman who cannot speak but can hear is a cleaner for a science lab, it's in the 60's.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:59.276Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so they have an amphibious man creature they", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:16.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they've captured and she falls in love with it and vice versa.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:29.251Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it turns out to be a god sort of", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:35.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "anyway it was good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:39.175Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:41:22.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's kind of sad, lots of sad stories in it about the different people, the bad guy who wants to disect the creature, the neighbor who helps her get it out of the facility, the main woman who was abused as a child and found deserted, the creature who was happily swimming along in a south american river apparently and then got captured and treated bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:16.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like richard Jenkins a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:28.549Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he plays the neighbor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:32.858Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you'd know him if you saw his face.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:39.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so not too chatty, eh?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:52.785Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "doing other hits? lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:43:00.639Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well it's just really hard to fit everything on one screen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:43:19.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:43:36.859Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also, I never saw the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:43:47.763Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you're supposed to read the article and talk about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:44:10.166Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I saw another movie that reminded me about this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:44:20.804Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And it was no good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:44:28.186Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's kind of a creature from the black lagoon type creature.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:44:36.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But this is a little better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:44:45.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i find it interesting that they don't seem to mention the guy who plays the creature.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:44:50.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She falls in love with an animal?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:45:11.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or is it a man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:45:20.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he's an amphibianman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:45:24.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kind of an animal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:45:28.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think I've \"fallen in love\" with a few animals in my time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:45:40.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kind of a beauty and the beast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:46:02.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I liked my cat. Oh, I see.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:46:11.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "except at the end she goes with him back to his home.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:46:14.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or so the guy telling the story, the neighbor, wants to believe.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:46:31.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It keeps changing pages for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:46:44.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in truth she gets killed and the creature, who can heal people, picks her up and jumps int he water with her so we don't actually know what happened.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:47:07.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "fairy tale", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:47:20.150Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How tragic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:47:32.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol yeah kind of", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:47:50.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So like little mermaid but reverse", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:05.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i was kind of disappointed that the creature killed the bad guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:10.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i wanted him to let him live, you know, be above the human behavior.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:26.368Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at one point the creature eats a cat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:35.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:43.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was tough for me, i have cats.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:44.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:48:51.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have cats anymore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:48:57.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hey, he was hungry.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:49:00.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i work with a woman from viet nam who talks about eating cats, lol, i never know if she's kidding or not, she loves cats but maybe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:49:46.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's kinda believable with the sign language, sounds like monkeys.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:49:50.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, she knows sign language i forgot that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:50:11.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's a love story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:50:23.760Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would not love an amphibian.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:50:44.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe that's part of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:50:59.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She sounded like a bit of an outcast.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:51:13.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she has \"physical relations\" with him, they show it! It's sort of beautiful, I mean, they don't show it like graphically, but they show them naked together. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:51:30.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But that makes a good love story when you have two loner people and just make a story about them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:51:40.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, it was about everybody in it, that guy is a good story teller, he did Pan's Labyrinth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:13.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which I didn't like because it was too dark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:24.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am hungry, these cats are starting to look pretty tasty. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:53:14.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I like sci fi, but not love stories much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:20.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And not stuff where there is someone who you're supposed to feel sorry for.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:32.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or any of those prison movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:37.440Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which I thought that's what it was at first.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:50.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But she's just a mute.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:54.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, it is sci fi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:53:58.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she is mute but she can hear.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:54:06.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:22.978Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've worked with a couple deaf people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:33.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And hey preferred to sign.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:42.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i don't know if I felt sorry for any of them except the bad guy, he was a tortured soul.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:54:44.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at the end I wanted the creature to heal him so he'd be good maybe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:55:21.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like stories where it's not really a good or bad guy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:55:27.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but he didn't, he killed him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:55:31.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And you can see the point of view of the bad guy too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:55:37.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, it was like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:55:44.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was just sucked into a way of thinking that he couldn't let go of.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:56:00.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why did the bad guy hate the creature?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:56:02.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "scarcity thinking", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:56:05.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was ex military", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:56:10.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He wanted to slay the dragon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:56:32.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was religious, christian for one thing, and thought anything not human wasn't worth caring about. a lot of christians misinterpret the bible that way.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:56:51.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and he was ex military cia kind of thing, trying to get a promotion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:57:17.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was conflicted.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:57:26.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:57:26.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's pretty messed up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:57:39.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it woud've been better if the creature would've healed him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:57:50.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then it would", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:57:56.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have maybe changed the way he thought", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:58:06.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "only thing i would've changed about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:58:16.129Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure I get the story. But I know what it's like to want to get a promotion.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:58:29.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then you forget about everything else for a while", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:58:45.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, me, too, but I won't compromise my principles to do it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:58:50.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then everything besides your job starts to have problems.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:59:03.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but then I'm old so I'm not so much influenced anymore by greed and wanting to advance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:59:13.505Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, there's a lot of gray area.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:00:27.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "on my head! lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:00:42.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So two people might have a very different view on the same thing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:00:44.978Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:00:51.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:00:52.613Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep yep yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:01:05.760Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always want the bad people to transform, like our political leaders for instance!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:01:38.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think there's anything in the Bible about killing amphibians.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:01:41.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lolol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:01:47.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no, it says we have dominion over all the animals, some people think that means we can do anythin to them we want, I think it means we have to take care of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:02:21.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you sure it doesn't say anything about that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:02:48.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:02:49.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you have to say what you think about the Bible in the first place.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:12.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what do you think about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:03:28.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Because I don't think it's a list of rules God handed everyone exactly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:33.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "truth, fiction?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:03:34.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you mean the bible or?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:56.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, the bible", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:04:05.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So I haven't really reasearched it that much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:21.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it's not what I used to think it was.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:35.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A lot of it is just letters to people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:47.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And along the way, people decided to put them in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:58.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, it's just a history book", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:05:04.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also, people take it literally.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:05:08.572Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "history is just somebody's story about what happened", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:05:18.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like try to read into it too much about science.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:05:22.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a lot of people read it because it's one of the few documents we have in tact from that long ago.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:05:46.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've known a lot of athiests who had read the whole thing because it's a history book.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:06:08.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hey our time is up, nice talking to you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:06:18.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok bye.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:06:31.965Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T15:35:36.228Z", 
+  "uid1LogOutTime": "2018-03-30T16:06:24.358Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:35:36.303Z", 
+  "uid2LogOutTime": "2018-03-30T16:07:03.842Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3862", 
+  "user2_id": "USR2729", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

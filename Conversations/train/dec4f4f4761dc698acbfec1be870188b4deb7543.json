@@ -1,0 +1,107 @@
+{
+  "date": "2018-03-27T15:33:05.909Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:16.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there, hope all is well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:33:18.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:23.540Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:27.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:43.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seem?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:55.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh sounds good, did you enjoy it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:33:55.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:34:19.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not, is it new ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:34:20.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2013!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:34:36.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "5 years ago!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:34:47.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh not too new, what is it about ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:34:49.923Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T15:33:05.909Z", 
+  "uid1LogOutTime": "2018-03-27T15:35:12.628Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:33:05.994Z", 
+  "uid2LogOutTime": "2018-03-27T15:35:07.679Z", 
+  "uid2response": {
+    "feedback": "Well they left abruptly so I didn\u2019t get to finish it. ", 
+    "response": [
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4713", 
+  "user2_id": "USR3213", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

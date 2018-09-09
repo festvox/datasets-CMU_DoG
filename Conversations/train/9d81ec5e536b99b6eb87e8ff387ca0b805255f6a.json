@@ -1,0 +1,328 @@
+{
+  "date": "2018-02-07T15:57:34.963Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:44.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Welcome to the Movie chat !!!!!!!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:19.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:25.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hope u read all the rules of this Chat?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:49.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, I did ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:09.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Task and Notice\nThe user you are pairing does not have the document you hold. Please read the document first.\nTell the other user what the movie is, and try to persuade the other user to watch/not to watch the movie using the information in the document.\nYou should try to discuss the new paragraph when the document has changed.\nYou will have 3 turns of conversation with your partner on each of the documents.\nYou will be given 4 documents each containing a short paragraph. The new paragraph might show just beneath the previous document.\nThe next document will be loaded automatically after you finish 3 turns discussing the current document.\nYou cannot use information you personally know that is not included there. You can use any information given in the document in the conversation.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:10.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So let's chat the Chat!!!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:56.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can u able to guess which movie we are going to talk about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:09.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:16.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:22.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, you should be giving me the info about the movie. I am ready when you are. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:07.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If u need clues I could give u?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:09.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes. you should be telling me about the movie basically to try to persuade me to watch it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:45.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok I will give u clues...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:15.122Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its an oscar award winning movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:25.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " 73rd Venice International Film Festival on August 31, 2016, and was released in the United States on December 9, 2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:56.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are the actors and/or\n actresses", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:04.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling\nEmma Stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:29.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its a romantic film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:46.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you know where it takes place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:53.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i love romantic movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:03.807Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tell me the movies released in 2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:12.630Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i have a feeling I might know which movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:56.655Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can you give me the plot of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:04.694Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Last name of the movie ends in :Land\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:05:32.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "those are both two great actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:37.530Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, I am certain that I know which movie it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:52.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have not seen it but I am intrigued now ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:03.892Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "la la land", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:16.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:21.000Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if so, what did you think of it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:31.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Before that can I know about u.... Ur good name & From which country?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:07:02.899Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am in the USA", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:36.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes its the movie \"La La Land\"  u got it .... !!!!!!!!!!!!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:07:52.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do u think about the movie.. Did u saw any reviews about the film? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:25.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can you give me more info about the movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:26.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's ur opinion about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:34.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and what it is about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:40.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'd like to learn more about it, seems interesting! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:53.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "La La Land was praised for Chazelle's screenplay and direction, Gosling and Stone's performances, Justin Hurwitz's musical score, and the film's musical numbers. It won in every category for which it was nominated at the 74th Golden Globe Awards, with a record-breaking seven wins, and received 11 nominations at the 70th British Academy Film Awards, winning five. It received 14 nominations at the 89th Academy Awards, including Best Picture, tying the record for the most Oscar nominations with All About Eve (1950) and Titanic (1997). It ended up winning six: Best Director, Best Actress (Stone), Best Cinematography, Best Original Score, Best Original Song (\"City of Stars\"), and Best Production Design.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:53.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you should be giving me info, not copying the document that was provided to you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:09:23.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Know know I dint copy from given document to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:10:48.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How much u know abt this film?\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:12:25.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this is supposed to be a conversation that we are having about the movie. you should have read the document and then gave me info regarding what you read. basically trying to convince me to watch\n the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:41.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have never seen this movie but I am interested. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:53.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool cool ...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:13:27.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Basically its a romantic story about the key actors \t\nRyan Gosling\nEmma Stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:44.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice! I am not a movie person however I do love romantic movies so I think I might actually watch this movie tonight. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:52.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it ws nice chatting with you. Thanks for giving me a movie to watch tonight with my husband. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:16:21.319Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T15:57:34.963Z", 
+  "uid1LogOutTime": "2018-02-07T16:16:25.958Z", 
+  "uid1response": {
+    "feedback": "I m not sure that the conversation went as it should have. The other user did not really answer my questions to engage in the chat. I did not end the conversation as soon as that option was available, in hopes that we would be able to get a decent chat going. \nI will watch this movie. This \"chat\" made me look more into the movie and it looks pretty good. \nThank you! ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:57:35.271Z", 
+  "uid2LogOutTime": "2018-02-07T16:18:53.774Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1208", 
+  "user2_id": "USR2057", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

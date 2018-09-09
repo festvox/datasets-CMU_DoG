@@ -1,0 +1,352 @@
+{
+  "date": "2018-02-07T21:47:37.758Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:47:50.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:47:58.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:13.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine and you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:17.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:24.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about today? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:32.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "froaen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:43.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never heard of that. What is it about? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:55.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry frozen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:58.163Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok. Is that the popular kids movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:49:11.540Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:49:28.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it about? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:49:33.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:49:45.532Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:01.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:50:06.325Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:50:13.564Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " it about a princess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:50:31.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it take place in Antarctica? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:58.717Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it a 2013 american 3d computer animated musical", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:01.528Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:24.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh how fun! I love animated musicals. Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:52:28.519Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "kristen bell", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:55.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "idinal menzel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:53:23.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have heard of her.  Is there an underlying thing you are suppose to learn from the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:53:32.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:54:01.551Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like are you supposed to learn something from the story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:54:27.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it a walt disney movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:55:24.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. I like Walt Disney.  Does anyone die? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:55:46.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:56:14.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good. I hate how when I was growing up, someone normally died in a Walt Disney movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:56:53.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she summons a giant\n snow creature", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:56:58.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh wow so it's about witchcraft?\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:57:12.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:57:52.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "magic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:58:04.001Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm. Is there a wizard in the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:58:19.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "let see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:58:44.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:59:22.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think my five year old can watch it or would it be to scary with the magic?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:59:45.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it seen the same people produce the little mermaid\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:00:07.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh. I remember that being scary when I saw it in the theater when I was little. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:00:32.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:00:54.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do remember beauty and the beast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:01:25.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do. I just watched that netflix movie with real people a few weeks ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:01:43.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes. they produce that movies\n as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:02:22.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "make", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:02:29.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Thanks for all the information!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:02:35.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you can't see the information on the left?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:03:04.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:03:15.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:03:20.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good day. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:03:45.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they say this is the 53 disney movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:04:02.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they make frozen cup and puzzler.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:04:58.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at the store.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:05:09.489Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T21:47:37.758Z", 
+  "uid1LogOutTime": "2018-02-07T22:05:24.447Z", 
+  "uid1response": {
+    "feedback": "yes.", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:47:37.793Z", 
+  "uid2LogOutTime": "2018-02-07T22:03:47.058Z", 
+  "uid2response": {
+    "feedback": "The other person did not do a very good job of explaining the movie.  I asked questions and they were somewhat answered. I would probably watch the movie because it was a Walt Disney musical. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2478", 
+  "user2_id": "USR2300", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

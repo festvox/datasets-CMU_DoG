@@ -1,0 +1,316 @@
+{
+  "date": "2018-04-02T16:38:01.014Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:38:26.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:39:00.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i wanted to recommend you a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:39:09.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of Monsters University?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:39:26.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of Monsters University but I have not seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:39:38.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen Monsters Inc. though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:39:49.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actually its similar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:41:11.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its also animated as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:41:16.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anything you want to know about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:41:24.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a big fan of animated movies.  What kind of ratings did this movie get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:41:37.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well the ratings weren't super great to be honest. Metacritic gave it a 65 out of 100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:43:26.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and rotten tomatoes gave it a 79% score ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:43:39.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't agree with the critics though. A critic is just that after all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:43:55.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would have expected higher ratings from a Pixar movie.  That surprises\n me.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:44:21.581Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are the lead voice actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:44:26.835Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "right, surprises me too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:46:47.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It stars Billy crystal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:47:04.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Goodman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:47:08.845Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Steve Buscemi, Helen Mirren and Peter Sohn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:47:26.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love all of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:48:02.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is a great cast!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:48:08.336Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:48:20.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Dan Scanion! So you know it'll be good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:48:45.477Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also I must mention", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:50:14.572Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its actually a prequel to Monsters Inc. So it will have a familiar feeling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:50:37.103Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting to make a prequel, instead of a sequel.  So does this take place in Mike and Sully's younger years?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:51:19.124Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I believe so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:53:01.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's about how the monsters as young kids aspire to be scary. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:53:16.053Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It goes through their time at a type of \"monster university\" that teaches them how to be scary and how to interact with humans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:09.987Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds really cute.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:28.295Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would love to see those characters as kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:36.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha I'd say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:38.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The original is one of my favorites.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:45.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes same here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:55:02.487Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought this one was good though despite the reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:55:11.778Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it one any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:12.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else you think I should know about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:54.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure if it won any awards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:57:08.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but it's definitely a good go-to movie if you want something familiar, fun, and safe for all audiences.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:57:57.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thanks I think you've informed me a lot on this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:58:28.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's always nice to have a movie in mind that is good for all ages.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:58:41.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Feel good movies are a nice break too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:59:15.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to make a point of watching it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:59:22.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, the world is in a bad spot lol good to have some light watching available", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T17:01:10.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice chatting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T17:01:13.584Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "goodbye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T17:01:15.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Goodbye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T17:01:53.659Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T16:38:01.014Z", 
+  "uid1LogOutTime": "2018-04-02T17:02:04.380Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:38:01.184Z", 
+  "uid2LogOutTime": "2018-04-02T17:01:36.059Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3456", 
+  "user2_id": "USR2785", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

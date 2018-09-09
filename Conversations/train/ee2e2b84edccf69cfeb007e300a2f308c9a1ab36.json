@@ -1,0 +1,83 @@
+{
+  "date": "2018-02-06T20:08:23.682Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So what did you think of the first teamup movie in the MCU?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:08:43.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anything in the movie that was a surprise to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:09:25.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed it quite a bit. I was hoping for more character introduction but overall i did enjoy it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:44.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What characters would you wanted to be introduced?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:09:56.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "id like to meet most of them however i think Captain America would be the most interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:10:34.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've always liked Captain America but I think Thor and Hulk stole the movie.  Did you like them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:11:08.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did Hulk was my favorite childhood superhero si enjoyed his charachter a lot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:41.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you feel the movie got a fair rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:12:00.778Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T20:08:23.682Z", 
+  "uid1LogOutTime": "2018-02-06T20:11:12.987Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T20:08:23.713Z", 
+  "uid2LogOutTime": "2018-02-06T20:12:54.450Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR230", 
+  "user2_id": "USR4397", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2018-02-05T15:29:08.536Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you believe the movie was casted well?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:31:03.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do.  I especially liked Richard Dreyfuss as Matt Hooper.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:31:33.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Think that he showed the right emotion for the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:02.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so.  He's a very expressive actor.  Do you think I could take my 7 year old child to see it or would it be too scary?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:51.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that they would be a bit afraid especially with the movie soundtrack and build of of tense sounds", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:33:58.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, that makes sense.  Don't want to be dealing with nightmares.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:34:17.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea, people are already afraid of sharks and the way spielberg potrays great whites they will never want to go in the water again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:36:04.949Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For sure.  I will definitely think twice about getting in the water after watching Jaws.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:36:40.084Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:29:08.536Z", 
+  "uid1LogOutTime": "2018-02-05T15:37:36.709Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:29:08.559Z", 
+  "uid2LogOutTime": "2018-02-05T15:38:31.054Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3430", 
+  "user2_id": "USR1411", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

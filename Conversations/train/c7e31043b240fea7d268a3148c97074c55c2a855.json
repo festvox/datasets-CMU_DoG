@@ -1,0 +1,97 @@
+{
+  "date": "2018-02-15T11:53:50.981Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:54:03.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watch the movie Dunkrik", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:54:28.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no, what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:54:39.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it about  trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:55:36.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oo ok. what actors are in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:56:14.581Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the director  Christopher Nolan ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:56:25.089Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan's first history movie is bold, visceral, and powerful, with many moving sequences -- though some of his filmmaking choices can be challenging.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:57:07.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk dramatizes the complexity of war\u2014both its horrors and heroism\u2014while admirably not straying beyond the boundaries of a PG-13 rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:57:31.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:57:37.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "R u here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:57:41.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am waiting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:57:45.682Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T11:53:50.981Z", 
+  "uid1LogOutTime": "2018-02-15T11:57:02.012Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-15T11:53:51.621Z", 
+  "uid2LogOutTime": "2018-02-15T11:59:00.943Z", 
+  "uid2response": {
+    "feedback": "but after a while he finished the conversation. i was waiting too long", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1087", 
+  "user2_id": "USR3642", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

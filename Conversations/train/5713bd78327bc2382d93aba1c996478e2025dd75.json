@@ -1,0 +1,96 @@
+{
+  "date": "2018-03-22T14:44:25.869Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:44:48.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:45:04.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:45:25.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:46:26.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:27.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry, I am here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:32.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry, I am here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:36.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:46:39.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen all of them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:05.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joe Pesci and Daniel Stem are just hilarious in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:47:07.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen 3", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:47:20.970Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T14:44:25.869Z", 
+  "uid1LogOutTime": "2018-03-22T14:48:01.130Z", 
+  "uid1response": {
+    "feedback": "The other user just left the conversation. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:44:25.871Z", 
+  "uid2LogOutTime": "2018-03-22T14:47:27.100Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2361", 
+  "user2_id": "USR2004", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

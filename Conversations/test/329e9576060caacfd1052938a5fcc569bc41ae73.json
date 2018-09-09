@@ -1,0 +1,374 @@
+{
+  "date": "2018-04-02T16:21:21.573Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey! Is it snowing where you are?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:00.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No the snow just missed us", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:22:10.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im in indiana", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:22:18.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lucky!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:19.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:22:21.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm in NYC. What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:59.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indiana, im from Chicago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:14.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you make good money doing Mturk?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:53.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see. I just saw that you had previously answered, my bad...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:23:54.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:11.166Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Decent money. Have you seen The Shape of Water?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:24:16.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yup...it was ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:29.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what did you think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:36.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't see it and I'm worried that there will be spoilers in the information here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:24:42.142Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ill try not to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:54.020Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the story looks very promising.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:25:01.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the way it was shot gives you a gothem batman feel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:15.835Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but slow and dramatic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:25.057Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah? That sounds good, no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:25:31.206Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:39.139Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I just saw the trailer and it looked good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:25:44.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes you should go watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:26:00.566Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's funny that in the information we're given they don't talk that much about the water man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:08.484Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lol, yes i see that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:26:24.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sound slike a great story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:39.740Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "as you can see, it does give it all away", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:00.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Elisa was a mute", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:09.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually also like a reference to earlier horror movies like Creature of the Blue Lagoon, that sort of thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:27:17.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know... I'll try to forget about the spoilers later. Focus on something else.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:27:42.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, blue lagoon, or Thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:49.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Did you find it scary?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:00.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or disgusting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:05.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the creature in the movie is actually the same character from Hell boy, if you have ever seen that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:28:21.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No not scary or discqusting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:28:31.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it!?!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:34.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:28:45.295Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, the half man half fish guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:28:56.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In Hell Boy, the creature is very educated and nice and gentle, no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:58.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, its just a more serious\n spin on his character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:20.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was Del Toro involved in Hell Boy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:29:20.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no i dont thinks so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:36.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's intriguing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:29:38.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i take that back", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:55.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes he was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:58.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "googled it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:02.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And how did it look? There is not much in the document about the visuals.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:05.626Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aahh... That makes sense then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:14.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love Del Toro.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:19.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "extremely good visually ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:25.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like hell boy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:33.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm definitely going to see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:39.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Loved Hell Boy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:46.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:51.095Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was nice talking to you! Have a great not snowy day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:31:09.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "stay warm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:31:15.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "peace", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:31:21.846Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T16:21:21.573Z", 
+  "uid1LogOutTime": "2018-04-02T16:31:17.893Z", 
+  "uid1response": {
+    "feedback": "My partner was very talkative and dynamic - which was great.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:21:21.590Z", 
+  "uid2LogOutTime": "2018-04-02T16:31:27.324Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4194", 
+  "user2_id": "USR1694", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

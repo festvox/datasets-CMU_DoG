@@ -1,0 +1,74 @@
+{
+  "date": "2018-03-07T21:08:30.185Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I really liked this movie and it got great reviews!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:09:21.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't see this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:09:41.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was, and still am, interested but I haven't had time. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:10:27.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Jesse Eisenberg did a good job as Zuckerberg.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:13:16.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He must have, to get good reviews. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:14:06.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Jesse Eisenberg did a good job as Zuckerberg.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:17:47.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Armie Hammer played both of the twins? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:18:03.508Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T21:08:30.185Z", 
+  "uid1LogOutTime": "2018-03-07T21:19:44.955Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T21:08:30.334Z", 
+  "uid2LogOutTime": "2018-03-07T21:20:47.663Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4441", 
+  "user2_id": "USR3858", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

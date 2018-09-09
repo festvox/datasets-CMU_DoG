@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-20T01:01:56.083Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:02:38.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nolleh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:03:32.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:03:35.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:03:59.725Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm fine. What do you think of the movie\n summary?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:04:17.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:04:45.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not my favorite superhero film, but not the worst either.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:05:01.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thought the movie had a good beginning and end.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:05:17.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm personally indifferent to superhero movies. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:05:24.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoy them for the most part.. they are a fun escape from reality.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:06:02.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like both Batman and Superman, and I'm not a big fan of when they fight each other though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:06:11.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Plus, I have always been a fan of the DC since a child.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:06:15.770Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like it when they team up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:06:33.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, me either. Batman should not have stood any chance. But to sell the movie, they had to make him more formidable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:06:41.091Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie felt very full but cluttered as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:08:10.510Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Too much going on in a relatively short period of time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:08:24.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they make these movies too long.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:08:25.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Movies are too long these days.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:08:59.543Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "See for this movie, I wouldnt have minded it going longer since they had a lot to cover.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:09:49.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thoughts on Luthor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:10:22.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was certainly different!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:11:15.605Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wish he was bald like in other continuities. They also make him look very young when he is generally middle aged.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:11:47.824Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thought that character should have been played by an older actor though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:11:54.964Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah.  He shouldn't be so youthful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:12:37.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it would be more believable that Eisenberg was Luthors child or something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:12:40.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also, deaths are unrealistic in these films. We all know Superman's not dead.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:13:57.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they were trying to cover the death of superman, but yet in Justice League, he wasn't brought back like how he was in the comics. I guess they just pick and choose what they want to use.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:14:42.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah they wouldnt kill off their main cashcow!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:15:21.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Felt like they movie overall was a bridge to other movies in the DCEU", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:16:04.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah they are trying too\n hard to make the DCEU a thing vs Marvel. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:16:32.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Marvel just sort of occurred naturally.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T01:16:54.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "DCEU has better characters, but Marvel has taken their time to build better depth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:16:55.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and its paid off in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T01:17:09.518Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T01:01:56.083Z", 
+  "uid1LogOutTime": "2018-02-20T01:17:10.599Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T01:01:56.108Z", 
+  "uid2LogOutTime": "2018-02-20T01:17:18.340Z", 
+  "uid2response": {
+    "feedback": "I suspect I was talking to a bot.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2688", 
+  "user2_id": "USR2761", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2018-02-02T22:01:16.479Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what is the name of the movie you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:02:06.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:02:15.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow, that sounds interesting, what time period does it take place in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:02:36.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In the future.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:02:53.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "New York, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:03:28.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It i about dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:03:33.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, ok, so is it science fiction?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:03:49.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Correct", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:04:03.226Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But definitely feasible in the future", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:04:22.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So the movie is about dreams?  Tell me more about that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:05:42.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does the movie take place in a dream?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:06:40.074Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Indeed, the movie premise is going deeper and deeper into heavier states of dreaming. With each step that goes deeper, time slows down massively.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:06:46.212Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok, so is the main character a part of the dream or is he/she a \"real\" person?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:07:47.165Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. Real people.  They go into dreams. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:08:15.756Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do they use to go into the dreams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:08:44.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do they have something like a time machine?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:09:48.919Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some kind of advanced sleep inducing system. They put a wired mask on their face for accessing dream data.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:09:58.842Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh...so their bodies are not actually in the dreams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:10:41.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Time Machine as in time dilation? You can't go back in time - time is a perception of dynamics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:10:49.901Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh, ok, so are their bodies in the dreams or just their minds?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:11:23.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Their bodies can feel pain - it is like the movie, The Matrix, except instead of a machine,  they go to sleep.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:11:41.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So if they can feel pain can they die?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:12:25.039Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I believe so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:12:59.783Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They definitely risk dying while in these hardcore dreams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:13:37.381Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So why do they want to go into the dreams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:13:49.766Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are doing studies on the brain and computations. In a brain, you can infiltrate someone's mind in a dream, in a way that you couldn't do while they are conscious. Better than sodium Pentathol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:15:24.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting, so are they scientists?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:16:11.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, and part of the military. Covert Ops.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:16:39.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahh, I see.  So it's some sort of top secret experiment.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:17:23.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed. Used\n to acquire information from high up officials about top secret government projects.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:18:03.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like a good movie, I'll have to check it out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:18:18.943Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. It has Leonardo DeCaprio in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:19:49.302Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T22:01:16.479Z", 
+  "uid1LogOutTime": "2018-02-02T22:20:41.455Z", 
+  "uid1response": {
+    "feedback": "It was a good conversation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T22:01:17.109Z", 
+  "uid2LogOutTime": "2018-02-02T22:18:22.160Z", 
+  "uid2response": {
+    "feedback": "The movie sounds really interesting.  I enjoyed our conversation.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2524", 
+  "user2_id": "USR3944", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

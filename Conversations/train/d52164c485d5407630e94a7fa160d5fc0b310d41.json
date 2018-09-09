@@ -1,0 +1,68 @@
+{
+  "date": "2018-03-20T16:25:06.916Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:25:20.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi! I'm reading the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:25:47.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, the reception for this movie was pretty bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:26:31.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree that when you watch a literary movie, that it's best to put aside the book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:28:31.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's a good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:28:56.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never read the book, so I've no opinion on that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:29:04.747Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:25:06.916Z", 
+  "uid1LogOutTime": "2018-03-20T16:30:04.474Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:25:06.922Z", 
+  "uid2LogOutTime": "2018-03-20T16:30:20.241Z", 
+  "uid2response": {
+    "feedback": "Other user stopped responding\n", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3370", 
+  "user2_id": "USR4183", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

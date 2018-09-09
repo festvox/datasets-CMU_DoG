@@ -1,0 +1,94 @@
+{
+  "date": "2018-02-08T22:48:52.167Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:49:03.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:49:34.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:50:02.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:51:03.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice! I think I'm interested in watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:51:29.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are its ratings and can you tell me a little bit about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:51:44.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:51:46.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its the nice movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:52:20.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:52:41.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it based for second world war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:53:19.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whos\n the main character played by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:54:03.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:56:12.043Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:48:52.167Z", 
+  "uid1LogOutTime": "2018-02-08T22:58:09.233Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:48:52.311Z", 
+  "user1_id": "USR4719", 
+  "user2_id": "USR4699", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

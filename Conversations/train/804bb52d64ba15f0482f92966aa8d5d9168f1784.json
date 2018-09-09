@@ -1,0 +1,62 @@
+{
+  "date": "2017-12-01T20:58:25.157Z", 
+  "docLinkIdx": 5, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Inception?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:00:14.466Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:00:30.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How do you think Leonardo DiCarprio did in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:00:48.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think he's an amazing actor. He was one of my favorite characters.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:01:12.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know how long ago it came out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:02:19.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it came out in 2010.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:02:36.049Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2017-12-01T20:58:25.157Z", 
+  "uid1LogOutTime": "2017-12-01T21:03:56.030Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2017-12-01T20:58:25.765Z", 
+  "uid2LogOutTime": "2017-12-01T21:03:13.930Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3050", 
+  "user2_id": "USR1202", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

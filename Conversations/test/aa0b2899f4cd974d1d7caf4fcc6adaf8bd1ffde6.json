@@ -1,0 +1,257 @@
+{
+  "date": "2018-03-29T14:42:07.301Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, how are you? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:42:37.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:42:39.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im doing well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:42:47.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great, me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:42:56.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how is the weather where you are? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:43:04.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "raining, how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:43:21.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sunny and warm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:43:36.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im sorry it's raining there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:43:46.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm jealous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:43:49.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh well, we could use some", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:44:10.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh that's good ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:44:19.023Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have you heard of Monsters University?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:44:43.817Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is that a movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:44:48.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think i have, but i'm not totally sure ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:44:56.107Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is it about ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:44:59.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah it's a pixar studio from 2013\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:45:16.133Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh cool, is it an animated movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:26.498Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are there any famous actors and actresses in it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:48.262Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, it features the voices of billy crystal as one of the monsters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:46:12.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't heard of billy crystal ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:46:27.784Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is it scary since there are monsters in it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:46:35.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he is hilarious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:46:44.525Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no it's not at all scary, it actually is a family type movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:47:10.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh what is it rated? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:47:25.152Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also is it in theaters now? or on DVD? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:47:38.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's not in theaters but you can probably stream it or rent the dvd", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:48:26.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:48:53.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know how long the movie is? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:48:58.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "john goodman plays another one the main chracters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:49:18.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he is a good actor ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:49:35.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, he's also really funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:50:07.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not exactly sure how long it is probably 90 minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:50:35.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:47.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you seen the move? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:51.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:53.757Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if so did you like it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:57.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually I haven't but I saw the original monsters.inc and this is supposed to be a prequel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:51:39.020Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:42:07.301Z", 
+  "uid1LogOutTime": "2018-03-29T14:50:59.142Z", 
+  "uid1response": {
+    "feedback": "sounds like a good movie with a good cast and i like that it's family-friendly", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:42:07.341Z", 
+  "uid2LogOutTime": "2018-03-29T14:52:47.536Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3810", 
+  "user2_id": "USR4148", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

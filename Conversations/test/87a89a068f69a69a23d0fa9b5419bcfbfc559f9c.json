@@ -1,0 +1,115 @@
+{
+  "date": "2018-03-16T16:51:55.970Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:52:15.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:53:26.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:53:46.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie info?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:00.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie info?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:02.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie info?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:04.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:12.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:22.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:23.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:23.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:23.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:23.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:24.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:24.622Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T16:51:55.971Z", 
+  "uid1LogOutTime": "2018-03-16T16:53:32.573Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T16:51:55.995Z", 
+  "uid2LogOutTime": "2018-03-16T16:54:45.423Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR206", 
+  "user2_id": "USR4328", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "date": "2018-03-21T16:13:33.897Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi! so what is this movie about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:14:11.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is about a boy who is mistakenly left behind when his family flies to paris for their christmas vacation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:14:43.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:14:54.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "home alone staring the great maculay culkin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:15:11.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is this movie considered a comedy? what genre would you place it in? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:15:41.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the genre is comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:15:59.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who are the antagonists and protagonists\n?  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:16:21.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "protagonist is kevin mccalister,  antagonists are the two burglars.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:17:01.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell me who the main characters are? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:17:15.455Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "main characters are kevin mccalister, the two burglars harry and marv", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:17:55.038Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are the supporting characters? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:18:07.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "john heard and catherine o'hara who play kevin's parents", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:18:58.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can you tell me about the plot? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:19:12.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "kid gets left behind while the family rushes to the airport, he then has to contend with two burglars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:20:30.772Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what year did this movie come out? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:20:46.539Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the movie came out in 1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:01.298Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "was there a sequel? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:21:11.223Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:28.307Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can you tell me what some of the reviews for the movie said? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:21:45.297Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"sadistic festival of adult-bashing\", and \"john hughes is pulling our strings as through he'd never learn to do anything else\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:22:46.671Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "would you recommend this movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:23:03.058Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "highly recommend this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:23:11.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is it rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:23:19.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it got a rotten tomatoes score of 62%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:24:17.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i meant is it rated PG/PG-13, etc? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:24:36.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the document provided does not list that rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:25:02.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay. how does the movie end? is it a happy ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:25:16.793Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is a happy ending. document doesnt list the ending and it has been awhile since i have seen it but i know it is happy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:26:24.786Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay awesome! just to end the conversation. did this movie win any major awards? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:59.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "misread the key scenes, the movie ends with the family coming home and kevin greeting them.  i do not see anything listed about major awards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:28:19.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay. thank you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:28:31.875Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T16:13:33.898Z", 
+  "uid1LogOutTime": "2018-03-21T16:28:35.481Z", 
+  "uid1response": {
+    "feedback": "the user had seen the movie before and by the way they described it i would be interested in watching it. it sounds like a cult classic and if anything gets a low score on rotten tomatoes i'm eager to watch and judge for myself. the user answered every question to the best of their ability which was appreciated. they explained the plot, characters, supporting characters, actors, year it was released, etc. i am eager to watch. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:13:33.909Z", 
+  "uid2LogOutTime": "2018-03-21T16:29:24.997Z", 
+  "uid2response": {
+    "feedback": "very good conversation", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4243", 
+  "user2_id": "USR2196", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

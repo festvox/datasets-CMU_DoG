@@ -1,0 +1,224 @@
+{
+  "date": "2018-02-09T17:43:17.404Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:43:23.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:43:25.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Frozen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:43:36.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:43:41.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have. I liked it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:43:58.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:44:12.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am surprised that it only got an 89 percent on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:44:22.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite part is when she meets the snowman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:44:36.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "89 percent is pretty high on Rotten Tomatoes, isn't it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:44:56.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, but I thought this one would get in the upper 90'\ns", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:45:14.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's surprising how Let It Go got to be like super popular in such a short amount of time. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:45:43.225Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know. I heard that song before I saw the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:45:55.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's interesting because it got 74/100 on Metacritics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:46:21.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that seems kind of low.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:46:39.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critical response was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:46:58.181Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think there's a reason that some people might have rated it harshly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:47:46.355Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe they did not like the director. Also, I could see how some parts of the movie anger people", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:48:08.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, do you mind explaining a little bit? Like I said, I've never seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:48:51.061Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, the trolls at the beginning we\nre a bit strange and the lead princess does not have a Prince.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:49:51.556Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah so it kind of breaks the Disney mold? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:50:31.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, that is a good way to put it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:50:47.243Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think that it's going to have a sequel? I haven't heard anything about one, which is weird considering how popular it was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:23.225Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do. I have read a couple things about a sequel. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:10.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow I feel so out of the loop. The most I hear about Disney is Star Wars. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:51.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know who Kristen Bell is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:28.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Um yeah she's Anna in the movie, right? Isn't she also Veronica Mars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:53:55.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that's right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:10.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did she sing in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:30.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:05.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh cool. Did you have a favorite character? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:55:36.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I liked the big ice monster guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:55.630Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T17:43:17.404Z", 
+  "uid1LogOutTime": "2018-02-09T17:56:07.801Z", 
+  "uid1response": {
+    "feedback": "I had a good time chatting with my partner, I think that they really saw the movie and we had a good conversation about it. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:43:17.416Z", 
+  "uid2LogOutTime": "2018-02-09T17:55:58.587Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2522", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

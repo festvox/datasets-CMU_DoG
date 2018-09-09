@@ -1,0 +1,98 @@
+{
+  "date": "2018-02-06T15:28:38.896Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:28:59.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ARE THERED?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:29:25.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:30:20.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm reading the document now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:30:21.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok sir.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:30:32.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a great movie but the way we are limited and can't talk about the things which are not mentioned in the document makes it somewhat weird. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:32:30.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK SIR", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:33:04.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think its very nice to chat with u", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:33:24.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ARE U THERE SIR?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:33:59.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the Rotten Tomatoes rating? I mean it is so high, critics agree that it is a great movie. Do you think so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:34:12.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i agree because people have different opinnion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:35:00.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are u there sir?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:35:35.981Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-06T15:28:38.896Z", 
+  "uid1LogOutTime": "2018-02-06T15:34:52.572Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T15:28:39.028Z", 
+  "uid2LogOutTime": "2018-02-06T15:44:03.645Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1267", 
+  "user2_id": "USR706", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

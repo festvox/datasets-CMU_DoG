@@ -1,0 +1,81 @@
+{
+  "date": "2018-01-30T19:21:18.310Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! I think you should watch wonder woman!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:21:56.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it and am interested in what you think of it. Have you seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:22:34.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have, Gal Gadot acts as Wonder Woman and Chris Pine as Steve Trevor!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:23:04.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like Chris Pine but don't know the other actor. What has she been in. Do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:23:42.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know, but she does a great performance. The films is about her character, Princess Diana / Wonder Woman and her scenes are thrilling according to critical response", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:24:30.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds good. I guess I will try to see it. Thanks for the input.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:25:06.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! You're welcome!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:28:16.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thanks again for the info", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:28:48.582Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:21:18.310Z", 
+  "uid1LogOutTime": "2018-01-30T19:29:05.838Z", 
+  "uid1response": {
+    "feedback": "I have been debating this movie and with the input I received I will see it", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:21:19.111Z", 
+  "uid2LogOutTime": "2018-01-30T19:28:55.421Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1643", 
+  "user2_id": "USR4644", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

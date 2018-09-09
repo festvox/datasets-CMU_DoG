@@ -1,0 +1,176 @@
+{
+  "date": "2018-02-20T17:46:31.956Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:46:47.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey wassup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:46:51.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so have you seen batman begins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:47:04.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not in a long time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:47:21.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:47:26.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "think it still holds up?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:47:28.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah its pretty good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:47:37.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think its one of the better batmans", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:47:45.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hbu?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:47:46.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "def it's the one that got me hooked", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:48:03.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats cool, same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:48:13.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's the one with scarecrow right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:48:22.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I always confuse the titles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:48:32.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nah i think its the one with ras al ghul", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:48:43.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and he burns down bruces house during the party", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:48:52.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and ras wants to destroy gotham", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:49:10.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "right right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:49:20.824Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with this water vaporizer thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:49:25.043Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeaah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:49:29.437Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Bale makes a great batman. I miss him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:49:42.375Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Agreed, and \nthe guy who played ras wsa pretty good imo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:49:53.764Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yeah, he was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:50:10.071Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen him in much lately", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:50:22.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah me either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:50:26.790Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T17:46:31.956Z", 
+  "uid1LogOutTime": "2018-02-20T17:51:15.806Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T17:46:32.007Z", 
+  "uid2LogOutTime": "2018-02-20T17:51:46.770Z", 
+  "uid2response": {
+    "feedback": "Conversation flowed nicely and we discussed the movie ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4754", 
+  "user2_id": "USR1812", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

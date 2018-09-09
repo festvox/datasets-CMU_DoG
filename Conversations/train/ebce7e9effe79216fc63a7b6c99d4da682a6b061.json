@@ -1,0 +1,338 @@
+{
+  "date": "2018-02-13T20:58:43.515Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Howdy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:58:50.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:58:54.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:59:06.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:59:19.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm wondering if you've seen the movie John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:59:19.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:59:24.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I really want to watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:59:30.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a huge fan of Keanu Reeves", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:59:35.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not seen it, only the trailer but it looks really good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:59:42.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I didn't think it could possibly be good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:00:00.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too, he is a great actor, love his Matrix!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:00:03.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:00:07.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I was skeptical about this one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:00:20.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because I thought they were just cashing in on him from the Matrix", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:00:29.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but apparently the critics really loved it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:00:35.124Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it is rated very highly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:00:47.145Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very fast-paced action!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:01:00.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One critic said \"John Wick is the kind of fired up, ferocious B-movie fun some of us can't get enough of\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:01:03.223Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess that's what the trailers made it look like it'd be.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:01:18.645Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But I was watching videos the other day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:01:27.999Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keanu Reeves trained for MONTHS for this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:01:35.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think they already made  another one of these\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:01:45.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He was doing gun training and stunt practice so he could do all the stunts himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:01:55.524Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They did. Probably a testament to how solid this movie was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:02:14.622Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, he is very dramatic and it's amazing the he doe snot use a stunt man!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:02:20.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:02:29.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it also had Alfie Allen as one of the villains", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:02:40.706Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He's from Game of Thrones.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:02:45.646Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know, a great cast!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:03:03.271Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And apparently the whole plot centers around the bad guys killing his dogh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:03:16.087Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's pretty hilarious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:03:26.235Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like it doesn't take itself too seriously.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:03:35.610Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can't wait to see it! When is it out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:03:48.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The sequel? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:04:03.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:04:08.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure, but this one came out in 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:04:20.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the sequel already came out though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:04:26.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have to look it up, I want to watch both of them!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:04:43.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:04:48.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It kind of sounds like the \"Taken\" franchise", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:05:09.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but instead of Liam Neason it's Keanu", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:05:15.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It will be a nice break from all these doom, boom and gloom Apocalypse/zombie movies!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:05:17.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "totally! I'm sick of all the overly dark stuff", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:05:28.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:05:45.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah the reviews actually predicted that this would be a movie franchise", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:05:58.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:06:12.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "one of them says it \"positions the film extemely well for any potential follow ups\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:06:13.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright, I think we're done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:06:21.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:06:25.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "YOu too, thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:06:44.920Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T20:58:43.515Z", 
+  "uid1LogOutTime": "2018-02-13T21:06:27.956Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:58:43.555Z", 
+  "uid2LogOutTime": "2018-02-13T21:06:50.278Z", 
+  "uid2response": {
+    "feedback": "Thank you!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2174", 
+  "user2_id": "USR4835", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

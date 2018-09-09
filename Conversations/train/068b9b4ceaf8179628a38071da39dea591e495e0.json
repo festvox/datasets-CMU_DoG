@@ -1,0 +1,252 @@
+{
+  "date": "2018-03-30T03:01:30.697Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey how are you? Have you seen The Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:02:10.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing well, and yes I have.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:02:24.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie has a great ensemble of cast like DiCaprio, Margot Robbie, and well the legend Scorsese!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:02:54.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like those actors. What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:03:38.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a black comedy based on a stockbroker named Jordan Belfort. And you know Belfort is portrayed by DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:04:25.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. What is the MPAA rating of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:04:55.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure about the rating. But I believe it is an R-rated", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:05:39.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The document doesn't specify unfortunately", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:05:47.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And basically it tells the rise and fall of the company Belfort and Azoff (Jonah Hill) started :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:06:13.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay.  Do you know what role Margot Robbie plays?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:06:36.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is Naomi Lapagila the wife of Jordan Belfort", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:07:19.709Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:07:44.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The document doesn't say how long the movie is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:08:22.747Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Strange... i think there is a glitch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:08:31.135Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How so?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:08:47.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not getting new info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:08:52.684Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "After 3 turns of chats I should get more info", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:09:12.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Only thing I see is this chat box.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:09:30.335Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's been like 6 turns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:09:34.538Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay let's just continue our chats based on this one page document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:09:57.325Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I guess we just keep going, haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:09:57.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tell me more about the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:10:12.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Finally.. new info.. So Jordan Belfort becomes a Wall STreet stockbroker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:10:24.157Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "in 1987", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:10:33.130Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does he come from a wealthy background?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:10:47.943Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well I don't know. My guess is he starts as a poor businessman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:11:18.801Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How does he become a stock broker?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:11:35.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He starts a different career path after the Black Monday (stock market crash or some sort)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:11:42.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I am not too sure.. sorry.. The document doesn't say", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:12:06.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jordan Belfort and Donnie Azoff start their town company ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:12:29.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:12:44.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They call it Stratton Oakmont. That's where he became filthy rich and corrupt haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:12:49.279Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do they sell?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:12:54.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they were still doing stock related trades. But it was essentially pump and dump scams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:13:37.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, interesing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T03:13:50.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T03:14:05.034Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T03:01:30.697Z", 
+  "uid1LogOutTime": "2018-03-30T03:14:07.612Z", 
+  "uid1response": {
+    "feedback": "There was a bug in the beginning. I did not get update on the document even after 3 turns of conversation.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T03:01:30.711Z", 
+  "uid2LogOutTime": "2018-03-30T03:13:59.405Z", 
+  "uid2response": {
+    "feedback": "I don't think there's enough information available to decide if this movie is worth the watch.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR4395", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

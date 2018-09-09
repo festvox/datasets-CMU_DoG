@@ -1,0 +1,348 @@
+{
+  "date": "2018-02-19T01:07:22.890Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:07:51.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:07:57.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:08:03.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, I do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:08:10.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie \"John Wick\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:08:24.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:08:35.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:08:40.151Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:08:49.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:08:54.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a Keanu Reeves fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:09:04.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:09:13.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and liked both parts of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:09:16.814Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right, kind of crazy format, but good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:09:32.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am glad to see he performed the assassin role very well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:09:46.501Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree, he was a good choice and performed well\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:10:14.261Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there a part 3 planned?\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:10:18.367Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know, I hope so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:10:41.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "rotten tomatoes gave it a 6.9/10 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:11:07.727Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like those ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:11:28.038Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would give it an 8", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:11:40.051Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I sometimes do not agree with the ratings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:11:58.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't believe it was released in 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:12:20.732Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was more recent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:12:29.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is your favorite genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:12:44.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "action ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:12:50.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like action, drama, and comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:13:22.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the Matrix too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:13:25.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "YEs, good movie, really enjoyed it/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:13:52.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes I like a lot of different movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:13:54.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you go to the theaters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:14:23.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:14:33.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how often?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:14:43.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "every now and then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:14:55.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has been a long time for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:15:18.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John wick was kind of confusing for me at first but then when it was over I really liked it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:15:55.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, interesting character. I like assasins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:16:21.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure if that's the only movie we are supposed to talk about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:16:22.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but that's what the document I was reading was abou\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:16:35.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who were the other actors in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:16:50.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "alfie allen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:17:52.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "played the mobster", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:04.267Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he was he one who killed the pupp", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:19.652Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "puppy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:22.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember him. Strange hotel setting right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:18:30.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:42.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who was the desk clerk?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:18:46.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lance reddick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:19:01.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was nice chatting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:19:36.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John wick was a good character, was it a book too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:19:40.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right, nice chatting with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:19:49.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember if it was a book", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:20:09.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:20:14.729Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T01:07:22.890Z", 
+  "uid1LogOutTime": "2018-02-19T01:20:17.931Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T01:07:23.115Z", 
+  "uid2LogOutTime": "2018-02-19T01:20:40.652Z", 
+  "uid2response": {
+    "feedback": "I learned a lot from my chat partner", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2728", 
+  "user2_id": "USR4050", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

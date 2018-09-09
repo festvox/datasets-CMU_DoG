@@ -1,0 +1,258 @@
+{
+  "date": "2018-02-12T18:56:50.724Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:09.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:10.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:18.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of the movie we will be talking about today is \"Frozen\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:40.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:47.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:51.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what studio produced and released it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:55.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was produced by Walt Disney Animation Studios and release by Walt Disney Pictures.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:58:32.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it sound like a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:58:44.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, It is about about a fearless princess who sets off on a journey to find her estranged sister whose icy powers trapped their kingdom in an eternal winter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:59:47.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you recommend that I watch the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:00.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you enjoy watching animated movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:23.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm pretty indifferent, I don't think they're more or less interesting than live action movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:38.310Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well it is an animated comedy/adventure movie. There are some intense parts and the graphics are high-quality as it was released in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:20.232Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds interesting, who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:49.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Kristen Bell, Idina Menzel & Jonathan Groff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:14.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it have good ratings with critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:39.160Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten Tomatoes: 89%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:27.036Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Metacritics: 74/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:35.443Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "CinemaScore A+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:43.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is one of the most critical reviews: \"while it lags the tiniest bit on its way to the conclusion, the script... really delivers; it offers\ncharacters to care about, along with some nifty twists and surprises along the way.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:47.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds like pretty good set of scores", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:53.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And the least critical review: \"a great big snowy pleasure with an emotionally gripping core, brilliant Broadway-style\nsongs and a crafty plot. Its first and third acts are better than the jokey middle, but this is\nthe rare example of a Walt Disney Animation Studios effort that reaches as deep as a\nPixar film.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:07.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pixar generally does good movies, to my knowledge", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:42.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of my favorite scenes is when the sisters are young and playing together when things get out of hand and the sister with icy powers freezes her sisters mind ~ they go to a colony of trolls to heal her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:35.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've never heard of trolls healing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:57.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol yeah it sounds pretty strange but that is what makes it interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:33.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like an interesting movie to watch. I've seen some other Pixar movies in the past.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:49.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It definitely is! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:07:09.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Brave is my favorite disney movie, but this one is probably my 2nd", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:07:32.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've never heard of Brave, is that Pixar or something else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:07:43.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe it is Disney production. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:02.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It features\n a red curly-haired princess in a green dress.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:43.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know anything about Disney main line movies, I just know about the Pixar, Marvel, and Star Wars brands on heir own", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:52.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know they made movies anymore outside of their sub-studios", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:05.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we can finish the conversation by the way", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:31.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, have a great day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:41.484Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T18:56:50.724Z", 
+  "uid1LogOutTime": "2018-02-12T19:09:47.811Z", 
+  "uid1response": {
+    "feedback": "The movie got good ratings, and I haven't seen it yet. I might as well. I did not check the document is understandable because I did not get a document.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T18:56:50.750Z", 
+  "uid2LogOutTime": "2018-02-12T19:09:43.676Z", 
+  "uid2response": {
+    "feedback": "Thank you for the opportunity to participate!\n", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3482", 
+  "user2_id": "USR48", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

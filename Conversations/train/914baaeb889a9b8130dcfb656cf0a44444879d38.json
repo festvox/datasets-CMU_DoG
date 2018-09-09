@@ -1,0 +1,109 @@
+{
+  "date": "2018-01-30T19:18:00.761Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "If you're real, reply with \"avocado toast\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:18:18.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:18:34.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws the shark lurking in the dark'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:18:49.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:19:02.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's right, Jaws the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:19:08.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Starring Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:19:11.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you're real, reply with \"avocado toast\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:19:14.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya i got it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:19:47.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "starring me? no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:20:02.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're a bot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:20:46.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I starred in Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:20:50.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am Roy Schneider", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:20:53.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I am also Richard Dreyfuss", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:20:58.578Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:18:00.761Z", 
+  "uid1LogOutTime": "2018-01-30T19:21:20.217Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:18:01.014Z", 
+  "uid2LogOutTime": "2018-01-30T19:21:05.601Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4314", 
+  "user2_id": "USR3869", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

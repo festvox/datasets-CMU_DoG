@@ -1,0 +1,170 @@
+{
+  "date": "2018-02-03T04:05:03.375Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:05:32.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:05:41.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have loved this movie its so much of fin to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:05:57.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yae me too i like the donkey very much what is the fonkey name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:06:28.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is elsas younger sister ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:06:53.540Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think anna ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:07:10.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i watched it more than 10 times ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:07:28.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its such a beautiful snowy  movie\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:07:32.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:07:39.995Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "loyal pet reindeer is aslo cute", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:08:14.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:08:22.811Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who isloaltes both the sisters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:08:45.432Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its sucks we both are not going to get any reward", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:08:52.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "their parents die in the storm ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:09:22.284Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hi h r u whts ur name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:09:26.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that sad to see their parents die", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:09:39.004Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ru  a bot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:09:58.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "elsa is crowned queen of arendellle  at the age of 21 right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:10:12.014Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "r u nuts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:10:27.822Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "palace of ice created by elsa is super", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:10:43.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yaee blahhh 4", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:10:56.685Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nbyee mbot have fun", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T04:11:09.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "elsa also flees the kingdom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T04:11:14.536Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-03T04:05:03.375Z", 
+  "uid1LogOutTime": "2018-02-03T04:11:15.209Z", 
+  "uid1response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-03T04:05:03.518Z", 
+  "uid2LogOutTime": "2018-02-03T04:12:56.148Z", 
+  "uid2response": {
+    "feedback": "the other user did not respond properly and spoke anything", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4811", 
+  "user2_id": "USR1152", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

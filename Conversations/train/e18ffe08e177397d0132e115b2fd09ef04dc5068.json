@@ -1,0 +1,209 @@
+{
+  "date": "2018-03-27T16:04:09.530Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, \nwhat is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:05:52.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi T\noy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:07:14.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:07:27.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. What genre would you say the film is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:07:42.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Comedy, Animation,Adventure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:08:45.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ohh I see. Are there any notable actors for the voice roles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:09:08.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tom Hanks Tim Allen and Don Rickles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:10:13.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What studio made the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:10:34.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pixar Animation Studios", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:12:00.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nHow was it critically received?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:12:27.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "razzle-dazzle technique and unusual look", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:15:00.785Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm sorry. I don't understand. Was the film received well by critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:15:32.534Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In other words, did critics like the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:17:32.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes  I tell you what the critics say....It has the purity, the ecstatic freedom of imagination, that's the hallmark of the greatest children's films. It also has the kind of spring-loaded allusive prankishness that, at times, will tickle adults even more than it does kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:20:01.498Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the film win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:20:30.158Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "NO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:24:00.530Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what the Rotten Tomatoes score was for the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:24:59.761Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "100% and average: 9/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:26:03.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:26:16.552Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:28:30.429Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is it rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:28:52.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "95/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:32:20.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the film rating from the MPAA , I mean. Not the review score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:32:50.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:33:21.037Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll ask again. What is the MPAA rating of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:33:47.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:34:27.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you say the film is good for adults?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:34:41.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:36:39.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it good for children?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:36:48.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:38:11.759Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-27T16:04:09.530Z", 
+  "uid1LogOutTime": "2018-03-27T16:37:05.625Z", 
+  "uid1response": {
+    "feedback": "The user seemed very distracted. They were not able to provide me with relevant information about the film, and sometimes responded nonsensically. ", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T16:04:09.650Z", 
+  "uid2LogOutTime": "2018-03-27T16:39:36.163Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4704", 
+  "user2_id": "USR1309", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

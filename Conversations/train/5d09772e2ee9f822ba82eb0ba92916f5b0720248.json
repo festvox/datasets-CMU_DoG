@@ -1,0 +1,222 @@
+{
+  "date": "2018-02-07T19:36:40.633Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Tell me about the movie you read about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:37:28.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The move was called The Imitation Game.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:37:44.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard of that.  What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:38:19.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a historical drama based on the biography of Alan Turing, a cryptanalyst.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:38:45.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool.  Do you know what time period it is set in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:39:24.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The 40's, during WW2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:41:35.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:42:06.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Benedict Cumberbatch plays Alan Turing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:42:36.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Solid.  Any other famous people in leading roles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:43:00.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keira Knightley is Joan Clarke.  The other two actors, Matthew Goode and Tom Goodman-Hill, I've never heard of.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:43:41.575Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keira Knightley is one of my favorites.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:44:02.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know if it stays pretty true to the real story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:44:29.131Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It claims it is \"loosely based\" on Turing's life, so it may not be terribly accurate.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:44:56.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:45:14.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure, maybe around 2 hours.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:45:48.988Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good.  I prefer movies to be 2 hours or less.  What did you find most interesting about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:46:31.019Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I find the code-cracking to be very interesting in itself.  The story itself was also dramatic and compelling.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:48:23.564Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Very good.  Where was Turing from?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:48:47.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was British.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:49:55.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he was presumably fighting against the Nazis?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:50:07.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes.  He created a machine, named Christopher, that would break Germany's enigma code.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:51:36.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, that's awesome.  Is there a love story between Turing and the character played by Knightley?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:52:07.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Turing proposes to her, but it is revealed that he is actually a homosexual.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:53:09.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Quite a twist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:53:25.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is she involved with the decoding?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:53:41.095Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, she is just there for Turing, but near the end of the film he makes her leave for her own safety, and confesses his homosexuality to her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:55:21.909Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the movie set in Britain? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:55:52.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, at Bletchley Park.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:56:20.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never heard of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:56:34.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does Churchill appear in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T19:57:32.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I don't think so.  It is mostly the cryptographers at Bletchley Park.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T19:58:35.385Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T19:36:40.633Z", 
+  "uid1LogOutTime": "2018-02-07T19:58:47.095Z", 
+  "uid1response": {
+    "feedback": "The movie sounds very fascinating.  I'm most intrigued by how Turing was able to decode the messages sent by nazis during WWII.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T19:36:40.753Z", 
+  "uid2LogOutTime": "2018-02-07T19:59:13.246Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR439", 
+  "user2_id": "USR4218", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

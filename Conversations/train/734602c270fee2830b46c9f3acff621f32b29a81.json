@@ -1,0 +1,99 @@
+{
+  "date": "2018-02-06T15:21:41.188Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:21:59.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:22:42.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:23:04.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi I have a great new movie for you to watch if  you like marvel movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:23:34.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film tells the story of Princess Diana, who grows up on the Amazon Island of Themyscira. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:25:01.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "after an American pilot crashes offshore of the island is rescued by her he tells the amazons about the ongoing world war. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:26:19.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are  you there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:27:02.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Diana leaves her home in order to end the conflict.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:27:35.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a drama super hero movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:00.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 2015", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:11.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie is the 4th installment in DC extended universe.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:51.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called Wonder Woman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:29:41.438Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-06T15:21:41.188Z", 
+  "uid1LogOutTime": "2018-02-06T15:31:20.884Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T15:21:41.213Z", 
+  "uid2LogOutTime": "2018-02-06T15:34:33.188Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1733", 
+  "user2_id": "USR2412", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

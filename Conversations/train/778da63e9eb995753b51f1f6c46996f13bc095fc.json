@@ -1,0 +1,71 @@
+{
+  "date": "2018-03-19T20:16:33.840Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi have you seen the movie Monsters University?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:17:51.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:19:27.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ? was it good ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:19:38.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 2013 and it is a Comedy Animation.  Rotten Tomatoes gives it 6.8/10 79%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:19:42.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It tells the story of two monsters, Mike and Sulley and their time studying at college, where they start off as rivals, but slowly become best friends.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:35.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it and would recommend that you watch it if you are in to comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:56.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello is anyone there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:55.270Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T20:16:33.840Z", 
+  "uid1LogOutTime": "2018-03-19T20:20:26.460Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:16:33.864Z", 
+  "uid2LogOutTime": "2018-03-19T20:26:39.207Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4192", 
+  "user2_id": "USR2572", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

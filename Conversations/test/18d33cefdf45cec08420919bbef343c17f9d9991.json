@@ -1,0 +1,229 @@
+{
+  "date": "2018-02-09T21:52:02.156Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:52:47.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:53:17.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie that you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:54:01.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Dunkirk. It is a World War II movie that depicts the British evacuation from Dunkrik.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:54:20.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a newer movie, or an older movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:54:39.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A newer movie. Released in 2017.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:55:00.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like war movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:55:23.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay, and yes I do, actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:55:50.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like war movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:56:06.242Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. Have you seen Dunkrik?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:56:25.492Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I've never heard of it before. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:56:43.290Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. I have watched it before in theaters. It is a very dramatic movie. It has a strong opening, where a young British private is the sole survivor of a German ambush.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:57:44.140Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting, how long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:58:07.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry but I am not sure. I am sure a quick online search can answer that. Did you know that Christopher Nolan directed this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:59:14.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is Christopher Nolan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:59:46.418Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds familiar.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:00:06.121Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is a film director. Also sorry I just saw in the document that movie is 106 minutes long.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:00:36.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No biggie, 106 isn't too bad. Any notable actors in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:01:34.284Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Flonn Whitehead, Tom Glynn Carney, Jack Lowden, Harry Styles, and Aneurin Barnard are the main cast.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:03:00.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is also an interesting scene from the movie where a character is accused of being a spy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:04:20.984Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh really? that's interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:04:57.629Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it was entertaining to watch that scene.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:05:36.214Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There are also a few explosions and scenes of ships sinking. Does that sound like something you would want to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:06:39.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It does actually, I think it sounds pretty interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:10:13.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I'll watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:10:19.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's nice.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:10:27.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:10:30.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's also another scene that involves an evacuation. Over 300,000 soldiers were evacuated from Dunkirk.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:11:36.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where is Dunkirk?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:12:30.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "An area in France.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:13:35.490Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:13:56.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's where British soldiers retreated to when France fell to the Germans.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:14:00.616Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T21:52:02.156Z", 
+  "uid1LogOutTime": "2018-02-09T22:14:26.609Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T21:52:02.193Z", 
+  "uid2LogOutTime": "2018-02-09T22:13:59.880Z", 
+  "uid2response": {
+    "feedback": "Sounds like an interesting movie, something I would consider watching.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4436", 
+  "user2_id": "USR2123", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

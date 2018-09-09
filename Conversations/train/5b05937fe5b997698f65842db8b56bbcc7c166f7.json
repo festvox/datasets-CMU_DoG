@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-07T17:55:49.416Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there, what is the name of the movie you've read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:56:23.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. This movie has pretty good ratings. It is Catch Me if You Can.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:56:47.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome, are there any noticeable or famous \nactors in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:57:08.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There are some big name actors in the movie such as Tom Hanks, Christopher Walken, and Leonardo DiCaprio.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:57:27.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a good movie! Is the plot interesting? What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:57:47.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it is directed by Steven Spielberg!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:57:58.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Even better!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:58:16.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a biographical crime movie about a con man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:58:19.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When was the movie released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:58:42.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2002, but it feels much more recent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:58:58.032Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character is played by Leonardo DiCaprio. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:59:23.620Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great, he is one of my favorite actors!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:59:39.722Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I actually read a book with the same title, is this a movie based on the book?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:00:04.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mine too, I feel like he only chooses to be in great films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:00:11.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great Gatsby, Shutter Island, Wolf of Wall Street are some of my favorites", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:00:40.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I recently re-read Great Gatsby after watching the movie and I was not dissapointed!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:01:29.230Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I actually read the novel beforehand, both were amazing!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:01:49.332Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If Catch me if you can is anything like the book, it should be good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:02:03.019Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok, so the secondary character, Carl Hanratty, is played by Tom Hanks. Can't go wrong there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:02:08.245Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'll probably end up watching the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:02:12.217Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, okay, thanks for the information", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:02:25.889Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I prefer reading first too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:02:28.024Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like Christopher Walken?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:02:48.014Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays Frank Abagnale's (DiCaprio) father in this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:03:24.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm not sure if I know of him, any noticeable movies hes from?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:03:27.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:03:34.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie is based on a true story, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:03:43.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Reservoir Dogs is the first one that comes to mind with Walken.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:03:50.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is based on a true story. It has a nice wrap up at the end.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:04:07.766Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah loved that movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:04:13.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely a little twisted haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:04:24.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For sure lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:04:32.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great, I'd have to check it out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:04:35.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So Catch me if you Can takes place throughout the 60s, a time when it was much easier to be a con man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:05:15.485Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T17:55:49.416Z", 
+  "uid1LogOutTime": "2018-03-07T18:05:23.650Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:55:49.942Z", 
+  "uid2LogOutTime": "2018-03-07T18:05:03.738Z", 
+  "uid2response": {
+    "feedback": "User was very friendly and provided great information on actors and relevant movies. Provided good information on whether the movie was based on a book or true story, which influenced my choice on watching the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR32", 
+  "user2_id": "USR3018", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2018-02-20T19:03:43.553Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So we both saw Batman Vs Superman.  Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:04:25.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not that much, I agree with the 4.9/10 rating. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:05:37.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wHAT WOULD YOU RATE IT?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:05:44.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you normally like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:07:39.865Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-20T19:03:43.553Z", 
+  "uid1LogOutTime": "2018-02-20T22:13:46.474Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:03:43.567Z", 
+  "uid2LogOutTime": "2018-02-20T21:41:29.114Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4218", 
+  "user2_id": "USR555", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

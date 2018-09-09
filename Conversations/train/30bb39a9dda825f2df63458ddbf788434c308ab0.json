@@ -1,0 +1,104 @@
+{
+  "date": "2018-02-05T15:28:04.151Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you think the movie have a great cast?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:29:15.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but I don't like those actors. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:29:37.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:29:43.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No- I haven't but I am interested now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:29:58.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:30:18.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like Benedict Cumberbatch the most- because of Doctor Strange", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:31:23.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don't care for the other actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:31:39.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think the movie have a good rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:02.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, based on the ratings it should be good and interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:30.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems all the scores are high which I do base some of my movie watch off of. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:33:07.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do movie reviews matter to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:33:23.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't really care about what critics say about movies because i noticed sometimes they say bad things about great movies and great things about bad movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:34:31.331Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:28:04.151Z", 
+  "uid1LogOutTime": "2018-02-05T15:35:04.711Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:28:04.175Z", 
+  "uid2LogOutTime": "2018-02-05T15:34:41.851Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR4020", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

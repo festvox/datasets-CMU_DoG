@@ -1,0 +1,205 @@
+{
+  "date": "2017-12-01T12:42:09.861Z", 
+  "docLinkIdx": 7, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, how's it going?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:43:04.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there, the movie is Superhero Drama and you should watch it because it has a rotten tomato score of 92%. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:43:20.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomato is usually pretty right on with their reviews. I do love super hero movies. Whats the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:44:03.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of the movie is The Avengers lol. It's a pretty popular movie though and has a good cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:44:50.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are some\nof the actors in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:45:27.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr., Chris Evans, and Mark Ruffalo. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:46:17.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr, he plays Iron Man, correct? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:47:36.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Samuel Jackson is also apart of the cast. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:48:19.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a great cast! How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:49:17.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure how long the movie is but usually these types of movies last well over an hour. Probably around an hour and a half.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:50:07.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do the reviews say if it is action packed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:51:14.521Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, the critical responses talk about how the movie has a lot of action and great characters. Also I just found out the movie is 1143 minutes long so it", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:52:06.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "143*", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:52:13.420Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thats a good time for a movie. I wonder if its kid appropriate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:52:39.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is probably PG13+ and/or rated fpor a mature audience", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:53:23.372Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea probably more for violence than anything. I have seen some of the other Marvel movies and that is usually what it is for.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:54:05.670Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yup, some other interesting things about the movie is that there are a lot of Marvel character's in it and the story line appears very original", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:55:01.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The franchise is so big now, I have seen a lot of the other movies, but I like the ones that have all them together.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:56:01.494Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea I think those are the best as well. I also like The Avengers because it tend's to have a unique storyline whereas some of the other Marvel story's can become repetitive. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:56:56.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is true. I also cant resist seeing Robert Downey Jr.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:57:47.176Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yup, he's a great actor along with the rest of the cast. Some of the directors are great actors as well. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:58:14.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if I can find the movie on a streaming channel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:58:22.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure, but this movie probably also has a lot of really cool effects since it has fighter jet's in it and all kinds of explosions. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T12:59:12.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds like it would be awesome to watch in 3D. Its really good to watch a movie with great visual effects", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T12:59:55.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree it would look great in 3D, seems like an overall great movie choice with all of the great actors, great effects, and a high critic rating. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:00:28.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I definitely am going to try and watch this movie. Maybe I can finally get caught up on the Marvel movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:02:22.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm glad you are going to watch it, I hope you enjoy it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:02:54.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am sure I will!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:03:26.565Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-01T12:42:09.861Z", 
+  "uid1LogOutTime": "2017-12-01T13:03:37.059Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T12:42:10.357Z", 
+  "uid2LogOutTime": "2017-12-01T13:03:29.401Z", 
+  "uid2response": {
+    "feedback": "They gave great reasons as to why the movie would be good to watch. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3265", 
+  "user2_id": "USR2629", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

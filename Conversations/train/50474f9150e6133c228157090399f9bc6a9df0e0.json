@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-16T19:47:27.001Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:47:40.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good. You need to watch the animated movie \"Despicable Me.\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:48:18.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yeah? Why is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:48:31.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got Steve Carell, Jasin Segel and Russell Brand in it. It's computer animated. Hilarious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:49:16.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carell is good. It must be a comedy if he is in it. How would you rate the film out of 10?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:49:52.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:50:00.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:50:10.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's funny as heck.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:50:19.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well hows the story? If there is one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:50:39.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also what did critics give it in terms of score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:52:34.249Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The story is about a megalomaniacal supervillian who ends up with three little girls. Rotten Tomatoes gave it an 81%, Metacritic gave it 72/100 and CinemaScore gave it an A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:53:33.075Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh so it seems to be a pretty decent watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:54:02.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did you like the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:54:08.842Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I loved it. Good to smoke weed and laugh at.\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:54:22.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hopefully I don't need to by high to enjoy the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:54:46.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No but if you are it makes it even better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:55:02.223Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:55:05.602Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gru, the supervillian.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:55:18.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That must be Steve's character right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:55:31.222Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:55:38.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This sounds like a movie I might check out. You said he got 3 little girls. Are these his kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:56:28.175Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, they end up getting adopted by him at the end. He's evil, I don't think he even ever had a girlfriend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:57:15.477Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Adopted huh? That's interesting considering he's supposed to be a super villain. I am assuming I can watch this with the wife and kids right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:58:51.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it's a kid's movie. Cartoon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:59:12.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Steve Carell's character tries to steal the Moon in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:00:09.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This sounds good for them, and yo say the comedy is enough to keep me interested.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:00:20.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol he tried to break the fourth wall?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:00:29.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the kids would like that part the most.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:00:53.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's a bit of fourth wall breakage in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:01:02.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who directed the film? Do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:01:38.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pierre Coffin and Chris Renaud.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:01:58.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting, I'll give this a watch. Thanks a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:02:24.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Of course!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:02:33.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:02:38.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't leave until the study is done.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:02:55.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It should be. Does the Finish Conversation button have a white or grey tint?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:03:21.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "White.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:03:30.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Should be white.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:03:32.026Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T19:47:27.001Z", 
+  "uid1LogOutTime": "2018-03-16T20:03:47.375Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T19:47:27.061Z", 
+  "uid2LogOutTime": "2018-03-16T20:03:34.055Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR1161", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

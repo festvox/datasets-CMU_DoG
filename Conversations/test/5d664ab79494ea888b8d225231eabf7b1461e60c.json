@@ -1,0 +1,161 @@
+{
+  "date": "2018-02-16T20:19:15.682Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:24:06.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:24:57.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the avengers movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:25:21.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:25:41.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you see the article?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:25:50.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2012", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:25:56.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't seen the Avengers!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:26:44.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh my goodness! Do you like action packed movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:27:07.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like movies with Chuck Norris, Rambo. I like some Marvel movies too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:28:01.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any of the Iron Man or Captain America movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:28:17.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:28:52.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Avengers has Iron Man, Captain America, Hulk, Thor, Scarleet Johansson as the Black Widow and Jeremy Renner as Hawkeye. They make up the Avengers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:29:38.836Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like captain America between the two because he  is not as arrogant.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:29:54.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is an amazing movie with non-stop action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:29:55.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Out of The Avengers, I like Hulk because he is unpredictable. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:30:31.534Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thanks. I think I will be looking into it while I am here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:30:37.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The ratings are very high, 90+ on rotten tomatoes and cinemascore. I highly recommend it if you like action. You are correct though that Tony Start is arrogant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:41.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "*Stark*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:32:08.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am really interested now. I have seen the second one. But i wouldn't mind seeing the first one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:32:36.251Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Overall, I am not a huge superhero movie fan, but this is one of my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:33:05.297Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The user left the chat session prior to page 3 and 4 displaying. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:37:04.023Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T20:19:15.682Z", 
+  "uid1LogOutTime": "2018-02-16T20:33:14.476Z", 
+  "uid1response": {
+    "feedback": "Very informative and could relate to some of the actors.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:19:15.684Z", 
+  "uid2LogOutTime": "2018-02-16T20:39:05.140Z", 
+  "uid2response": {
+    "feedback": "The user left the chat session prior to page 3 and 4 displaying. Waited 5 minutes before leaving the chat myself.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR441", 
+  "user2_id": "USR3684", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

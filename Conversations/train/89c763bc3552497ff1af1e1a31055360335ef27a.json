@@ -1,0 +1,604 @@
+{
+  "date": "2018-02-13T19:17:20.937Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:17:46.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:29.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Jaws?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:19:21.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which one wasn't there two?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:19:49.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The first one, and I believe there was four. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:20:18.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie, still one of my favorites to this day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:20:46.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was very frightening when it came out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:21:22.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Didn't the sound track win awards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:21:35.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, because this can and does actually happen. I don't know if the soundtrack won any awards But none the less a 1975 Thriller by Steven Spielberg and it should've. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:23:04.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't remember what beach that took place but people were afraid to go to the ocean for awhile. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:24:11.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So I'm taking it as you have not seen it, But you should. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:24:21.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In North Carolina there was a shark attack two years ago. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:24:34.202Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It took place on a fictional place called Amity Island", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:24:55.642Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They happen every year somewhere. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:25:16.318Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who starred in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:25:38.901Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "anyone popular? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:26:05.805Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It has a great cast. Roy Scheider, Robert Shaw, Richard Dreyfuss which is my favorite. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:26:25.805Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I have seen it more than once but not recently. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:26:33.407Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have it. So from time to time I'll watch it. It's a classic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:27:08.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like Richard Dreyfus too, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:27:20.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wonder if they play it on shark week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:27:53.834Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I doubt it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:28:06.728Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There have not been any new releases of sea monsters ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:28:31.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The fact that sharks are attracted to splashing and the Mayor would not close the beach just shows most people don't think it could ever happen but again it does. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:29:28.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did they call in some special shark hunter to catch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:30:32.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the boat they went out in was too small. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:30:42.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, Quint offered to catch and kill it for $10k", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:31:13.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It had to have made a lot of money at the box office", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:58.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe it topped the box office yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:32:39.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was 1975 huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:33:39.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:33:54.601Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should definitely give it a try again. \n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:34:30.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What kind of shark was it again a great white?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:35:28.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes a great white ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:35:38.894Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Supposedly rare for those waters ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:36:03.505Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was odd that they did not use a bigger boat to catch it, did that guy quint die", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:37:16.160Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was based on the 1974 novel by Peter Benchley. \nI've never read the book, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:37:20.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah, bitten in half", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:37:38.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There were four sequels, I only thought there was one other one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:38:24.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Chief Brody and Matt Hooper survived. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:38:48.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There was 2, 3D and The Revenge", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:39:19.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe that's it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:39:31.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love horror movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:39:47.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Funny they did not close the beach down ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:40:00.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not usually watch horror movies that was different I guess, everybody was talking about it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:40:36.757Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Mayor didn't want to lose money. Amity is a summer town ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:40:42.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm pretty sure it's the #1 scary movie of all time because it can actually happen. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:41:32.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is true that it can happen, it is not like a scary clown or walking dead", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:42:03.479Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:42:13.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There really are monster sharks like that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:42:17.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They do not typically attack boats", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:42:54.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I personally wouldn't call them monsters but yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:00.018Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No but they have ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:06.372Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Noise and comotion ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:23.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They probably think it is food", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:43:39.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\npretty sure I spelled that wrong lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:41.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That would be my guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:56.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie was good, it would be something you could watch with your kids today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:44:04.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jaws is too gruesome for children and likely to turn the stomach of the impressionable at any age. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:44:56.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did not go to the movie theater to see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:45:14.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me either. Not sure when I seen it first", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:45:42.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was in high school , everyone was going to the ocean during the summer holiday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:48:04.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I'll tell ya, I've only been in the ocean once and all I thought about was sharks thanks to Jaws. \n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:49:15.237Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It put a fear in me that will never go away. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:49:41.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too, especially if you cannot see in the water.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:50:02.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:50:42.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It must have been over 10 feet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:50:55.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If I remember correctly it was 45ft ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:51:42.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Amity Island it was in the USA right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:52:29.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This makes my want to go watch it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:52:42.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "New England", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:53:15.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I lived in New England at the time, we did not seem to have any sharks then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:54:01.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well that's good. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:54:15.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm from the Midwest ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:54:31.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No sharks here. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:54:38.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When i think of the movie it reminds me of the Jersey Shore or Long Island", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:55:11.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:55:18.141Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never been there. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:55:25.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is over crowded. I never liked swimming in the ocean anyhow.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:56:20.621Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think what's funny is you have no sympathy for the victims because they've all been warned and still go in. It's like see told ya. They got what they deserve. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:56:44.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Things like that never happened back then. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:57:28.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right, Now they must be over populated because you hear about shark attacks alot. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:58:25.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like that surfer in Hawaii that lost her arm to a shark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:58:48.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Scary stuff", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:58:55.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The waters are warmer and I think scientifically they think the sharks are coming closer to shore because of something they are eating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:59:41.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was 6 in 1975", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:59:50.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was 15. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:00:07.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep they eat , swim and make little sharks. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:00:25.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Every once in awhile they have Jaws on some TV channel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:00:33.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now you'll think of this conversation every time you see it's on. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:01:08.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know I will", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:01:14.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it would be nice to live on an island like Amity. Very quaint ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:02:06.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "my hit exspired but ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:03:31.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:04:06.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll finish the conversation then. Nice chatting with you. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:04:36.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not want you to lose your mone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:04:42.586Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-13T19:17:20.937Z", 
+  "uid1LogOutTime": "2018-02-13T20:04:38.295Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:17:20.938Z", 
+  "uid2LogOutTime": "2018-02-13T20:05:34.246Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2435", 
+  "user2_id": "USR2661", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

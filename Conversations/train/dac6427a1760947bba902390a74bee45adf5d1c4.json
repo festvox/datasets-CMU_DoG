@@ -1,0 +1,68 @@
+{
+  "date": "2018-02-14T19:52:34.950Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a classic!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:54:38.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Certainly is, it has made me fear the water ever since seeing it as a child.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:55:13.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely a movie I'd like to watch again sometime, havnt seen it in years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:55:21.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would you consider this a horror film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:55:21.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Umm...hm. Respectfully, compared to others no not really. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:56:03.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:56:40.980Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T19:52:34.950Z", 
+  "uid1LogOutTime": "2018-02-14T19:55:30.848Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:52:36.189Z", 
+  "uid2LogOutTime": "2018-02-14T19:57:13.722Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR433", 
+  "user2_id": "USR949", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

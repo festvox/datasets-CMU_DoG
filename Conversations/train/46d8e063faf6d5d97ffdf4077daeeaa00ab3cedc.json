@@ -1,0 +1,283 @@
+{
+  "date": "2018-02-21T00:41:01.993Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:41:38.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:43:11.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty, a comedy film directed by Tom Shadyac.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:43:53.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2003.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:44:04.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could you tell me some things about the movie? Like, the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:44:21.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey plays the leading role.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:44:26.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure! It's a movie about a TV reporter who gets the chance to \"play God\" for one week.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:45:30.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The opportunity is bestowed to him by non-other than God himself, who is played by Morgan Freeman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:46:02.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound like an interesting and unique scenario, it is intriguing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:46:29.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And judging by the actors, it seems that it would be something that i would watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:47:07.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the rating of the movie, though?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:47:15.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie rates 5.7/10 stars on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:47:54.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Although the rating doesn't seem like it's too high, given the fact that it's a comedy i think i'd give it a chance", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:49:31.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you have any more information about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:49:39.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, I forgot to tell you, the CinemaScore is an A!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:50:25.915Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched the movie yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:51:55.926Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think you should give it a chance, considering one critic's review I read. It stated, \"Carrey is hilarious...\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:52:03.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is irrelevant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:53:02.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Although i don't like listening to critics, that quote is good to hear", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:53:26.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think i will give it a watch judging by all the information you've given me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:53:39.658Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Since you don't like critics, I definitely think you will take delight in watching Bruce Almighty. \"Be your own movie critic!\" That's what I always say.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:55:12.922Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I hope you enjoy it however.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:55:30.276Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think you will!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:55:37.122Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you have anymore questions for me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:56:01.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thank you, i think i will too, i have never been disappointed by those actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:56:10.248Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, i think that would be all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:56:16.467Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Glad to be of assistance. Please let me know how you liked it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:57:04.068Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That way I can make better recommendations for you in the future.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:57:27.375Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for all the info, it was nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:58:10.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Likewise. Always a pleasure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:58:25.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Enjoy your movie! Don't forget to pop some popcorn.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:59:02.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I also recommend an ice cold Coca-Cola.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:59:29.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You need to keep refreshed what with all the laughing in your near future.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:00:21.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha, that alone, actually, made me laugh. Could you remind me what year was the movie released? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:01:07.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The year 2003. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:02:14.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that's actually long time ago, i'm surprised how i've never heard of the movie 'till now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:03:29.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was now 15 years ago! It's understandable though that you haven't heard of it, considering you're not a follower of movie reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:04:59.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jennifer Anniston was in the movie as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:06:42.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So many of my favorite actors in a movie, that's crazy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:07:42.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Another noted actor, this has to be a good sign.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:07:44.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Excactly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:07:51.675Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-21T00:41:01.993Z", 
+  "uid1LogOutTime": "2018-02-21T01:08:01.044Z", 
+  "uid1response": {
+    "feedback": "Judging by all the actors and the fact that it's comedy, i'll definitely watch it, and it's actually surprising that i hadn't heard of the movie before!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-21T00:41:02.258Z", 
+  "uid2LogOutTime": "2018-02-21T01:07:57.113Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4224", 
+  "user2_id": "USR3061", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

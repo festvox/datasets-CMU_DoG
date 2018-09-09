@@ -1,0 +1,159 @@
+{
+  "date": "2018-01-26T19:37:29.179Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:37:42.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:37:50.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:37:57.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what's the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:38:06.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Avengers(2012)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:38:27.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " have you seen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:38:35.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:38:41.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:38:47.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is marvel film'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:39:17.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "super hero subject ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:39:26.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great. Again, what is it about? What happens in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:39:32.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very interesting\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:39:51.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lot of fight ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:39:59.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They save world every time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:40:12.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's always good. Anything else you can tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:40:26.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:40:53.400Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "u like super heros", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:41:01.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:41:04.969Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok ko", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:41:40.969Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What film u like ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:41:57.676Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hellow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:44:30.225Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hellow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:45:18.550Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T19:37:29.179Z", 
+  "uid1LogOutTime": "2018-01-26T19:44:21.505Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-26T19:37:29.476Z", 
+  "uid2LogOutTime": "2018-01-26T19:53:48.759Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3580", 
+  "user2_id": "USR674", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

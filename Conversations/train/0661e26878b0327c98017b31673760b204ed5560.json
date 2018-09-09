@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-28T19:25:55.044Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:26:20.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, what do you think about Despicable Me?  It's a really good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:26:37.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:26:50.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's quite funny!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:26:56.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you just read about it? Or have you seen it also.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:27:06.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah?  Steve Carell is super funny.  My kids love this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:27:09.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah he plays gru really well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:27:35.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:27:37.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I don't have kids, but I think the movie is good for all ages", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:27:55.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I recommend it to my friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:28:01.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lots of good lessons in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:28:05.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:28:08.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And the animation is really top level.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:28:23.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah it is, simple but not too simple, and just detailed enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:28:40.834Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like all the small details in the movie, and how gru evolves over time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:28:54.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what's your favorite character in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:29:17.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also like Gru.  He's the funniest of the characters by far.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:29:47.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same here. And it has a lot of rewatching value", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:30:18.216Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Always find new things and easter eggs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:30:29.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I've probably seen it a dozen times.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:30:36.349Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T19:25:55.044Z", 
+  "uid1LogOutTime": "2018-02-28T19:30:48.376Z", 
+  "uid1response": {
+    "feedback": "I enjoy watching the movie, and have seen it already. The other person just affirmed what I already thought about the movie.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T19:25:55.179Z", 
+  "user1_id": "USR2570", 
+  "user2_id": "USR3045", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

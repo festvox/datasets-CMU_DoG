@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-28T21:27:17.309Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:28:11.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of John Lee Hancock?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:28:26.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:39:37.949Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-28T21:27:17.309Z", 
+  "uid1LogOutTime": "2018-02-28T21:40:38.314Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T21:27:17.340Z", 
+  "uid2LogOutTime": "2018-02-28T21:29:53.570Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR332", 
+  "user2_id": "USR868", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

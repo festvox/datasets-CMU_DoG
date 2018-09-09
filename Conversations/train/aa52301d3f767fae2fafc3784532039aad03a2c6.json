@@ -1,0 +1,276 @@
+{
+  "date": "2018-03-23T18:16:01.100Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:16:08.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:16:09.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! fine, and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:16:24.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:16:30.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm glad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:16:36.648Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie do you like to talk aobut?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:16:36.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was hoping you would tell me ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:16:49.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how bout iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:06.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do u know the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:08.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:17:14.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:17:22.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:24.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hbu", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:30.013Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:17:32.681Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its fun", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:38.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I liked it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:17:39.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why did u like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:17:45.124Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It tells the story in a good way", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:18:05.406Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like that movie more?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:18:21.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Keeping you wanting to know how everything unfolds", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:18:24.878Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i never watched that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:18:31.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can u tell me hwat's about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:18:34.217Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:18:39.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great gatsby", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:18:43.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is about a wealthy man that meets the love of his life after a long time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:19:19.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:19:55.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who's playing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:19:59.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leonardo DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:20:17.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyone else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:20:27.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember the rest", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:20:38.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can you look it up?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:20:46.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know any of the rest?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:20:47.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:20:52.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you be interested on watching that movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:21:01.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:21:19.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will definetly check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:21:24.157Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:21:40.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:21:54.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:21:57.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great talking to you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:22:00.145Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T18:16:01.100Z", 
+  "uid1LogOutTime": "2018-03-23T18:22:01.034Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:16:01.129Z", 
+  "uid2LogOutTime": "2018-03-23T18:22:04.396Z", 
+  "uid2response": {
+    "feedback": "I did not receive a document, but the other user apparently did. We talked briefly about The Great Gatsby, and even when I did see it and the other user hadn't, I would see it again, not per se because of anything said in the conversation, but more the fact that I talked about it with someone made me want to watch it again.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR1483", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

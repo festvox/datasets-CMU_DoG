@@ -1,0 +1,148 @@
+{
+  "date": "2018-04-02T15:31:21.953Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the Toy Story movie?  I loved it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:31:50.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked it too! I liked that Tom Hankds voiced Woody because he's one of my favorite actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:32:33.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, Tom Hanks is awesome.  I also liked Tim Allen as Buzz Lightyear.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:33:09.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you typically like animated movies? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:33:15.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do!  Especially Pixar movies.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:33:45.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too! I didn't realize Steve Jobs was involved in the production of Toy Story. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:34:45.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh right, that's true, he had a big hand in Pixar's early life.  The critics sure loved Toy Story as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:35:50.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They did - it has great ratings and I completely agree with the critics on this one. It's a great movie for both children and adults. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:34.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"a work of genius\"  yes, yes it was.  :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:37:01.499Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely! I loved seeing Woody and Buzz go from rivals to friends. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:37:37.609Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked all the toy characters, they had really good comraderie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:37:59.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which was your favorite? I think I liked Slinky Dog best! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:16.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hm, i liked Buzz.  He's got such a big ego and big heart too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:56.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "True. I liked that they threw a little romance in between him and Bo Peep the shepherdress. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:39:35.274Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes that was cute.  and how Mr Potato\n Head is wishing for Mrs Potato Head", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:40:14.577Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think I ever had a fav toy that lastest year after year.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:40:42.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me either, so I can understand why the toys were nervous that they felt they were going to be replaced. I always replaced my toys. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:41:17.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh, do you remember the bad neighbor kid Sid?  i remember some kids on my street growing up that liked to wreck action figures like that too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:42:35.347Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello?  are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:45:16.199Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "darn.  ok, bye bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:58:06.552Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-04-02T15:31:21.953Z", 
+  "uid1LogOutTime": "2018-04-02T17:07:20.234Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:31:22.011Z", 
+  "uid2LogOutTime": "2018-04-02T15:58:17.196Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3902", 
+  "user2_id": "USR3606", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

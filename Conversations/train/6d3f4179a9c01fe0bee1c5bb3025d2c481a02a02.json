@@ -1,0 +1,92 @@
+{
+  "date": "2018-03-07T23:35:46.255Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:35:53.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you see information about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:36:30.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the waiting time is over.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:40:44.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not choose this moive however it appears they chose it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:02:36.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:02:40.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not howver Leo Dicaprio is a great actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:02:50.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i generally love all of his moives", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:02:55.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "just noticed that amy adams and tom hanks are in it too! wow that sounds excellent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:03:07.459Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is also very interesting that all of that is a true story. Hard to believe a 19 year old kid could do all of that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:03:25.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think it would happen in 2018. He would get caught way too easily", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:03:39.905Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T23:35:46.255Z", 
+  "uid1LogOutTime": "2018-03-07T23:40:58.925Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T23:35:46.258Z", 
+  "uid2LogOutTime": "2018-03-08T00:03:45.459Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3552", 
+  "user2_id": "USR3821", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

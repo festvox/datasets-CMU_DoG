@@ -1,0 +1,147 @@
+{
+  "date": "2018-02-18T18:58:18.069Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T18:58:52.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T18:59:27.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "read about a movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:00:18.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yep, I did. You? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:00:34.484Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:00:37.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:00:43.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about kids training dragons. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:01:04.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it it called How to Train Your Dragon?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:01:32.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that's the one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:01:50.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen it, but i'd like to. What would you rate it out of 10?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:02:24.859Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would give it a 10. Absolutely. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:02:44.799Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "does it have a good ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:03:05.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't want to spoil it for you, but it is Dreamworks after all. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:03:43.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it family friendly? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:03:55.622Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, very much so.  Coming of age and whatnot. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:04:16.386Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good! Does it have good music?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:04:42.954Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It does. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:05:27.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thanks! Sounds like a good movie so I will be watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:05:55.449Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You should enjoy it. Critics and audiences rave about it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:06:25.557Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think so too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:06:36.181Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If you're into animation, this one is first rate. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:10:26.346Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-18T18:58:18.069Z", 
+  "uid1LogOutTime": "2018-02-18T19:14:31.272Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-18T18:58:18.091Z", 
+  "uid2LogOutTime": "2018-02-18T19:08:46.357Z", 
+  "user1_id": "USR4849", 
+  "user2_id": "USR4537", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

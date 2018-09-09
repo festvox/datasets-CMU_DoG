@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-29T20:28:23.478Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:28:42.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:29:58.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am waiting for my article to load", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:30:00.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:30:04.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok I will abort and tell it is because of techincal difficulty.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:43:18.848Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T20:28:23.478Z", 
+  "uid1LogOutTime": "2018-03-29T20:43:29.731Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T20:28:33.596Z", 
+  "user1_id": "USR2122", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2018-03-01T04:53:50.779Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:54:19.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:54:24.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You have an unique description listed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:54:46.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:55:00.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:55:23.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "American movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:55:33.669Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-01T04:53:50.779Z", 
+  "uid1LogOutTime": "2018-03-01T04:56:06.932Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T04:53:51.190Z", 
+  "uid2LogOutTime": "2018-03-01T04:55:58.074Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2761", 
+  "user2_id": "USR4630", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

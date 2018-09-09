@@ -1,0 +1,296 @@
+{
+  "date": "2018-02-14T21:11:18.721Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:11:35.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed this movie.  I think it deserves its 91% rating on Rotten Tomatoes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:12:03.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:12:56.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen this movie. I though Benedict Cumberbatch was great in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:13:20.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Had you heard about Turing before you saw this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:13:41.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I knew about the Turing test, but I didn't know his role in the war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:14:08.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought he was perfect for this role though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:14:21.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I really enjoyed Keira Knightly's performance as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:14:39.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed. I'm surprised the Metacritic score is so low though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:14:50.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also didn't realize it was originally a play.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:14:58.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea, I am curious about that too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:15:04.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen other similar films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:16:03.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not really actually.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:16:18.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:16:32.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not a big fan of biopics, honestly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:16:46.573Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But I am a bit of a Computer Science nerd, so I thought that the movie would be very interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:17:08.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right on.  I thought it was really tragic when Christopher died in the beginning of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:17:22.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea I am a huge tech fan, so I definitely enjoyed that element of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:17:42.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Had you heard of the Enigma machine before seeing this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:17:57.078Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It reminded me a bit of a Beautiful Mind. Have you seen that? It's about a schizophrenic mathematician.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:17:58.773Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I had not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:18:01.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea me neither.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:18:07.339Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I have seen that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:18:29.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you think of him naming the machine after Christopher?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:18:36.346Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I forgot that Alan named the machine Christopher.  I thought that was touching.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:18:44.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. But at the same time, it almost felt like he couldn't get over him. Like his newest obsession was named after somebody he still longed for.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:19:39.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea for sure.  It was like his way of holding on to something that wasn't there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:20:03.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did you feel about the scene where he shuns Keira's character, Joan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:20:40.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is, when he tells her that he is gay and never loved her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:21:05.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I felt really bad for his wife in that scene.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:21:08.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I felt bad for her overall for the whole situation.  I cannot imagine what that must have been like.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:21:28.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I felt ambivalent about it. On one hand, it was almost like it was society's fault for making him pretend to be straight, but on the other hand, he didn't have to lie to her like that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:22:19.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't imagine that happening to me. It would be heart-wrenching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:22:31.039Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know, it was such a tricky situation for him to be in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:22:36.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It must have been so hard to live in a society that was so harsh about his se\nxuality.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:22:58.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Especially being such a public figure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:23:07.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the ending was so sad the way the government treated him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:23:31.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah. Do you think he killed himself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:23:42.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or do you think that it was the chemical castration?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:23:57.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea I do.  Plus the other workers too, never being able to see each other again.  Talk about a bittersweet ending.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:24:17.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It really makes you appreciate that there hasn't been such a ware in 70 or so years.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:24:44.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:24:50.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:24:51.922Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T21:11:18.721Z", 
+  "uid1LogOutTime": "2018-02-14T21:25:06.551Z", 
+  "uid1response": {
+    "feedback": "Pleasant conversation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T21:11:18.729Z", 
+  "uid2LogOutTime": "2018-02-14T21:25:01.346Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1505", 
+  "user2_id": "USR4163", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

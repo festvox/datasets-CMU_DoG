@@ -1,0 +1,226 @@
+{
+  "date": "2018-03-22T14:46:57.539Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie is awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:47:25.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the title of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:37.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Real Steel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:47:47.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, who's in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:55.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like an action movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:48:13.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:48:20.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Hugh Jackman!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:48:29.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What year was it released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:48:40.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2011", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:48:49.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it an action or drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:49:05.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its an action movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:49:16.705Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought so, sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:49:45.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What score did Rotten Tomatoes give?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:50:00.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "59%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:50:07.849Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's pretty low...but I don't always agree with critics...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:50:25.484Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "People seemed to like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:50:42.825Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:50:56.295Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Shawn Levy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:51:20.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anything else you can tell me about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:51:34.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its like rocky but with robots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:51:55.095Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is Hugh Jackman a robot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:52:14.021Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or does he play a human?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:53:17.473Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You think it's a good movie to watch with kids? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:55:18.976Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he is a human", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:56:44.922Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah i do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:56:47.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I couldn't imagine Hugh Jackman as a robot...lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:57:22.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who else is in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:57:39.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "D\nakota Goyo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:58:05.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think I know who that is...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:58:21.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:00:01.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not a romantic date movie then...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:00:08.195Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldnt say so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:00:18.483Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T14:46:57.539Z", 
+  "uid1LogOutTime": "2018-03-22T15:00:25.979Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:46:57.543Z", 
+  "uid2LogOutTime": "2018-03-22T15:00:21.725Z", 
+  "uid2response": {
+    "feedback": "The other person hardly gave me information, just short answers. Certainly did not make me want to watch the movie. I had to wait for several minutes for the other person to respond.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2966", 
+  "user2_id": "USR2088", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

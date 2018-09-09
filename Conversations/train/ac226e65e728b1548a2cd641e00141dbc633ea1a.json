@@ -1,0 +1,257 @@
+{
+  "date": "2018-02-19T18:42:12.515Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:42:51.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you seen the movie The Social Network?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:43:09.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, surpisingly not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:43:28.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2010.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:43:31.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesse Eisenberg stars in it. He's really good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:43:44.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. How is the directing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:43:56.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "David Fincher was the director so you know it was good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:44:24.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. I like most of his films. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:39.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave it a 96.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:44:58.343Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:08.167Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It won a bunch of awards didnt it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:16.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't remember that. But critics loved it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:45:53.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie starts with Zuckerberg getting dumped by his girlfriend in 2003.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:46:15.694Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and then becomes the evil genius?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:46:32.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Zuckerberg starts a website in Harvard that allows students to rate others' attractiveness.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:47:15.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha yes exactly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:47:28.811Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "didn't realize facebook started like that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:47:30.061Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He eventually meets this other girl who helps him make his website grow, and they call it Facebook.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:48:16.325Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I take it he forces her out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:48:31.806Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Then he meets with the Napster founder to get more funding.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:48:41.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "fuck napster brings me back", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:49:04.288Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know me too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:49:19.675Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anyways Zuckerberg moves the company to Palo Alto.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:49:36.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "from boston?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:49:54.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah exactly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:50:09.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's when all the lawsuits start happening.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:50:20.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where does the movie go to, timeline wise?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:50:43.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One group claims he stole their idea, which he kind of did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:50:46.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fincher splices it so that there are flashbacks along with the depositions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:51:09.794Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was basically that hot or not thing with myspace", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:51:18.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:51:48.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Zuckerberg is so unlikable, that he ends up settling with a lot of cases because he would likely lose in the courtroom.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:52:19.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it seems like it's worth watching?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:52:21.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it is good, and I'm not just saying that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:52:37.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're good. Nice talking with you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:52:54.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's good. I remember wanting to see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:52:59.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:52:59.940Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T18:42:12.515Z", 
+  "uid1LogOutTime": "2018-02-19T18:53:02.187Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:42:12.518Z", 
+  "uid2LogOutTime": "2018-02-19T18:53:00.753Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2505", 
+  "user2_id": "USR3337", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

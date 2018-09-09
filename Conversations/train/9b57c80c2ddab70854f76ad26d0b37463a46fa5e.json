@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-02T19:53:42.823Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, Benedict Cumberbatch was excellent as Alan Turing, dont you agree?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:54:53.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Yes, agreed. I thought Keira Knightley also did fantastic as Joan Clarke. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:55:31.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie did a really good job informing us of the historical time period, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:56:31.161Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T19:53:42.823Z", 
+  "uid1LogOutTime": "2018-02-02T19:57:02.360Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:53:42.825Z", 
+  "uid2LogOutTime": "2018-02-02T19:57:31.072Z", 
+  "uid2response": {
+    "feedback": "The person left", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4871", 
+  "user2_id": "USR1594", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

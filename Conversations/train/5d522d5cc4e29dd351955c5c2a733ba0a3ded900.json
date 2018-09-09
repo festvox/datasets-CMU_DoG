@@ -1,0 +1,204 @@
+{
+  "date": "2018-02-06T22:18:28.119Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:18:57.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:19:40.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm interested in learning about this movie. What is it called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:19:58.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:20:15.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:20:18.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have heard of it. Who is it directed by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:20:31.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Chad Stahleski and David LEitch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:20:49.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, great. When was it released in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:21:00.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2014", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:21:12.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's right. Who stars in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:21:24.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keanu Reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:21:29.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there anyone else in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:21:39.305Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who co-stars in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:22:28.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Michael Nyquist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:22:39.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is this movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:22:43.158Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "An Ex-hitman who return to the criminal underworld following the death of his wife", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:23:05.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nWhat is this movie rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:23:10.870Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's rated R", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:23:26.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nWhat did you like most about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:23:31.369Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I loved the action scenes.  How one man takes down a group of heavily armed individuals without a weapon, so good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:23:59.023Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nAre the reviews for this movie good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:24:04.615Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are mixed, Rotten tomatoes gave it an 86% and Cinema score gave it a B", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:24:42.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think I should watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:24:50.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If you are interested in action thrillers of a man wronged trying to seek vengeance.  Absolutely!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:25:24.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:25:30.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's around 2 hours.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:26:27.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:26:42.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, It didn't", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:27:09.066Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T22:18:28.119Z", 
+  "uid1LogOutTime": "2018-02-06T22:27:11.451Z", 
+  "uid1response": {
+    "feedback": "I'm just not that interested in action movies.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T22:18:28.140Z", 
+  "uid2LogOutTime": "2018-02-06T22:28:09.936Z", 
+  "uid2response": {
+    "feedback": "The conversation just ended there was no formal ending.  I am unsure what to do now", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4274", 
+  "user2_id": "USR3700", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

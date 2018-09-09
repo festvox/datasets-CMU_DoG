@@ -1,0 +1,174 @@
+{
+  "date": "2018-01-30T21:04:57.226Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:05:45.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:06:57.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:07:17.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:07:32.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it Marvel's The Avengers? Or the older movie called The Avengers with Uma Thurman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:08:17.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Marvel's The Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:08:54.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you get to watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:09:18.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I own it on Blu-Ray", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:09:41.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, cool! W\nay to go!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:10:12.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen it many times and will see it many more times. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:10:22.127Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I did. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:10:45.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:11:07.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, of course. Ruffalo is the quite the revelation. Besides, it's hard not to when it's starring Robert Downey Jr. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:13:08.473Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr. is just perfect as Iron Man/Tony Stark. I was skeptical with Ruffalo as Hulk but he has pulled it off many times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:14:10.613Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He sure has. He turns Banner into a wry reservoir of calm, ready to become a volcano. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:15:56.170Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was nice seeing all of them working together. Loki is one of my favorite villains.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:17:53.533Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it's cool how Loki uses the Tesseract in conjunction with the device Selvig built, to open the wormhole above Strak Tower.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:21:33.165Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I meant Stark Tower", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:21:54.683Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm glad Selvig was in this one, he was great in the Thor movies. I did like that Tony pretty much saved the city by diverting the nuke towards the end.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:23:58.593Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I echo. Overall, Joss Whedon (the director) did a brilliant job. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:25:11.809Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you generally watch movies with good ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:30:23.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do, but I like low rated ones as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:30:58.194Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok. Do you generally go for Superhero dramas?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:32:31.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do like them. I didn't like Batman V Superman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:34:21.941Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T21:04:57.226Z", 
+  "uid1LogOutTime": "2018-01-30T21:37:30.589Z", 
+  "uid1response": {
+    "feedback": "I've already seen the movie but I would always watch it again.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T21:04:57.639Z", 
+  "uid2LogOutTime": "2018-01-30T21:34:35.592Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1425", 
+  "user2_id": "USR2793", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

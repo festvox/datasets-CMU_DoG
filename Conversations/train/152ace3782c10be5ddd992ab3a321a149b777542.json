@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-26T22:47:15.469Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:47:49.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:47:54.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Martin Scorsese-directed film The Wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:48:26.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. Who's in that movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:48:51.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a drama or a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:50:05.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo Di Caprio stars as the fraudulent, rampantly corrupt stockbroker Jordan Belfort. Margot Robbie plays his wife, Naomi. And Jonah Hill is also in it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:50:17.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a dark comedy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:50:31.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you want to hear what the critics thought about it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:51:39.526Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T22:47:15.469Z", 
+  "uid1LogOutTime": "2018-03-26T22:51:32.055Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T22:47:15.817Z", 
+  "uid2LogOutTime": "2018-03-26T22:51:54.778Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4360", 
+  "user2_id": "USR4120", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

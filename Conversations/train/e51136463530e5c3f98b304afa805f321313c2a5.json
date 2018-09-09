@@ -1,0 +1,173 @@
+{
+  "date": "2018-02-06T14:44:16.480Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:42.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HAI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:51.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:04.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:24.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "PLEASE CHAT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:24.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IRON MAN", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:37.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont have the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:39.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:42.114Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:44.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES LIKE IT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:53.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:09.075Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i will have to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:12.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anything else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:19.379Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "YOU DOWNLOAD FOR TAMIL ROCKERS.COM", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:00.702Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the main character of the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:17.425Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it a super hero film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:39.086Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a lot of action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:42.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "TONY STARK", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:46.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:51.676Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "THANK YOU", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:58.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how do we end convo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:25.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "YES END CONVO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:35.251Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "finish convo button wont work", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:01.415Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T14:44:16.480Z", 
+  "uid1LogOutTime": "2018-02-06T14:49:15.831Z", 
+  "uid1response": {
+    "feedback": "The other person didn't share many details.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:44:16.735Z", 
+  "uid2LogOutTime": "2018-02-06T14:49:08.058Z", 
+  "uid2response": {
+    "feedback": "GOOD", 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2203", 
+  "user2_id": "USR2737", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2018-03-29T19:21:37.976Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:21:59.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the \"toy story\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:22:33.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:22:42.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't, but I have a brief info about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:23:41.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what do you make of the reviews out there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:24:16.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think the reviews are spot on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:25:31.871Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-29T19:21:37.976Z", 
+  "uid1LogOutTime": "2018-03-29T19:26:21.167Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-29T19:21:41.512Z", 
+  "uid2LogOutTime": "2018-03-29T19:25:46.863Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4098", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

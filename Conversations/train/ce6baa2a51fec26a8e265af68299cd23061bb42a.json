@@ -1,0 +1,75 @@
+{
+  "date": "2018-02-09T19:32:57.448Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:33:24.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:33:28.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have a movie recomendation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:34:10.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the movie I think you should see is John Wick. It star Keanu Reeves, and is a high octane action movie. Lots of shooting and practical car stunt work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:35:19.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:35:42.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The plot centers around the titular John Wick. He's an ex-assassin who has been trying to get out of the criminal underworld for a while. Mobsters come to get him, and kill his puppy. This sets John off on a full-on revenge story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:36:45.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I think I've seen trailers on it. Who else is in the cast?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:37:44.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you coming back?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:39:24.833Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T19:32:57.448Z", 
+  "uid1LogOutTime": "2018-02-09T19:37:36.919Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T19:32:57.497Z", 
+  "uid2LogOutTime": "2018-02-09T19:40:13.393Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1072", 
+  "user2_id": "USR4507", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

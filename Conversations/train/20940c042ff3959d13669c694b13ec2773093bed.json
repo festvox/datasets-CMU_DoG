@@ -1,0 +1,82 @@
+{
+  "date": "2018-02-07T21:38:56.097Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:39:17.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how do rate this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:39:28.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was okay. What did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:39:51.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That\u2019s how I felt. Although it did have some good scenes in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:40:23.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite scene? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:40:44.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the ship blowing up the science where the soldier blinded George.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:41:54.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Scene not science. Sorry!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:42:20.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:42:40.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think the title actually matched the film? No worries about misspellings!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:42:57.392Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:38:56.097Z", 
+  "uid1LogOutTime": "2018-02-07T21:43:12.189Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:38:56.928Z", 
+  "uid2LogOutTime": "2018-02-07T21:43:22.232Z", 
+  "uid2response": {
+    "feedback": "The other user left the room.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1093", 
+  "user2_id": "USR2361", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

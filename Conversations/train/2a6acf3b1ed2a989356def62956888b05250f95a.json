@@ -1,0 +1,550 @@
+{
+  "date": "2018-03-07T15:50:21.458Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:44.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:50.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:03.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Begins!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:13.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The start of the Christopher Nolan Batman trilogy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:29.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, is that the one with Anne Hathaway?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:35.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No that was the third of the trilogy I believe ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:14.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This was with Katie Holmes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:22.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Liam Neeson was prominent throughout as his teacher", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:53:02.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, I just saw an interview today with her - on Jimmy Fallon or Jimmy Kimmel, can't remember. She fixed her teeth finally.  /What's the most interesting thing you were told about the movie in the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:18.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it\u2019s metacritic score was a 70/100, seems low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:08.134Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have you seen this movie, would you recommend watching it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:54:18.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And I never knew Alfred\u2019s last name was Pennyworth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:30.347Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "were you told the year the movie came out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:54:52.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I\u2019ve seen it multiple times, I am a big fan of Bale as Batman and Nolan directing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:03.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2005", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:11.296Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's the year after I graduated uni, lol. / were you told how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:55:52.418Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don\u2019t see how long, my guess is around two hours. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:43.407Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no, I'm not into Batman movies... Were you told whether the movie got any awards (for directing, cinematography, acting) - this could affect my decision...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:57:06.149Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "(That was the year I graduated high school)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:57:16.430Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see... So what about the movie's awards? Any info?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:58:00.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No only that it was  a 7.7/10 on rotten tomatoes and an A for CinemaScore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:21.471Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you a fan of Nolan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:47.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's quite a good score... I remember Stephanie Zackarek, a film critic I usually agree with, is usually harsh about such big movies. Were you told what was her opinion about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:59:17.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No she is not listed directly. Nolan directed movies such as Interstellar, Inception and most recently Dunkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:00:32.072Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no, to be honest I don't care about Nolan. and I don't usually like big movies. the one with Daniel Craig and that French actress is probably the only big movie I liked in the last years. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:01:24.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I meant James Bond' movie with Daniel Craig... Does the movie you were told about has any other female actresses listed than Katie Holmes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:02:04.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "_other than_ Katie Holmes I mean", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:02:25.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah I see. Yeah this was a lot more creative, less big picture style Batman. Katie Holmes is the only female mentioned. As I mentioned Liam Neeson is in it, Gary Oldman and Michael Caine as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:03:46.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(we need at least 15 exchanges to get paid, the time limit for the chat is 15min if I remember correctly, very little time is left, could you please reply faster?) oh, Michael Caine I like. That Italian movie with him and Harvey Keitel and Rachel Weisz was fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:04:22.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It\u2019s about the origin and early times of Batman. Essentially his development from regular guy to the hero ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:04:29.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so is there a \"young Batman\" character in this movie? (a teenage actor, I mean) who is playing him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:01.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Caine usually has the slight jabs of comedy in the Batman movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:07.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No not teenage, but there is a small youth part but he\u2019s not Batman, just young Bruce Wayne", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:35.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "More like his journey and travels for the few years before he returns to Gotham City and develops Batman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:15.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He\u2019s sick of the crime that has taken over the city and how cops can\u2019t or won\u2019t do anything about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:56.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you told what are the special powers of the costume?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:59.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the Batman' costume/armor I mean", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:15.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No that\u2019s not discussed, I only have specific scenes being added now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:07:33.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"He\u2019s sick of the crime that has taken over the city and how cops can\u2019t or won\u2019t do anything about it\" - isn't it his attitude in every Batman movie? :) (I remember seeing one of the old ones on TV when I was a teenager)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:55.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it\u2019s a pretty generic atatement from me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:19.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what \"specific scenes\"? any funny ones?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:21.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No the first one is where he\u2019s a child and how he develops his phobia of bats ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:46.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and how he develops this phobia?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:06.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that ultimately leads to it fueling him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:09:28.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "any info about his mother? what was she like? or at least the father?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:51.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His mother and father were killed by a thief around that same age ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:14.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His father was the entrepreneur and philanthropist but still was gunned down in the streets. This was a huge development in the direction of Bruce\u2019s life obviously", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:13.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this sounds familiar, I probably saw something about this in that old Batman movie on TV - I vaguely remember now, it seems it was directed by this English weird fairy tale style movie director, who made Edward Scissorhands..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:17.007Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, childhood trauma. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:45.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes that was an earlier adaption in 1990 by Tim Burton", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:46.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:50.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who like you said did Ed Scisscors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:58.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:12:08.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which movie is better, the one you are told about or that one, in case you've seen them both?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:12:28.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That one was a little odd. Better writing, acting, character development this time around", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:12:34.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the old one was very interesting visually - that I remember. had never seen anything like that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:13:20.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You don\u2019t have to be a superhero junkie to like the Nolan Batman movies, his are a little darker then Hollywood superhero movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:42.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what do you mean by better writing this time around. sharper dialogues?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:13:43.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "better one-liners?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:13:57.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very much so, less of the comic book style dialogue ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:14:20.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it\u2019s definitely worth a watch for anyone, you don\u2019t need to be a superhero fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:15:20.652Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and what did you mean by better acting this time? could it be that you just like the actors in this movie better than the ones in the old movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:15:26.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You could be right, Christian Bale is better than Michael Keaton and George Clooney batman portrayals", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:16:11.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(I noticed being biased myself about such stuff - especially if the actors are in the same age group as I am, and look similar to me)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:16:13.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But other co stars from the older ones were also top notch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:16:39.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, George Clooney's Batman is a famously bad one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:16:47.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who are the older ones, other than Caine and Neeson?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:17:04.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From the old movies, famously Jack Nicholson was the joker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:17:24.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Before Nolan\u2019s second Batman movie he did that starred Heath Ledger in the role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:17:43.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that one I saw, I'm asking about older ones in the movie you were told about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:17:52.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh that\u2019s what I meant by older, the early 90s", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:18:10.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(\"that one I saw\" - that was me about the one with Jack Nicholson.)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:18:17.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, I see. but you weren't told who is else in the movie, other than Katie Holmes, Caine, Neeson?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:18:47.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right, early 90s for me is older. This was the first of three Nolan ones, starting in 2005", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:03.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gary Oldman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:11.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And obviously Bale", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:31.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So what do you think? Is this a movie you might give a look?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:49.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:22:04.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably, because i've just spent so much time thinking about it and talking about it. this alone made em curious :) also, I'm curious to see a Nolan movie with \"fresh eyes\" - I dislike him from my years of reading books on film directing (was entertaining idea about going into it), maybe now I'm more of a simpletone / normal movie watcher and might like him... also, I realized I'm biased because of his looks. I remember him looking like the perosn I wouldn't like in real life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:22:09.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh lol sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:22:14.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so I want to check out how the current version of me will react to the whole thing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:22:49.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok, so I've made my decision, we can stop now it seems", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:23:08.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats interesting I also looked into film directing and read several books but I guess I never took on that view of Nolan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:23:31.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yup, hopefully you enjoy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:23:41.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Visual Story - filmmaking book - was so great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:23:56.140Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T15:50:21.458Z", 
+  "uid1LogOutTime": "2018-03-07T16:23:47.239Z", 
+  "uid1response": {
+    "feedback": "I am not sure if the user was British or possibly Canadian but they had not seen the movie and really weren\u2019t a fan of the director. They asked for information I did not have, this conversation wasn\u2019t the smoothest but I think they\u2019re going to use some fresh eyes and watch it now.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:50:21.485Z", 
+  "uid2LogOutTime": "2018-03-07T16:24:25.453Z", 
+  "uid2response": {
+    "feedback": "I was forced to think about it, talk about it for so long that I got curious about the movie. Also, it has Michael Caine at least - I like him. Also, I haven't seen a Nolan movie in a very long time - I'm curious how the current version of me will react to his movie, how my visual & entertainment preferences have changed.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1853", 
+  "user2_id": "USR2447", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

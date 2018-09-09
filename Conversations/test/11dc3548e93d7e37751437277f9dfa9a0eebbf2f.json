@@ -1,0 +1,228 @@
+{
+  "date": "2018-02-13T18:13:37.069Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:14:30.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:15:05.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:15:17.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it it is called The I\nmitation Game have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:15:37.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen it. Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:16:00.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is a historical drama directed by Morten Tyldum loosely based on  the biography Alan Turning: The Enigma", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:17:09.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems very interesting. I wonder where I could find it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:18:20.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 2014 so you would need to rent it most likely", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:18:52.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder if it is available online, like on Netflix or hulu. I will have to see if I can find it later. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:19:46.134Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not have information on that currently.  I do believe I have watched it on Netflix before though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:20:48.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wait, I have seen this movie. I enjoyed it. Did you agree with the ratings of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:21:33.029Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, It got 91% on Rotten Tomatoes and an A+ on Cinema Score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:22:28.298Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was also described as a superb thriller and Glamour declared it as an instant classic. I can't believe it didn't ring a bell with me when I saw the title. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:24:27.153Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I had to take a minute to realize I have seen it before as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:26:01.404Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was the actress that played Joan Clarke? I can not remember her name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:26:50.649Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Keira Knightley", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:27:34.408Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie was undeniably strong in the sense of a light burned out too soon and the fate of many who dare to go against society norm. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:30:05.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it was and the decryption of the German codes used during the war is very interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:31:03.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you have other questions about the cast or plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:33:15.566Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some points in the direction of the movie were disappointing because Turnings actual story was so compelling in my opinion. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:16.323Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha I was just about to ask you the same ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:47.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not too familiar with the actual story what are some of the differences?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:34:02.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just a few ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:39.293Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked Benedict Cumberbatch in the movie I think he fit the role well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:35:42.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " Me too ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:36:14.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the name of Turnings machine?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:36:17.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Christopher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:36:42.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah yes that was it . ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:36:56.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting name lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:15.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thanks have a good day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:27.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For a machine it is ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:29.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good Day ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:56.622Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T18:13:37.069Z", 
+  "uid1LogOutTime": "2018-02-13T18:39:26.904Z", 
+  "uid1response": {
+    "feedback": "This is the first time I have interacted with anyone on a task like this and I found it difficult to engage the person I was paired with into a conversation about the movie in which we were reading about. I hope we were of some help. Thank you ", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:13:37.070Z", 
+  "uid2LogOutTime": "2018-02-13T18:37:39.439Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2676", 
+  "user2_id": "USR3362", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

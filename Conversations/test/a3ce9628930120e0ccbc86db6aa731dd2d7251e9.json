@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-06T16:52:47.881Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "\nolleh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:53:31.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:54:07.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:54:09.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good thank you I am sorry I am trying to reload my page because nothing is showing on my screen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:54:24.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "uh oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:54:50.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "f5 quick haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:54:55.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "let me try to load my other browser & see if this helps or if I can connect back to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:55:09.390Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T16:52:47.881Z", 
+  "uid1LogOutTime": "2018-03-06T16:56:09.499Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T16:52:49.510Z", 
+  "uid2LogOutTime": "2018-03-06T16:57:42.163Z", 
+  "uid2response": {
+    "feedback": "the other user left", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR206", 
+  "user2_id": "USR570", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

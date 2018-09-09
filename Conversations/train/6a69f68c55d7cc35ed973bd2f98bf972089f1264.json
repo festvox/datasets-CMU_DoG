@@ -1,0 +1,240 @@
+{
+  "date": "2018-02-06T00:10:19.830Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!  What movie will we be talking about today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:10:57.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.  Want to watch Jaws?  It's from Steven Spielberg.  He's good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:11:25.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never watched Jaws before.  Is it scary, what else can you tell me?  I know Steven Spielberg is a great director!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:11:57.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a scary thriller.  Some people think it is the most cheerfully perverse scare movie ever made.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:12:41.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like an odd combination!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:12:57.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you are thinking of a different kind of perverse...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:13:22.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a 97% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:15:15.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow!  A lot of people seem to have really enjoyed it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:16:40.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Someone did say it was funny in a Woody Allen sort of way, so you won't be shaking in your seat the whole time!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:17:58.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not really into silly funny movies.  It sounds kind of out there to me!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:20:02.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What other movie would you compare it to?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:21:27.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:23:12.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's too gruesome for children.  I can't compare it to any other movie.  Just that this one is a sensationally effective action picture.  You'll have to think of your own comparison.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:23:26.766Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's good to know that my daughter would not enjoy it.  I don't really care for gruesome films myself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:24:01.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are some of the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:24:29.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, some of the most frightening sequences are those where we don't even see the shark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:24:38.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rob Scheider, Richard Dreyfuss, Robert Shaw, and Lorraine Gary.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:25:11.313Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Those are some big name actors!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:25:23.432Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:25:44.825Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is this movie a remake?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:26:46.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There's a scene where some local fishermen catch a shark, making the mayor claim the beach is safe.  However, that was a little premature and the great white shark ends up killing a boater and causing Michael to go into shock.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:27:31.361Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, but it is based on a novel by Peter Benchley.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:27:45.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't heard of Peter Benchley...has he written many books?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:28:07.337Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know how long the running time is on the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:28:40.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is Michael?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:29:10.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know how long it is.  Michael is a character - the son of the police chief.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:30:08.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen this movie yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:30:53.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In another scene a character goes down in a shark-proof cage, but the shark demolishes it.  Luckily the character escapes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:31:43.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:31:49.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How do they escape?  What else can you tell me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:32:32.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, it kind of ruins the end for you maybe, but they end up blowing up the shark using a pressurized scuba tank that they shoot with a rifle.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:34:09.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then they are able to paddle back to shore on the wreckage of the boat the shark destroyed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:34:34.884Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow!  Sounds like the movie is action packed.  Not really my cup of tea, but I do appreciate the information!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:35:14.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is gruesome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:36:25.526Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T00:10:19.830Z", 
+  "uid1LogOutTime": "2018-02-06T00:35:17.381Z", 
+  "uid1response": {
+    "feedback": "This is not a movie that I would have any interest in seeing.  ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T00:10:19.957Z", 
+  "uid2LogOutTime": "2018-02-06T00:37:09.409Z", 
+  "uid2response": {
+    "feedback": "I think it is hard to get two Turkers to chat the whole time.  I think we tried.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR775", 
+  "user2_id": "USR866", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

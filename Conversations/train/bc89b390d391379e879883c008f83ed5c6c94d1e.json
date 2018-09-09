@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-02T03:21:12.583Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:21:22.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:21:28.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:21:43.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bruce almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:21:52.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:21:55.920Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:22:00.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:22:04.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:22:08.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:22:15.099Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jim carrey eh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:22:30.016Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha carrey is funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:22:42.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but annoying", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:22:46.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:22:51.544Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hate his face", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:22:57.769Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "stupid clown", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:23:05.858Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what about the story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:23:23.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can't remember", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:23:41.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "something about a guy becoming god for a week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:24:01.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:24:10.644Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "clever?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:24:24.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "kinda", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:24:29.613Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "jennifer aniston is in it too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:25:18.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:25:22.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the friends girl", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:25:31.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah the one with the hair, haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:25:47.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "exactly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:25:55.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is directed by tom shadyac", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:26:09.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "never heard of him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:26:18.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me neither", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:26:24.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it has 48% on rt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:26:39.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rt?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:26:46.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rottentomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:26:54.645Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:27:16.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "48", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:27:22.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds about right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:27:36.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:27:43.965Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:27:51.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:27:58.159Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T03:21:12.583Z", 
+  "uid1LogOutTime": "2018-03-02T03:28:21.651Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T03:21:12.584Z", 
+  "uid2LogOutTime": "2018-03-02T03:28:02.818Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4469", 
+  "user2_id": "USR2832", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

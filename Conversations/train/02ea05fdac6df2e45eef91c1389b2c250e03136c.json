@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-07T16:03:10.170Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:03:21.354Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Just reading about \"The Blind Side\" movie - have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:04:10.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen it. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:04:22.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got a few things going on - family (well-off folks adopt a poor teenager), sports (teen's a football star, how will he get into college?), and some social commentary about all of the above.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:18.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, and it's based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:39.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah I see. Who is the story based on?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:47.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "An NFL player named Michael Oher. He played for Baltimore.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:11.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah, I see. Who plays him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:51.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's played by Quinton Aaron. I don't know the name - do you? Maybe I'd recognize his photo...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:21.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't recognize it either. What position does he play in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:07:42.232Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also, I forgot to say - the story's also based on his real family, the Tuohys.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:47.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's an offensive lineman - a big, athletic guy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:26.208Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Got it! Are there any star actor/actresses in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:45.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes - Sandra Bullock is the mother, and Tim McGraw is the father. I didn't know he acted, did you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:16.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't either! That's wild. Did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:06.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it's interesting when stars in other areas cross over to new ones, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:10:26.575Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie was good - above average for sure, but not astounding. Which is a fine thing, for a movie, yes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:02.869Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It can be, but not always. I'm personally not that interested in Sports. How heavily does that impact my ability to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:34.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I hear you - I'm not super-into Sports, either. There's a lot more going on that makes it a good watch: Michael runs away from foster care + football offers a way for him to feel better about himself and life; Leigh Anne's friends question the safety of adopting him via thinly veiled racism and classism; there's a bit about him becoming comfortable with his talents. Sound any better? :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:13:56.028Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That definitely makes it sound a little better. I heard there was some backlash about the racial parts of the movie. Do you think any part of the movie made you uncomfortable?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:15:00.349Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There were some complaints that it's too pat - say, everything went so smoothly despite all the pain the boy had endured b/c of his drug-addict mother, feeling unloved, that sort of (awful) thing. Aside from what I mentioned above (the mom's racist friends - whom she rebukes), I don't know about any other backlash. What did you hear?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:17:45.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just that some people found it offensive. Then again, who doesn't find things offensive? What else did you enjoy about the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:56.807Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's true. Maybe some people didn't like that it was a white family helping a black boy? I'm not sure. I did like when they got Michael a tutor - she was outspoken and nice, so her personality added some fun to the goings-on. And seeing him become happier and feel loved while doing better at football was great...inspiring, hopeful, that sort of thing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:22:25.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything that you didn't like about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:23:01.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not dislike, per se, but there were elements that were harder to watch. For example, the scene w/ the mother's racist friends was disturbing - not least b/c it was so realistic. And when Michael goes back to his childhood home and his time with the gang members there turns violent, it's stressful and sad to think it might derail Michael's future.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:25:11.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems like they tackled the reality of the situation really well. It would make me uncomfortable to see the more racist elements, but that is a part of life. I hope the movie helps other people see the reasons to try and overcome issues. Do you have a favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:27:18.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I agree - it's good to show it, and good to make people uncomfortable, so they think about it and hopefully see what's wrong. I think my favorite scene is when Michael questions Leigh Anne (mother) about her motives for taking him in. It was an important conversation to have, and not an easy one, but ultimately Michael's okay w/ what she says - and it shows that he's finally feeling safe enough to have opinions about things.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:30:00.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow. That seems really moving honestly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:34:54.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does he decide to go to college?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:35:08.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it was moving! I teared up, for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:35.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I bet! I would too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:35:48.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And yes, he does decide to go to college. The parts w/ the tutor are in pursuit of that - the family and Miss Sue all work together to help him catch up on the work he's missed, and move forward, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:36:14.177Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T16:03:10.170Z", 
+  "uid1LogOutTime": "2018-03-07T16:35:58.643Z", 
+  "uid1response": {
+    "feedback": "I just don't really care for moving involving sports, This bot did amazing in comparison to last times!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:03:10.311Z", 
+  "uid2LogOutTime": "2018-03-07T16:37:32.146Z", 
+  "uid2response": {
+    "feedback": "This was very well done - kudos! It was interesting to see which things the document described (or didn't), and the doc was definitely understandable. The other user was an active participant, and we had a good, fairly detailed, smooth conversation. I have seen the movie, but made sure not to say anything that wasn't in the document. Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2181", 
+  "user2_id": "USR2253", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

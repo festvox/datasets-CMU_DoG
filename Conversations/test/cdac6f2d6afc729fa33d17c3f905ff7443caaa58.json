@@ -1,0 +1,94 @@
+{
+  "date": "2018-03-22T17:50:33.196Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:50:40.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:50:50.401Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Wolf of Wallstreet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:50:52.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Wolf of Wallstreet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:50:59.268Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "fantastic movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:51:01.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's your favorite part of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:51:13.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Wolf of Wall \nstreet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:51:16.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Wolf of Wall \n\nstreet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:51:17.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Wolf of Wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:51:23.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i have seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:51:29.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:51:33.789Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T17:50:33.196Z", 
+  "uid1LogOutTime": "2018-03-22T17:51:46.641Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:50:33.251Z", 
+  "uid2LogOutTime": "2018-03-22T17:52:38.688Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2417", 
+  "user2_id": "USR4827", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

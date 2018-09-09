@@ -1,0 +1,96 @@
+{
+  "date": "2018-03-28T00:35:12.099Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:35:24.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:35:33.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is anyone online?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:35:40.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, sorry I was reading the info. Have you ever seen the movie Home Alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:36:00.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a comedy from 1990 staring Macaulay Culkin.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:36:55.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, I have seen home alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:02.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:03.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "for some reason the info isn't showing up for me. All i am seeing is this chat window", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:18.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The home alone page isn't showing up for me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:42.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I'll just tell you what I know about it. Is that okay?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:37:45.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:50.886Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T00:35:12.099Z", 
+  "uid1LogOutTime": "2018-03-28T00:38:28.774Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-28T00:35:12.110Z", 
+  "uid2LogOutTime": "2018-03-28T00:38:02.667Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1470", 
+  "user2_id": "USR3821", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

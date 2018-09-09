@@ -1,0 +1,53 @@
+{
+  "date": "2018-01-26T21:13:49.093Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "h i", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:14:03.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:14:24.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:15:13.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:16:59.291Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T21:13:49.093Z", 
+  "uid1LogOutTime": "2018-01-26T21:18:01.254Z", 
+  "uid1response": {
+    "feedback": "the other user left the chat and never returned.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-26T21:13:52.355Z", 
+  "uid2LogOutTime": "2018-01-26T21:14:25.689Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2553", 
+  "user2_id": "USR1896", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

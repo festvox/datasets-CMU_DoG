@@ -1,0 +1,123 @@
+{
+  "date": "2018-03-21T17:22:11.457Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:22:47.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:22:54.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like the movie The Shape of Water", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:23:33.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Shape of Water? I don't particularly like the movie. Its a bit to slow for my taste and a lot weird. I have watched it. But I would not watch it a second time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:24:25.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't watched it \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:25:01.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:25:08.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its about Sally Hawkins who is a mute janitor at a lab and she falls in love with a experiment, a fish-man. Octavia Spencer is her friend and basically helps her escape.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:26:49.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that sounds cool ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:27:26.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You have to talk about the document in order to get the money and move on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:27:35.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:27:50.135Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So my question is, what character does Michael Stuhlbarg play in the Shape of Water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:28:27.957Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Michael Stuhlbarg plays Dimitri mosenkov , a soviet spy working as a scientist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:30:15.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I find it interesting that Elisa , as a child, was found in a river with wounds around her neck. \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:33:40.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And later on she connects with a humanoid amphibian. Maybe she connects with the thing because she is like it.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:37:17.514Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do you think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:40:27.374Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T17:22:11.457Z", 
+  "uid1LogOutTime": "2018-03-21T18:10:36.831Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T17:22:11.501Z", 
+  "uid2LogOutTime": "2018-03-21T17:41:51.250Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2925", 
+  "user2_id": "USR2336", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "date": "2018-03-23T18:25:40.666Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, What movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:26:33.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Today we'll be discussing the 2008 superhero movie Iron Man!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:26:40.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonderful, I have heard that is a classic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:26:57.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did the excerpt refer to a particular section of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:27:29.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indeed it is. In fact, Cinemascore gave it a rating of A!  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:27:35.633Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "An \"A\" is certainly no small feet nowadays, what makes this movie so special?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:28:32.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "As you know, it's based in the Marvel Comics character and stars Robert Downey Jr. as Tony Stark/Iron Man. Are you a fan of Robert?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:28:37.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I must admit, that his earliest works were a little boring for my taste, but as he aged I found him more charming", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:29:33.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is true. It is an expansively entertaining special effects extravaganza!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:29:34.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indeed. He truly nailed the part. Terrance Howard is also in the film. Are you a fan of him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:30:08.821Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Terrance Howard has always interested me. He is such a phenomenal\n actor, particularly his work in Empire was striking. I must wonder how he and Robert perform together. Is there good chemistry between the 2?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:31:19.054Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also not to change the topic but I must ask, you mentioned special effects earlier, would you say that the movie leans heavily on special effects, or just use them to an end", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:34:04.124Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In my opinion, there was. He played James \"Rhodey\" Rhodes - a friend of Stark' s and the liaison between Stark Industries and the US Air Force. In the beginning, they go to Afghanistan to test a missle known as \"Jericho\". But it all goes wrong when their convoy is ambushed and Stark is critically wounded.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:34:32.057Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting, I always find that the chemistry between lead and supporting characters drives plot development", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:35:14.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "To answer your question, I'd say it impressively sets mechanics that combine smoothly with relatively seamless CGI!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:35:43.770Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And they do! Rhodes was with stark in Afghanistan during the Jericho missile test!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:36:34.726Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well that does sound great. What age group be the most interested in this type of film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:36:50.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Honestly, I'd say it's suitable for all! And based on Cinemascore and Rotten Tomatoe's impressive ratings, all will enjoy it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:37:58.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would like to hear more about the plot, does is revolve around Robert Downey Jr. as a weapon's dealer (you mentioned he was trying to sell a missile at a test)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:39:16.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It does primarily center around him. In fact, after the middle test goes wrong and the convoy is ambushed, Tony is imprisoned by a terrorist group. But later, there's an interesting twist as well: Obadiah Stane - Tony's business second in command and friend is trafficking arms to criminals around the world and was actually staging a coup to replace Tony as CEO of Stark Industries!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:42:09.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That does sound like a driving force. What does Tony stark do to thwart this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:42:47.443Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Stark sends Pepper Potts (his personal assistant) to hack his database to track the company's illegal shipments. During the process, Stane meets with the terrorist group and has a massive new suit reverse engineered .", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:45:11.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like quite a bit of political intrigue and corporate espionage. I will say it comes across a little heavy though, does the movie have a humor\n incorporated to lighten the load?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:46:23.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To be honest, Robert plays a consummate playboy and I found that aspect hilarious. I think you would as well. I did forget to note that when Potts hacked the database, she discovered Stane hired the terrorist group to kill Tony!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:48:40.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm glad to hear it at least is funny at points. But having the coup planned from the very start is definitely a great twist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:49:28.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree! Of course, It all went bad for Stane in the end and he got what he had coming to him!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:50:17.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OF course. Classic\n good vs bad guy ending. Now is there any other reasons I should give this movie a watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:53:34.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is an epic battle between Stark and Stane that takes place i think you would enjoy seeing. The battle eventually resulting in Stane's death. Plus, from a humor standpoint, I think you'll get a kick out of the ending as Tony goes against the suggestions of SHIELD and announces publicly that he was the Iron Man. I thought it was hilariously bold!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:55:56.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And what an odd ending with the oh so normal \"secret identity\" trope being so prominent in superhero movies. Is the fight particularly epic, what with there past involvements?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:57:26.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was indeed epic. Potts overloads the reactor that powered the building which caused a massive electrical surge, forcing Stane to fall into the reactor killing him!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:59:20.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I enjoyed discussing the 2008 superhero movie Iron Man with you! Have a great day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T19:00:02.812Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T18:25:40.666Z", 
+  "uid1LogOutTime": "2018-03-23T18:59:17.729Z", 
+  "uid1response": {
+    "feedback": "The other user was a little slow on responses, and felt like he was trying to upsell me a bit, but still a worthwhile experience", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:25:40.799Z", 
+  "uid2LogOutTime": "2018-03-23T19:00:12.701Z", 
+  "uid2response": {
+    "feedback": "Everything went smoothly and was perfect! I thoroughly enjoyed it! Thank you so much!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2322", 
+  "user2_id": "USR3781", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

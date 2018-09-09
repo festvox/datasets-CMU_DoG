@@ -1,0 +1,110 @@
+{
+  "date": "2018-02-14T20:18:58.717Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there! What do you think of this movie? I think my kids would love it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:17.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like my kids would love it too! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:35.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love the idea of an annomated world of animals! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:50.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me too! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:20:13.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also that it has a thoughtful message. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:20:26.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And how cute the animal police department!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:20:43.338Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Judy Hopps also seems like a character my children could \"look up to\" and could be a positive character for them. Especially because she seems to be pursuing her childhood dream! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:21:03.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes this is a must watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:21:30.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder what type of animal Chief Bogo is to doubt Judy Hopps ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:04.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe a rabbit! Aren't we sposed to move on to movie 2 now?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:39.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it seems like it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:23:15.304Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Scene number one seems so cute! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:24:13.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it does! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:24:30.273Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T20:18:58.717Z", 
+  "uid1LogOutTime": "2018-02-14T20:24:40.961Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:18:58.917Z", 
+  "uid2LogOutTime": "2018-02-14T20:24:44.873Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2708", 
+  "user2_id": "USR2945", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

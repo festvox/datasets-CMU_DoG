@@ -1,0 +1,45 @@
+{
+  "date": "2018-03-29T19:26:10.393Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "are you there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:26:38.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I am here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:28:21.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, Monster's University is the movie we're talking about right now. Made by Pixar. You've heard of it, right? Has John Goodman, and Steve Buscemi in it as character voices. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:29:59.896Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T19:26:10.393Z", 
+  "uid1LogOutTime": "2018-03-29T19:35:11.371Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T19:26:14.507Z", 
+  "uid2LogOutTime": "2018-03-29T19:27:19.169Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2604", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

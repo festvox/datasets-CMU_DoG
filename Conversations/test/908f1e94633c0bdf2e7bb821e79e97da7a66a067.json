@@ -1,0 +1,155 @@
+{
+  "date": "2018-02-16T18:42:54.131Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:43:44.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen Dunkirk?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:44:04.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not! Is it a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:44:37.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is fantastic.  I don't normally watch war movies, but this is about the rescue of hundreds of thousands of British men from the shores of Dunkirk - they are between the sea and the Germans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:46:28.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll definitely have to check it out. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:47:10.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The acting is great. There's not a lot of talking, but focuses on their rescue by land, air and the sea.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:47:50.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds pretty interesting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:49:10.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All these soldiers are on the beach - open targets for the german fliers.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:49:37.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very suspenseful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:49:57.711Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:51:23.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Kenneth Brannaugh, a great British actor and Harry Styles, the singer.   The film was written, directed and co-produced by Christopher Nolan, who's great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:53:09.832Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Very cool and unique casting. I'd love to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:53:59.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It can be pretty harrowing. There's this long dock where they are lined up to get on a hospital boat and as it leaves it's hit by the Germans.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:54:50.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's one of those movies that makes you appreciate what they did to make the world a better place for us.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:57:15.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems suspenseful, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:58:02.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It shows various ways the young soldiers try to stay safe - some funny,, some not so funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:58:56.120Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Towards the end they get all these people who have boats in a village in England to go across the English Channel to help rescue the soldiers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:01:43.595Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:03:07.964Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what it's rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:03:09.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think R because of the violence", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:03:30.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "To see all the different boats, fishing boats, sailboats, sailing towards the dock in Dunkirk is so inspiring!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:05:02.740Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T18:42:54.131Z", 
+  "uid1LogOutTime": "2018-02-16T19:08:17.145Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T18:42:54.149Z", 
+  "uid2LogOutTime": "2018-02-16T19:08:58.944Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR532", 
+  "user2_id": "USR2804", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

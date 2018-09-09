@@ -1,0 +1,324 @@
+{
+  "date": "2018-03-24T00:21:07.898Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:20.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?  I", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:21:30.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is this? (:", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:30.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good! how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:34.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story, the first Pixar movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:21:39.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:44.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a big fan of Pixar, are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:21:49.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I am", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:53.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "However I haven't seen this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:21:58.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It must be good if it's Pixar!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:22:04.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really, what Pixar \nmovies have you seen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:22:12.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Monsters Inc., The Incredibles, etc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:22:35.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:22:38.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it's probably in the top five Pixar movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:23:09.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen any of the Toy Story movies?  There are three.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:23:21.935Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen the most recent one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:23:35.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice, I must watch it then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:23:59.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I will warn you it is not as good as the most recent movie.  Toy Story 3 is the best.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:24:18.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:24:40.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What reviews did it get, do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:24:48.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you have a favorite PIxar or Disney movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:24:49.991Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The Incredibles", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:25:03.022Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would like to know more about this story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:25:08.961Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wha\nt happens in the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:25:14.897Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What**", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:25:17.666Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, it's pretty simple really.  Woody is Andy's favorite toy until he gets Buzz Lightyear for Christmas.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:25:36.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:26:06.439Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Woody is jealous, and does something mean that causes Buzz and himself to get lost, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:26:13.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sucks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:26:23.652Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Poor Woody", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:26:26.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thereafter, they attempt to return to Andy's room, and have many difficulties getting there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:26:29.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, he has to learn to be the second favorite toy.  A toy serves the child.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:26:50.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they get lost somewhere in the house", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:27:14.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or outside the house?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:27:16.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They get lost mostly at the neighbor's house, who is very vicious towards his own toys.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:27:52.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sucks! So the toys are poorly taken care of I'm assuming? or broken?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:28:11.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they become friends with the other toys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:28:29.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sid, the neighbor, likes to torture his toys (although to be fair, he thinks they're toys).  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:28:38.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In order to escape, Woody breaks some of the rules of toys in order to frighten Sid. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:28:52.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha still seems like a red flag about the kid's personality", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:29:01.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wait", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:29:06.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toys have rules? haha like what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:29:13.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's so interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:29:22.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do Woody and Buzz become friends at the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:29:45.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They can't reveal that they are alive or have intelligence.  It's not clear why this is a rule.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:29:57.505Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, that's kind of cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:30:06.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they become friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T00:30:08.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yay! I love happy endings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T00:30:17.148Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-24T00:21:07.898Z", 
+  "uid1LogOutTime": "2018-03-24T00:30:19.887Z", 
+  "uid1response": {
+    "feedback": "The movie seems interesting and the other user said it was one of the top Pixar movies so I have to check it out!!! The plot seems really cute as well.\n\nHowever, the other user didn't say bye to me and just left the conversation so it wasn't completely smooth. I also didn't receive a document so I didn't check \"the document is understandable\". ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-24T00:21:07.984Z", 
+  "uid2LogOutTime": "2018-03-24T00:30:14.057Z", 
+  "uid2response": {
+    "feedback": "Thanks for the work", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR580", 
+  "user2_id": "USR3673", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

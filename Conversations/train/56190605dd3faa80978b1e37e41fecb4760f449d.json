@@ -1,0 +1,124 @@
+{
+  "date": "2018-02-06T19:55:27.073Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:55:55.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:57:24.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So there a movie that explores the idea of implanting ideas into your head, via a dream, in order to manipulate you into making a decision in real life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:49.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The whole concept seems way above my level of understanding haha but, definitely seems interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:00:16.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The reviews for the movie are higher than average and I general everyone thought the movie was awesome. However, there were a few who didn't enjoy the movie at all! But that's probably because they didn't understand it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:02:34.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio is In it and one critic said it was one of his best performances yet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:03:10.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So in the movie DiCaprio's character is tasked with going into the mind of some heir to a company and implanting the idea for him to dissolve that company. In public eye the heir already decided to make some.other business move, but the powers that be don't want that outcome and desire the company dissolved. Enter Leo DiCaprio!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:05:22.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The heir will then be sueded to dissolve the company after Leo enters his mind through a dream, getting the desired outcome. I mean imagine if you made a Decision one minute. Took a nap and woke up and completely changed your mind and decided to do the exact opposite but it was because someone implemented the idea in your head while you slept!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:07:29.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The whole concept is crazy, but intriguing. Makes you wonder what the dangers of it are.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:08:01.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And then also, in the movie, it's stated that Leo's character is able to achieve this task because of a shared dream world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:18.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder if the subject knows their mind is being invaded and fights back through their subconscious?! Would that be awesome to see play out in the movie!?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:10:16.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called inception and is directed by Christopher Nolan. His Dark Knight Batman trilogies are some of my absolute favorite movies. So no wonder inception got such great reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:12:35.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There are several other great actors in the movie, Joseph Gordon Levitt and Ellen page and Tom Hardy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:14:29.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed the action sequences in the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:15:01.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was definitely a movie you have to pay attention to in order to understand but the concept is unique and intriguing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:15:45.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So you think it's something you would watch?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:16:25.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:22:42.302Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:55:27.073Z", 
+  "uid2LogInTime": "2018-02-06T19:55:27.248Z", 
+  "uid2LogOutTime": "2018-02-06T20:23:21.090Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2859", 
+  "user2_id": "USR2264", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

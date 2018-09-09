@@ -1,0 +1,80 @@
+{
+  "date": "2018-02-06T16:26:59.663Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you doing today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:27:34.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good! What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:28:01.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am good as well. thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:28:14.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:28:31.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie you are  going to talk about today ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:29:03.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will be talking about the movie \"Frozen\". What movies have you watched recently?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:29:54.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't watched any movie recently", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:30:21.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what made you to talk about this movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:30:37.961Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T16:26:59.664Z", 
+  "uid1LogOutTime": "2018-02-06T16:31:54.798Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat while I was typing. My goal is to sell him/her the movie using sales tactics but User 2 left.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T16:26:59.847Z", 
+  "uid2LogOutTime": "2018-02-06T16:31:52.173Z", 
+  "uid2response": {
+    "feedback": "The user is not active throughout the conversation.  User left in the middle of conversation", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2140", 
+  "user2_id": "USR4652", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

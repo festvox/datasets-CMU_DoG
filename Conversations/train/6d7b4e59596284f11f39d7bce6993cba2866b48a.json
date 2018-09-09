@@ -1,0 +1,255 @@
+{
+  "date": "2018-02-20T15:16:25.823Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:16:43.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello???", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:17:05.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anyone there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:18:00.210Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:19:55.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:20:17.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is this a real person", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:20:21.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:20:28.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you? Have you seen this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:20:42.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:21:14.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:21:17.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's a great movie to watch. The high ratings show a lot of people agree with that!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:22:07.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite actor in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:23:47.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i love all of them really, although no one truly stood out. my favorite actor wasn't in it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:24:55.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who did you like in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:25:00.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Justin Timberlake did a very good job playing Sean Parker!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:25:20.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's funny that his first idea was to call it Facemash", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:25:58.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he isn't such a great actor though!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:30:49.494Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he is a singer right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:30:54.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes he is a singer but he has been in a few movies now too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:31:10.860Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you know it was called thefacebook before just Facebook?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:32:02.296Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah I did haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:33:25.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Zuckerberg started that then took it back", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:33:32.378Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " That is very cool that he got to meet the co-founder of Napster at such an early start to the company", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:34:43.563Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is one of my favorite scenes when he mentions the \"billion dollar\" vision", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:35:03.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know you're a fake person", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:35:33.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol no Im not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:35:49.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just following directions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:35:59.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh you sound like a bot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:37:20.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:37:29.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol nah I just want it to be legit", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:37:33.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this the type of movie you normally like to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:37:49.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same i need money", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:19.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i usually watch boring documentaries and cry myself to sleep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:35.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what about you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:37.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:39:52.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like comedies mostly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:06.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good talk, later", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:35.493Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T15:16:25.823Z", 
+  "uid1LogOutTime": "2018-02-20T15:46:49.701Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T15:16:25.874Z", 
+  "uid2LogOutTime": "2018-02-20T15:40:36.786Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1792", 
+  "user2_id": "USR128", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "date": "2018-02-06T15:14:01.853Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello anybody there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:14:23.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:15:00.113Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you see frozen movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:15:14.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is 3D movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:15:42.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this movie, especially the acting of Kristen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:16:51.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is very good family entertainment ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:17:38.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "RU there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:18:04.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i am there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:00.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry for the network problem", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:06.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:20:12.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like the movie because of excellent 3D", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:21.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:20:29.450Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i watched\n with my family", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:33.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but not in my language", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:53.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i know only tamil", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:20:57.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i watched in english", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:21:06.464Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so i could not understand the story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:21:14.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:21:20.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "waiting for the another animation film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:21:31.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "incredibles 2", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:21:33.934Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have yo seen elsa?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:21:37.241Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and her performance? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:22:05.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes i see ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:22:18.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "very nice performance", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:22:23.419Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you see dinosaur movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:22:39.005Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "or finding nemo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:22:42.948Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is crowned queen in\n this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:23:00.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love her performance ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:23:29.232Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:23:33.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nice comedy film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:23:40.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Enjoyed lot in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:24:04.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Her younger sister is anna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:24:28.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i watched again in my laptop", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:24:28.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:24:35.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like the scene of hans proposes to anna", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:24:46.775Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:24:56.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how is my english?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:25:29.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i know few english", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:25:40.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "their castle is very beautiful in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:25:42.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not fluently", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:25:43.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where ru from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:25:52.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "tamilnadu, india", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:25:58.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "her elder sister is very beautiful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:26:27.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, but if it was a real film it could be better than animation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:26:54.251Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ice palace is excellent place you know ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:26:56.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, i dreamed to live in ice palace", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:27:14.910Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very best animated move ever i can say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:27:44.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:15.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "time to go now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:18.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for giving your time to chat with me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:32.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what next", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:28:33.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will watch incredibles 2 next", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:28:57.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ha ha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:29:10.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you talks more impressive", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:29:32.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "shall we continue our chat after this survey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:30:18.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:30:32.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you have any social media platform?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:31:03.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:32:17.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry. maybe i asking the wrong question?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:32:17.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:33:18.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:33:36.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can we talk about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:33:43.438Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes we can", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:33:55.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kristoff is a good person", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:34:09.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is your favorite movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:34:13.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:34:19.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i don't know about the main story of the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:34:35.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i know some by read the subtitle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:35:09.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:35:14.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:37:01.154Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T15:14:01.853Z", 
+  "uid1LogOutTime": "2018-02-06T15:37:02.769Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T15:14:01.971Z", 
+  "uid2LogOutTime": "2018-02-06T15:35:40.090Z", 
+  "uid2response": {
+    "feedback": "Great Hit", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1241", 
+  "user2_id": "USR3586", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

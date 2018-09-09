@@ -1,0 +1,282 @@
+{
+  "date": "2018-03-06T18:18:46.883Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:19:06.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:20:11.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:20:18.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "fine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:21:06.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watch batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:21:20.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I have. did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:21:28.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:22:32.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how did you find it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:22:57.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:25:47.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:28:50.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like that Batman is a fictional superhero appearing in American comic books published by DC Comics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:28:58.606Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:29:18.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2005 released", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:30:04.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:30:20.815Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "r u there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:30:25.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:30:35.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you enjoy a character in particular?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:31:00.709Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this is laggy... don't know why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:31:10.817Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:31:12.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you enjoy christian bale's performance?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:32:07.139Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "all character perform well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:32:07.477Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:33:22.359Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what do you think of his phobia of bats being the cause of his parents death?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:33:25.202Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:33:26.759Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " you dont?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:33:31.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i think its natural", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:33:54.966Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "u know the character's ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:34:21.479Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked it very much. Bale, Caine and Oldman were very good. Neeson was a step below, and I don't like katie holmes very much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:34:28.344Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A young Bruce Wayne (Christian Bale) travels to the Far East, where he's trained in the martial arts by Henri Ducard (Liam Neeson), a member of the mysterious League of Shadows.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:35:33.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "why do you think that bruce tried to save gotham from the league of shadows\n? he left the city because of the corruption caused by falcone...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:36:58.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:39:13.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he should hate Gotham for what it did to his family and him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:39:43.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and it's funny that he saved Ducard, and then he turned out to be the real ras al gul", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:42:51.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:45:09.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think that there are any similarities between bale's performance as batman and his other roles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:45:29.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes? no? maybe?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:47:32.425Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you just need to reply a couple more times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:47:55.565Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:48:48.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hurray! have a nice day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:48:55.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:48:56.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nnice talk with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:49:03.117Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T18:18:46.884Z", 
+  "uid1LogOutTime": "2018-03-06T18:49:02.330Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T18:18:46.990Z", 
+  "uid2LogOutTime": "2018-03-06T18:49:06.250Z", 
+  "uid2response": {
+    "feedback": "nice and smooth converstion", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2913", 
+  "user2_id": "USR3642", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

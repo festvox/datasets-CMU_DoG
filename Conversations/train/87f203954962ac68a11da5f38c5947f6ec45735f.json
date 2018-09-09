@@ -1,0 +1,230 @@
+{
+  "date": "2018-02-06T14:43:04.525Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:43:25.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:39.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie is 2014. Have you ever seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:43:55.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, but it looks interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:16.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:22.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, it does not look too interesting to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:37.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:45.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not a fan of Benedict Cumberbatch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:12.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really don't know much about him. Why don't you like him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:39.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don\n'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:45.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't like his acting. The movie got a really good score on rotten tomatoes though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:00.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. I noticed that\n and I like dramas that deal with gov't and war.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:44.192Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Keira Knightley. She is a good actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:21.833Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too. She's pretty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:05.511Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have never heard of the director Morten Tyldum", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:29.743Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me neither. I've only heard of Knightley, who I loved in Seeking a Friend for the End of the World", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:49:02.916Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:11.357Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sorry, I don't think I'm allowed to mention that. Just read the task.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:49:53.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The story looks pretty interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:53.621Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought you weren't interested in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:50:09.191Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not, but the story is interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:50:27.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Agree.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:50:35.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you see the metacritic score of 73?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:50:38.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, that's a good score I think. And i read some of the critic's reviews, seems highly rated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:51:43.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The CinemaScore of A+ is awesome. A lot of people must have really liked it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:52:07.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I am reading some of the reviews now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:52:44.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It looks like it is set in the 50\n'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:53:07.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "'s", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:53:09.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if they only used positive reviews though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:10.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is a good point.Shall we say bye?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:53:29.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure, if you want to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:37.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it's time. Thanks for chatting. Bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:53:46.276Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T14:43:04.525Z", 
+  "uid1LogOutTime": "2018-02-06T14:53:50.966Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:43:04.529Z", 
+  "uid2LogOutTime": "2018-02-06T14:53:54.910Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4474", 
+  "user2_id": "USR2943", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

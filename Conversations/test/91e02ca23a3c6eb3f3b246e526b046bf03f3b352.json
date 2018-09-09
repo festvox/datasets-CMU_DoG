@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-23T18:31:18.273Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:31:27.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "r u there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:31:55.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:32:52.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:32:54.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was simply reading the directions.  My apologies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:33:18.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I hope you don't lose credit for abandoning early...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:33:29.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was really looking forward to discussing this film with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:38:31.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not get the other user in the chat room.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:38:41.846Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T18:31:18.273Z", 
+  "uid1LogOutTime": "2018-03-23T18:38:49.774Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:31:18.294Z", 
+  "uid2LogOutTime": "2018-03-23T18:32:19.198Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR165", 
+  "user2_id": "USR4581", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

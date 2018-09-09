@@ -1,0 +1,73 @@
+{
+  "date": "2017-11-27T21:13:29.707Z", 
+  "docLinkIdx": 0, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:14:00.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I watch movies with my grandchildren.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:14:30.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:14:48.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you familiar with the movie Frozen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:15:06.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:15:21.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:15:25.969Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have young children?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:15:38.024Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-11-27T21:13:29.707Z", 
+  "uid1LogOutTime": "2017-11-27T21:15:46.966Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2017-11-27T21:13:29.762Z", 
+  "uid2LogOutTime": "2017-11-27T21:15:59.750Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2791", 
+  "user2_id": "USR754", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

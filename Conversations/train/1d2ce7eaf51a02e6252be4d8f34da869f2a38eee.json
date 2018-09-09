@@ -1,0 +1,270 @@
+{
+  "date": "2018-01-30T20:00:47.774Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:01:02.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:01:18.370Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:01:45.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:02:06.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's your name ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:02:10.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where r u\n from", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:02:22.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From India", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:03:10.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:03:17.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is dinesh from tamilnadu..What about you..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:03:35.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thangamani", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:03:51.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Jaws Film ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:04:11.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tamilnadu ah bro", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:04:12.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:04:19.914Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Vivek bro ..Am nivash", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:04:43.474Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ha ha haaa", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:04:59.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry I don't know you. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:05:39.761Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My name is Thangamani", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:05:47.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sari sari indha movie paathacha?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:07:10.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello There?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:08:45.166Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "irukan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:09:08.620Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "padam nalla irukuma ah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:09:15.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yetho oru time pakalam brother..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:09:48.771Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Neenga inum pakalaiya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:09:58.767Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh super", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:10:00.852Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nan paathathu ila", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:10:07.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Parunga ...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:10:55.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nalla than irukum", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:11:02.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "mmm okay bro paathurlam", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:11:10.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "epa intha hit mudiyum ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:11:17.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Theriyala chat panunga", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:11:53.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indha film director yaaru nu theriyum ah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:12:13.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yaaru bro sathish ah ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:12:25.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Satheesh than...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:12:57.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ha ha ha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:13:39.977Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "epa vantha film ithu ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:14:04.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Old film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:14:25.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Chat complete ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:14:32.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:14:35.195Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "super bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:15:12.428Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T20:00:47.774Z", 
+  "uid1LogOutTime": "2018-01-30T20:14:36.914Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T20:00:47.819Z", 
+  "uid2LogOutTime": "2018-01-30T20:15:17.728Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3479", 
+  "user2_id": "USR4582", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

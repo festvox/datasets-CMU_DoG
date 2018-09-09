@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-13T19:58:25.635Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game got some really good scores from people!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:58:55.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don't think I've heard about it, what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:01:35.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about cracking a code during WWII", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:02:21.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally like movies set during World War 2?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:02:57.173Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:58:25.635Z", 
+  "uid1LogOutTime": "2018-02-13T20:05:24.612Z", 
+  "uid1response": {
+    "feedback": "Use 2 said one thing and then left the chat.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:58:25.704Z", 
+  "uid2LogOutTime": "2018-02-13T20:05:02.851Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3250", 
+  "user2_id": "USR3462", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

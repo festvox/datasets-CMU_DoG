@@ -1,0 +1,409 @@
+{
+  "date": "2018-03-24T05:37:49.403Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good evening.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:44:12.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie you should watch is called \"The Post\"  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:44:14.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Post? What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:44:31.118Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a political thriller.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:44:52.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A political thriller? Is it a historical movie or based on real events?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:45:14.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:47:05.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a historical movie of a news paper's struggle against the government written my Steven Spielberg starring Meryl Streep and Tom Hanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:47:06.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, Spielberg Streep and Hanks huh? Sounds like a pretty good lineup. Do you know who is directing it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:47:43.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steven Spielberg.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:48:06.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Makes sense I suppose. Is it coming out soon, or is it already in theatres?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:48:27.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a 2017 movie.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:49:09.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah, so it came out already. I suppose I'll have to check it out from rentals or on DVD/Blu-Ray.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:49:51.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Were the reviews for the movie good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:50:09.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good directors and actors do not necessarily make a good film of course.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:51:53.325Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It doesn't say.  But backing up a little, Steven Spielber produced it, but Liz Hanna and Josh Singer wrote it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:51:54.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah, thanks for clarifying. Two totally different levels of involvement in the movie there. It still does sound interesting though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:52:39.964Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When they say the Post, do they mean like the Washington Post? I know they were involved in a couple of big things like Watergate.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:53:28.963Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ellsberg who became confused by Secretary of Defense Robert McNamara is the one who photocopies the classified reports documenting the 10 year involvement in the conflict of Vietnam.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:54:40.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He then leaks these documents to the reporters at the New York Times. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:55:34.870Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ooh, Vietnam War stuff. There's a lot you could do about that. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:55:44.936Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So what else happens after the leak?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:56:03.572Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe it is talking also about the Washington Post because the Post assistant editor tracks down Ellsberg as the source of the leak and attains the copies of what Ellsberg gave to the New York Times.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:57:36.323Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah. And then I guess there's a battle over getting the documents published.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:58:18.530Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The a few Post reporters sift through the papers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:58:22.065Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do they find anything interesting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:58:39.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, the lawyers told them not to post and publish it lest they get Nixon down their backs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T05:59:15.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, Richard Nixon. Surprise surprise. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T05:59:43.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I take it they go ahead and try anyway?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:00:01.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The White House did come after them after they decided to post it anyway.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:00:07.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Makes sense. Classified information and all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:00:35.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How bad does it get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:00:44.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They ended up in the Supreme Court, of course, to plead their 1st Amendment right s.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:00:47.655Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The court ruled 6-3 in the newspaper's favor!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:01:30.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great! Win for the free press right there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:01:51.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nixon demanded that the Post be barred from the White House.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:02:02.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure that went over well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:02:10.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then a little thing called Watergate happened.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:02:29.210Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a riveting film. I might have to check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:03:10.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "However, a year later, there was a break-in in progress at the Watergate complex, but the security guard discovered it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:03:17.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. And I know what happened after that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:03:50.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I heard about this movie, myself and can't wait to find it and watch it.  You really should educate yourself with this movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:04:08.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I plan to. Thanks for telling me about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:04:23.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It really does sound interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:04:35.770Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "By the way, Meryl Streep acts as Katharine Graham.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:04:48.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah Does she work at the post?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:05:02.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you told me she did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:06:06.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure she puts on a fine performance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:06:28.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She stood to lose her newspaper by exposing this material.  The newspaper was her family legacy to her.  There was a struggle their.  She risked it all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:06:32.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She owns the Post.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:06:48.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's a big risk. I think it paid off though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:06:55.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll give it a look on On Demand soon. Thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:07:29.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, the rating was 88%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:07:30.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes? That's very goof.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:07:43.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:07:47.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Metacritic score was 83/100.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:07:58.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Both good scores. More reason to check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:08:15.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Cinema Score was A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:08:21.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Even more reason!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:08:30.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:08:37.210Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Your quite welcome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:08:50.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have to go now, but I'll definitely give the movie a look. Have a nice day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:08:56.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:09:08.046Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-24T05:37:49.403Z", 
+  "uid1LogOutTime": "2018-03-24T06:09:11.060Z", 
+  "uid1response": {
+    "feedback": "Things seemed a little out of order, but the other user gave me pretty much all the information I asked for. I will check the film out when I get a chance.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-24T05:37:49.432Z", 
+  "uid2LogOutTime": "2018-03-24T06:09:14.568Z", 
+  "uid2response": {
+    "feedback": "I haven't watched the movie yet, but I have been wanting to for about a month when I heard of it on the net.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR737", 
+  "user2_id": "USR1430", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2017-12-02T17:02:33.357Z", 
+  "docLinkIdx": 7, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-02T17:03:22.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good morning. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-02T17:03:29.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You really need to see Marvel's The Avengers. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-02T17:03:43.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-02T17:03:55.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man, Captain America, The Hulk, and Thor get recruited to team up and stop Loki from subjugating Earrth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-02T17:04:43.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the actors that play in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-02T17:05:50.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie stars Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johannson, Jeremy Renner, and Tom Hiddleston.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-02T17:06:41.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Those are good actors ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-02T17:07:14.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it have a rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-02T17:07:20.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They are definitely famous and well known. It does have a rating, but I'm not sure what it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-02T17:07:56.629Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-02T17:02:33.357Z", 
+  "uid1LogOutTime": "2017-12-02T17:08:06.037Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-02T17:02:33.390Z", 
+  "uid2LogOutTime": "2017-12-02T17:07:38.749Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3824", 
+  "user2_id": "USR771", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

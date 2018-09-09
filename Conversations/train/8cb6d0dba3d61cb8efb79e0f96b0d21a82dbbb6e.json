@@ -1,0 +1,283 @@
+{
+  "date": "2018-02-28T17:55:49.762Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Yo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:05.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:09.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:09.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im good ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:14.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:15.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:17.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good thanks. Have you seen Batman Vs Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:24.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea it was a nice movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:35.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hehe, yeah.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:43.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:46.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's basically like 2 hours of grownups playing with action figures to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:14.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:17.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the fighting part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:18.021Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was a good plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:26.891Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but the ending was kind of wierd", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:32.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah maybe. I like justice league more. with clark kent dead?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:48.056Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no with the monster", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:00.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Aah ic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:09.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It looked pretty cool :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:18.889Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea i didnt get that part, although i know he was made by lex", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:26.296Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "General Zod reincarnated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:26.710Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see :).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:36.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "other then that i think batman is smarter then superman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:49.581Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked it more than man of steel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:49.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he did his research", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:57.230Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah probably haha. Well, I guess that's his superpower", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:04.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if you can't throw cars around and want to hang with superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:17.806Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you better have brains", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:21.986Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": ":D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:31.104Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you real?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:59.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or a bot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:01.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im real", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:15.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you lol ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:20.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:30.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i thought it woul be a bot also", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:38.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but i really liked the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:43.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Brb. Anyway if I'm not back when this thing finishes it was nice meetin gu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:44.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lmao :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:47.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To be honest I didn't even see it all the way through", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:54.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol how come", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:07.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the concept was interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:16.505Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:55:49.762Z", 
+  "uid1LogOutTime": "2018-02-28T18:01:22.663Z", 
+  "uid1response": {
+    "feedback": "Great Conversation", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:55:50.074Z", 
+  "uid2LogOutTime": "2018-02-28T18:12:30.750Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4818", 
+  "user2_id": "USR2356", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

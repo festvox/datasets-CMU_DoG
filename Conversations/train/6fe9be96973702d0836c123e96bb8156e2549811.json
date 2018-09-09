@@ -1,0 +1,128 @@
+{
+  "date": "2018-02-05T21:22:12.319Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "It seems as though critics enjoy this film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:53.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It does. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:23:26.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Joss Wheadon. I had no idea he was still around. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:23:41.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is extremely good at action scenes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:24:32.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is. I had no idea that all these characters were in one movie. I have seen the Lego brickheadz of Iron Man, Captain America, Hulk and Black Widow but did not know where they came from.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:25:44.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you usually listen to critics assessments of superhero blockbusters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:26:32.610Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The rating from Rotten tomato looks good. I don't normally base what I watch off the ratings but if it's good, it couldn't hurt.  The lower ratings I sometimes still watch anyway.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:27:20.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cinemascore is user ratings so both critic and audiences like this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:27:39.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wasn't aware of that. Thanks for the info!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:28:10.066Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr. is apparently great in his role.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:29.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The key scene seems a little confusing. I wonder if the movie is hard to follow if you aren't a superhero fan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:29:27.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the Chitauri are a weird concept but aliens who want to blow up the world is normal.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:48.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I get aliens blowing up the world but the Chitauri not so much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:16.939Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Teams of bad guys are children's movie staples. Simple but fun. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:30:52.382Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wonder if it would be appropriate for my 5 year old to watch. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:31:38.667Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is violent. \nWhat did you think of Hawkeye being evil and enslaved?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:31:47.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that they fight each other in the middle of the movie, it it like they cannot get along, but then everything comes together.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:28.360Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T21:22:12.319Z", 
+  "uid1LogOutTime": "2018-02-05T21:39:09.156Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:22:12.343Z", 
+  "uid2LogOutTime": "2018-02-05T21:39:18.017Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2359", 
+  "user2_id": "USR2300", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

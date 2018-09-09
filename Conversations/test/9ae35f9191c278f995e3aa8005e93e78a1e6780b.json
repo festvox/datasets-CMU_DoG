@@ -1,0 +1,127 @@
+{
+  "date": "2018-03-05T21:48:43.106Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:48:57.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:49:04.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We're discussing Bruce Almighty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:49:13.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow that was 2003. I feel so old!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:49:23.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Haha I can't believe that was 15 years ago. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:49:36.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never saw it. Not a huge Jim Carrey fan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:49:48.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was one of Jim Carrey's better movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:49:59.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it's never good when there are three writers lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:50:23.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's not for everyone thats for sure. I'm a big fan of his stuff. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:51:05.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This particular one was a bit moralistic for my tastes but it still had some really good moments. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:51:27.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well I will say that one with Kate Winslet was exceptional.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:51:31.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah yes. Eternal Sunshine of the Spotless Mind. It was much more indie than most of his movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:52:28.914Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jennifer Aniston plays his girlfriend in this one. This would have been when she was really popular.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:52:32.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes that's the one. One of my all time favorite movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:52:46.342Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah 2003 was right after Friends had ended so she was at the height of her fame. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:53:10.631Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T21:48:43.106Z", 
+  "uid1LogOutTime": "2018-03-05T21:53:43.119Z", 
+  "uid1response": {
+    "feedback": "The other user stopped responding after a few replies, but he was active while he was in the chat. The conversation went smoothly and although we didn't have the same tastes in movies, I thought his perspective was interesting. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T21:48:43.113Z", 
+  "uid2LogOutTime": "2018-03-05T21:53:09.336Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR835", 
+  "user2_id": "USR2505", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

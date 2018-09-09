@@ -1,0 +1,202 @@
+{
+  "date": "2018-02-15T19:34:21.912Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:24.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch Comedy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:27.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes. I like comedy movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:44.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:36:37.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the movie. Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:36:50.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, I thoroughly enjoyed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:37:04.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is LIndsay Lohan a good actress?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:37:26.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critics seem to think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:37:53.329Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Other than bad things about Lindsay, I have never heard of LIndsay as an actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:39:07.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't comment", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:39:29.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "May I know why since you have seen one of her movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:39:57.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's out of scope for this discussion. Do you like the plot of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:41:07.291Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Tina Fey for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:41:23.883Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the revenge plan, I thought it was very cunning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:42:10.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie has below average review.  I do not know if I want to waste my time watching it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:42:43.463Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's got 84% on RT with an average 6.9/10, metacritic score of 66/100 and a CinemaScore of A-, they're certainly impressive reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:44:56.991Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The plot sounded interesting. Is Tina Fey in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:46:10.765Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tina Fey wrote the movie and is credited as screenwriter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:48:02.045Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "thanks for the info", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:50:31.918Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think of the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:51:01.765Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It sounds interesting.  I may see it if I have time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:51:53.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The plot interests me too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:52:08.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will see the movie in summer with my grand kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:53:03.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that Cady Heron is elected as Queen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:53:39.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Cady a good guy in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:56:21.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm unsure, however Cady is female", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:57:45.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, is she the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:58:29.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Cady Heron is the main character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:59:49.422Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T19:34:21.913Z", 
+  "uid1LogOutTime": "2018-02-15T20:01:30.320Z", 
+  "uid1response": {
+    "feedback": "The other user was slow in responding.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T19:34:21.970Z", 
+  "uid2LogOutTime": "2018-02-15T20:01:34.687Z", 
+  "uid2response": {
+    "feedback": "The other user was not coherent", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR754", 
+  "user2_id": "USR3278", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

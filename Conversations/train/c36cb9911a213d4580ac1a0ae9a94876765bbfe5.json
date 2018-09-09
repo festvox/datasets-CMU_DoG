@@ -1,0 +1,281 @@
+{
+  "date": "2018-01-30T20:14:13.110Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:14:35.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:14:52.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:15:04.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:15:07.581Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so see any good movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:15:37.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a Good film!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:16:10.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Avengers!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:16:15.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your name ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:16:23.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not seen it, tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:16:26.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "my son has been wanting to see that as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:17:15.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats the one with the super heroes right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:17:20.837Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about super heroes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:17:27.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea captain america and all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:17:35.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:18:05.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:18:11.933Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i'm going to have to check it out I hear it has lots of action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:18:28.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, full of action sequences", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:19:00.410Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "awesome.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:19:10.730Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and would you say it is appropriate for a young child to watch as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:19:25.552Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:20:14.321Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You can watch with the child", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:20:21.206Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "splendid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:20:36.699Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i will have to find it on netflix and check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:20:48.754Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "any other good movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:20:57.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Geo storm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:21:38.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmm i havent heard of that one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:21:47.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "whats it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:21:50.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It will be awesome. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:23:28.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Must watch film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:23:33.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This film was massive hit all over the world. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:23:53.601Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was talking about Avengers. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:24:05.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hulk also will be there in Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:24:18.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:24:23.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hulk smash", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:24:25.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so what is this geostorm?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:25:23.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is that part of avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:25:28.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. In one sequence they all will fight with some great stuffs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:25:51.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Directed by\tJoss Whedon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:25:53.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is a great Director1", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:26:02.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was talking about Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:26:20.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:26:58.921Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T20:14:13.110Z", 
+  "uid1LogOutTime": "2018-01-30T20:27:04.047Z", 
+  "uid1response": {
+    "feedback": "movie sounds good and worth watching", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T20:14:13.443Z", 
+  "uid2LogOutTime": "2018-01-30T20:27:11.985Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4869", 
+  "user2_id": "USR1452", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

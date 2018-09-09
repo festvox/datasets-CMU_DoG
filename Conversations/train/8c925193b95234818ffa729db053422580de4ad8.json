@@ -1,0 +1,325 @@
+{
+  "date": "2018-02-20T04:49:27.837Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:49:53.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:50:46.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you're reading about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:51:03.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So we're talking about Bruce Almighty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:51:06.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:51:13.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know anything about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:51:28.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i do!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:51:34.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it stars jim carry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:51:44.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and he is gifted the powers of GOD", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:52:05.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's one of my favorite Jim Carrey movies!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:52:23.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel like Morgan Freeman really should be the voice of God too. LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:52:44.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Evidently Rotten Tomatoes gave it a 48% and average 5.7/10. I don't really know what that means though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:53:32.490Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:53:44.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's a below average score...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:53:51.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "based on that i shouldn't have watched it lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:54:13.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it? I don't really follow Rotten Tomatoes...I guess that's why. LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:54:14.634Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "one of the memorable scenes in that movie is jim carrey pulling the moon towards himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:54:59.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This says the critical response is that \"Carrey is hilarious in the slapstick scenes, but Bruce Almighty gets bogged down in treacle.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:55:42.367Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What the heck is treacle?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:55:48.325Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "YES! The moon! That was very cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:56:14.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i've heard of treacle tart", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:56:31.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "some kind of british thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:56:37.801Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "dessert like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:56:44.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sticky perhaps?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:56:53.880Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jennifer Aniston did a really good job as his girlfriend in the movie too. She made me cry!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:56:59.591Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha Maybe!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:57:17.632Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or maybe \"too sweet and mushy\"?? LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:57:49.985Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh! And I think this may have been the first movie that I saw Steve Carrell in too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:58:30.890Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hmm i don't remember him in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T04:59:05.149Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Shadyac was the director. I don't think I've ever heard of him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:59:11.539Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah Steve was the guy that was I think given the job that Jim Carrey wanted.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T04:59:36.128Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Evan Baxter was his name in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:00:02.399Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think I'm doing this chat thing right. I think I was supposed to convince you to either watch the movie or not watch the movie. But you've already seen it, so...whatever. Haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:01:04.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i thought you were a bot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:01:20.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you human?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:01:25.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LMAO!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:01:31.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. I'm human!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:01:40.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yeah? well prove it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:01:52.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL! I don't think bots laugh.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:02:01.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:02:08.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:02:18.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well you convinced me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:02:30.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha Yes!! I win!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:02:39.596Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'm clicking FINISHI CONVERSATION", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:02:42.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T05:02:49.776Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nooo!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:02:49.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're supposed to keep talking til it ends itself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:03:03.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I keep getting new paragraphs here.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T05:03:12.546Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T04:49:27.837Z", 
+  "uid1LogOutTime": "2018-02-20T05:03:12.379Z", 
+  "uid1response": {
+    "feedback": "my chat partner was fun to talk to and seemed to enjoy the movie. so i will probably watch it based on his recommendation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T04:49:28.519Z", 
+  "uid2LogOutTime": "2018-02-20T05:03:44.646Z", 
+  "uid2response": {
+    "feedback": "They left the conversation first. I wasn't sure if it would automatically end or not.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3282", 
+  "user2_id": "USR3581", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

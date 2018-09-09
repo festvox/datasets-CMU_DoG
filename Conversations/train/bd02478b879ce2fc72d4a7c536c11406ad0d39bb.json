@@ -1,0 +1,43 @@
+{
+  "date": "2018-02-14T19:50:07.667Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen John Wick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:05.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No i havent tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:51:29.410Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2014 Action movie starring Keanu Reeves. It is a retired hitman who seek...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:52:36.143Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-14T19:50:07.667Z", 
+  "uid1LogOutTime": "2018-02-14T19:52:29.313Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:50:07.718Z", 
+  "uid2LogOutTime": "2018-02-14T19:53:06.089Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3044", 
+  "user2_id": "USR1888", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

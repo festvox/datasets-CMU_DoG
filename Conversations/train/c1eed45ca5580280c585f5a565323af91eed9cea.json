@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-26T14:57:48.026Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:14.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:41.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:59:00.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Monsters University ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:59:10.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay, did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:59:22.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seems to have gotten good scores on all the critic websites ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:59:53.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "79% on rotten tomatoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:00:02.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds like it's about Monsters at a school. Is it a horror movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:00:29.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an animated kids film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:01:08.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh that's neat. Rotten Tomatoes can be pretty tough at grading. A 79 is nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:01:10.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like animated movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:01:28.283Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting. I enjoy animated movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:01:45.952Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are the voice artists famous?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:01:55.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have you heard of billy crystal and john goodman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:02:23.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they play the main two characters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:02:31.576Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh great! Those are good actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:02:42.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the music is composed by randy newman ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:02:56.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmm, interesting. I haven't heard of him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:03:12.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he's composed music for 7 other pixar films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:03:29.774Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, so it's Pizar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:03:58.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oops, I mean pixar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:04:03.684Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How much money \ndid the film make?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:04:37.253Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's a prequel to the other pixar film, monsters inc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:04:46.238Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh I love those movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:04:55.942Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure of that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:04:56.156Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:05:00.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you reccommend the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:05:27.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:05:39.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's a great prequel to the original, it matches it's tone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:05:57.757Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:06:14.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it still in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:06:27.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's not, it was released in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:06:46.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, well thank you for the information!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:07:06.346Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:57:48.026Z", 
+  "uid1LogOutTime": "2018-03-26T15:07:26.701Z", 
+  "uid1response": {
+    "feedback": "I like the main characters in the film, and I was excited to know that there was a prequel to the famous Monsters Inc films. So I am interested.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:57:48.208Z", 
+  "uid2LogOutTime": "2018-03-26T15:07:41.381Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR239", 
+  "user2_id": "USR4354", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

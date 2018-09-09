@@ -1,0 +1,47 @@
+{
+  "date": "2018-03-30T21:27:26.441Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I would agree with the critics scores; Toy Story was a great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T21:29:22.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too, it was a great movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T21:30:28.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed the dialogue between Tom Hanks and Tim Allen.  I thought they were cast very well.  What did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T21:31:35.754Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T21:27:26.441Z", 
+  "uid1LogOutTime": "2018-03-30T21:32:31.503Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T21:27:26.445Z", 
+  "uid2LogOutTime": "2018-03-30T21:32:45.251Z", 
+  "uid2response": {
+    "feedback": "User 2 left after responding to one item from me.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3655", 
+  "user2_id": "USR1036", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

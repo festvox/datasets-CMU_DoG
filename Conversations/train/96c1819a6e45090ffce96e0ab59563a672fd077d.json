@@ -1,0 +1,91 @@
+{
+  "date": "2018-03-19T21:18:11.995Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:18:23.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:18:32.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am great! \nHow are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:18:38.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing well, what info do you have on the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:18:49.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is Toy Story (1995)\n, have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:19:12.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it quite a bit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:19:28.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's one of my more favorite movies from childhood", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:19:47.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just saw it again recently, it is different from how I remember!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:20:22.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how is it different?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:20:31.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, I didn't remember how mean woody was, I think I was confusing it with part 2, I believe he was nicer?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:21:10.988Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T21:18:11.995Z", 
+  "uid1LogOutTime": "2018-03-19T21:21:31.089Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T21:18:12.069Z", 
+  "uid2LogOutTime": "2018-03-19T21:22:11.358Z", 
+  "uid2response": {
+    "feedback": "The other person left the chat ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3352", 
+  "user2_id": "USR48", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

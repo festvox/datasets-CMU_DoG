@@ -1,0 +1,211 @@
+{
+  "date": "2018-03-20T17:16:37.333Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:45.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:48.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:55.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:58.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:05.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes how about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:13.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "doing well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:20.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:24.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lets talk the post", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:41.267Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok what kind of movie is it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:52.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a history movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:01.811Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:04.852Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "don't like those?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:13.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah they put me to sleep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:23.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:27.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who made it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:33.910Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:45.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok i like him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:52.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it got pretty good reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:19:04.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:19:09.151Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yep a 83", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:19:21.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good i guess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:19:27.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep i think it is a good one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:19:40.372Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok i might have to check it out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:19:52.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes please do that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:20:00.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:20:09.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "go check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:20:33.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:20:36.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:20:40.340Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T17:16:37.333Z", 
+  "uid1LogOutTime": "2018-03-20T17:20:52.678Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:16:37.337Z", 
+  "uid2LogOutTime": "2018-03-20T17:20:42.077Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2206", 
+  "user2_id": "USR163", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

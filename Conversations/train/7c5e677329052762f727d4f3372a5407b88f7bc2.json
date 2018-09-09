@@ -1,0 +1,134 @@
+{
+  "date": "2018-03-06T13:58:53.648Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi,Have you watched this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T13:59:16.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nseY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T13:59:22.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T13:59:25.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T13:59:44.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no, i don't think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T13:59:54.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:00:00.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it. Sandra Bullock got good reviews but that was because she did most of the talking in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:00:26.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is a good actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:01:06.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looks like this movie is based on true events", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:01:22.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main character who the movie was based upon didn't do a lot of talking but he did a good a job also. The next character that did a lot of acting was the character that played SJ jr. It was a little kid but he did a good job also.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:01:38.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you watch it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:02:06.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it was based upon Michael Oher life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:02:13.956Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I've seen it several times. It had comedy, drama, and a happy ending. I don't think I saw it in the theatres. I saw it on video and now it's on regular tv.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:02:57.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry my computer froze for aminute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:04:24.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sounds interesting. Even though im not into sports movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:05:00.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't even know who Michel Oher is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:05:22.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's not a major player. He's moved around to a few teams. I like football so that's one of the reason I watched the movie. I didn't know who he was either. Usually the quarterbacks and the running backs make all the good money", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:08:09.988Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T13:58:53.648Z", 
+  "uid1LogOutTime": "2018-03-06T14:08:05.899Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T13:58:53.823Z", 
+  "uid2LogOutTime": "2018-03-06T14:08:17.798Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR4876", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

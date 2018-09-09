@@ -1,0 +1,103 @@
+{
+  "date": "2018-03-07T15:56:03.330Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Do you like comedy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:31.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:53.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:58.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. One of my favorites is Bruce Almighty. It's hilarious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:57:11.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah its a classic comedy for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:57:24.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "One of my favorite movies by jim carrey ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:57:44.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely. I really like Wanda Sykes in it, too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:57:56.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jennifer Aniston is good in it, too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:58:55.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i dont remember wanda sykes in it but i though jennifer anniston was a good cast and morgan freeman as god was good to.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:58.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your favorite scene in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:17.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love the bird scene! Where Bruce is in the office and all the birds fly in the window", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:59:43.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "my favorite scene was when bruce messed with steve carell as he was doing the news. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:00:53.945Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T15:56:03.330Z", 
+  "uid1LogOutTime": "2018-03-07T16:00:55.760Z", 
+  "uid1response": {
+    "feedback": "i will watch the movie bruce almighty ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:56:03.342Z", 
+  "uid2LogOutTime": "2018-03-07T16:00:19.026Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2249", 
+  "user2_id": "USR1407", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

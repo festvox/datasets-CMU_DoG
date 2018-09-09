@@ -1,0 +1,230 @@
+{
+  "date": "2018-01-29T23:02:50.619Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:34.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:04:14.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is in the lead", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:04:41.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed his role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:05:10.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it was very powerful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:05:17.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, but critics have always something to say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:05:32.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you think it was over the top?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:05:53.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gives it 6.9", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:05:58.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "may be yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:06:03.033Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think perhaps it is unrealistic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:06:18.300Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "based on hitman theme", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:06:20.033Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do you think of the nickname they gav him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:06:52.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't think about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:07.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why's that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:07:13.686Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "john wick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:33.489Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they called him \"Baba Yaga\" ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:07:44.592Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hmmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:52.085Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also do you think a dogs life warrants the killing of so many people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:11.651Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have u seen during 2014", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:08:11.674Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "or recently", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:08:14.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "recently yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:25.213Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:08:32.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i enjoyed it, i know i would be very upset if someone killed my pet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:46.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "howabout you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:48.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same for me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:08:59.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what did you think of the ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:10:03.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "don't remember much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:11:40.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was good as they both went back", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:12:02.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think a sequel was a good idea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:12:29.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "may be", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:12:35.193Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lets finish conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:12:40.517Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay, nice talking to you about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:12:47.524Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:02:50.619Z", 
+  "uid1LogOutTime": "2018-01-29T23:12:49.325Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:02:50.867Z", 
+  "uid2LogOutTime": "2018-01-29T23:12:51.961Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2798", 
+  "user2_id": "USR1471", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

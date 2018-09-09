@@ -1,0 +1,45 @@
+{
+  "date": "2018-03-06T14:13:39.977Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what movie will we be talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:13:54.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T14:15:12.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Despicable Me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T14:15:34.933Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T14:13:39.977Z", 
+  "uid1LogOutTime": "2018-03-06T14:15:31.418Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T14:13:40.024Z", 
+  "uid2LogOutTime": "2018-03-06T14:21:48.971Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR1972", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

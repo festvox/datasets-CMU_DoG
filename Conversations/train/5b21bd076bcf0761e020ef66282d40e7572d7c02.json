@@ -1,0 +1,44 @@
+{
+  "date": "2018-03-16T19:37:41.953Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "\n.EIVOM DOOG A EKIL SDNUOS SIHt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:38:13.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I LIKE THAT THERE ARE NAMES THAT I RECOGNIZE CONNECTED WITH THIS REVIEW.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:38:52.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a Metacritic Score of 95/100.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:38:52.830Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T19:37:41.953Z", 
+  "uid1LogOutTime": "2018-03-16T20:13:22.281Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T19:37:41.992Z", 
+  "uid2LogOutTime": "2018-03-16T19:39:02.764Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4523", 
+  "user2_id": "USR630", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2018-03-27T22:58:35.639Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is actually one of my favorite movies, its a shame that kevin mccalister turned to drugs and ruined his acting career.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:59:56.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A film's success can hurt an actor's career if their last film get more attention then there last. Do you think Home Alone would be a classic if it was released today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:01:46.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe it would get the same response as it did in 1990, Do you think the film would have as much success if they replaced kevin mcclaster ? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:03:23.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe. If it was a girl who had the same personality as Kevin. Yes.The timing is right as more female leads are coming out in films. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:06:54.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you agree with the rating of this movie? 5.5/10? or do you think it should be higher or lower", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:07:39.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think those ratings are based on current critics. It would be interest to see if they were based on critic scores from 1990. I felt the score is fine. The film was a fun adventure with little depth to it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:11:01.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, it would be cool to see a remake to this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:15:30.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or a all grown up version of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:15:56.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i even like your opinion about a female character, would be cool to see a remake with a girl instead.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:16:15.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think a grown up version would be interesting. Do you think a remake could be as tamed at the 1990 version? No sexual humor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:18:56.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Today's remakes don't have that charm that made the originals magical.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:20:13.276Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you must be a old soul like me, i love older movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:22:49.759Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haa the paragraph says adult bashing, this society is so uptight.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:23:24.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats why ratings are low.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:23:42.019Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. But the film is about a 8 year-old boy who gets left behind because his parents forget about him. They where so focused on the holiday vacation they forgot about him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:26:20.181Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Buzz should have know Kevin was missing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:26:56.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Buzz is the true villain in this film. What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:31:36.997Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or maybe his parents internally\n left Kevin home alone?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:35:58.979Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T22:58:35.639Z", 
+  "uid1LogOutTime": "2018-03-28T00:23:36.056Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T22:58:35.663Z", 
+  "uid2LogOutTime": "2018-03-27T23:43:00.990Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1051", 
+  "user2_id": "USR797", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2018-03-19T22:24:48.932Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "No document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:25:29.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The move is home alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:26:12.515Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-19T22:24:48.932Z", 
+  "uid1LogOutTime": "2018-03-19T22:26:26.198Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T22:24:49.183Z", 
+  "uid2LogOutTime": "2018-03-19T22:26:00.130Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1441", 
+  "user2_id": "USR2521", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

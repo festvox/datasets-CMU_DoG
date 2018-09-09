@@ -1,0 +1,252 @@
+{
+  "date": "2018-03-26T17:15:32.721Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:15:47.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi Im good, how about you? the movie is home alone by the way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:17:12.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing good. Thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:17:31.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think I've seen that one. How did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:17:43.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it a lot, it had Joe Pesci in it, and a cinema score of A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:18:33.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joe Pesci is a pretty good actor. I always liked his comedy style. Whats the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:19:01.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a boy who is left alone in the house by mistake, while the parents go on vacation. while a couple of burglars try to rob the house, and he messes with them by using traps", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:20:30.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds a bit entertaining. When did this movie come out? It can't be recent.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:21:27.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it came out in the year 1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:21:56.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh wow that is an old film, it must be a classic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:22:18.075Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes even though it got a 62% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:22:49.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you personally think of the sotry?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:23:22.814Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought it was sort of a sadistic festival of adult bashing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:23:58.457Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Really? How so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:24:09.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the elaborate booby traps used in the film, seemed sadistic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:25:00.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was the worst one in your opinion?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:25:35.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the first one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:25:55.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did the trap do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:26:14.405Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "trapped the burglars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:27:27.539Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that doesn't sound too bad, especially if it's a little kid making the traps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:27:50.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who directed the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:27:58.732Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "chris columbus", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:28:20.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't say I've heard of that director before, you said the movie had a low rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:28:50.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nit had a score of 63/100 from metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:29:29.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seems like the critics where pretty rough on the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:30:37.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What score would you personally give it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:30:54.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "about the same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:32:13.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh so you don't think it was a top quality movie, just a decent watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:32:40.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:32:52.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am assuming the kid is the start of the movie. Who is the child actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:33:24.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*Star", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:33:31.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "macaulay culin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:34:01.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah I see. I think I'll give the movie a watch if I happen across it. Seems decent enough for a watch. Thanks for the recommendation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:34:55.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "any time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:35:19.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Take care, have a good rest of your day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:35:32.397Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:36:36.629Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T17:15:32.721Z", 
+  "uid1LogOutTime": "2018-03-26T17:36:43.418Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T17:15:32.744Z", 
+  "uid2LogOutTime": "2018-03-26T17:36:50.289Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR3009", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

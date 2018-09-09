@@ -1,0 +1,492 @@
+{
+  "date": "2018-03-29T14:19:22.157Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, what's the movie name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:10.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:20:18.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am reading the document, lets see, ok RE\nAL STEEL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:06.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HAve you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:24.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I remember that, I haven't seen it but it's about fighting robots.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:21:34.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:21:48.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting, in this write up, it does not mention robots until the last sentence", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:22:43.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you remember who starred in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:05.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The wolverine actor. Can't remember his name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:31.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:45.595Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, that's it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:53.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also stars Dakota Goyo, but I do not know her at all (assuming iy is a woman)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:24:25.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You never know these days with names but I'd guess you are right!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:24:44.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That was probably Hugh's love interest in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:03.582Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe not, the role is \"Max'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:25:11.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think that is Hugh's kid in the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:23.165Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so I guess we were wrong", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:28.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know how long it is? I'm not that interested in super long movies anymore.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:07.324Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also stars Evangeline Lilly (woman for sure\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:19.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, that must be the love interest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:29.714Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:33.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The plot makes it seem like WWE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:46.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen it. It looked ok in the previews though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:48.924Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:53.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fighting Robots", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:27:34.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From what I remember, this is in the future so instead of humans fighting, robots fight.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:27:52.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and I guess Hugh used to be good at robot fighting but then they had some problems and they weren't good anymore.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:12.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But then they find a better robot and are good again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:21.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seemed like a simplistic popcorn movie from the previews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:34.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess not WWE, but boxing, less humans, just robots", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:28:39.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:44.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Honestly it seems dumb, orobably why I did not see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:28:57.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably made my disney too, so it could be a kiddy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:57.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does not sound kiddy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:29:13.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think it was a mature movie though, it was marketed towards kids (teens)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:29:28.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not little kids", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:29:31.861Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like the kind of movie you'd take a 14 year old to", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:29:45.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In fact now that I read this, it sounds like one of the movies that is so stupid it might be \"stupid enjoyable\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:30:01.058Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it definitely sounds like that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:30:14.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably a feel good movie where they conquer all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:30:28.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it say what kind of problems they have in that document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:31:14.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like what the main plot is about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:31:29.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This also sounds like that , I think, Brad pitt movie about underground fight venues", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:31:50.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah except nobody is crazy like the brad pitt character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:13.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Illegal, mush be done out of the view of the law", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:32:20.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think it was illegal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:26.833Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:32.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember there were crowds of people cheering them on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:44.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like it was an athletic specacle ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:52.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the write up says Now working as a small-time promoter, Charlie pieces together scrap metal into low-end fighters, barely earning enough to make it from one underground venue to the next. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:32:57.340Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yup that's the struggle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:33:13.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then they find an amazing robot and get their revenge", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:33:23.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so he starts out as illegal, then moves up in the world", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:33:31.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "makes sense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:33:39.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know if the robots have an intelligence?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:34:19.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatos 59% rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:34:24.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who cares about rotten tomatoes, their reviews are worthless", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:34:40.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Says it was made by Dream Works, is that adisney company?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:17.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "look up your fav movies on that site and I guarantee you'll be disappointed\n by the low scores. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:35:19.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no I think they compete with disney", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:35:26.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they make similar animated movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:35:43.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems Disney buys up everyone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:51.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, they are a giant company. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:36:02.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gives another rating of 56% (Metric score) ???", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:36:46.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that is probably a rating at a different site", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:37:00.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've done this before and usually they provide 3 rating systems", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:37:25.368Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rottoen tomatoes, something else then a cine something rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:37:45.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also stars Olga Fonda, is she related to Jane Fonda/Henry Fonda?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:37:46.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have no idea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:37:57.976Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes a CinemaScore:A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:38:25.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they always have suspiciously high ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:38:45.379Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seems like Olga was born in Russia, so no, much better looking than Henry or Jane", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:39:14.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:39:21.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're done now, thanks for the chat!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:39:52.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:39:59.640Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:40:02.405Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:19:22.157Z", 
+  "uid1LogOutTime": "2018-03-29T14:40:09.398Z", 
+  "uid1response": {
+    "feedback": "I didn't end up seeing the document, so I didn't check that. The other user answered all my questions and gave me valuable information. I actually will watch the movie, I was meaning to after seeing all the commercials but I guess I forgot about it. Thanks for the HIT, I love doing these!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:19:22.161Z", 
+  "uid2LogOutTime": "2018-03-29T14:40:02.624Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2632", 
+  "user2_id": "USR4526", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

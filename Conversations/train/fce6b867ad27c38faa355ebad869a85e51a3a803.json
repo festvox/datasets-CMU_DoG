@@ -1,0 +1,57 @@
+{
+  "date": "2018-03-07T17:42:50.567Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Morning!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:43:27.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! \nAfternoon here!  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:44:10.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I am supposed to tell you all about the movie Despicable Me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:45:21.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an animated movie from 2010, starring Steve Carell, Jason Segel and Russell Brand.  It has a rotten tomatoes score of 81%, which is pretty great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:46:10.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You have to talk back to me so we can move on :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:48:15.896Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T17:42:50.567Z", 
+  "uid1LogOutTime": "2018-03-07T17:55:51.111Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:42:50.614Z", 
+  "uid2LogOutTime": "2018-03-07T17:51:58.580Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2076", 
+  "user2_id": "USR1631", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

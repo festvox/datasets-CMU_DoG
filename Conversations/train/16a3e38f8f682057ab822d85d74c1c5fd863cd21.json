@@ -1,0 +1,451 @@
+{
+  "date": "2018-03-23T18:46:07.767Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:46:50.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there, how are y\nou today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:46:54.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:47:02.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very good thanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:47:23.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like fantasy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:47:32.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:47:36.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:47:51.540Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:47:55.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:48:05.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do, and one that fits into both categories is The shape of water.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:48:17.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:48:30.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Guillermo del Toro directed it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:48:32.172Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:48:41.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is really worth watching.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:48:42.622Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How good is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:48:50.859Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:48:58.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "N\nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:49:04.789Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it got 92% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:49:05.900Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:49:14.127Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Meta critic 87/100, but they are very harsh critics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:49:25.939Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's a good rating though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:49:35.452Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cinemascore is an a.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:49:38.795Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ya I think so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:49:46.292Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really unique film and well acted.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:49:56.996Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's the story line?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:50:06.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:50:23.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well \nit centers on this lady elisa she works at a secret government lab.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:50:40.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is mute, can't speak.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:50:47.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:50:53.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Even more interesting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:51:05.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are housing a creature, humanoid amphibian. and she begins to visit him in secret.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:51:18.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The develop a close bond.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:51:29.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is interesting, like I said unique.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:51:44.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:51:52.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Looks like a must watch to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:52:14.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tell me more about the cast and crew.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:52:48.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:54:24.886Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh sorry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:54:33.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:54:43.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it did ot show up and scroll down ..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:54:43.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:54:49.479Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well the cast is great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:54:52.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:55:02.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sally hawkins as elisa, octavia spencer is her friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:55:30.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:55:46.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Micahel shannon is the kind of bad guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:55:50.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:56:08.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:56:13.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really liked richard j\nenkins as her neighbor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:56:17.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:56:26.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just on 2017.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:56:29.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So pretty recently.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:56:34.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, it's new.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:56:41.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:56:46.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:56:48.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:56:52.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:57:04.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It set during the height of the cold war era though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:57:06.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:57:16.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:57:36.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Critics seemed to love it, one saying elegant and mesmerizing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:57:50.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not surprise ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:58:11.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should\n watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:58:24.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is interesting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:58:33.406Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We'll see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:58:40.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I hope you enjoy it, it really is an interesting film, good word", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:58:54.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I hope you do.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:58:59.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hope so too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:59:04.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Enjoy the rest of\n your day.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:59:11.474Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T18:46:07.767Z", 
+  "uid1LogOutTime": "2018-03-23T18:59:33.998Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:46:07.997Z", 
+  "uid2LogOutTime": "2018-03-23T18:59:16.641Z", 
+  "uid2response": {
+    "feedback": "", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2250", 
+  "user2_id": "USR252", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

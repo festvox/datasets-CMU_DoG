@@ -1,0 +1,103 @@
+{
+  "date": "2018-01-30T19:26:04.438Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. What movie are we discussing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:27:54.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think La la land", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:28:07.689Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it yet, but I might. What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:28:26.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You haven't read document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:28:35.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have a document to read", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:28:47.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is romantic comedy movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:28:48.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any big name actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:29:06.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Emma stones is actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:29:33.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does the movie have good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:30:03.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No actually, I also haven't watched this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:30:34.453Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, maybe I will check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:30:58.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What else", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:31:08.173Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:26:04.438Z", 
+  "uid1LogOutTime": "2018-01-30T19:31:34.987Z", 
+  "uid1response": {
+    "feedback": "It has a big name actress in it so maybe it will be good", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:26:04.881Z", 
+  "uid2LogOutTime": "2018-01-30T19:31:31.066Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3317", 
+  "user2_id": "USR4631", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

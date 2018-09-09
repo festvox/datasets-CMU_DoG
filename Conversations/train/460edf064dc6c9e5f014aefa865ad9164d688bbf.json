@@ -1,0 +1,150 @@
+{
+  "date": "2018-01-29T23:06:20.895Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hai dude", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:06:37.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:03.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:17.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nice. Do you see any movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:09:53.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually no. What's the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:10:42.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Insidious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:11:25.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, I want to see that movie. I've always heard good things about it. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:12:46.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is the horror movie. I felt very scare when saw this movie. Do you see any type of horror movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:13:24.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I've seen the Saw series and the Texas Chainsaw massacre", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:14:48.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me more about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:14:53.159Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I never seen this movie. Do you see Wonder woman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:15:47.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I have not seen that one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:16:22.676Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is that one about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:16:34.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is the action movie. like Bat man  and super man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:17:21.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:17:38.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. nice movie. Do you see any action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:19:19.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've seen some. Can you recommend any?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:20:09.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You see Transformers 5. I really enjoy this movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:21:16.154Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, I have not seen it. Can you tell me about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:21:35.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:28:01.718Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-29T23:06:20.895Z", 
+  "uid1LogOutTime": "2018-01-29T23:29:03.504Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:06:20.948Z", 
+  "uid2LogOutTime": "2018-01-29T23:29:42.749Z", 
+  "uid2response": {
+    "feedback": "I did not see any documents. The other person was really slow at replying and his grammar was horrible. I will watch the movie Insidious not because of him, but because I've never seen it.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2398", 
+  "user2_id": "USR4369", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2018-02-13T21:40:14.084Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:42:08.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you would really like Frozen. It has an 89% score from Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:42:08.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? Is it a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:42:34.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes but also an adventure. It is an animated Disney movie that folllws a snow quesn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:43:06.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Disney movies. Especially those that have queens.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:43:49.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She has to find her lost sister who has accidentally used her powers to trap their kingdom in a permanent winter. It\u2019s quite the story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:45:04.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds incredible. I would definitely go see it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:45:49.176Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T21:40:14.084Z", 
+  "uid1LogOutTime": "2018-02-13T22:05:35.051Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T21:40:14.407Z", 
+  "uid2LogOutTime": "2018-02-13T21:46:30.059Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4364", 
+  "user2_id": "USR4262", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

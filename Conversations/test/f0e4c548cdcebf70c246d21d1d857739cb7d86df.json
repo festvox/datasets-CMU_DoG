@@ -1,0 +1,160 @@
+{
+  "date": "2018-03-07T17:50:18.324Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:50:25.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:50:50.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like Jim carry as an actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:51:10.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:51:26.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Watch what someday?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:51:35.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because he made a very interesting movie \" Bruce Almighty\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:51:54.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you should watch this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:52:04.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know this movie, but I have not seen it in quite some time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:52:12.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "critical responses towards it were great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:53:09.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How great were they", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:53:26.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:53:27.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "all of them mentioned how Jim Carrys performance was hilarious as one of his best movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:54:01.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see. Who reviewed this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:54:26.668Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it has an A score at Cinemascore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:55:19.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did IMDb do a review? They are my typical go-to, along with Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:55:53.349Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no, I don't have this information", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:56:29.449Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see... Well, could you refresh my memory a little as to what happens in the movie? Like I said, it has been a while since I last saw it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:57:07.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but Rotten Tomatoes rating was quite unfair ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:57:13.880Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was about Bruce (Jim Carrey) who found a away to use God's ( Morgan Freeman) powersto cause some events", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:58:26.304Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he was hearing voices of prayers in his head", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:58:50.354Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "anfd tried\n to find a way to respond to them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:59:14.320Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you still interested?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:00:29.478Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:03:10.658Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T17:50:18.324Z", 
+  "uid2LogInTime": "2018-03-07T17:50:18.387Z", 
+  "uid2LogOutTime": "2018-03-07T18:04:37.600Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3962", 
+  "user2_id": "USR1552", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

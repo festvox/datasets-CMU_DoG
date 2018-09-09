@@ -1,0 +1,43 @@
+{
+  "date": "2018-01-30T21:40:00.915Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there what movie are you watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:41:20.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello did you get to see the movie called Jaws which was directed by Steven Spielburg?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:42:40.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ive seen it years ago, but im sure I dont really remember what it was about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:44:51.606Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-01-30T21:40:00.916Z", 
+  "uid1LogOutTime": "2018-01-30T21:48:56.918Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T21:40:00.969Z", 
+  "uid2LogOutTime": "2018-01-30T21:44:50.509Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2055", 
+  "user2_id": "USR3246", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

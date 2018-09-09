@@ -1,0 +1,154 @@
+{
+  "date": "2018-03-24T06:04:04.867Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:04:24.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:05:36.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will talk to you about the move \u201cthe shape of water\u201d", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:06:18.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:06:42.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I heard of it and saw bits on the commercials here and there but am unfamiliar about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:07:06.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " it is fantasy drama mivie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:07:44.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That takes place at Baltimore in the 69s", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:08:04.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know any of the cast of the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:08:46.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:08:49.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The only cast I know is Michael Shannon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:09:00.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep yao are right Shannon is in the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:09:40.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also sally hawkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:10:08.382Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Unfamiliar with Sally Hawkins", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:10:23.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie plot is about a love story in a secret government lab between a cleaner in the lab and humiond creature", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:12:03.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still here ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:13:19.731Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and I'm guessing that's forbidden", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:13:19.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "by the scientists", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:13:23.047Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think so ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:13:40.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The cleaner is a silent orphan whi found the about creature and help it hide in her bath tub", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T06:15:11.820Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hide it in the bathtub?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:15:40.682Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what else happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:18:28.080Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T06:19:39.162Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-24T06:04:04.867Z", 
+  "uid1LogOutTime": "2018-03-24T06:30:35.028Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-24T06:04:04.932Z", 
+  "user1_id": "USR1512", 
+  "user2_id": "USR1877", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

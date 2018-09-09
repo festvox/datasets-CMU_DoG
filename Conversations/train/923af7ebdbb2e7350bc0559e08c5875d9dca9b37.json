@@ -1,0 +1,283 @@
+{
+  "date": "2018-03-20T20:41:27.461Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like John Hughes movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:43:15.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! I really enjoy Weird Science, Ferris Bueller's Day off, and The Breakfast Club!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:44:17.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Then you should watch Home Alone if you haven't seen it yet!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:44:34.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:45:27.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen Home Alone, would you recommend the sequel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:45:30.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Unfortunately I have never seen the sequel so I can't make a recommendation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:46:01.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the first one I watch it ever Christmas.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:46:26.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too, it's a classic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:46:44.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:47:02.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite part of the movie is the after-shave scene. It makes me laugh everytime, how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:47:42.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the part when Daniel Stern is slipping and sliding all over the iced up stairs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:48:38.118Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All the booby traps are kind of unbelievable but that's the fun of it all!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:49:58.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you typically watch movies like that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:50:16.825Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some of them are super painful to watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:50:19.230Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I watch movies like that around Christmas time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:50:33.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm surprised it didn't get a better rating on rotten tomatoes.  Only a 62 percent.  I would rate it higher.  Would you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:51:39.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's a classic! But I feel like peoples opinions on movies are changing over time. It's hard to gauge audiences as time goes on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:53:02.586Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cinema Score rated it an A.  I like their style, lol. How do you think the acting was in this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:54:02.320Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Believable, I think all the actors represented a real-world idea of what we would consider that character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:54:52.740Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Macaulay Culkin was a good fit for the role of Kevin McCallister", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:56:10.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree.  I think the acting was very believable.  I was just looking at the date the film was made.  1990!  Hard to believe that was 28 years ago now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:56:34.686Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The part where they are running through O'Hare airport makes me laugh, I had parents who worked in that airport. So we constantly had to do that run whenever we were late for our flight!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:57:35.125Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you get anxiety when the family realized what had happened?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:57:36.940Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is interesting that I feel 28 years ago that would not have been a big ordeal, but now it would be all over facebook. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:58:19.250Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is so true!  Everything gets blown up on social media these days.  It would certainly make for an interesting post when you describe your cross country trek with a polka band!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:59:51.381Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Good old John Candy! It's a shame he died at the age of 43...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:01:13.662Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was he that young?  That is sad.  He was a fantastic actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:01:33.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did Kevin ever tell his Mom about the people trying to rob his house?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:02:39.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm reading through the movie description and it gives me anxiety to think about a situation like that every happening in my family.  I'm putting myself in the mother's shoes and would completely freak out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:03:08.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You know what, I don' t think he actually did. Good point!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:03:33.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would think the police would have been more involved with telling the family...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:03:57.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would hope he told his mom that he tried to be responsible while she was away.  It was kind of cute how he decided to try to do the laundry and eat a proper meal on his own.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:05:06.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what happened to Mcauley Culkin.  He must've given up acting.  Do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:06:48.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No he still acts, he did a lot of smaller things", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:06:59.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So independent type films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:07:12.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he was part of a comedy band, but they split up in 2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:07:56.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is a movie with Seth Green coming out this year. Called Changeland", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:08:38.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe they will do a Home Alone revival with him playing the dad.  That would be interesting.  They seem to be doing alot of those lately", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:08:46.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to check it out.  I am curious to see him in present day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:09:20.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. I think I might watch Home Alone in July now. Do a bit of Christmas early.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:09:29.943Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Enjoy the rest of your day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:10:06.446Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T20:41:27.461Z", 
+  "uid1LogOutTime": "2018-03-20T21:10:20.990Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T20:41:27.482Z", 
+  "uid2LogOutTime": "2018-03-20T21:10:08.188Z", 
+  "uid2response": {
+    "feedback": "I will watch Home Alone for sure now.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3662", 
+  "user2_id": "USR4721", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

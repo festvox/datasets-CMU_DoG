@@ -1,0 +1,253 @@
+{
+  "date": "2018-02-14T20:04:17.638Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:25.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, are you into musicals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:15.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, I do like them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:22.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "then have you seen La La Land?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:32.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I havent seen that movie, is it good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:50.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, really good, it has 92% on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:16.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, thats a pretty good score!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:28.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what  about other ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:38.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Metacritics is 93/100 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:49.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and IMBD is over 8...pretty sepctacular these days", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:08:06.621Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it must be, you dont see movies with those ratings any more", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:08:58.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what about the cast of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:07.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling and Emma stone are in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:25.833Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and John Legend too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:53.114Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love how they act, do you like them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:59.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:10:10.912Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was your favorite scene of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:10:42.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the restaurant scene  when Sebastian (ryan Gosling) is fired for playing his music and not the one he is told to play", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:11:53.725Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds like an interesting scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:12:13.093Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what about another", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:12:16.355Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The one when Sebastian feels compelled to sign a contract as a keyboardist because he heard Mya speak to her mother about how he was working on his career", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:13:40.716Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok, and can you tell me a bit more about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:14:06.696Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what about critic responses?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:14:13.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "pretty positive reviews, they say it is just as much about the dream world we want to live in and the cruel realty of how to achieve them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:15:35.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds really interesting, good critics ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:16:23.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "mostly very positive, some though say the movie sags a bit in the middle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:16:49.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but very entertaining", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:17:18.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh I see, well most people dont like musicals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:17:55.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its stragne that a musical has good ratings and critic responses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:18:13.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like musicals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:18:16.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there are other elements to it: romance, comedy melodrama", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:20.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes I very much like musicals", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:32.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh I see, I think I will watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:18:59.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it seems like a good movie with different elements on it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:09.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Im going to give it a shot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:14.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great! I convinced you then. I'm glad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:20.625Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T20:04:17.638Z", 
+  "uid1LogOutTime": "2018-02-14T20:19:38.290Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:04:17.743Z", 
+  "uid2LogOutTime": "2018-02-14T20:19:16.796Z", 
+  "uid2response": {
+    "feedback": "The movie sounds really good, I liked the plot and also the ratings that the movie has. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR571", 
+  "user2_id": "USR960", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

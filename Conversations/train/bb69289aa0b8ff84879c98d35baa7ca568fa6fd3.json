@@ -1,0 +1,426 @@
+{
+  "date": "2018-03-23T15:19:02.737Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:19:24.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:19:34.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:19:50.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like marvel films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:19:58.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, almost all of them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:20:12.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Tony", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:20:18.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:20:22.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:21:00.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was better than I expected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:11.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want one of those suits!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:21.690Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "dreaming of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:21:46.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Flying would be the best part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:57.899Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would love to be as confident as Tony is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:22:06.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:22:13.305Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Confidence can be learned if you try hard enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:22:35.428Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, I am trying", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:22:47.556Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked piper, too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:02.284Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Black Widow!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:08.640Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, cool!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:17.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "actually I didnt like the bad guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:41.035Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "most of the time I think they are cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:50.788Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but this one..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:54.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I usually identify with them but thos guy was a jerk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:24:11.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was rated quite good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:24:37.625Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you look what a movie is rated like before you watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:24:50.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, i look forward to the sequel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:24:56.293Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You know there has to be one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:04.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:09.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No i usually just go with what sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:26.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:33.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "first impression from the trailer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:38.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A lot of times the reviews are way off", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:50.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:54.567Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "public opinion is crap ^^", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:26:03.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Word of mouth from friends is usually more reliable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:26:20.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, but depends on friends :P", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:26:38.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "True, Some of mine are dorks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:26:52.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but I really hope that Marvel makes more of these kind of movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:27:03.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they'll put out an entire genre", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:27:22.083Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the combination of playboy, genius\n and billionaire ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:27:31.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats like exactly my dream job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:27:41.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Must be nice to have the resources to follow your passions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:27:52.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, very", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:28:09.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where do you think the series will go next", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:41.555Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there will be the question whether Iron Man is trusted", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:02.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:04.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nhe can turn evil", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:08.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nor can be trusted*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:23.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or how the government might try to exploit him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:29:36.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hope that he will be able to avoid that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:56.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can see them wanting an army in those suits", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:11.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:22.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:27.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that would be terrifying", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:29.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it would", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:36.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cant rust politicians'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:46.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Trust", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:52.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "most of the time...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:57.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its better if you know that money is the motivation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:31:12.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but with politicians", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:31:15.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you never know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:31:18.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that arc reactor ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:31:42.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm n old hippie. We used to say never trust anyone over 30", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:31:45.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats a safe rule", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:31:57.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "especially with an arc reactor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:32:02.031Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T15:19:02.738Z", 
+  "uid1LogOutTime": "2018-03-23T15:32:37.242Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:19:02.836Z", 
+  "uid2LogOutTime": "2018-03-23T15:32:42.105Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4535", 
+  "user2_id": "USR2267", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

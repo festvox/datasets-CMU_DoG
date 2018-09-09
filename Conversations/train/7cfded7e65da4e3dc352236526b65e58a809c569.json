@@ -1,0 +1,253 @@
+{
+  "date": "2018-03-19T19:17:26.779Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:17:57.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:18:28.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:38.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:19:01.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:19:07.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would like to look into that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:20:07.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:20:11.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:21:52.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone is a 1990 American comedy film, about a child who has misconceptions, his family decides to travel to Paris for a vacation. He stays home alone, and some thieves try to steal his house.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:22:38.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They try to steal his whole house?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:23:00.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "if they try to steal their belongings, two thieves.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:23:31.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh! What is it rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:24:33.499Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a good movie seen in many countries, it was successful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:26:00.867Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cinema score is :a", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:26:45.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it very violent though? I would like to watch it with children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:27:26.064Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is not violent, it is very funny, I recommend it to you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:28:04.657Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "About how long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:28:19.457Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "one hour and 40 minutes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:29:20.509Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he makes funny tricks to outwit the assailants.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:29:55.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there any famous actors in it that I might know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:30:44.972Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You probably know the main actor, it's Macaulay Culkin.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:31:38.840Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like him!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:32:09.714Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like comedy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:32:38.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the director of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:33:21.932Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was written by John Hughes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:34:36.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:34:36.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its director was Chris Columbus", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:35:02.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would I know any other films that Hughes has written?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:35:20.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually, I do not know how many he wrote.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:36:28.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "although the movie only at home, has 3 more parts.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:37:09.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good. Did it make a lot of money at the box office?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:37:39.478Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He wrote a movie about a dog called Beethoven, it's popular.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:38:09.083Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember watching it on television.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:38:38.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've seen it as well, but I didn't enjoy it. Hopefully it's not too similar to Home Alson", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:39:10.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has nothing to do, they are different genres.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:39:50.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Only at home is very fun. and they are several movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:40:15.347Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T19:17:26.779Z", 
+  "uid1LogOutTime": "2018-03-19T19:40:03.186Z", 
+  "uid1response": {
+    "feedback": "I remember the movie coming out and vaguely what it was about, but after hearing the other user speak about it I will definitely watch it\n", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T19:17:27.105Z", 
+  "uid2LogOutTime": "2018-03-19T19:40:19.433Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR768", 
+  "user2_id": "USR3992", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

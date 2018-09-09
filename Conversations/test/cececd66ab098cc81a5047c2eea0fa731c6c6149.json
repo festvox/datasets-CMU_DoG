@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-08T22:24:56.303Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, let's talk about this movie! You ready? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:26:19.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a ready", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:26:31.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:27:05.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "let,s start plz", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:27:44.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you familiar with Christopher Nolan? He's quite an acclaimed director and made this cool war movie called Dunkirk. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:27:49.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting, yeah? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:28:01.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:29:23.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So rather than than the commonly used CGI, Dunkirk uses practical effects to evoke more intense sense of realism. It really immerses you in the battle scenes. The 65 mm film stock also adds to the experience! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:31:02.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:32:34.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that the movie produced by Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:33:24.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It also has a pretty good cast, including: Harry Styles, Jack Lowden, and Fion Whitehead! Are you familiar with these actor's works? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:34:01.549Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i don no plz tell about the actor's details", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:35:44.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film premiered on 13 July 2017 at Odeon Leicester Square in London,yeah?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:37:56.969Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "any problem", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:39:16.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe so! It was very critically acclaimed, according to Rotten Tomatoes. To you pay much attention to critic websites or do you like to go to a film without prior knowledge? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:39:36.507Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still here? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:42:50.813Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe so! It was very critically acclaimed, according to Rotten Tomatoes. To you pay much attention to critic websites or do you like to go to a film without prior knowledge? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:43:30.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:43:54.855Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i am still waiting for your replay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:45:09.644Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-08T22:24:56.303Z", 
+  "uid1LogOutTime": "2018-02-08T22:46:27.071Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:24:56.508Z", 
+  "uid2LogOutTime": "2018-02-08T22:46:43.600Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3294", 
+  "user2_id": "USR4699", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

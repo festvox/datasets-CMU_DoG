@@ -1,0 +1,250 @@
+{
+  "date": "2018-03-06T01:55:08.089Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T01:56:29.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:56:35.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you? Ready to talk movies? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T01:56:52.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good, you? Yes, I am.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:57:08.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good as well thank you. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T01:57:21.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:57:32.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So Batman vs. Superman is the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T01:57:37.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:58:00.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ben Affleck and Henry Cavill are the leading men. Amy Adams is the leading lady. Sorry I'm a little slow to type. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T01:59:17.652Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:59:46.077Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the movie rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T01:59:59.391Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There is also a great supporting cast including Diane Lane and Jeremy Irons. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:00:02.222Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It received a B on Cinemascore. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:01:23.521Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What else can you tell me about the  movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:02:44.209Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure if you know this, it is direct by Zack Snyder.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:03:07.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh ok. Where was the movie filmed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:04:07.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also, it is interesting in the fact that Bruce Wayne, aka Batman, is Gotham's vigilante. Clark Kent see's him as a threat to humanity and tries to expose him via the Daily Planet, the paper he works for. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:05:12.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do batman and superman actually fight in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:05:37.379Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sure where the movie was filmed. The main settings are Gotham and Metropolis. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:06:19.687Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, they do fight. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:06:52.274Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who wins the fight?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:07:03.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They join forces to fight a bigger evil. Batman learning that Superman's mother shares his mother's name persuades him to help Clark when his mother is abducted. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:08:15.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What genre would you classify this movie as?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:08:31.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is very much a superhero movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:09:01.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:09:29.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "153 minutes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:10:38.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would you rate it on a scale of 1 to 10?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:10:42.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have a personal rating system or scale. \nIt was given a 4.9 out of 10 by Rottten Tomatoes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:11:52.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think this is a good movie for kids to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:12:12.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that would be up to the parent and the age of the child. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:13:04.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it rated \"R\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:13:30.052Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't recall the rating off hand. I would suggest to search online for the rating and possible triggers that could cause an issue. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:14:49.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think this is a movie I'd want to see. Thanks for chatting with me about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:15:30.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No problem. Have a great evening. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:15:50.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hope you enjoy it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:16:02.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:16:05.135Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T01:55:08.089Z", 
+  "uid1LogOutTime": "2018-03-06T02:16:10.774Z", 
+  "uid1response": {
+    "feedback": "I think I will try this movie although It's a little longer than I'd like.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T01:55:08.269Z", 
+  "uid2LogOutTime": "2018-03-06T02:16:07.856Z", 
+  "uid2response": {
+    "feedback": "It would be helpful to include the MPAA rating. This is something I was asked more than once.", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4072", 
+  "user2_id": "USR2046", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

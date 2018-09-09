@@ -1,0 +1,294 @@
+{
+  "date": "2018-03-07T01:01:19.864Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:02:25.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:02:31.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you get a document about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:02:58.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I got the Document on Batman Begins.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:03:16.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! I am supposed to determine if I should watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:04:24.633Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:05:03.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea, This thing is weird so to make it easy. If you haven't you should because other than the fact if you like DC you'll watch it either way but still, it's a good movie. It tells the back story of Bruce Wayne's side and journey from when his parents died to him becoming batman and his motives behind the creation of the Cape Crusader. It really lets you dive in to the psychological side of what Bruce believed and how he saw life after he lost his parents while at the same side trying not only to help gotham become the city he once thought it was but to also avenge and rebuilt the Wayne name in his parents vision for them to make Gotham City a better place. It also lets you see the light and dark side behind his mind and the villians who try to teach him even the best people can have the darkest intentions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:07:47.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds good. Is it a good action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:08:54.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is, plenty of action but not too much like a transformers movie. A good mix of action and story so you're not completely thrown off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:10:18.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main villains in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:11:30.303Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there are several villains but they are mostly appearances of some well known villians but for the movie the MAIN villis is Ra", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:12:26.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ra's al Ghul played by Liam Neeson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:12:40.967Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there any romance in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:13:53.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There is a hint of romance Between Bruce Wayne (Christian Bale) and his childhood friend (forgot the name but shes played by Katie Holmes). Though their relationship isn't so much romance at is a very close bond that has the potential for romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:15:26.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok. Would you still recommend the movie to someone who doesn't like action movies genre's?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:20:28.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would because even if you don't like action, the storyline is good and you get to see through bruce's point of view how he became batman. So if action isn't for you, the story is interesting to follow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:22:18.685Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thats good. I think I will watch it. Is the joker in batman begins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:22:58.946Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no BUT the ending does hint at hims coming in the second movie, The Dark Knight", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:23:24.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and YOU WILL LOVE HIM", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:23:36.002Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds awesome. Is robin in the i", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:29:50.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:30:10.030Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no, unfortunately no movie since George Clooney was batman has introduced robin yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:30:41.037Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is the best part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:32:05.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in my opinion the best part is when bruce is training in the mountains, especially in a scene where he is being taught to use fear as part of his technique rather than let it hold him back", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:34:28.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok cool. any other recommendations for watching the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:36:15.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:36:33.561Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "depends if you like Christian Bale, Katie Holmes, Liam Neeson Michael Caine or Gay Oldman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:37:14.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "all great actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:37:19.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and if you've ever seen Christian Bale in American Psycho then i really suggest it because the way he portrays himself in that movie to the people he must interact vs. the way his mind really functions is almost similar to Batman from the way he must play the part of the suave and well mannered businessman during the day and to the eye of the public but then to shift almost into an entirely different person when he becomes batman who is both vengeful and yet righteous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:39:38.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's fascinating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:39:43.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that does sound fascinating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:41:03.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is always better when you have great actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:41:22.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a strong female actor? Or is the focus on batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:42:31.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep, in my personal opinion, the best actors are Liam Neeson, Micheal Caine, and Gary Oldman, i'm such huge fans of their work. Especially Gary Oldman when he plays Dracula in the 1992 Bram Stoker's Dracula which also has Keanu Reeves and Wi\nnona Ryder", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:43:34.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie is more focused on batman\nb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:43:46.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ut there are a few moments where Katie holmes proves her strong side in her determination to bring down criminals the legal way", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:44:11.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thats great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:49:49.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any comments about the movie you would like to share?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:50:15.813Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "none that i can think of, i think i'm satisfied in the points i've made", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:50:49.847Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you. I think we have met the task requirement\n with our discussion .", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:53:28.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:53:49.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a nice day~!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:53:54.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:53:59.542Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T01:01:19.864Z", 
+  "uid1LogOutTime": "2018-03-07T01:54:07.902Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T01:01:19.904Z", 
+  "uid2LogOutTime": "2018-03-07T01:53:57.260Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1535", 
+  "user2_id": "USR84", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

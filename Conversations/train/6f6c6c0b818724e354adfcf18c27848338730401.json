@@ -1,0 +1,37 @@
+{
+  "date": "2018-02-09T00:05:25.407Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, can you please tell me the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:06:22.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. The Moive is called John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:06:58.444Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-09T00:05:25.407Z", 
+  "uid1LogOutTime": "2018-02-09T00:07:27.297Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T00:05:25.466Z", 
+  "uid2LogOutTime": "2018-02-09T00:07:09.120Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3344", 
+  "user2_id": "USR3664", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

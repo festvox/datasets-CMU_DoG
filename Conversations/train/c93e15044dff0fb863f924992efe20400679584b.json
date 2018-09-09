@@ -1,0 +1,88 @@
+{
+  "date": "2018-02-20T22:50:39.767Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:51:17.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:51:38.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am a  big sucker for biographic movies and this movie is probably one of my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:52:36.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:53:00.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Blind Side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:53:08.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah. What did you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:53:24.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie based on the 2006 book, The Blind Side, is a sports tear-jerker. An African-American boy lives with his siblings and Mom who is a drug addict. When he was little he and his siblings were eventually taken away from her and separated. The boy's name is Michael or 'Big Mike' as everyone calls him. Because well as he grows up he's a big kid.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:57:31.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Big Mike pretty much raises himself with no help at all and sleeping on friends couches. In high school he has one set of clothes which he washes everynight. He attends school but pretty much does not have have the support to do well in school but it gave him a break from being alone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T23:00:31.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He could have given up at any time or worse turned to crime or drugs like his Mother. Big Mike is played by Quinton Aaron who portrayed him very well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T23:02:07.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow that sounds really interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T23:02:09.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what is your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T23:02:26.535Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T22:50:39.767Z", 
+  "uid1LogOutTime": "2018-02-20T23:10:46.748Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T22:50:39.818Z", 
+  "user1_id": "USR2262", 
+  "user2_id": "USR2198", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-16T18:42:00.034Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Heyo!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:42:07.331Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:43:17.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:43:49.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i wanted to review a movie with you but I'm trying to locate where i dropped the information on my pc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:44:49.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It should be below this chat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:45:07.954Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:42:00.034Z", 
+  "uid1LogOutTime": "2018-03-16T18:45:34.036Z", 
+  "uid1response": {
+    "feedback": "The user did not inform me of the movie", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:42:03.594Z", 
+  "uid2LogOutTime": "2018-03-16T18:45:27.150Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1592", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

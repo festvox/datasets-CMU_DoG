@@ -1,0 +1,92 @@
+{
+  "date": "2018-03-07T17:35:43.900Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:36:39.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Good morning, how is it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:38:34.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing all right, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:38:44.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good thanks. I would like to tell you something that I did yesterday...I watched an awesome movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:39:25.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you watch?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:39:43.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network, It's really unbelievable that you can watch, do you know what is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:40:23.779Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of the movie, but never seen it. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:41:01.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About the funding of Facebook, is really interesting because you can know about its origins and I didn't know about \n\n\n\none thing that actually happened in reality", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:42:32.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That thing was a huge scandal. It was about lawsuits. If you can watch the movie you can predict what would happen to the next generations of startups involved in technology.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:46:26.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, tell me, would you like to watch it someday?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:51:22.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And the Director which is David Fincher is a kind of curious person because he's seen by the audience as a brilliant hero but he is also a cocksure, impatient, cold and very perceptive. These are very interesting characteristics because are contradictories and they make you think deeper about the details in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:03:06.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:15:28.377Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T17:35:43.900Z", 
+  "uid1LogOutTime": "2018-03-08T01:20:02.577Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:35:44.278Z", 
+  "user1_id": "USR4789", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

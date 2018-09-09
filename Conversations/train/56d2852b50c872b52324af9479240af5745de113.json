@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-07T23:59:07.067Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:59:45.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, have you watched the movie Batman vs. Superman? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T00:00:13.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't.. What is the genre of that film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:01:01.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a superhero film, directed by Zack Snyder", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T00:01:19.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting... \nWho are the actors stars in this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:02:18.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Ben Affleck as Batman, Henry Cavill as Clark Kent and Jesse Eisenburg as Lex Luthor, it is the second installment of the DC Extended Universe.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T00:03:19.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonderful! what was your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:03:59.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think I have a favorite scene specifically, but I loved how Lex Luthor manipulates batman into a battle with Superman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T00:05:11.997Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T23:59:07.067Z", 
+  "uid1LogOutTime": "2018-03-08T00:06:45.817Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T23:59:07.257Z", 
+  "uid2LogOutTime": "2018-03-08T00:05:20.740Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3005", 
+  "user2_id": "USR4359", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

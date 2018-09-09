@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-20T21:42:25.695Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "That was a great animated movie! I agree with the A CinemaScore. what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:43:40.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wan't able to see it yet, what was the title?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:44:20.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:44:42.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like an interesting title. And with a great recommendation from you and CinemaScore I think I should check it out. Could you tell me a little about the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:46:28.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ofcourese, its an animated movie from Pixar with Steve Carell as Gru, a mean supervillain and Jason Segel as Victor Perkins, Gru's archenemy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:49:32.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a fun movie. Would you recommend this movie for kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:51:39.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh definitely ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:54:43.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the movies rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:55:06.437Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T21:42:25.695Z", 
+  "uid1LogOutTime": "2018-02-20T21:58:38.001Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T21:42:25.729Z", 
+  "uid2LogOutTime": "2018-02-20T22:00:03.019Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR555", 
+  "user2_id": "USR2095", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

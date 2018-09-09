@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-19T18:41:49.193Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:42:04.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:42:11.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:42:35.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:42:45.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Vs Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:43:03.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No but I am interested. Can I ask you questions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:43:29.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a very bad rating on Rotten Tomatoes. Yes you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:43:41.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What rating on roteen tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:43:57.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a 27 percent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:08.064Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the lead male role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:44:23.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was not well liked by the critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:30.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ben Affleck is the lead role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:36.794Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the second lead role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:44:47.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:53.339Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:44:55.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Henry Cavill is Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:03.828Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it R rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:45:10.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:19.215Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it PG-13?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:45:27.731Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:39.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:45:42.307Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Zack Snyder. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:55.110Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it a sequel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:46:03.235Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do not know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:46:13.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:46:26.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:46:32.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:46:40.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:46:55.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it live action or animated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:47:05.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is live action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:47:10.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there\n a lead female role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:47:32.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Amy Adams is Lois Lane", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:47:48.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok thank you for your help", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:48:10.305Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T18:41:49.193Z", 
+  "uid1LogOutTime": "2018-02-19T18:48:12.897Z", 
+  "uid1response": {
+    "feedback": "I don't like super hero movies and my partner told me this is very low rated.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:41:49.742Z", 
+  "uid2LogOutTime": "2018-02-19T18:47:59.596Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1847", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

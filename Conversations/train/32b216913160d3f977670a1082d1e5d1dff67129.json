@@ -1,0 +1,97 @@
+{
+  "date": "2018-03-22T21:59:05.194Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:59:18.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im ok thanks ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:59:49.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about u", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:59:53.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I good thank you! Any movie recommendations ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:00:11.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:22.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "if u like comedies u might like to watch this one again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:36.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "becasue i bet u watched thsi already", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:52.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "home alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:00:57.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have u watched it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:01:04.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh Definitely! Is a Christmas Classic for me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:01:40.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*Its", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:02:05.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:03:08.287Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-22T21:59:05.194Z", 
+  "uid1LogOutTime": "2018-03-22T22:12:56.630Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T21:59:05.267Z", 
+  "uid2LogOutTime": "2018-03-22T22:08:19.016Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4383", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

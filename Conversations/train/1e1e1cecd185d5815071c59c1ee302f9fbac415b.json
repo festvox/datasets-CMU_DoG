@@ -1,0 +1,360 @@
+{
+  "date": "2018-03-01T00:50:31.767Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:50:42.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have a movie document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:51:18.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I don\u2019t", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:51:32.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie we got is The Notebook.  Do you know it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:51:56.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do we chat about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:51:59.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019ve seen it but a while back.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:52:14.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Since you didn't get the document, I have to give you info to respond to.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:52:40.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay cool. So whats this movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:53:26.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This was a love story between a man a woman who is now in a nursing home.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:54:05.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We see them both in their older days and younger days.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:54:50.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How romantic. I like movies like that. Who acts in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:55:25.192Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie made stars out of Ryan Gosling and Rachel McAdams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:56:24.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling is the best, so this is the movie that made him big. Is it a period piece?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:57:54.909Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you could say that, because it starts in 1940", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:58:31.689Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in the U.S. south", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:58:47.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "one thing that might surprise fans is that it didn't get great reviews from critics.  they thought it was too sappy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:59:30.974Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I don\u2019t really listen to critics as most times they get it wrong. Did you think it was too sappy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:02:34.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i remember liking it, that it felt like a real love affair", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:03:10.767Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they feed me more information the longer we chat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:03:55.371Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nice. Do you know who directed it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:04:06.576Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the director is named Nick Cassavetes.  his mother actually plays the older version of the female lead", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:04:47.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow that is amazing but maybe would be tough to direct your own Mother. Do you know what rating the movie got like on Rotten Tomato?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:05:47.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "52%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:06:06.996Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sucks. What was your best scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:06:55.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the next scene they mention is how the girl's mother hides the boy's letters from her, because she doesn't want her daughter to be with him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:08:02.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What wouldn\u2019t they want them to be together? Is he a bad boy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:09:14.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she's from a rich family.  he's not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:09:41.116Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "final scene to discuss:  the mother admits what she's done and gives her daughter the letters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:10:45.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay get it now. I guess that ended up well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:11:57.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "by then, her daughter had gotten engaged to someone else", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:12:07.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh no, so how did they get back together?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:12:30.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "her mom shows her what became of lower-class boy she loved once (he's still lower class).  she didn't want her daughter to struggle with money", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:13:45.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the daughter just has to decide what's important to her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:14:18.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in the end, she chooses the lower class guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:15:02.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess she made the right choice then, to chose her happiness and get with him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:15:23.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a fantastic movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:15:46.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know when it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:15:59.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2004", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:16:05.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was a while back.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:16:19.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:16:26.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was there any critical reviews or responses about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:16:53.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they praise the performances, but criticize the \"sappy\" writing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:17:21.115Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you a love story fan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:17:41.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you consider it to be one of the classics? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:17:57.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like Love stories", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:18:09.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not exactly a classic, maybe.  but pretty good.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:18:39.847Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'm surprised the task hasn't ended yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:19:04.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:19:24.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It makes me want to watch the movie again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:19:38.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was there anything about it that you didn\u2019t like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:19:53.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, i suppose the letter thing was a little annoying.  lots of movies have already done that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:20:30.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah your right there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:20:54.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think it's safe for us to click \"finish conversation\".  we've already gone past the number of exchanges needed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:21:25.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well nice talking to you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:21:53.533Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T00:50:31.767Z", 
+  "uid1LogOutTime": "2018-03-01T01:21:34.554Z", 
+  "uid1response": {
+    "feedback": "Task didn't let us know when we were finished.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T00:50:31.816Z", 
+  "uid2LogOutTime": "2018-03-01T01:21:56.608Z", 
+  "uid2response": {
+    "feedback": "I think the other user explained well the movie and created a bit of an interest. As the conversation went on, I found myself to be more intrigued about the story and feel that I would want to watch the movie again.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3552", 
+  "user2_id": "USR806", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

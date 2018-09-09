@@ -1,0 +1,71 @@
+{
+  "date": "2018-03-16T21:17:19.639Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I didnt like this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:18:17.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You didn\u2019t like it? It was based on a pretty incredible true story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:19:33.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a little to slow paced for me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:19:48.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The fact that he was able to get away with his cons for so long and so much money was incredible.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:20:47.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats a good point, I guess im more of a action movie fan. Maybe I will watch it again soon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:21:33.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you should give it another look. I think Tom Hanks and Leonardo DiCaprio work well in their roles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:22:34.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I will, its been a long time since I saw it, always have been a Dicaprio fan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:23:35.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. It received 96% on Rotten Tomatoes, which is very high. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:24:51.972Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T21:17:19.639Z", 
+  "uid2LogInTime": "2018-03-16T21:17:19.946Z", 
+  "uid2LogOutTime": "2018-03-16T21:32:09.512Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3985", 
+  "user2_id": "USR449", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

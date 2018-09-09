@@ -1,0 +1,87 @@
+{
+  "date": "2018-03-06T15:28:54.360Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey there, what movie did you see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:34.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Despicable Me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:29:38.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:45.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 3D computer-animated movie about a supervillan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:41.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has funny punch lines and is a movie that both kids and adults like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:21.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The cast includes Steve Carell, Jason Segel and Russel Brand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:58.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Steve Carell and Russel Brand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:12.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it noticeable that they're the voice actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:20.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, Steve Carell voices the main character, Gru", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:57.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I heard about that!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:04.645Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got a score on Rotten Tomatoes of 81%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:21.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Certified fresh?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:27.951Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:28:54.360Z", 
+  "uid2LogInTime": "2018-03-06T15:28:54.888Z", 
+  "user1_id": "USR3515", 
+  "user2_id": "USR589", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

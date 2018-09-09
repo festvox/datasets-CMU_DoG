@@ -1,0 +1,217 @@
+{
+  "date": "2018-03-20T16:16:28.880Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:16:34.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:16:38.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what is the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:16:47.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:01.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:18.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:38.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a very good film in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:39.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:42.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:43.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:55.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Kyle Chandler, and Rob Reiner", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:18:26.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:18:50.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did it get good ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:24.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:19:49.819Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what genre is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:59.168Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Black Comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:38.426Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "does it have a good ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:56.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes the ending of the movie was good because it showed the full arc of the main character go from where he began, to being very different when he became successful, then went to jail", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:22:12.841Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what were the ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:22:22.442Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some were good but some were bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:23:00.241Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "stating that the characters were not very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:23:14.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that is interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:32.951Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "when did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:52.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:23:58.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else interesting about the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:24:10.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It opened up the world of Wall Street and what it could be like to work there to so many people who would probably never have a clue of what it was like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:24:53.199Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was there a lot of talking in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:25:11.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:25:18.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "would you give it  5 out of 5?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:25:57.402Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would. I thought it was a great film and had a very good cast. All the characters were funny in their own way and also serious when needing to be. The acting overall was great and the story was very compelling.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:26:38.788Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T16:16:28.880Z", 
+  "uid1LogOutTime": "2018-03-20T16:27:04.283Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:16:28.941Z", 
+  "uid2LogOutTime": "2018-03-20T16:27:01.601Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2826", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

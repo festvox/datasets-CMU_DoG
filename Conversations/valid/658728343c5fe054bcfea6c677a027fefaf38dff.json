@@ -1,0 +1,356 @@
+{
+  "date": "2018-03-22T17:32:15.887Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:32:25.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Home Alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:32:55.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Macauley Culkin?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:33:45.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Joe Pesci?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:35:10.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, yes, i've seen home alone. how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:36:38.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:36:49.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:36:53.283Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which character you liked the most?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:37:13.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the burglars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:37:18.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not the kid so much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:37:25.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:37:39.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "too cute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:37:52.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "too white in a way", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:37:55.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not to be racist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:38:01.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm white", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:38:03.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but the kid bugs me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:38:07.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:39:00.022Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha, i guess. the whole plot was kind off way out there for me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:39:17.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:39:23.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hard to believe parents would forget their kid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:39:32.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I forgot John Hughes did this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:41:21.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "right. but it was a good movie to see it with kids, mine seem to enjoy it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:41:31.833Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wait", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:42:02.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess John Hughes wrote it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:42:10.413Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christopher c. directed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:42:16.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i forgot that macaulay culkin was suppose to be 8 in that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:43:43.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and that it was in released in 1990, seems like it was more recent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:44:24.180Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ya know, if we maintained a dialogue, we could finish in 2 or 3 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:44:49.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so we are just suppose to talk about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:45:12.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:45:16.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:45:17.733Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the documents too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:45:23.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "get info from the docs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:45:32.260Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "movie was made in 1990, so long ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:45:45.541Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. so now i recall the mom just remembers in the plane ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:46:13.947Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:46:19.862Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember that scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:46:23.014Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't remember who the dad was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:46:32.311Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's crazy, anytime i travel with kid they are the first thng i'm always paying attention to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:46:53.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no wonder i'ts a comedy ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:47:07.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they were all tied up with Christmas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:47:18.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "too busy to remember the child", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:47:24.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there was an older sibling", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:47:47.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can't remember", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:47:54.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, BuZZ thebrother", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:48:03.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seemed like it was an actor I recognized", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:48:05.754Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the brother", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:48:06.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Buzz?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:48:09.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:48:12.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:48:13.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he's the one that got him in trouble", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:48:27.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay, click Finish Conv and you'll get your code", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:48:30.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i don't know where is he from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:48:37.074Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T17:32:15.887Z", 
+  "uid1LogOutTime": "2018-03-22T17:48:34.460Z", 
+  "uid1response": {
+    "feedback": "nice chat", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:32:15.897Z", 
+  "uid2LogOutTime": "2018-03-22T17:48:40.202Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR729", 
+  "user2_id": "USR4680", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

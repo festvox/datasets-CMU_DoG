@@ -1,0 +1,320 @@
+{
+  "date": "2018-02-09T20:28:39.522Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:28:57.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:29:01.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "soooo Wonderwoman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:29:15.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:29:17.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am well, yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:29:24.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "fine thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:29:30.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:29:35.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what's out task today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:29:38.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "read that document and discuss whether we would like this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:30:04.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:30:11.819Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "well, what's your thoughts about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:30:28.078Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so it's a comic book movie, which I typically don't like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:30:31.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but it seems to have good ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:30:43.182Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:31:04.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "maybe we don't share the same taste, but we can get a middle ground for us both", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:31:04.718Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "maybe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:31:09.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you like comic book movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:31:16.601Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and, hope the movie plot would be interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:31:27.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:31:32.938Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "definitely seems like an interesting start to the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:31:50.463Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well, what do you tough about the movie's rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:32:01.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it sounds to be worthy to give it a shoot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:32:19.379Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I mean those are some impressive ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:32:33.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, and also the cast seems to be original", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:32:56.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "92% on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:01.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right I hadn't seen any of those folks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:09.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and then a new director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:18.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's weird that she can send an email after something happened in 1918 though!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:42.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, I have no good movie culture, but usually what I like the most is the plot and the special effects", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:33:55.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i don't know many people alive in 1918 that could send an email", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:56.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ahhh nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:34:02.296Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:34:03.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think most people are like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:34:10.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, modern life spoil everything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:34:25.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know abotu that, I like modern conveniences", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:34:39.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and also the movies intends\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:34:42.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "indeed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:35:42.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you ever heard about the Director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:35:42.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:35:58.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:36:36.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we're both in the same boat hahah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:36:39.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha, awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:36:43.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hey I think we're done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:36:47.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:36:55.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "enjoy the rest of your day, happy turking", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:37:06.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "happy to chat with you, and the same wish for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:37:17.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:37:22.930Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T20:28:39.523Z", 
+  "uid1LogOutTime": "2018-02-09T20:37:48.182Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:28:39.751Z", 
+  "uid2LogOutTime": "2018-02-09T20:37:36.352Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1634", 
+  "user2_id": "USR3304", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

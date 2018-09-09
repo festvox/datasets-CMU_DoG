@@ -1,0 +1,233 @@
+{
+  "date": "2018-03-19T20:18:08.832Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:18:17.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:18:28.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superheroes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:18:47.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:18:52.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Robert Downey Jr.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:19:02.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea he is ok, he does a good job with iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:19:14.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, Iron Man got 94% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:19:45.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "all of them or the first?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:20:06.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The first one from 2008", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:14.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The one with Terrence Howard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:36.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have you seen all of them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:20:37.560Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. But my favorite is Iron Man because of Jeff Bridges role as Obadiah Stane", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:21:05.113Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "gotcha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:21:21.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was also a big fan of the scenes in Afgahnistan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:21:49.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i haven't seen the movie in awhile I do not remember all of the specific scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:12.627Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The scene in Afghanistan showed us that Tony Stark was critically wounded by his own missles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:22:44.117Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:55.078Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. And then in a later scene he goes back to Afghanistan in red armor and beats up the people that captured him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:05.214Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's pretty cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:12.029Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea that sounds familiar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:24:26.449Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It also has the first appearance of Phil Coulson from SHIELD.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:54.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea i like how the different movies get connected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:25:15.791Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yup, and this one started it all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:25:40.962Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "People said that it was a shapely piece of mythmaking.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:26:22.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:26:24.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, that's what critics would say to describe the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:26:51.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:27:04.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not as cool the scene where we find out Stane steals Tony's arc reactor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:27:47.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Am I right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:27:55.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:28:35.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was cool, because later they fight in big suits", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:28:38.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:29:04.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh man, and the ending too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:29:07.048Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T20:18:08.832Z", 
+  "uid1LogOutTime": "2018-03-19T20:29:09.786Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:18:08.853Z", 
+  "uid2LogOutTime": "2018-03-19T20:29:09.330Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR929", 
+  "user2_id": "USR1293", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

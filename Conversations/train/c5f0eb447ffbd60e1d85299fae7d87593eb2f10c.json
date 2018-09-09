@@ -1,0 +1,149 @@
+{
+  "date": "2018-03-28T15:11:03.352Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:40.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so whats the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:11:44.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:56.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:07.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In Texas.  You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:17.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like what the movie was about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:20.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who played in it?.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:27.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I watched it a long time ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:31.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would you reccomend it to me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:37.445Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Macaulay Culkin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:42.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wish i was getting some information", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:48.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cant rate movie if i dont know anyhting about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:56.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "even its name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:02.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you heard Home Alone?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:13:17.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "action movie?romance movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:22.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sci fi?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:26.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wanna give me some answers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:34.063Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:13:40.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hope it was good for you wish i could at least know the name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:55.608Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would give it 4 stars a long time ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:16.071Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "now maybe 3", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:22.031Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T15:11:03.352Z", 
+  "uid1LogOutTime": "2018-03-28T15:13:57.035Z", 
+  "uid1response": {
+    "feedback": "the other user was not responsive to any of my questions he left while we were suppose to be talking", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:11:03.352Z", 
+  "user1_id": "USR39", 
+  "user2_id": "USR754", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

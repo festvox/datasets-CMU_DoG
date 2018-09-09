@@ -1,0 +1,262 @@
+{
+  "date": "2018-03-19T18:42:28.049Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, have you seen the movie Real Steel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:42:47.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not, who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:43:07.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman stars as Charlie Kenton.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:43:27.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an American sci-fi movie with a sports twist. It features giant fighting robots.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:44:02.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is it directed by?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:44:34.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His name is Shawn Levy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:45:03.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a Rotten Tomato score of 59%, what do you think about that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:45:19.808Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't recognize that name. I find it's always a toss up whether I agree with a rotten tomato score. I might still consider watching it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:46:54.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a recent film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:47:05.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2011. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:47:32.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Production began in 2010. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:47:49.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Filming primarily took place in Michigan. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:48:01.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds like they were able to turn it out relatively quickly. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:49:02.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have access to any other reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:49:20.572Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:49:39.837Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What have other people said about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:50:17.346Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One critical response was: \"Though the premise of fighting robots does seem a intriguing concept, Real Steel is hampered by cliche moments of a stubborn boy teaching his dad leasson\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:51:02.572Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does that seem to be the general consensus? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:51:40.113Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "More or less. \nIt received a 56/100 on Metacritic, and an \"A\" on CinemaScore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:51:51.487Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a movie based on robots replacing human boxers afterall", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:52:17.730Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds wildly mediocre. Have you watched it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:52:41.980Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is a very unusual premise for a movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:53:58.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. It has a seen where the father and son use a robot named Atom to fight other robots on the way to becoming a champion. Each robot is unique and the fights take place all over.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:54:04.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you enjoy the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:54:34.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its more WWE than boxing as one critic put it. But it can be entertaining. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:54:40.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The boy and his dad and their robot eventually become the \"People's Champion\" after having to switch to manual controls. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:55:20.610Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well Rocky it is not. But on the whole its enjoyable family entertainment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:55:41.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you usually like family movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:57:12.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Forgive me, but I don't really know the difference between WWE and boxing. The robots fighting style is different than what was described?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:57:14.884Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It depends on the movie. If it makes me laugh then I am hooked.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:58:05.543Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The robots fight in a boxing style mostly. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:58:13.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like Hugh Jackman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:58:20.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We're there any funny parts in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:58:26.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:58:44.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some cliched family moments. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:58:57.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't think of what else I would have seen him in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:59:23.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah. Well enjoy your day. Thanks for talking about a movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:59:44.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Likewise! Take care a", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:00:09.947Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:42:28.049Z", 
+  "uid1LogOutTime": "2018-03-19T19:00:19.160Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:42:28.099Z", 
+  "uid2LogOutTime": "2018-03-19T19:00:23.019Z", 
+  "uid2response": {
+    "feedback": "The movie does not sound like something I would enjoy.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR753", 
+  "user2_id": "USR4857", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

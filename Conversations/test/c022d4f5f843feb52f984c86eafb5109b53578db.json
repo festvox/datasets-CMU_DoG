@@ -1,0 +1,283 @@
+{
+  "date": "2018-03-19T18:17:04.361Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:17:51.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:17:55.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is The \ng", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:06.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great Gatsby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:12.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh OK, what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:18:37.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THe directoris the infamous Baz Luhmann", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:39.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is is a very romantic film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:49.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About a famous billionaire who hosts wild parties at his house", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:19.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see, and where does the story go from there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:19:46.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He tries to make Daisy his love show up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:20:26.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a very romantic movie that would be great to watch in theaters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:20:46.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where is this set?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:20:50.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie is set in Australia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:21:12.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "with a 190 million dollar budget, because monyw can cover great movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:21:30.498Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What are the themes of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:22:06.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The theme would be a romantic love story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:22:50.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does daisy show up to his parties?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:23:27.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, I really think you should watch this movie. The best way to find out is to come to the theatre and watch this aazing film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:23:56.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:23:58.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What genres of moves do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:24:34.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds interesting, but I don't have a good feel for the plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:34.616Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I understand it is a love story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:44.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I don't understand the character's motivation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:59.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What genres of moves do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:25:05.304Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:25:09.459Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mostly comedy, historical fiction, dramas, action, and art films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:25:38.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When you watch this movie not that, there is much drama portrayed on the screen and they are very dramatic, I can tell you this from my own experience.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:26:22.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about the portrayal is dramatic?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:26:53.795Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "As well, there are many funny moments and the art in the background is a great sight to see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:26:59.930Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well the actors are very well known and they have experience bringing drama to the big screens.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:27:40.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I understand that this is a love story but I'm wondering what about this film makes it dramatic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:27:42.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is good to hear the actors are well known", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:28:00.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the lead?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:28:05.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:28:12.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The lead is Leonardo DiCaprio as Jay Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:28:39.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh he is quite good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:29:09.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who plays daisy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:29:29.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked this scene, where Gatsby tells Tom about his affair with with Daisy. There is much drama when Jay tells him that Daisy never loved him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:47.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cary Mulligan as Daisy Buchanan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:06.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they fight over daisy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:30:51.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I must thank you for your recommendation.  I'm certainly interested to see the film!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:31:50.733Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:17:04.362Z", 
+  "uid1LogOutTime": "2018-03-19T18:31:57.988Z", 
+  "uid1response": {
+    "feedback": "While the conversation went smoothly, it was lacking in plot detail, and the information I gleaned was little more than genre, actors, and film settings.  Almost as if it weren't a real person :)", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:17:04.362Z", 
+  "uid2LogOutTime": "2018-03-19T18:32:03.002Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR932", 
+  "user2_id": "USR3890", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-22T19:33:07.874Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:33:15.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi,  how are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:33:45.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine.  And you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:33:58.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great.  Do you like political thrillers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:34:15.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not my favorite, but i like some of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:34:45.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you eaver heard of the movie \"The Post\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:35:36.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:35:52.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haven't seen it though, so don't know much about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:37:24.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:42:04.842Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T19:33:07.874Z", 
+  "uid1LogOutTime": "2018-03-22T19:46:42.556Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T19:33:07.945Z", 
+  "user1_id": "USR3552", 
+  "user2_id": "USR3", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "date": "2018-03-06T18:58:18.765Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:58:46.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:58:54.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:58:59.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fantastic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:59:08.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Catch Me If you can?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:59:12.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:59:19.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:59:27.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is great. Just a few people knew that actually it is a Steven Spielberg movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:59:53.863Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not know it was a Spielberg movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:00:21.687Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Everyone remember the movie as the one where Tom Hanks and Leo DiCaprio plays together", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:00:38.200Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whats the movie about again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:01:16.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leo is a con-man, dublicating checks and Tom Hanks is the detective who is trying to catch him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:02:04.544Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you sure you watched it. If not I strongly recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:02:43.949Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, that sounds fun. What time period does it take place in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:02:52.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I meant to say \"I have not watched it\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:03:03.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ohhh, ok, then definitely watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:03:20.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It definitely sounds like something I would be interested in. Spielberg, Hanks and DiCaprio. Can't go wrong with that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:03:59.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "right. Let me tell you more about the movie but not spoilers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:04:24.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absoulutely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:04:34.707Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Leo is a very smart young guy who is just forging checks. He stole more than 2.8 million dollars from an airline company before even they realized", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:05:19.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Hanks, the FBI guy became obsessed about this guy, and made a real effort to catch him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:05:45.428Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is why the movie is called, catch me if you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:05:55.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, this movie sounds like a good one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:06:20.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is based on a true story by the way", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:06:42.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At the ending credits, they tell us what happened to the characters in real life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:07:04.814Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A true story? Wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:07:35.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It definitely sounds like something I'd like to check out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:07:46.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you want to learn anything else about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:08:04.508Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:08:12.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then ask :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:08:21.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what time period it takes place in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:08:32.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the story begins at 1963", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:08:58.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:09:05.490Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the times when it was easier to forge checks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:09:13.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I've heard enough. I will definitely check this movie out very soon.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:09:22.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks, bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:09:29.488Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T18:58:18.765Z", 
+  "uid1LogOutTime": "2018-03-06T19:09:24.148Z", 
+  "uid1response": {
+    "feedback": "User made the movie sound appealing and worth the time to check out.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T18:58:18.923Z", 
+  "uid2LogOutTime": "2018-03-06T19:09:32.484Z", 
+  "uid2response": {
+    "feedback": "I think I made the other guy convinced to watch the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1933", 
+  "user2_id": "USR509", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

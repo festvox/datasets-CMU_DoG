@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-26T16:28:01.840Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:28:59.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, although I have only seen a few of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:29:19.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like them? What do you like about them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:29:57.564Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T16:28:01.840Z", 
+  "uid1LogOutTime": "2018-03-26T16:30:37.397Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-26T16:28:02.121Z", 
+  "uid2LogOutTime": "2018-03-26T16:29:12.874Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1975", 
+  "user2_id": "USR4793", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

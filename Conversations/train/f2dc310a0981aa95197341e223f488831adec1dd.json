@@ -1,0 +1,105 @@
+{
+  "date": "2018-03-22T17:58:41.552Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:59:15.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's the Wolf of Wall Street. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:59:26.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this movie family friendly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:59:43.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's not. It's a black/dark\n comedy meant for a more mature audience. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:00:16.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it given good reviews by critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:00:35.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was fairly well-received. It got a 78% on Rotten Tomatoes and was called \"\nepic in size\" ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:01:33.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the total runtime of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:02:36.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure about that, but did you know it stars Leonardo DiCaprio as well as Jonah Hill, and Margot Robbie? Matthew McConaughey is also in the film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:04:35.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont like watching dark comedies, is there any reason I might\n like this movie anyway?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:05:39.731Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like movies based on true stories? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:06:04.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:06:19.051Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This one is based on the memoirs of Jordan Belfort, a former NYC stockbroker. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:06:54.415Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T17:58:41.552Z", 
+  "uid1LogOutTime": "2018-03-22T18:08:02.650Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:58:41.655Z", 
+  "uid2LogOutTime": "2018-03-22T18:08:09.145Z", 
+  "uid2response": {
+    "feedback": "The conversation seemed a little slow and stilted, and I think user2 left earlier than the task wished. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR626", 
+  "user2_id": "USR2314", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

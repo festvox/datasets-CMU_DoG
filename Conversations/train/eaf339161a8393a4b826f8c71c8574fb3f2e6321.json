@@ -1,0 +1,213 @@
+{
+  "date": "2018-03-29T16:14:56.883Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:15:24.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there, good how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:15:46.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! Thanks for asking! So what movie will we be discussing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:16:21.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Monsters University!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:16:45.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool! I haven't seen that one. What can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:17:11.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a pixar animation from 2013 that was the prequel to the movie Monsters Inc. from 2001. The plot is of two monsters, Mike and Sulley during their time at University. They start off as enemies but slowly become friends through rivals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:19:55.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds very interesting! Do you know who voices the characters of Mike and Sully?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:20:43.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Billy Crystal is the voice of Mike and John Goodman is the character Sulley!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:21:58.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Noah Johnston also voices as young Mike!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:22:11.721Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They are all three great actors! I especially like Billy and John! Do you know who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:22:53.229Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie was directed by Dan Scanion!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:23:14.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome! How did the critics react to the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:23:34.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Scanlon *", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:23:35.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's a great director!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:24:04.978Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics all seemed to love the movie! Many saw it as a cute and funny animation that matches the tone of the previous movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:24:21.277Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's so cool. I know critics can be harsh so if they like a film then it must be great! Do you know what score Cinemascore and Rotten Tomatoe's gave it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:25:35.833Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten Tomatoes gave it 79% and average 6.8/10 and CinemaScore gave it an A!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:26:36.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not bad at all! Sounds like a great movie! Any interesting plot points you want to share?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:27:06.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It shows there attempts to join into a fraternity although only sulley gets accepted into the strongest fraternity. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:29:48.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Theres also games that the fraternities on campus get to play in to get into the scare program!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:30:23.025Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh cool! Do you know the name of the fraternity?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:30:29.871Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's called Roar Omega Roar!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:30:43.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds very interesting and humorous! What happens next?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:31:03.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mike and Sulley create their own fraternity called Oozma Kappa, however they are taken away by the CDA and expelled because of their cheating at the games while the other members of the fraternity got accepted into the scare program for next year.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:33:08.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh that's a real bummer for them! Do they at least get a happy ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:33:48.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They both decide to take jobs in the mail room at Monsters Inc and eventually work their way up to the scare team there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:34:56.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's awesome. Despite being fantasy, it has real world conflict to it. Who else voices some of the characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:35:47.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely! Steve Buscemi voices the character Randy, Helen Mirren as Dean Abigail the chair of Scarer program at the University and Peter Sohn as Scotty Squibbles one of the Oozma Kappa members.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:37:39.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow! Some renowned names there. The movie definitely sounds worth watching. Anything else you'd like to add about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:38:29.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I enjoyed discussing Monsters university with you. I definitely plan on watching it thanks to you! Have a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:39:10.883Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T16:14:56.883Z", 
+  "uid1LogOutTime": "2018-03-29T16:39:14.763Z", 
+  "uid1response": {
+    "feedback": "I did not select the document is understandable because there was no document for me. The other user was great! They definitely made me want to see the film and answered all of my questions perfectly. I enjoyed it! Thank you so much!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T16:14:56.966Z", 
+  "uid2LogOutTime": "2018-03-29T16:38:34.722Z", 
+  "uid2response": {
+    "feedback": "I watched it in the movie theater when it came out.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3781", 
+  "user2_id": "USR2059", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

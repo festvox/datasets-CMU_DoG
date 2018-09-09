@@ -1,0 +1,159 @@
+{
+  "date": "2018-02-05T23:28:25.257Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Who gets to start this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:29:30.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Inception? Or, based on this info, do you want to see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:30:14.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like these actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:23.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about them tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:43.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:31:44.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:49.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Le DdCaprio, I have seen him in mnay movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:09.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen thos movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:19.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, he's good. Did you see him in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:32:26.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is interesting but pretty confusing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:35.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I saw this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:42.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I did. But he's fine in any movie, even if the movie is dorky.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:32:51.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also has Ellen Page who has acted well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:59.159Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked Inception. It was visually appealing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:33:02.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot is good but it is complicated", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:33:16.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is about dreams that go further into several dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:33:36.161Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I remember this part; they are dreaming but seem to be able to get into each other's dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:33:42.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right, what you said.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:33:47.215Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director Christopher Nolan is known for these kind of movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:33:58.354Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But you are also right when you said this plot is quite complicated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:34:02.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nolan is great, I loved his Batman's.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:34:14.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you understand this part about the Japanese guy, this Saito? That's when the movie got really confusing for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:35:18.457Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has an 8-9 level rating, pretty high. I think it's because of the visuals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:36:19.019Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T23:28:25.257Z", 
+  "uid2LogInTime": "2018-02-05T23:28:25.284Z", 
+  "uid2LogOutTime": "2018-02-05T23:39:08.160Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR3847", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

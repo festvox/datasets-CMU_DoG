@@ -1,0 +1,60 @@
+{
+  "date": "2018-03-07T23:53:33.735Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:54:13.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.  We are going to discuss the movie, The Notebook.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:54:42.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh that was very popular ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:55:07.497Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From what I understand, it only got a 52% on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:55:45.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never trust that site for movie reviews ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:56:20.531Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T23:53:33.735Z", 
+  "uid1LogOutTime": "2018-03-07T23:56:12.105Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T23:53:33.799Z", 
+  "uid2LogOutTime": "2018-03-07T23:57:41.462Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat early ", 
+    "response": [
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1384", 
+  "user2_id": "USR4008", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

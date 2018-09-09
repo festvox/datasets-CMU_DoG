@@ -1,0 +1,119 @@
+{
+  "date": "2018-03-26T21:06:15.010Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:06:47.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:07:34.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed The Wolf of Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:07:52.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didnt see it because Im not a fan of one of the actors. However after reading about it I dont think my mind has changed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:08:30.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with one of the critics that it was a immoral glorification as opposed to a satirical take down.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:09:14.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i agree that the story made the characters even more dull just by reading about what they portrayed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:10:05.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel like other charators should have been introduced into this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:10:32.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cant agree the characters were dull. The drug use alone made it interesting. I do believe it was immoral", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:10:41.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:10:59.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Since you have seen it do you agree with the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:11:11.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I believe it was underrated. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:11:50.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I belive it was underated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:12:10.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was this a true story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:12:18.637Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I do not agree with the cinema score, metacritic socre or the rotten tomatoes score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:12:43.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The score alone would deter me from watching the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:13:11.912Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T21:06:15.010Z", 
+  "uid1LogOutTime": "2018-03-26T21:13:30.122Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T21:06:15.242Z", 
+  "uid2LogOutTime": "2018-03-26T21:13:21.299Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3682", 
+  "user2_id": "USR2659", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

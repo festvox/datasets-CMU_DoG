@@ -1,0 +1,252 @@
+{
+  "date": "2018-03-21T19:10:01.974Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "what is your opinion of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:12:00.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I felt the movie was interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:12:24.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating Rotten Tomatoes gave the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:12:51.114Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is a fair rating of the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:13:36.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think of the cast choices?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:13:57.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I felt Leonardio DiCaprio was a good choice for the part of Jordan Belfort. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:14:18.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy Jonah Hill's role in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:14:54.268Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He cracked me up in the Steve Madden scene.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:15:43.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think it is considered a black comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:16:52.484Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was slightly confused by it being considered that genre, as the majority of the cast is white. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:17:29.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How do you feel about the drug use in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:18:05.585Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I felt it added to the overall feel of wrong doing of the characters.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:18:42.484Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you feel it gave an accurate portrayal of Wall Street? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:18:58.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes i do to an extent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:19:26.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think Jordan deserved to go to prison?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:19:46.907Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure about that, but I did feel it was right for his job to be terminated. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:20:53.908Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think of the dump scam?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:21:16.343Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I felt that was really shady, but not unheard of.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:21:33.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How did you feel about Jordan getting into the lifestyle of prostitutes and drugs causing his wife to leave him? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:22:19.802Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A horrible life choice .\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:23:05.676Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How do you feel about him bringing friends on board?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:23:39.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel like he was just taking them down with him, not a great friend to have. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:24:02.766Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "would you attend one of his sales seminars ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:24:54.932Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Knowing what I know about his scams, no. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:25:12.726Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think of the deal he made with the FBI? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:25:25.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Personally i would have taken my lumps and not rat out my friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:26:25.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. Were you surprised to see his 2nd wife also leave him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:26:48.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really a guy like that seems hard to handle would take a strong woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:27:22.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think about him running off with is daughter?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:27:55.582Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was crazy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:28:08.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were you surprised Donnie ratted him out to the FBI?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:28:44.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes since he wrote him the note telling him about the situation .", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:29:47.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think about Saurel ratting on Jordan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:30:35.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think any of the ratting out was surprising to me. They all really only cared about themselves. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:31:16.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did you feel about Jordan still ending up with a reduced sentence in a minimum security prison?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:31:45.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He didn't hurt anyone physically just financially i feel it was the right sentence and prison.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:32:46.826Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T19:10:01.975Z", 
+  "uid1LogOutTime": "2018-03-21T19:32:38.945Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T19:10:02.007Z", 
+  "uid2LogOutTime": "2018-03-21T19:32:56.747Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR760", 
+  "user2_id": "USR4168", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

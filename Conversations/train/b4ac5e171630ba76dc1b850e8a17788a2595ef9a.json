@@ -1,0 +1,161 @@
+{
+  "date": "2018-03-29T14:16:53.289Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good Morning, have you seen the original Home Alone before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:18:08.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I've seen the original Home Alone, it brings back childhood memories.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:19:25.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes i cant believe it was made in 1990", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:19.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I personally like this movie, because it reminds me of my childhood, the character shows ideas when I was a kid of how to deal with perpetrators. I guess you start looking for creative ways to protect yourself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:14.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know the main character was a drug addict? Pretty much change my views on him. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:22:22.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i found out that macaulay culkin is not in a good place haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:22:41.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe it was his parents that didn't discipline him, and this movie is very opposite.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:51.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yes very much so but again i love how this portrays kids and how creative they are\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:24:19.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the you favourite part of the movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:24:19.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "obvsiously when the 2 bad guys trip the traps!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:06.243Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:22.982Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i honestly dont even remember the indivicual traps", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:40.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure when why rotten tomatoes gave this movie a low score. I think it's the it needs a remake.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:25:40.517Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For me the heating doorknob. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:00.167Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea this seriously would be a great choice to remake especially with how much tech changes we have had since 1990 i would love to see how they protray kids how", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:23.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "now*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:25.906Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They probably have ipads, and I'm not sure how they will millennial set traps with that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:27:12.476Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they wouldnt thats the thing ha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:12.348Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The parents in the movie, I can't believe they left a eight year old boy back home.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:29:17.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "First of all how did they even miss their kid? I guess back then security wasn't tight at all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:31:34.801Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you ever been in Chicago?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:33:07.672Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what Rube Goldberg Machines are?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:19.172Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:16:53.289Z", 
+  "uid1LogOutTime": "2018-03-29T14:58:23.471Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:16:53.330Z", 
+  "uid2LogOutTime": "2018-03-29T14:38:20.690Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3107", 
+  "user2_id": "USR3013", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

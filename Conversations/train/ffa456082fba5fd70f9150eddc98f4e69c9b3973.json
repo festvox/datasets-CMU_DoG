@@ -1,0 +1,175 @@
+{
+  "date": "2018-02-06T16:45:24.443Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "That was a pretty great movie. Everyone seems to love it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:46:29.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "NOTHING", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:46:47.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought Kristen Bell did a great job as the younger sister.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:47:13.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:47:26.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with the Rotten Tomato score. I would give it around a 90% as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:47:50.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THANK YOU", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:48:11.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The song by Idina Menzel was brilliant.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:48:31.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "SHE IS A NICE SINGER", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:49:04.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like disney movies in general?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:49:22.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "YES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:49:40.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm a big fan of magic. Di\nd you think the magic in the movie was impressive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:50:13.211Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "NO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:50:28.136Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, that's too bad. What did you like about the movie the most?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:50:41.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "FIGHT MOVIES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:51:07.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh that's odd. This wasn't a fight movie. Did you like Elsa better as a child, teen, or an adult?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:51:33.806Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "HAHAHA? NO NO I AM LIKE FIGHT MOVIES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:52:20.323Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you think it was a good idea when the parent's erased Anna's memory like that? I thought that was weird.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:53:07.717Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I KNOW? GOOD BYE...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:54:14.383Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like the part where Anna get's married?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:54:32.959Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:55:27.062Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "YES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:55:34.696Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "AM NOT SEE THAT ANNA MARRIEGE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:55:51.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, did you like the part when Elsa finally uses her powers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:56:28.095Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:56:58.506Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T16:45:24.443Z", 
+  "uid1LogOutTime": "2018-02-06T16:57:17.547Z", 
+  "uid1response": {
+    "feedback": "The other user did not seem to understand english. ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T16:45:24.729Z", 
+  "uid2LogOutTime": "2018-02-06T16:57:34.711Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4427", 
+  "user2_id": "USR870", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

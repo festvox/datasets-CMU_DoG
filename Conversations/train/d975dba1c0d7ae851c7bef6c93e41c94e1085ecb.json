@@ -1,0 +1,105 @@
+{
+  "date": "2018-03-21T04:21:14.988Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:23:01.868Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll wait for you to finish reading", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:23:12.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! Almost done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T04:23:20.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alright, the movie we are discussing is The Wolf of Wall Street. Have you heard of it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T04:24:19.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah! its a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:24:32.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:24:40.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His dynamic with Jonah Hill's character is amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:25:08.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely! Leonardo has some crazy scenes towards the end too :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T04:25:20.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:25:36.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jonah Hill actually seemed like a younger brother, you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T04:25:50.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah i get that too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:26:02.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but to be honest he was the more mature one of the duo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:26:20.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "character wise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T04:26:23.829Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T04:21:14.988Z", 
+  "uid1LogOutTime": "2018-03-21T04:26:08.141Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T04:21:14.996Z", 
+  "uid2LogOutTime": "2018-03-21T04:26:41.479Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4714", 
+  "user2_id": "USR966", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

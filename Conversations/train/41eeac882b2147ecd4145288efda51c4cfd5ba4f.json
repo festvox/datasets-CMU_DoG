@@ -1,0 +1,91 @@
+{
+  "date": "2018-02-03T00:54:26.973Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T00:57:28.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! A movie that I think you would enjoy is called Zootopia! It is about a world that is populated by animals. A rabbit named Judy Hopps is one of the animals within this world who fulfills her dreams of becoming a police officer and moving to the urban city of Zootopia! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T00:57:40.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've actually been wanting to watch this one. judy hopps as a name for a bunny is pretty cute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T00:59:18.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I definitely recommend it. It has great ratings! Rotten Tomatoes gives it a 98%! I agree, Judy Hopps is a cute name. During her time in Zootopia, she meets and reluctantly teams up with a sneaky con artist fox named Nick Wilde.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:01:33.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I prefer imdb ratings. rotten tomatoes ratings often has discrepancies between the experts and crowd. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:02:48.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's understandable! It seems IMDB gives the movie an 8/10, which I'd say is still pretty good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:03:55.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "8 on imdb ratings is pretty much as high as they get. i don't think i've ever seen anything above an 8. can't think of any movies with higher than 8. maybe god father or shawshenk ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:05:47.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds about right. The genre of this movie falls under Comedy, Adventure, and Animation. So if you're a fan of those types of films, then this film will definitely be a good match up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:08:31.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok guess i'll check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:08:56.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great! I hope you enjoy yourself! I'd say bring a friend or the family if they enjoy those types of films.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:10:32.577Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-03T00:54:26.973Z", 
+  "uid1LogOutTime": "2018-02-03T01:10:43.504Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-03T00:54:27.018Z", 
+  "uid2LogOutTime": "2018-02-03T01:11:01.224Z", 
+  "uid2response": {
+    "feedback": "The conversation went well, though I think the other user may have left a little too early. I also wasn't given a new document/paragraph until after the user had left.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1400", 
+  "user2_id": "USR2754", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

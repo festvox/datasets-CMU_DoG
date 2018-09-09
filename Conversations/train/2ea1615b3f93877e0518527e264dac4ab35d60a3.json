@@ -1,0 +1,79 @@
+{
+  "date": "2018-02-02T19:54:45.206Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I don't see a paragraph about a movie. Is anyone else in here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:29.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the movie The Imitation Game?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:57:33.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't. What's that about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:48.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2014 American historical drama about real life cryptoanalyst Alan Turing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:50.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like biopics? If you do this movie might interest you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:00:19.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds interesting. What does Alan Turing do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:05:46.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He decrypted German Intelligence codes for the British government during WWII. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:07:31.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has 91% rating on Rotten Tomatoes and average 7.7/10 and a Metacritic Score of 73/100. What ratings does a movie have to have for you to watch it? Or do you not consider ratings when deciding to watcha movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:12:04.312Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T19:54:45.206Z", 
+  "uid1LogOutTime": "2018-02-02T20:10:20.133Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:54:45.301Z", 
+  "uid2LogOutTime": "2018-02-02T20:12:27.071Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4232", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

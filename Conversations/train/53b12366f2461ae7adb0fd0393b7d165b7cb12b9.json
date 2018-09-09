@@ -1,0 +1,166 @@
+{
+  "date": "2018-02-17T03:04:23.951Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:05:07.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:05:17.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you doing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:05:31.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:05:42.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im fine thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:06:02.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think of John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:06:13.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:07:14.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:07:23.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "dont miss with a man with past", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:08:01.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:08:29.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was repetitive. I think it should have had more humor and a bit less action. it got to be too much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:09:40.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think you are  right ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:12:16.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John was good at his job, though. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:13:22.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you surprised it didn't get higher ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:13:58.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i dont", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:15:51.139Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "me neither!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:16:22.187Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who was your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:16:33.620Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "in the movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:17:00.380Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "keanu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:17:46.236Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "u?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:17:53.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked Winston.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:18:47.929Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you think there was too much killing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T03:19:30.857Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:20:35.109Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the movie need some new ideas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:24:22.824Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do u agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T03:26:22.760Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-02-17T03:04:23.951Z", 
+  "uid2LogInTime": "2018-02-17T03:04:24.750Z", 
+  "user1_id": "USR4331", 
+  "user2_id": "USR1167", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

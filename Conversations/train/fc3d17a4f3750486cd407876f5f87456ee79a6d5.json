@@ -1,0 +1,455 @@
+{
+  "date": "2018-03-21T22:56:23.412Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:57:14.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:57:24.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Movie is The Shape of Water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:57:41.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:57:41.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:57:58.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Fantasy and Drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:57:59.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its is base in 1962 it is based on a mute custodian at a government laboratory who falls in love", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:58:49.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She falls in love with a humanoid amphibian creature", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:59:24.331Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From what I understand the movie is quite mesmerizing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:00:15.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:01:20.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:01:24.540Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sally Hawkins plays Elisa Esposito, the mute custodian", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:01:56.494Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Michael Shannon plays Colonel Richard Strickland, a corrupt military official", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:02:33.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Richard Jenkins plays Giles, Elisa's close friend and interpreter ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:03:11.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Octavia Spencer plays Zelda, Elisa's co-worker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:03:46.686Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They are all brilliant actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:04:04.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And Michael Stuhlbarg plays Dimitri the Soviet spy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:04:19.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie has a rather high rating on Rotten Tomatoes at 92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:04:40.268Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you familiar with the director Guillermo Del Toro?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:05:22.222Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No.  Tell me more.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:06:53.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is a world-class film artist, unfortunately I have not seen any of his other work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:08:50.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the movie credible? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:09:14.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean, there is an aquaman in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:09:25.661Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would say it is, it fantasy and drama. If you believe in mermaids, then you would have to believe that there can also be mermen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:10:41.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Apparently, a lot of critics believe in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:11:20.179Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What kind of movies do you like to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:11:31.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like documentaries, but fantasy is ok.    Didn't this movie win an Oscar?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:12:20.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It did win an Oscar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:14:02.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You think I deserved it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:14:38.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Fantasy movies aren't the easiest to produce without the feeling that you reproducing something that has already been done.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:15:43.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its also take quite a bit of talent to act in water and an amphibious suit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:17:19.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is one way of looking at it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:19:00.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, aquaman won an Oscar too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:19:15.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure if the creature was awarded an Oscar too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:20:59.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I feel the movie has enough substance that it is worth watching", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:21:47.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, if it could win awards, that there is a lot of merit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:22:51.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So do they end up together?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:23:02.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You'll have to watch and find out. I can't ruin movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:23:43.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You can tell me.  For me, it is not what happens, but rather, HOW it happens", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:24:33.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So all in all its a story of forbidden love, of course they live \"happily ever after\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:26:07.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In the water, I am guessing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:26:53.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that's where the creature escapes to get away from the police", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:27:47.876Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So she becomes a mermaid?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:28:01.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly, the creature has special powers that allows her to breathe under water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:28:42.226Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What other powers it had?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:28:58.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The ability to heal ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:30:26.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also it had the ability to give hair to Giles balding head", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:31:05.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is Giles now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:32:40.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Giles was the neighbor and Elisa's closest friend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:33:19.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But aquaman did not have powers to make her talk?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:33:51.694Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sadly no, she has been mute since childhood", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:35:52.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I guess if he could, then the movie would not have been so powerful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:36:11.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where language fails, love speaks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:36:54.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did they fall in love?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:37:34.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She starting visiting him in secret at the facility where he was being held, they formed a close bond", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:39:30.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, they were two \"freaks\" of sorts, so that is understandable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:40:10.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they could relate to each other", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:40:26.343Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She ends up keeping him in her bathtub with the hopes of releasing him into the canal when it opened up to the ocean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:40:41.267Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In those couple of days her an the creature become intimate", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:41:43.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They had sex?  She is not easy.  She kidnapped the man and then that. lol!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:42:41.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they had sex in her bathroom. Apparently she was able to fill\n it with water.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:44:04.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She took advantage of his vulnerability.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:44:21.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did they both enjoy it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:44:42.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I imagine they did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:45:32.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She was breaking the law, hiding him away in her bathtub", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:45:53.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So do you think you'll go see the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:46:55.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When it comes on Netflix", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:47:36.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Understandable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:47:52.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My attention span is too short for the movie theatre", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:47:53.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess I have two more years to wait", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:48:11.908Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T22:56:23.412Z", 
+  "uid1LogOutTime": "2018-03-21T23:47:54.410Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T22:56:23.498Z", 
+  "uid2LogOutTime": "2018-03-21T23:48:15.523Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR367", 
+  "user2_id": "USR3", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

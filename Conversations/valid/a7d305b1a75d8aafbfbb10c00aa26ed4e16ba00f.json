@@ -1,0 +1,118 @@
+{
+  "date": "2018-03-22T01:59:31.281Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'm not normally a huge fan of superhero movies, but this one was pretty good. 4", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:01:26.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have watched this movie more than 3 times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:02:23.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:02:29.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've only seen it once but I thoroughly enjoyed it, probably just because I think Robert Downey Junior is hot :p", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:03:10.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite part is when Jeff Bridges built the exosuit to fight Stark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:05:18.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked all of the special effects, I wasn't too fond of the pepper potts character, very shallow. What do you think of her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:06:34.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who's your favorite Marvel's character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:07:12.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She was great. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:07:50.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont have one, I'm pretty indifferent to superhero movies / comics. What's yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:08:07.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite character is Spider Man ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:08:32.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And the Black Panther ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:09:02.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, I saw that new spiderman film it was pretty good. this ironman film is better though haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:09:56.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right! Did you know that this movie was the first film the Marvel Cinematic Universe? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T02:11:46.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I had no idea, pretty cool huh. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:12:22.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's pretty ironic how Stark got hurt by one of his own weapons, think it was karma?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T02:12:43.207Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T01:59:31.281Z", 
+  "uid1LogOutTime": "2018-03-22T02:17:50.907Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T01:59:31.343Z", 
+  "uid2LogOutTime": "2018-03-22T02:13:28.392Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2160", 
+  "user2_id": "USR2566", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

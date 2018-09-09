@@ -1,0 +1,81 @@
+{
+  "date": "2018-03-16T18:10:01.348Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, happy Friday!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:10:13.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Happy Friday to you also!  Have you seen or heard of the movie, the Blindside?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:10:50.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I have heard of it, seen it some time ago though so bit foggy on it at moment!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:11:16.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that the one with Sandra Bullock? not sure if thats how you spell her last name, hope didn't butcher it too bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:11:45.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It really is a great movie whether or not you like sports.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:11:52.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, I'm not crazy about sports so as long as a movie has another purpose or storyline \nother than sports I am normally happy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:12:24.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It really is a great movie whether or not you like sports.\nIt stars Sandra Bullock and Tim McGraw.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:12:47.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are the ratings for it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:12:53.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello? are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:18:39.717Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T18:10:01.348Z", 
+  "uid1LogOutTime": "2018-03-16T18:21:53.936Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:10:01.349Z", 
+  "uid2LogOutTime": "2018-03-16T18:34:21.379Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3213", 
+  "user2_id": "USR2712", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2018-03-07T15:54:26.363Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:02.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Mean Girls.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:55:09.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:55:20.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:28.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is highly rated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:55:42.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I suggest seeing this movie if you haven't yet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:02.565Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Even if you have, it is worth a rewatch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:15.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:18.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:28.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a high school comedy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:45.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:57:04.582Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's got great actresses. rachel McAdams, Amanda Seyfried, Lindsay Lohan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:57:32.092Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh Nice! What is the storyline for the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:26.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Even Rotten Tomatoes gave it a good score and named it in it's Top 50 Greatest Teen Comedies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:58:45.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh then it must be pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:23.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I will definitely check it out the next time I have some free time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:50.481Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Storyline - there's a new girl in a high school, awkward, and finds a questionable group of frenemies. Then shenanigans.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:59:59.294Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like shenanigans!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:00:16.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:00:20.926Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie was written by Tina Fey. I didn't know that, but I like it even more now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:00:52.703Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea Tina Fey is really funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:01:12.628Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So is the movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:01:34.950Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there any other ratings other than Rotten Tomato?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:01:59.259Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lindsay Lohan plays the main role of the awkward new girl", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:02:02.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "CinemaScore is A-", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:02:16.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it's pretty much consistent across the board.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:02:48.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When was Mean Girls released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:03:13.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This came out in 2004. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:03:30.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh so this is an older movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:34.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is, but it is still popular and VERY quotable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:00.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So the movie still holds up?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:30.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see people quote it often", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:34.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:40.833Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's cool, most old movies don't hold up too well after time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:01.815Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you'll like this movie. Have a great day :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:37.675Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T15:54:26.363Z", 
+  "uid1LogOutTime": "2018-03-07T16:09:05.845Z", 
+  "uid1response": {
+    "feedback": "The other user's explanation of the movie peaked my interest and I am willing to watch the movie based on their recommendation.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:54:26.370Z", 
+  "uid2LogOutTime": "2018-03-07T16:08:41.254Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR885", 
+  "user2_id": "USR1501", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

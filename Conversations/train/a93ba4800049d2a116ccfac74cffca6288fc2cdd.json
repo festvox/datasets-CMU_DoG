@@ -1,0 +1,165 @@
+{
+  "date": "2018-02-15T20:02:32.539Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:04:22.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:04:33.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should really go see the movie John Wick. It is really funny and a lot of action!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:05:11.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It looked good, but I haven't seen it yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:05:25.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Keanu Reeves in this style of movie. He is fantastic!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:05:47.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays a retired hit man that comes back for revenge on the people that stole his car and killed his dog.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:06:53.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is a good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:06:55.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:07:05.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think he's good in action movies that are a little more tongue-in-cheek.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:07:46.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Willem Dafoe is also in this movie and I don't think he ever made a bad one. Certainly not this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:09:02.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is also the first in a series so there is more to come.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:09:48.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like action movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:12:45.425Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Love them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:10.759Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Big fan of willem defoe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:22.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He just changed his name though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:27.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Plenty of vehicles getting trashed in this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:13:29.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Love it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:33.659Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keanu's nickname in the movie is \"Baba Yaga\" which is a little weird, but he's bad A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:56.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any action movie involving the Russian Crime Syndicate gets my seal of approval.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:16:40.331Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie also stars Adrianne Palicki as another contract killer\n. Very easy on the eyes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:19:08.756Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The only character I don't like is the son of the character Viggo played by Alfie Allen. He's an arrogant idiot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:20:34.485Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you usually pick movies on ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:21:41.199Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:22:38.215Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T20:02:32.539Z", 
+  "uid1LogOutTime": "2018-02-15T20:29:16.598Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T20:02:32.546Z", 
+  "uid2LogOutTime": "2018-02-15T20:25:15.929Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2726", 
+  "user2_id": "USR3471", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

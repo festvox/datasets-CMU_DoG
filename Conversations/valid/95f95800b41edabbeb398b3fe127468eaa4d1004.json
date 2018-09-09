@@ -1,0 +1,102 @@
+{
+  "date": "2018-03-30T17:14:31.947Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:14:39.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:14:51.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Maleficent?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:15:06.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i havent. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:15:28.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:15:33.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Angelina Jolie and Elle Fanning.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:15:49.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what genre or type of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:16:29.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Superhero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:16:47.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did this movie win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:17:33.856Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, it didn't, but it has a 51% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:17:53.964Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Meleficent is a powerful fairy living in the Moors. As a young girl she meets and falls in love with a human.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:18:36.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the the movie about?  or what is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:18:57.076Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T17:14:31.947Z", 
+  "uid1LogOutTime": "2018-03-30T17:19:28.863Z", 
+  "uid1response": {
+    "feedback": "i will watch the movie because it has angelina jolie in it and i like her work. ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T17:14:31.977Z", 
+  "uid2LogOutTime": "2018-03-30T17:19:22.327Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2249", 
+  "user2_id": "USR1069", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

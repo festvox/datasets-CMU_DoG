@@ -1,0 +1,93 @@
+{
+  "date": "2018-02-05T15:23:57.687Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "\nhai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:24:28.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:24:35.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:25:04.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good. I really recommend the movie zootopia. Have you watched it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:25:43.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i was watched the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:26:57.054Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's really awesome movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:27:17.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed! I thought it was very funny and it was really fun to watch the different species. My favorite character was Judy Hopps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:28:12.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought Zootopia was this perfect place where everyone got along and anyone could be anything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:29:52.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It really looked past\n species stereotypes right? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:30:27.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie had a rating of 98% on Rotten Tomatoes, do  you agree with that :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:19.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i agree that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:43.710Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:23:57.687Z", 
+  "uid1LogOutTime": "2018-02-05T15:34:09.579Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:23:57.948Z", 
+  "uid2LogOutTime": "2018-02-05T15:35:11.784Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1594", 
+  "user2_id": "USR1037", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

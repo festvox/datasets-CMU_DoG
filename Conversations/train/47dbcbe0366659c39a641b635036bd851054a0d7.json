@@ -1,0 +1,317 @@
+{
+  "date": "2018-02-08T23:06:11.562Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:07:02.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:07:17.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\ndid you get the movie synopsis?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:07:29.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it looks like an interesting movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:07:42.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:07:57.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't get anything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:08:07.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so I guess you will have to tel me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:08:29.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a drama, superhero movie that Patty Jenkis directed called Wonder Woman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:08:42.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Got a high grade on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:09:05.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "92%!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:09:08.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:09:13.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like superhero movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:09:20.875Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is the second film Wonder Woman is in", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:09:51.198Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But first time she is the main caracter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:10:09.942Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:10:18.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I read reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:10:23.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The reviews are mostly all good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:10:36.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's very inspiring for young girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:10:51.083Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "being a hero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:11:19.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It happens in Paris", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:11:23.083Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its about Diana Prince", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:11:38.519Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "an Amazonian warrior", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:12:03.650Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ares gets mad at all and kills everyone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:12:23.108Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "except Zeus", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:12:25.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:12:35.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not yet, but sounds very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:12:47.922Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Greek mythology is always interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:12:57.149Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you a superhero fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:13:21.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes sure, but movie has to be good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:13:32.339Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there are bad ones, but this one sounds really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:13:39.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So this Diana trains to be a warrior", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:14:05.323Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She rescues an American pilot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:14:34.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think girls love this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:14:46.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I'm sure they do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:14:57.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She even gets a \"Godkiller\" sword", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:15:04.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that sounds badass", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:15:09.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it based on the comic book character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:15:20.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes it is DC caracter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:15:31.786Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it sound interesting to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:15:37.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you like to watch it in near future?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:16:31.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea I watched the cartoon ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:16:32.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "growing up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:16:35.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "than this one is the real deal for you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:16:47.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "liked her invisi\nble truth lasso", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:16:50.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope you enjoy the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:17:12.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will, you too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:17:21.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:17:26.354Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T23:06:11.562Z", 
+  "uid1LogOutTime": "2018-02-08T23:17:33.341Z", 
+  "uid1response": {
+    "feedback": "Nice talk with other user.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:06:11.648Z", 
+  "uid2LogOutTime": "2018-02-08T23:17:29.745Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2001", 
+  "user2_id": "USR2728", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

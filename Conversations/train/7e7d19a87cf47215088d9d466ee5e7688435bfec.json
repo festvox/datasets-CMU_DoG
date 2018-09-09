@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-24T09:10:52.135Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T09:11:44.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T09:11:51.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And about which movie are we talking about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T09:12:10.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever watched \"The Wolf of Wall Street \" Film ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T09:12:47.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T09:12:57.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was okay but way too long I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T09:13:51.282Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-24T09:10:52.135Z", 
+  "uid1LogOutTime": "2018-03-24T09:14:20.792Z", 
+  "uid1response": {
+    "feedback": "User left too early", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-24T09:10:52.257Z", 
+  "uid2LogOutTime": "2018-03-24T09:14:10.762Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1301", 
+  "user2_id": "USR3495", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

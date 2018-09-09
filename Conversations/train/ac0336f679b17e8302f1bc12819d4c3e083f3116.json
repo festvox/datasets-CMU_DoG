@@ -1,0 +1,239 @@
+{
+  "date": "2018-03-23T16:11:50.844Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:12:05.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:12:11.725Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever watched the film 'Home Alone'?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:12:33.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:12:39.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:12:47.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was pretty funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:12:57.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed, the reviews did not seem to match the movie, in my opinion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:13:23.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a classic movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:13:54.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is, and has become something of a Christmas tradition", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:14:18.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Indeed. I guess some people just have no sense of humor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:14:40.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:14:53.445Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sure, the movie's premise is sort of far fetched, but then again, so are most films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:15:22.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm sure there are worse movies out there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:16:18.690Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Certainly...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:16:29.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Though this is not one of them. :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:17:12.422Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:17:43.655Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joe Pesci makes me laugh, even when he is not trying to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:18:01.873Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you say he's the best actor in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:18:49.205Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Probably, although the kid was quite good too, all things considered", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:19:09.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What would you rate the film, overall?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:20:23.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I definitely would have rated it higher than the 62% that it got from Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:20:54.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The scoring does not show IMDb, which I would be curious to see the rating on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:21:17.358Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too. 62% is pretty low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:21:30.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "As you said, it is a classic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:22:12.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My family and I always watch it during the holidays", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:24:27.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't seen it in a while", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:24:47.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we watched it and the sequel twice this past holiday season", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:25:07.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they remade the movie with some new kid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:25:33.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Even when I know what is about to happen, I still crack up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:25:41.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They did do that, those movies were not nearly as good, from what I had heard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:25:57.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most remakes never live up to the original", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:26:27.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You are correct there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:26:41.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you ever feel bad for the bad guys\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:27:04.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, in this case, not so much, they brought it on themselves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:27:29.506Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T16:11:50.844Z", 
+  "uid1LogOutTime": "2018-03-23T16:27:38.239Z", 
+  "uid1response": {
+    "feedback": "They said it was a classic and something they really enjoyed.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:11:50.935Z", 
+  "uid2LogOutTime": "2018-03-23T16:27:35.232Z", 
+  "uid2response": {
+    "feedback": "Engaging dialogue.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1002", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

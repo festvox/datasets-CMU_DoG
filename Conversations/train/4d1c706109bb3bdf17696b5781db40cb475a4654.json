@@ -1,0 +1,88 @@
+{
+  "date": "2018-02-18T06:40:23.146Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. What movie are we discussing, today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:41:08.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We are talking about la la land!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T06:41:25.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know very much about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:41:40.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do!  It is an interesting movie, I feel like you either love it or hat it, there is no in between", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T06:43:06.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a musical starring Ryan Gosling and Emma Stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T06:43:36.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd like to know more about it. I may want to see it, sometime in the future. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:43:44.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:44:16.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome! You definitely should watch it some time. It is set in LA and is basically a love story between a a jazz pianist (Ryan gosling) and a woman that wants to be an actress (Emma stone)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T06:45:46.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How do the characters feel about one another? If they're in love, or falling in love, how does that come about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:46:32.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or how do they meet, if that's a better question.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T06:48:05.092Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T06:40:23.146Z", 
+  "uid1LogOutTime": "2018-02-18T06:48:30.237Z", 
+  "uid1response": {
+    "feedback": "I may watch the movie, though I got very little information about it from the other user, who abandoned the chat early. They only answered a couple of questions before abandoning.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-18T06:40:23.602Z", 
+  "uid2LogOutTime": "2018-02-18T06:48:18.095Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4087", 
+  "user2_id": "USR2878", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

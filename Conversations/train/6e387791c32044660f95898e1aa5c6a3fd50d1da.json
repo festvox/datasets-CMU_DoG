@@ -1,0 +1,241 @@
+{
+  "date": "2018-02-08T21:37:02.387Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:37:23.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:38:06.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm ok, how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:38:17.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good.  The movie I'm discussing is about a group of superheroes who come together in order to stop a villian from taking over Earth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:39:30.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm, is it the Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:39:59.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The group is put together by an organization called SHIELD, which is played by Samuel L. Jackson.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:40:19.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lol, so quick to get it right....I guess that was a pretty obvious one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:40:30.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:40:51.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:40:59.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:03.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I've seen it too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:34.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is your favorite superhero in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:51.943Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Probably Hulk. Who was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:10.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also like Captain America.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:54.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Capt. America too but I think Iron Man is best.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:25.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you know the movie got a 92% rating on rotten tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:52.975Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah I like Iron Man too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:43:56.429Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't know that. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:44:01.133Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think of Loki in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:44:58.719Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't love Loki but that's ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:45:36.914Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like Captain America, Iron Man and the Hulk more than Loki.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:45:48.314Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This has been a good conversation!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:46:04.444Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The felt the way that they plotted how Loki came to Earth from the outer \nworld could've been done better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:46:53.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I feel that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:07.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but I don't have any ideas in mind of how else it should've been done, lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:09.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't either haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:48:42.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What other Marvel movies do you recommend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:50:07.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought Deadpool was pretty good, the comedy and\n action was a good mix.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:50:41.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen Avengers 2?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:00.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't seen Avengers 2", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:13.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it better than the first", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:18.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, there's a new one coming out soon (forgot the name) but it has Thanos in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:22.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Part 2 was pretty good. I'd say better than the first.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:39.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh neat. I'll have to check it out! Thanks for the recommendation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:48.580Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:37:02.387Z", 
+  "uid1LogOutTime": "2018-02-08T21:51:50.078Z", 
+  "uid1response": {
+    "feedback": "I probably won't watch the movie because I liked Avengers 1 and don't need to see the second.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:37:02.400Z", 
+  "uid2LogOutTime": "2018-02-08T21:51:57.688Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2031", 
+  "user2_id": "USR1512", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

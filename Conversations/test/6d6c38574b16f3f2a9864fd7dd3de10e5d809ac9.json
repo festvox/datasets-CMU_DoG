@@ -1,0 +1,50 @@
+{
+  "date": "2018-02-07T21:38:21.746Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Inceptions was such a great idea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:38:37.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick was a good action movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:42:22.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is a great action star.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:47:08.410Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:38:21.746Z", 
+  "uid1LogOutTime": "2018-02-07T21:47:32.643Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:38:22.007Z", 
+  "uid2LogOutTime": "2018-02-07T21:38:48.890Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4117", 
+  "user2_id": "USR1259", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

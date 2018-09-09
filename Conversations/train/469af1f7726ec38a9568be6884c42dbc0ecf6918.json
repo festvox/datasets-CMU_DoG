@@ -1,0 +1,47 @@
+{
+  "date": "2018-03-27T22:09:10.755Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you think Steve Buscemi did a good job as the role of Randall?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:11:01.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do, I think he played a great evil guy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:11:37.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy Monsters University better then Monsters Inc?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:11:56.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:14:23.127Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T22:09:10.755Z", 
+  "uid1LogOutTime": "2018-03-27T22:16:07.555Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T22:09:11.588Z", 
+  "user1_id": "USR4433", 
+  "user2_id": "USR840", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

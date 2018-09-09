@@ -1,0 +1,118 @@
+{
+  "date": "2018-02-07T17:46:14.975Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hii", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:46:55.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie has a pretty good cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:47:01.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:47:09.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:48:40.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:48:44.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which charcter like that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:48:55.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you mean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:49:16.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie too, Benedict Cumberbatch is very tallented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:49:42.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:50:41.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looks like it received very good ratings on the various movie sites as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:51:17.612Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:51:31.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did not know much about Alan Turing before this film. It looks like his life was a bit rough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:52:24.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you generally take ratings into accound when you are deciding on what film to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:53:29.721Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:55:56.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:59:23.630Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T17:46:14.975Z", 
+  "uid1LogOutTime": "2018-02-07T17:59:35.680Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:46:15.400Z", 
+  "uid2LogOutTime": "2018-02-07T17:53:28.165Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR342", 
+  "user2_id": "USR1206", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

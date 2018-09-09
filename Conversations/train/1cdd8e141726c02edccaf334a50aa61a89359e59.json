@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-05T17:25:34.434Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey, hows it goin?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:25:50.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi,fine ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:26:05.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anybody there ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:26:53.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:31:12.238Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:25:34.434Z", 
+  "uid1LogOutTime": "2018-03-05T17:26:18.122Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:25:34.574Z", 
+  "uid2LogOutTime": "2018-03-05T17:36:53.158Z", 
+  "uid2response": {
+    "feedback": "the other person has left the chat and i waited but no one show up ", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4734", 
+  "user2_id": "USR3489", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

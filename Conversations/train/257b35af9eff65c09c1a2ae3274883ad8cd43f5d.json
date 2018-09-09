@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-23T16:26:33.331Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:27:39.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:27:49.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watched the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:28:15.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure, what is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:28:33.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:28:42.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what characters are in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:28:51.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is on the top left corner", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:28:58.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "super hero movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:29:07.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2008 it says it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:29:24.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cannot see the document about the movie, only you can. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:39.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie sounds interesting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:50.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it came out 10 years ago? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:57.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah it was the first super hero movie that came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:30:24.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with robert downey jr as the main actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:30:38.807Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does he play a good guy or bad guy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:30:50.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is the good guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:31:04.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who is the bad guy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:31:13.234Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a genius, billionare and playboy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:31:22.022Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is the movie just robert downey jr trying to defeat the bad guy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:32:07.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah more or less", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:32:21.099Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he invents these new technology that allows him to transform", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:32:44.369Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "into Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:32:50.180Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that sounds pretty interesting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:32:54.120Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So there's like an Iron Man suit that he wears?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:33:13.653Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, he was held captive and the only way to survive is through it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:33:25.633Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, that sounds like it would be cool to watch ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:33:44.003Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there other main characters besides the good guy and the bad guy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:34:03.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "once he returns home he makes the suit which is powered by the suit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:34:10.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the bad guy is another contractor for the army ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:34:44.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So basically the suit helps him be\n strong enough to fight the bad guy? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:34:59.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which wants to defeat stark industries and with the army contracts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:35:09.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it makes him almost invincible for common man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:35:31.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the reviews for the movie are very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:35:47.996Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So the bad guy wants to win the Army contracts? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:35:49.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, that is the idea behind the development of the weapons and suits", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:36:31.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "modern technology for the armie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:36:43.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "army", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:36:49.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I have seen this movie. Have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:36:51.164Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T16:26:33.331Z", 
+  "uid1LogOutTime": "2018-03-23T16:36:58.368Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:26:33.359Z", 
+  "uid2LogOutTime": "2018-03-23T16:36:54.497Z", 
+  "uid2response": {
+    "feedback": "I have seen the movie, it was a little hard to get the information from the other user at first as they didn't understand that I did not have the document to review that they did. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4695", 
+  "user2_id": "USR760", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

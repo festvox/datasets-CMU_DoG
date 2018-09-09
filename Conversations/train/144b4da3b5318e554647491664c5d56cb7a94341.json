@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-16T20:15:18.618Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:16:31.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:16:38.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:17:35.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do. By the way, can you see the article of the movie? I cannot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:18:06.898Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T20:15:18.618Z", 
+  "uid1LogOutTime": "2018-02-16T20:18:28.061Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:15:18.786Z", 
+  "uid2LogOutTime": "2018-02-16T20:23:48.136Z", 
+  "uid2response": {
+    "feedback": "my partner does not respond to you for 5 minutes", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3684", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

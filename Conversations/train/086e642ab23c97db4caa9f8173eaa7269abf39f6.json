@@ -1,0 +1,142 @@
+{
+  "date": "2018-02-09T17:52:57.291Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'd love to know the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:23.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, the movie is Zootopia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:53:59.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is described as a brilliantly well-rounded film that is funny smart and thought provoking", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:54.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not see zootopia but frozen yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:02.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have kids, but the will start coming soon :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:39.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would highly recommend you watch the film Zootopia because it received a Rotten Tomatoes rating of 98%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:55:45.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you get access to the documents about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:13.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh wow 98% is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:20.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did get access to documents about Zootopia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:58.013Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but the problem i have with these movies..they usually potray things that are from someone's imagination", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:09.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lucky you, i have to get all the information from you because it's obvious they let you access so that I can ask all the questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:50.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any elements of LGBT freedom in it? because I realize most movies now a days potray LBGT  freedom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:58:53.734Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh thats good, seems to be well made and researched ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:14.603Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, indeed they do. But the positive aspect about the movie Zootopia, is that although it is all imaginary, the film carries a message of acceptance that is thought-provoking", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:19.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "music helps to keep the vibes real", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:34.583Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok.nice chatting with u", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:07.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, also the cast of the film includes Idris Elba, Ginnifer Goodwin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:15.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Directions stated we talk for 20 min. I am supposed to convince you to watch the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:33.265Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T17:52:57.291Z", 
+  "uid1LogOutTime": "2018-02-09T18:02:14.484Z", 
+  "uid1response": {
+    "feedback": "User2 left conversation before the 15 response and 20 minutes of conversation were met.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:52:57.450Z", 
+  "uid2LogOutTime": "2018-02-09T18:00:09.879Z", 
+  "uid2response": {
+    "feedback": "I had to rely on the other user for information. satisfied!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3669", 
+  "user2_id": "USR3917", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

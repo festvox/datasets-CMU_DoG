@@ -1,0 +1,95 @@
+{
+  "date": "2018-02-12T19:07:31.503Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:09.202Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi\u201d \nwhat do you want to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:10:11.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:35.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick is a 2014 American neo-noir action thriller film directed by Chad Stahelski and David\nLeitch. It stars Keanu Reeves,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:23.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a lot of  action in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:23.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ywa totally", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:04.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "in the movie you will see the best action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:24.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how would you rate Keanu performance ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:48.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i would give him a 9", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:02.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was the movie well reviewed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:28.669Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"After a marked absence from the genre, Reeves resoundingly returns with an effortless,\nkinetic style that positions the film extremely well for any potential follow-ups.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:55.374Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:07:31.503Z", 
+  "uid1LogOutTime": "2018-02-12T19:17:07.750Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:07:31.656Z", 
+  "uid2LogOutTime": "2018-02-12T19:18:19.197Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2453", 
+  "user2_id": "USR2365", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

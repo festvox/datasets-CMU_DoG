@@ -1,0 +1,139 @@
+{
+  "date": "2018-03-05T17:43:02.442Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:43:57.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:44:12.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen movie Despicable Me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:44:57.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you Despicable Me on the cinemas? I did and it was hilarious. Gru is the best villain ever.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:45:28.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A man who delights in all things wicked, supervillain Gru (Steve Carell) hatches a plan to steal the moon. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:46:21.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Surrounded by an army of little yellow minions and his impenetrable arsenal of weapons and war machines, Gru makes ready to vanquish all who stand in his way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:46:58.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly. Universal animations are amazing. In this one the conflict between Gru and Victor Vector are really nice.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:47:50.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:48:09.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nHave you seen it on 3D? I did and it really was worth waiting for the tickets. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:49:00.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:49:19.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me is a 2010 American 3D computer-animated comedy film from Universal Pictures and Illumination ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:49:21.376Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Dr Nefario is also hilarious with his science experiments, don't you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:50:47.355Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:52:14.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That scene that Great Pyramid of Giza is stolen is really impressive right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:52:31.014Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also the idea that Gru would take a loan on Bank of Evil to steel the moon is also really funny. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:55:33.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So did you liked the minions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:57:29.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:08:38.798Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how was your experience", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:08:56.936Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:43:02.442Z", 
+  "uid1LogOutTime": "2018-03-05T17:59:31.643Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:43:02.525Z", 
+  "uid2LogOutTime": "2018-03-05T18:09:01.962Z", 
+  "uid2response": {
+    "feedback": "nice smooth talk", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4843", 
+  "user2_id": "USR3642", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

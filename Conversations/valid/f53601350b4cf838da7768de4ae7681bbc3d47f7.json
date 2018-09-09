@@ -1,0 +1,84 @@
+{
+  "date": "2018-02-16T18:22:02.532Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there! How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:22:49.401Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing well! What was that movie that you mentioned you saw that you really liked?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:23:06.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "La La Land- have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:23:15.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't, but i've heard a lot about it. What did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:23:47.896Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh man, it's excellent! You should really watch it. It's a musical romantic comedy starring Ryan Gosling and Emma Stone as the two main characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:24:21.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is very touching, and feels really authentic. Ryan Gosling is a struggling musician, and Emma Stone is an aspiring actress. They are both living in the Los Angeles area", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:25:14.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it sound like a movie you'd be interested in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:25:56.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh that sounds pretty interesting and like it'd be right up my alley. Was it suspenseful or predictable? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:25:56.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd say it was fairly predictable, but very pleasurable entertainment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:27:08.528Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T18:22:02.532Z", 
+  "uid1LogOutTime": "2018-02-16T18:27:42.740Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T18:22:02.547Z", 
+  "uid2LogOutTime": "2018-02-16T18:27:46.980Z", 
+  "uid2response": {
+    "feedback": "User clearly told me what genre the movie was as well as the names of the two popular actors in it. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3457", 
+  "user2_id": "USR1429", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

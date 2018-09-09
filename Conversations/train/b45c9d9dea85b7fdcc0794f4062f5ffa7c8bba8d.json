@@ -1,0 +1,106 @@
+{
+  "date": "2018-03-01T05:18:43.320Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen Despicable Me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:20:08.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have! It was great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:20:43.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought so, too! Highly recommend it - and it loks like other do as well. Rotten Tomatoes rates it at 81%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:21:27.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was better than expected - thats for sure! The comedy, the references to pop-culture, and the heartwarming message were all great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:22:41.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also really liked the concept - the Bad Guy is the central character. And wow does he steal the show!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:23:10.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True life, the main people in your life aren't always the good guys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:24:43.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True! And if there is anyone out there who isn't convinced that they should see this film - Steve Carell... that's all I have to say. He's great as Gru!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:25:39.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is a comedic genius! Anything he touches in entertainment is golden!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:26:15.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know, I never realized until tonight the Jason Segal was the 'arch nemesis' villin. That's funny. I really like him, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:26:34.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So many comedians in one movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:27:22.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Then, of course, there's the Minions - lol!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:28:18.598Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:31:25.569Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T05:18:43.320Z", 
+  "uid1LogOutTime": "2018-03-01T05:27:26.909Z", 
+  "uid1response": {
+    "feedback": "Dispicable Me and all the great comedians in this movie. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T05:18:43.378Z", 
+  "uid2LogOutTime": "2018-03-01T05:31:51.105Z", 
+  "uid2response": {
+    "feedback": "The other user was unresponsive after the first set of exchanges", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1930", 
+  "user2_id": "USR2533", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

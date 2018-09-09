@@ -1,0 +1,72 @@
+{
+  "date": "2018-02-08T23:26:15.041Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "First off, i have never seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:26:31.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so bear with me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:26:34.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It appears we are talking about jaws today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:26:42.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its ok. Yes we are talking about Jaws.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:26:55.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its stars roy cheider and the cheif martin brody", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:26:58.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YEs and Steven Spielberg is the director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:27:20.863Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the Genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:27:30.313Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-08T23:26:15.041Z", 
+  "uid1LogOutTime": "2018-02-08T23:28:35.247Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:26:15.056Z", 
+  "uid2LogOutTime": "2018-02-08T23:27:07.305Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3946", 
+  "user2_id": "USR4734", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

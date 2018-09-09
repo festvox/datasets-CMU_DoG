@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-02T01:29:42.085Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good day to you! So what did you think of Batman Begins? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T01:30:38.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T01:30:41.866Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do you agree with the critic's ratings of the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T01:31:35.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well i do love the mist talented cast to this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T01:32:23.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed. Who was your favorite actor in the film? I thought Christian Bale as Bruce Wayne/Batman did a great job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T01:33:10.109Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-02T01:29:42.085Z", 
+  "uid1LogOutTime": "2018-03-02T01:51:36.515Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-02T01:29:42.143Z", 
+  "uid2LogOutTime": "2018-03-02T01:38:41.557Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1566", 
+  "user2_id": "USR3781", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

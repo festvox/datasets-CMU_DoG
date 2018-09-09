@@ -1,0 +1,295 @@
+{
+  "date": "2018-02-05T15:38:57.248Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:39:19.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:39:23.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i didnt get the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:39:39.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i got it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:13.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you watch the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:19.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "idk, what movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:40:28.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wonder women", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:39.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what are we supposed to discuss exactly?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:52.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh i bought it, but stll need to watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:40:53.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "talk about whatever paragraph was in that document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:41:04.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it basically has a summary of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:41:49.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and a few reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:42:01.578Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "okay then talk about that it says specifically if youve seen the movie not to talk about anything that ISNT in the document(s)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:42:22.676Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like ask how id rate wantig to see it? sinc e i havent or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:42:41.410Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "or if i agree with the review", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:42:53.061Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "basically i think you're trying to get me to watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:43:05.972Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it got 92 percent on rt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:43:13.902Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok thats good i do want to see it but its kind of long", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:43:31.292Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but i do like female superheros", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:04.209Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "as leads not enough of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:14.976Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "76/100 on metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:44:15.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what else did metacritic say", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:24.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "why did they give it an avg/bad review", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:36.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it just gave the score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:45:15.125Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ahh okay well now im not sure if i want to watch it hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:45:30.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "jk i dont care wwhat critics say", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:45:39.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cinemascore gave it an A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:45:51.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:45:58.658Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i know it has a female super heo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:46:06.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hero*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:46:21.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its about a ww1 solider who accidentally travels to another dimension and finds these female warriors......\n   ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:47:13.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and he gets one of them to help me with the war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:47:45.931Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "him*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:47:52.507Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh cool sounds like captaim america", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:48:20.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "des it say who the actress is? is it gil gadot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:48:42.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gal gadot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:50.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah gal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:48:54.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:48:57.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hottest girl ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:58.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:04.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "smoking hot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:05.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok we can finish conversation now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:24.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:32.370Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T15:38:57.248Z", 
+  "uid1LogOutTime": "2018-02-05T15:49:30.544Z", 
+  "uid1response": {
+    "feedback": "I already wanted to see the movie but have been putting it off. But after user provided me with reviews i will make point to watch sooner.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:38:57.269Z", 
+  "uid2LogOutTime": "2018-02-05T15:49:35.043Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2103", 
+  "user2_id": "USR708", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

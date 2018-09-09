@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-23T19:36:47.947Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T19:39:29.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! I remember watching Toy Story as a kid but never really thought about the voice actors. Have you seen ever seen this movie before? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T19:40:32.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I definitely agree with the ratings. I think what makes this movie even more amazing is that it got such a high rating from various reviewers as the first feature-length animated film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T19:45:27.321Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-23T19:36:47.947Z", 
+  "uid1LogOutTime": "2018-03-23T20:20:06.793Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-23T19:36:48.052Z", 
+  "uid2LogOutTime": "2018-03-23T19:46:45.935Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2488", 
+  "user2_id": "USR2774", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

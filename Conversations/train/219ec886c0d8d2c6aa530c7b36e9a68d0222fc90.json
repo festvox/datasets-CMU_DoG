@@ -1,0 +1,262 @@
+{
+  "date": "2018-02-07T23:02:45.224Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:03:09.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am ready", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:04:45.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:06:04.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! I'm ready too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:06:11.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:06:37.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:06:48.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:07:07.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the title again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:07:34.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengerd", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:07:48.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you remind me who were the headlining stars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:08:42.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry Avengers with Robert Downey Jr, Samuel L Jackson , Chris Hemsworth, Chris Evans, Scarlett Johansson, and Jeremy Renner", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:10:50.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, I remember it now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:11:04.128Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I\nt was sort of a sci-fi movie, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:12:15.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it includes some of the Marvel comic book characters like Iron Man, the Hulk, Thor, and Captain America", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:13:47.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I always like these types of \nmovies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:15:36.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked\n Iron Man and Thor so I watched this one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:16:21.370Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought it would be cool if all of these heroes came together in one movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:16:47.895Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This one was just about as good as I thought it would be.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:17:25.934Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I liked it. Love all the main actors.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:18:05.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, me too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:18:15.234Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the cast was well chosen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:18:37.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok I'm lost... wasn't that three paragraphs?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:19:11.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Now I have a different document. Stand by.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:20:12.008Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:21:04.164Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok it is a detailed message about the main scenes, contains a lot of other bad guy characters, and I think it's just page 2. Now what. I reread the tasks and it says three paragraphs with four people and the page will come up automatically. Can you check again under Tasks on the bottom?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:25:33.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My tasks just says it is a conversation with one person.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:28:58.464Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My instructions says I have to make 12 responses.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:29:43.747Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Three responses to four people. If you click strategies next to send message, it says what to ask. I'm going to find one to ask you. Brb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:31:20.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you agree with the ratings of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:33:09.517Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What were the ratings of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:34:09.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not have that option next to send message. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:34:42.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes gave it 92%and 8/10. I think that's fair.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:35:28.028Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay...do you have the 2page document about the movie and how are you sending messages?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:37:07.305Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is why we have not moved on to the next person. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:37:57.813Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The only options on the bottom of my screen are tasks/send message/abort conversation/finish conversation My Finish conversation is not available.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:41:40.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, It is available for me to click now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:42:01.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:42:08.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:42:22.515Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T23:02:45.224Z", 
+  "uid1LogOutTime": "2018-02-07T23:42:41.356Z", 
+  "uid1response": {
+    "feedback": "I would watch the movie. I always enjoy movies by the actors and it had a high rating.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:02:45.247Z", 
+  "uid2LogOutTime": "2018-02-07T23:42:24.875Z", 
+  "uid2response": {
+    "feedback": "The other user is not responding to me. It's like he didn't know what the movie was. I'm not going to submit this as I think I missed something in the directions.", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2728", 
+  "user2_id": "USR1431", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

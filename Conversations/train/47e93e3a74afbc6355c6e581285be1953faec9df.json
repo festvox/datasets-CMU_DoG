@@ -1,0 +1,95 @@
+{
+  "date": "2018-03-19T20:35:47.320Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hiii", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:36:50.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there. Who was your favorite Toy Story character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:37:03.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Without a doubt Buzz , and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:37:30.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mine too! Do you think this is one of the best children's movies made so far?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:38:20.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, if it is not the best, it was the one that revolutionized this entire industry, we see how I fall in love not only with the children's community, but also with the critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:39:56.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes the critics gave it almost a perfect score. Do you think it will have any more sequels?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:41:01.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do not know if they should, it would be like exploiting a lot of the saga ... but I know that they will be released very soon, even cast so it would be worth it for them and for the fans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:43:00.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was this Tom Hanks only role in a children's movie? He did very well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:44:31.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey I think so, but he did great, he always leaves us delighted with all his work, ... and Tim Allen, spectacular", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:47:04.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I definitely agree with the critics as far as it being top ten films especially \nfor children.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:47:55.637Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What would you do if you witnessed your toys come to life as a child?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:49:47.867Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T20:35:47.320Z", 
+  "uid1LogOutTime": "2018-03-19T20:50:23.373Z", 
+  "uid1response": {
+    "feedback": "other user left the room", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:35:48.232Z", 
+  "uid2LogOutTime": "2018-03-19T20:50:05.210Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2790", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

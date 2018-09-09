@@ -1,0 +1,149 @@
+{
+  "date": "2018-04-02T21:51:23.162Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:51:31.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:51:35.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:51:44.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:51:53.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Not a ton of new ones ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:52:28.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How \nAbout you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:52:41.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't watched any movies lately, I've been so busy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:53:08.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel you on that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:53:26.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It looks like I had one movie showing and now it\u2019s changed to aNother movie  do you know which movie were supposed to be discussing ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:53:56.282Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whichever movie the document is about? That is currently showing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:54:34.663Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " OK then I guess it\u2019s monster university I haven\u2019t seen it yet but it seems like it might be good kid movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:55:00.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Looks like it got a 79% on rotten tomatoes so did OK-ish ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:55:20.399Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I have not watched that, isn't that a Pixar movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:55:24.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " It just changed what movie I was looking at again I\u2019m so sorry I don\u2019t know what\u2019s going God ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:55:42.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I now have maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:55:54.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is weird? What one is itnow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:56:03.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maleficent\n Which I also haven\u2019t seen but I think it\u2019s a Disney movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:56:21.336Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It \ngot a 51% on rotten tomatoes which seems much worse", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:56:36.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay I think something is messed up.. it should only be be one movie the whole time.. I guess should we abort conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T21:56:38.130Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I don\u2019t know if you think so I can queue up again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T21:57:19.234Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T21:51:23.162Z", 
+  "uid1LogOutTime": "2018-04-02T21:58:11.285Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-04-02T21:51:23.275Z", 
+  "uid2LogOutTime": "2018-04-02T21:58:20.385Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR327", 
+  "user2_id": "USR4566", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

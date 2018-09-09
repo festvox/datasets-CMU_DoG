@@ -1,0 +1,252 @@
+{
+  "date": "2018-02-13T18:58:15.614Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:59:48.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:00:00.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When was the movie released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:00:25.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it stars Keanu Reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:00:29.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an action movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:00:39.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:00:53.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2014 it was realeased", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:00:56.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it does not say any other actors are in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:01:25.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it have any ratings of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:01:38.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ratings are an average 6.9", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:02:11.426Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it have a summary of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:49.414Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is about a theft of his vintage car wick is a retired hit man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:04:42.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's it rated?  PG-13?  R?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:05:06.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they kill his puppy and wick is out for revenge", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:05:16.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the puppy was a gift from Wicks wife so it was realy important", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:05:42.616Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They kill his puppy and steal his car?!  That's not cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:06:15.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it does not say whether its PG or R", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:06:45.532Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and no puppy killings are not cool...lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:06:56.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am definitely more bothered by the puppy-killing than the car-stealing...   Any other info on the movie I should know about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:07:49.006Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its an action movie his wife was killed by the russian syndicate thats why the puppy was so important, it is about him getting revenge for the car and the puppy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:08:56.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, so the puppy other than being a puppy was a reminder of his dead wife.  So this isn't a comedy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:09:44.950Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh no it is an action movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:10:06.338Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Has the movie won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:10:25.878Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:10:50.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it still in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:11:06.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no it came out in 2014", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:11:31.561Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry, you did say that.  Just to be certain, Keanu Reeves plays John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:12:05.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes Keanu Reeves plays John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:12:38.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:12:52.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does not say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:13:21.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:13:29.815Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:13:37.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One last question and then we are done.  Did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:14:02.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I loved it there is also a John WicK 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:14:18.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool.  Thanks for working on this with me.  Finish conversation time!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:14:36.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:14:46.310Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T18:58:15.614Z", 
+  "uid1LogOutTime": "2018-02-13T19:14:49.964Z", 
+  "uid1response": {
+    "feedback": "I did not get to see the document.  I had to ask questions of the other person who was very responsive and helpful.  I will probably check out John Wick.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:58:15.646Z", 
+  "uid2LogOutTime": "2018-02-13T19:14:48.088Z", 
+  "uid2response": {
+    "feedback": "I had fun! Thank You!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2633", 
+  "user2_id": "USR4335", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

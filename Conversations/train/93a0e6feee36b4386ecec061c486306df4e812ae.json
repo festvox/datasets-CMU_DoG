@@ -1,0 +1,271 @@
+{
+  "date": "2017-12-01T05:46:26.362Z", 
+  "docLinkIdx": 4, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:46:46.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:46:53.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's going on?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:47:03.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "now i am saw social media post in online", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:47:40.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, what did it say?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:47:48.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very funny and likable posts are there", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:48:31.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:49:08.094Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you see zootopia?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:49:49.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:49:59.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I'm here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:50:45.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:50:47.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:50:49.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very nice movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:51:14.687Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool, I might want to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:51:41.747Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What happens in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:51:44.585Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "about childhood dream of the zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:51:47.950Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The whole movie is a dream?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:51:56.911Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "judy hopps rural bunnyburrow fulfills her childhood dream", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:52:44.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds fun!  Does it have good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:52:59.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "becoming a police a police officer in zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:53:24.937Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes very funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:53:33.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and than good reviews are come", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:53:52.532Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I\ns it a good movie for families?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:54:25.182Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "comedy ,adventure with animation movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:54:26.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:54:31.764Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "kids movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:54:48.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds great.  Who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:54:50.294Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "great sound, run by shakira", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:56:21.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:56:50.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "jason batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:57:19.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good, I like him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:57:30.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:57:34.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and ginnifer goodwin", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:57:45.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh nice,\n that's a great cast!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:57:56.160Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rich moore,byran howard", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:58:41.508Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice, well you've answered my questions!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:59:06.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks & have a good night :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:59:10.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:59:20.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:59:24.783Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-01T05:46:26.362Z", 
+  "uid1LogOutTime": "2017-12-01T05:59:13.164Z", 
+  "uid1response": {
+    "feedback": "The user is responding to me but writes really poorly, as if English is their second or third language and they have a poor grasp of it.  Not all of my questions were answered.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T05:46:26.682Z", 
+  "uid2LogOutTime": "2017-12-01T05:59:32.894Z", 
+  "uid2response": {
+    "feedback": "good task", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2145", 
+  "user2_id": "USR644", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

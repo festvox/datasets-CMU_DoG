@@ -1,0 +1,312 @@
+{
+  "date": "2018-03-01T01:02:45.789Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you like the animation in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:03:48.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:04:07.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:04:10.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have. I liked the aerial battles.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:04:39.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:04:50.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "probably the main character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:05:12.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hiccup is his name I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:05:30.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:05:34.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Astrid, America Ferrera did a good job with her voice.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:05:57.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. It's a pretty fun movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:06:22.318Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like 3D movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:06:29.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It depends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:07:07.781Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this one would be fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:07:12.673Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:07:15.495Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like them sometimes. This one is about Vikings so that's cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:07:35.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:07:45.100Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has really good critic reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:07:56.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and the dragons are so funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:07:59.202Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wonder why the metacritic score is so low compared to Rotten Tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:08:28.337Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:08:36.638Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I'm not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:09:20.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie has weird names for characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:09:21.325Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:09:26.581Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Toothless and Hiccup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:09:30.185Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's part of why it's cute", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:09:31.950Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love the name toothless", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:09:37.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They're trying to find something called the Night Fury which sounds a lot more serious than the names", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:10:10.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then the Red Death", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:10:31.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay I guess they ride the dragons", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:10:52.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's that about the red death?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:10:57.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm confused ahah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:11:00.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This seems like two movies in one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:11:11.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So is hiccup a dragon? I'm confused too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:11:55.645Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he is the kid", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:12:01.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the viking's son", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:12:05.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it looks so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:12:08.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And he finds toothless, which is a dragon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:12:18.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And presumably rides him after training him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:12:32.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:12:59.193Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the bad guy's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:13:03.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's what I'm not sure of", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:13:11.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it kind of seems like the vikings are sort of bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:13:22.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like Hiccup was supposed to kill a dragon as part of a viking test", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:13:38.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah they want to kill the poor dragon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:13:41.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stoick is the bad guy's nam", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:13:56.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gotcha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:14:05.932Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T01:02:45.789Z", 
+  "uid1LogOutTime": "2018-03-01T01:13:59.023Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T01:02:45.929Z", 
+  "uid2LogOutTime": "2018-03-01T01:14:14.283Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2465", 
+  "user2_id": "USR3414", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2018-03-22T15:45:33.244Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:46:21.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:46:26.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story was my childhood when it first came out. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:47:25.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually didn't know that Toy Story came out in 1995...it doesn't feel that long ago. Now I feel so old. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:47:39.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mine too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:47:41.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It\u2019s insane that it has such a high rotten tomatoes score, too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:48:30.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Then again it is a cinematic masterpiece, even now. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:48:49.561Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T15:45:33.244Z", 
+  "uid1LogOutTime": "2018-03-22T15:48:31.540Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T15:45:33.376Z", 
+  "uid2LogOutTime": "2018-03-22T15:49:12.334Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1186", 
+  "user2_id": "USR1507", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

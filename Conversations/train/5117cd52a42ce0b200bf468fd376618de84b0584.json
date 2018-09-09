@@ -1,0 +1,324 @@
+{
+  "date": "2018-03-21T23:27:21.549Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:27:33.329Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:28:23.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi; nice to meet you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:29:46.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"The Shape of Water.\" Have you seen it yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:29:58.896Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here!  No, not yet. How was it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:30:11.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was already a fan of Benicio del Toro's...he's the director and one of the writers...and this movie does not disappoint!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:30:45.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Glad to hear it.  I was thinking about watching it but don't know what it's about.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:31:09.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "After all, water takes on the shape of whatever, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:31:29.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Basically, there's a secret government lab in the 1960s...that's always a good set-up for a movie, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:31:42.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think the title is specific to what actually happens in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:31:56.133Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:32:00.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nothing like secret government labs.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:32:18.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's a mute girl working as a cleaner there and she gets herself involved with what's going on. I'm guessing she doesn't intend to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:32:39.927Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was it in the U.S. or overseas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:32:54.720Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Here in the USA during the Cold War", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:33:25.379Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's a creature but I don't think this is really what you could call a typical monster movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:33:43.409Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh cool.  Russian subs off the coast and Bay of Pigs stuff.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:33:45.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not really....  ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:33:55.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it experiments on people or something like that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:34:11.491Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The creature's from a South American river and has been brought to the secret lab to be studies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:34:25.994Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "studied...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:34:30.746Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh.  Got it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:34:42.952Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That never goes well, does it? Secret labs usually want to do something horrible to such things.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:34:58.527Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lots of scary stuff down there in South America.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:35:13.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anyways, I think it's more a love story...just with a strange setting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:35:14.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen anything else Benicio del Toro has done? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:35:32.325Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, what happened to the mute girl?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:35:48.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Netflix has a so-called kid's cartoon he did about trolls that is REMARKABLE...great story and beautifully rendered animation. Del Toro has range!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:36:15.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, that would be telling! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:36:25.738Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Although I hope she doesn't get devoured! LOL!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:36:41.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No fun!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:36:49.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry *shrugs* Rules of this game...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:37:06.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well what happens to the river monster?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:37:23.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hold on, please...  ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:37:28.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Drum roll.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:37:38.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hold on, please!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:37:56.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Da Da Da Dum.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:38:08.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The music gets louder and faster....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:38:27.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL! They gave me a bunch of stuff to read!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:38:41.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the verdict is....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:39:02.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So there's this bad-guy foreign dude who wants to do something to the creature...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:39:14.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How fun...did you ever see \"Splash\" where Tom Hanks keeps the mermaid in his bathtub?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:39:58.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The mute girl adopts the creature and keeps it in her bathtub!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:40:12.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess taking it out for walkies would be difficult!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:40:24.740Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok I guess I have to watch the movie.  No, I missed that one too!  It's been fun chatting!  Don't forget to check the bathrtub!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:40:36.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*bathtub.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:40:49.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You, too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:40:50.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, bye and have a great night", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:40:59.886Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T23:27:21.549Z", 
+  "uid1LogOutTime": "2018-03-21T23:41:02.955Z", 
+  "uid1response": {
+    "feedback": "I love river monsters and secret government experiments so this is on the watch list.  I didn't check the \"The document is understandable\" box only because I didn't actually get to see the document.  Thank you.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T23:27:21.594Z", 
+  "uid2LogOutTime": "2018-03-21T23:40:58.015Z", 
+  "uid2response": {
+    "feedback": "I've wanted to see this and the spoilers you provided still leave me wanting to see it. It's based on \"The Creature from the Black Lagoon\" and it was difficult not revealing that!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR46", 
+  "user2_id": "USR3625", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

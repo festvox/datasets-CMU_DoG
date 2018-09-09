@@ -1,0 +1,44 @@
+{
+  "date": "2018-03-05T16:32:19.140Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:32:27.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:32:48.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you like The Notebook?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:32:59.882Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-05T16:32:19.140Z", 
+  "uid1LogOutTime": "2018-03-05T16:33:15.346Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:32:19.178Z", 
+  "uid2LogOutTime": "2018-03-05T16:33:57.969Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4749", 
+  "user2_id": "USR1126", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

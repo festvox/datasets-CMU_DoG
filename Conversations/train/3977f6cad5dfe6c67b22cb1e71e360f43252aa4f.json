@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-14T19:39:57.142Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:40:09.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:37.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The imitation game is a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:42:01.804Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T19:39:57.144Z", 
+  "uid1LogOutTime": "2018-02-14T19:42:13.167Z", 
+  "uid1response": {
+    "feedback": "They left the chat right away", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:39:57.183Z", 
+  "uid2LogOutTime": "2018-02-14T19:40:39.203Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3350", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

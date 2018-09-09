@@ -1,0 +1,95 @@
+{
+  "date": "2018-02-09T21:03:31.965Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey What do you think of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:04:12.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was this movie's name again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:04:52.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "La La Land....I've heard of this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:05:22.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Right it seems like it would be an interesting movie. It also seems different from the mainstream movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:06:02.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "92% is a pretty good rating so the movie must be good.   Yes, I like that it is an idiom for being out of touch with reality.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:06:27.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow that is a pretty high rating for a movie. There must be some good actors in the film as well to be so high.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:07:11.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a good cast.  Ryan Gosling is a good actor as well as Emma Stone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:07:35.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of those actors before. Then the comments must be pretty good about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:08:21.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "People are bragging on the movie saying it is a great romantic comedy.  They say it's very touching as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:09:03.037Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So it seems like a movie for me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:10:23.219Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T21:03:31.966Z", 
+  "uid1LogOutTime": "2018-02-09T21:10:48.699Z", 
+  "uid1response": {
+    "feedback": "I thought that user responded great and answered all my questions.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T21:03:32.170Z", 
+  "uid2LogOutTime": "2018-02-09T21:09:58.822Z", 
+  "uid2response": {
+    "feedback": "The other user responded well until he just up and left without saying goodbye or anything.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4255", 
+  "user2_id": "USR1548", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

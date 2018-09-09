@@ -1,0 +1,269 @@
+{
+  "date": "2018-03-30T16:02:22.531Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Tell me about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:03:00.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello Good day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:09.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The is Maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:30.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is this movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:03:47.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll just read the document I did not see this movie..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:03:56.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was filmed 2014", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:12.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was Dirested by Robert Stromberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:04:42.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:05:10.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nWhat is the genre of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:05:15.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was rated by Rotten Tomatoes for 51% and average 5.7 / 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:05:57.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Genre is Super Hero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:06:06.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a pretty average rating, who are the actors in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:06:41.231Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was casted by Angelina Jolie as Maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:06:42.827Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like her films, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:07:13.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sharilto Copley as Stefan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:07:20.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah yeah I like Angelina's movie too.. Tomb Raider was one of them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:07:52.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "also character was Elle Fanning as Aurora", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:08:18.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you watched this movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:08:30.342Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have not. Anything interesting you learned about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:09:11.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nothing yet sorry some of the content in the description not yet loding", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:10:06.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I think Maleficent is a Super Hero and adventure movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:10:41.907Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What makes it a super hero movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:11:08.290Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In the story Malefecent is a powerful fairy in the story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:12:05.710Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, interesting, what else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:12:40.123Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they were living in the magical forest separated by human kingdom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:12:58.856Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Almost like a Lord of the Rings type fantasy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:13:59.393Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In the movie Malefecent falling in love with a human which role by Stefan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:14:19.403Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah but it seems it much more relevant to the movie Frozen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:15:03.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked Frozen, is there a lot of similarities with it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:15:33.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The screen play of this movie was very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:15:45.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "according to the document yes some stereotype that were tweaked in Frozen movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:16:39.712Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the conflict begin with this relationship between the Maleficent and Stefan? Or is there some other conflict?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:17:11.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just their Love story you know a love between Human and Fairys are prohibited and the two lovers fighting for that love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:18:23.150Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, who is Aurora?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:19:36.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Fairy's Demolished the humans house and place and they were just fight for their fredom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:20:24.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aurora is a human I think who was inlove with stefan in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:21:19.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The story is complicated ahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:21:42.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you regularly like adventure and love story movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:22:03.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fantasy movies typically are haha!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:22:29.241Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T16:02:22.531Z", 
+  "uid1LogOutTime": "2018-03-30T16:22:33.933Z", 
+  "uid1response": {
+    "feedback": "I wasn't given enough information about the movie to make a decision.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T16:02:22.773Z", 
+  "uid2LogOutTime": "2018-03-30T16:22:49.056Z", 
+  "uid2response": {
+    "feedback": "This movie is good..", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1625", 
+  "user2_id": "USR697", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

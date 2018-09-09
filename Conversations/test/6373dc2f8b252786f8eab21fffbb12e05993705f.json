@@ -1,0 +1,241 @@
+{
+  "date": "2018-02-09T18:34:40.003Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:34:58.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:35:03.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Let's talk about Dunkirk. Have you ever seen the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:35:14.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not.  I do enjoy war movies though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:35:27.115Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So you have heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:35:35.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it.  Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:35:42.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it. and I'm about to open your mind to the wonderful film that this is. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:36:05.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "prepare yourself! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:36:08.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm prepared.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:36:22.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Although the film was made in 2017 - it's actually a war story from WWII", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:36:54.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It scored a 92% favorable rating from Rotten Tomatoes and an average 8.6/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:37:26.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How 'bout them apples, eh!?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:37:36.166Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "92% seems like a good rating.  A- from CinemaScore also seems positive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:37:48.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If I got an A- in my College classes, I would be ecstatic\n. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:38:14.646Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film got good critical responses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:38:48.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film is good. But you don't have to take my word for it. Critics worldwide have provided responses such as \"an impressionist masterpiece\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:39:00.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Triumph in filmmaking - ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:39:18.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Must be a WW!! movie.  I see it takes place in 1940.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:39:28.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Unlike other WWII movies, this takes place a bit before America comes in and saves the day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:40:10.121Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So it gives a different perspective. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:40:17.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This ain't no Saving Private Ryan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:40:22.926Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems to be about the British \nNavy.  Sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:40:39.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You sure do know a lot about this film. Why have you not seen it yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:40:57.033Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I only know what I have read about it.  \nI am not sure what a \"trawler\" is.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:41:28.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ah man! So here's the thing. I have to leave. I don't know that I'll be able to finish the conversation. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:42:34.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Based on the key scenes there are Scottish soldiers involved in the film as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:42:42.775Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It pains me because there is nothing more I want in the world than to explain what a \"trawler\" is to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:42:57.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Guess I will never know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:43:09.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's lots of involvement from people in Europe. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:43:17.167Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Evacuation of 300,000 must be a task.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:43:35.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would love to keep this going, but alas, I must leave. Think kindly of me, will you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:43:52.861Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bummer.  I was hoping to learn more about the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:44:25.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Go see it. It's wonderful. believe me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:44:38.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will take your word for it.  The keys scenes sound great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:44:55.141Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T18:34:40.003Z", 
+  "uid1LogOutTime": "2018-02-09T19:42:38.889Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T18:34:40.102Z", 
+  "uid2LogOutTime": "2018-02-09T18:45:00.353Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR290", 
+  "user2_id": "USR3954", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

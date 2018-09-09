@@ -1,0 +1,217 @@
+{
+  "date": "2018-03-01T20:11:37.213Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:12:38.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it was very enjoyable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:12:50.022Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your favorite actor in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:13:08.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carell", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:13:18.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked him too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:13:27.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked all of the voice actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:13:50.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah they were pretty good. Did you think it was funny? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:14:14.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was very funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:14:25.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The minions were very cute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:14:40.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what year it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:15:41.646Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:15:47.827Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Made in America?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:16:43.524Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:16:51.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was it made in America?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:17:04.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who played Victor Perkins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:17:23.386Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jason Segal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:17:31.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who played Dr. Nefario?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:17:32.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Russell\n Brand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:17:41.550Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What was Steve Carell's character name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:17:50.101Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gru", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:17:55.507Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was Gru a villian?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:18:14.733Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes he was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:18:20.776Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did he steal something in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:18:35.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he steals the shrink ray", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:18:56.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does he also steal the moon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:19:55.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:20:07.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this movie both for kids and adults?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:20:21.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it's family friendly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:20:28.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it CGI?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:20:34.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:20:49.084Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T20:11:37.213Z", 
+  "uid1LogOutTime": "2018-03-01T20:20:51.822Z", 
+  "uid1response": {
+    "feedback": "Good Luck!! ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T20:11:37.407Z", 
+  "uid2LogOutTime": "2018-03-01T20:21:46.774Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3234", 
+  "user2_id": "USR3965", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

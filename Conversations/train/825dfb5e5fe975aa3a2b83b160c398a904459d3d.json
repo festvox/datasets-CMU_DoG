@@ -1,0 +1,271 @@
+{
+  "date": "2018-03-23T15:17:43.902Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:17:58.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there, how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:18:23.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, and yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:18:48.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing well, thanks! So....Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:19:08.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Never watched! WHATS IT ABOUT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:19:52.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHAT?! Well Home Alone is actually about a boy who was, lets guess it, left HOME ALONE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:20:24.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His parents went on vacation, and forgot him!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:20:31.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds vaguely familar!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:20:56.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whose in the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:02.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character is Macaulay Culkin, and his parents are Catherine O'Hara and John Heard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:21:34.974Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've heard a little about them. How were the critics reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:22:08.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics thought the first half was bland, but the second half was much more humorous\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:47.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh i bet! Whats the genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:24:23.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'd consider it a Comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:24:34.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice! can you tell me more about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:18.100Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Of course! The movie came out in 1990 (and there was a sequel after). Ratings by various media outlets were vastly different. Some gave it mediocre reviews, while others gave it good reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:27:16.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like the typicial classic response", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:27:57.965Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how did the sequel do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:05.244Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "From what I remember it did just as well. The plot was extremely similar, as you'd imagine. With that said, the movie was just as entertaining as the first, in my opinion.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:31.015Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's great to hear! I love comedy movies so this seems like my type of movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:15.074Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I highly recommend it! Not only that, but it's quite popular, and can be used as a conversation piece with friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:45.644Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:31:21.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, if someone were to mention the movie to you, you wouldn't be able to partake in the conversation. If you go and see it, then you will!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:32:15.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you tell me about a scene so i can better picture the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:32:49.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A major part of the movie is how two individuals try and break into the home while the main character Kevin is alone. During this process Kevin comes up with different ideas to deter the individuals from gaining access to the house. In one scene he does so by having a can of paint swing by a rope, and eventually hitting one of the men. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:34:59.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh no! That sounds quite p\nainful but nonetheless hilarious!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:35:49.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So the two burgulars are two men?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:36:05.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was indeed, and now gives you more of a reason to go see it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:36:08.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, both are men", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:36:11.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One tall and skinny, the other short and chubby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:36:17.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "quite the opposites!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:09.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did kevin get hurt at alll throughout the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:20.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hm, I think if I told you that, It'd take away from the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:41.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I will say that he did indeed make it to the sequel.!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:51.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome! How did his parents react when they came back?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:13.613Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From what I recall he didn't tell them what had happened. Nonetheless they were extremely happy that he was safe and sound at home. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:40:59.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As you could expect, they were just happy to see him. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:41:05.014Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i Bet they were, anyone i feel would be content", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:41:57.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, i could imagine so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:31.881Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T15:17:43.902Z", 
+  "uid1LogOutTime": "2018-03-23T15:41:58.955Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:17:43.906Z", 
+  "uid2LogOutTime": "2018-03-23T15:42:36.972Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR614", 
+  "user2_id": "USR3117", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

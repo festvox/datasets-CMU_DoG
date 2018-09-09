@@ -1,0 +1,61 @@
+{
+  "date": "2018-03-07T17:39:38.753Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:40:01.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen the movie Bruce Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:40:21.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, What movie do you want to talk about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:40:42.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:40:53.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have seen that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:41:06.047Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T17:39:38.753Z", 
+  "uid1LogOutTime": "2018-03-07T17:41:19.648Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:39:38.795Z", 
+  "uid2LogOutTime": "2018-03-07T17:41:27.279Z", 
+  "uid2response": {
+    "feedback": "I have already seen this movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2949", 
+  "user2_id": "USR2634", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

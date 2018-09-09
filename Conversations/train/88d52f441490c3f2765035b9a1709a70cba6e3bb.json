@@ -1,0 +1,219 @@
+{
+  "date": "2018-03-22T00:39:55.035Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:40:24.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:41:47.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:41:59.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It received an average of 7.7/10 from a reputable film scoring website", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:42:45.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:42:55.367Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The plot is about a geniues inventor who manufactures weapons for the U.S. govt who builds a powered exoskeleton and becomes the technologically advanced superhero, Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:44:32.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it a family movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:44:58.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie received a CinemaScore of: A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:46:06.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how long is the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:46:55.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not know the answer to that question. I'm sorry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:47:34.381Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that;s ok....anything else you can tell me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:47:49.320Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who is the star", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:47:52.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten Tomatoes gaves this movie a 94%! And, one critic was quoted as saying,\"a shapely piece of mythmaking...Favreau(the director) doesn't go in for stylized comic book frames...He gets real with it. You'd think you were watching a military thriller.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:50:12.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hmm sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:51:16.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how lobf has the movie been out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:51:23.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr. is the star! Also co-starring Terrence Howard and Jeff Bridges!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:51:29.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry, how long has it been out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:51:40.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie, Iron Man, debuted in 2008!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:51:46.176Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So approximately, ten years!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:51:57.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it an action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:52:20.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie involves arms trafficking, f-22 Raptor fighter jets, crminals, coups, and weapons. So.....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:54:18.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds exciting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:54:31.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also, missiles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:54:34.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ithink I would enjoy it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:54:36.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:54:53.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IS there anything else you would like to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:55:48.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:58:22.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do I have to do now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:59:02.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't finish the conversation yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:59:17.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:59:21.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it automatically stop\n/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:59:31.241Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T00:39:55.035Z", 
+  "uid1LogOutTime": "2018-03-22T00:59:49.341Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T00:39:55.064Z", 
+  "uid2LogOutTime": "2018-03-22T00:59:52.791Z", 
+  "uid2response": {
+    "feedback": "That was fun!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3305", 
+  "user2_id": "USR415", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

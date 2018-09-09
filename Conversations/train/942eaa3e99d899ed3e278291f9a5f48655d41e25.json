@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-30T16:13:13.162Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:13:31.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there, it's a film called The Shape Of Water", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:13:57.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What actors are starring in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:15:03.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer, Michael Stuhlbarg are the main cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:15:30.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a fantasy drama directed by Guillermo Del Toro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:18:04.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's also set in Baltimore in 1962, so it is a period piece", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:19:11.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:20:40.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes sorry!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:20:54.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:21:04.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you mean critically ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:21:44.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean PG, PG-13, etc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:22:08.668Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It does not say.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:23:01.248Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about a mute custodian working at a high security government laboratory who falls in love with a captured humanoid amphibian creature", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:23:56.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And Sally Hawkins plays Elisa, who is the mute cleaner, so she communicates through sign language", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:26:39.534Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do the critics say?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:26:58.547Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or the general critic consensus? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:27:10.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They're raving, 92 % on Rotten Tomatoes with an average rating of 8.4/10, 87 on Metacritic, an A CinemaScore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:27:37.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool! Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:28:06.431Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe you can check online but are you interested in films with creatures? It also takes place at the height of the Cold War which is a cool background", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:29:37.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the Cold War involved in the plot or more of just the setting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:30:16.836Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is involved in the plot as there is a Soviet spy in the storyline, working as a scientist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:31:20.734Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How much did the movie make?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:32:44.855Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how much money I mean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:32:50.853Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure about that but did you know that Michael Shannon plays a colonel in charge of the project to study the \"asset\", which is this mysterious creature that was captured from a South American river", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:34:11.850Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure who Michael Shannon is. What other movies is he in? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:35:19.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe you can check online but did you know that Elisa begins visiting the creature in secret?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:37:40.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are they able to communicate?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:38:18.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They develop a close bond, and she falls in love with the creature", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:39:13.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they end up together in the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:39:44.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes they do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:39:56.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it pretty heavy/dramatic or lighter in general\n? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:41:06.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's been said to have a lot of tenderness, and it is the powerful vision of a creative master feeling totally, joyously free", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:42:08.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds coo, I'd be interested in seeing it. Thanks for talking today!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:42:55.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My pleasure. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:43:04.300Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T16:13:13.162Z", 
+  "uid1LogOutTime": "2018-03-30T16:43:14.159Z", 
+  "uid1response": {
+    "feedback": "They user responded quickly, and the movie sounds interesting enough to see.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T16:13:13.228Z", 
+  "uid2LogOutTime": "2018-03-30T16:43:06.671Z", 
+  "uid2response": {
+    "feedback": "Went very well, the film is fantastic.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2755", 
+  "user2_id": "USR347", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

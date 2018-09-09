@@ -1,0 +1,288 @@
+{
+  "date": "2018-02-07T23:31:00.607Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:31:26.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI -- so, have you seen the movie La La Land? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:31:42.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't say that I have. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:32:23.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a musical set in LA.  It's a love story between a jazz pianist and an aspiring actress.  Do you like romantic comedies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:33:07.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd have to say I don't like romantic movies or musicals. This sounds like I would hate the movie overall. Does it have singing every few minutes like that movie HighSchool Musical?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:34:14.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ha, I know what you mean, I don't normally like romances or musicals either!  But the music works because it's part of the story.  It got amazing reviews -- even Rotten Tomatoes gave it 92%! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:35:58.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is probably something I'd take the wife\n to see. Who is in the movie actor wise?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:36:37.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got Ryan Gosling, who is terrific.  And also Emma Stone. John Legend is in it too, and he does a great job. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:37:33.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I like Emma Stone, always thought she was a good looker and the wife will enjoy Gosling. I assume they are the two main actors right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:38:26.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they're the two main actors in it.  I bet you and your wife would both like it, it's a great date night movie.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:39:26.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In that case, I think I could stomach it since it's got, good actors. Who is\n the director? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:40:35.553Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director is someone I've never actually heard of before this movie, a guy named Damien Chazelle.  Are you familiar with him?  I never heard of hm before this but I don't really know a lot of directors. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:42:31.212Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've never heard of him either. He must of done a great job if the movie has so many positive reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:43:26.063Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the overall movie? Did you find yourself falling asleep through it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:43:58.590Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I'm sure his career has really taken off!  It must have been really challenging to direct this kind of movie.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:44:07.446Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "As far as falling asleep...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:44:12.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no, and I fall asleep through a lot of movies!  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:44:23.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are some funny scenes in it - Gosling and Stone have a few encounters where they get off on the wrong foot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:44:45.065Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, that is promising then. I assume there is at least some regular dialog instead of singing all the time right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:45:23.106Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, it's definitely acting just as much as it is singing.  I couldn't take the movie if it were 100 percent singing -- that would be more like an opera, ha!  And that is definitely not for me!  You have to trust me on this!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:46:35.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's such a good story and gives a lot of insights about what it's like to make a go of a show business career in LA. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:47:18.235Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it modern day LA or a bit in the past?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:47:46.015Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's what's weird, it's kind of hard to tell.  A bit in the past I think but it'd kind of not clear.  It could be any time, and that might be on purpose, because the same struggles these aspiring performers have in this movie have been dealt with for generations.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:49:19.502Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They have their \"art\" that they want to be true to, but at the same time, they have to do things to pay the bills, like play music they don't like, stiff like that.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:49:59.886Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:50:06.759Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah ok, I only ask that because the name of the movie seems like something that came out of the 1950's or something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:50:12.042Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Now that I mention it does the title of the movie have anything to do with the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:50:44.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I know, it's def a throwback title and all the ads and a lot of the clothes look like throwback clothes too.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:50:51.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, the title of the movie works on a few levels.  Obviously first of all \"LA\" is a reference to Los Angeles...but also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:51:27.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's kind of a reference to not living in reality, living in a dream world...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:52:06.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow as you said that it actually clicked in my mind \"la la\" LA, Los Angeles. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:52:51.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And also of course \"la la\" refers to music as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:53:11.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Clever titling, I like that. Just knowing that gave the movie a bit more character. How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:53:38.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I like that about the title too.  There are a lot of things like that that work on a few levels.  There's a lot more to it than it might appear on the surface.  As far as the length, I guess about 2 hours, I'd say.  It really flies by, there are these ups and downs and you get so caught up in the characters' struggles with show business.  At one point Emma Stone's character is in a play that is a disaster, and she decides to leave LA, just as Ryan Gosling's career starts to take off. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:56:22.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, two hours of music and dance, this was pretty much made for my wife. How high did you say the reviews where?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:57:57.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reviews were awesome.  I always trust Rotten Tomatoes, and they gave it a 92.  Also Metacritics gave it a 93%.  And on IMDB, it got an 8.1 out of 10.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:59:39.381Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope you and your wife enjoy it as much as I did! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T00:01:11.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Those are pretty high scores. I hope I do too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T00:01:19.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You taking off?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T00:01:33.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Take care, I think that's it unless you have any other questions!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T00:01:41.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope thats it for me, have a good night!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T00:01:54.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T00:01:58.514Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T23:31:00.607Z", 
+  "uid1LogOutTime": "2018-02-08T00:02:07.134Z", 
+  "uid1response": {
+    "feedback": "Thanks for having me participate.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:31:00.614Z", 
+  "uid2LogOutTime": "2018-02-08T00:02:01.154Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR1645", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

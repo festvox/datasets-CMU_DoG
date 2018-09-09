@@ -1,0 +1,39 @@
+{
+  "date": "2018-02-16T02:24:50.514Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you generally like war movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:28:06.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they are one of my favorite genres. Dunkirk was particularly good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:29:22.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you find that the rating is fitting for this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:31:36.857Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T02:24:50.515Z", 
+  "uid2LogInTime": "2018-02-16T02:24:50.565Z", 
+  "uid2LogOutTime": "2018-02-16T02:34:38.882Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1609", 
+  "user2_id": "USR1423", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

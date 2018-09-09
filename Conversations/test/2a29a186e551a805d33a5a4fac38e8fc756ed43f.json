@@ -1,0 +1,156 @@
+{
+  "date": "2018-02-15T20:51:47.041Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:52:30.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:52:33.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you a Keanu Reeves fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:52:43.614Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you are this is one of his somewhat more recent films. John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:53:20.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still reading?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:53:32.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still reading?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:53:35.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:53:49.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:53:55.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still reading the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:53:56.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:54:15.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:54:30.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie received good ratings", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:54:40.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is an action thriller", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:54:51.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\n\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:54:56.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:55:01.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:55:18.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:55:19.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:55:23.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what's the name of the movie?\nh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:55:28.147Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:55:29.298Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "starring Keanu Reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:55:38.766Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T20:51:47.041Z", 
+  "uid1LogOutTime": "2018-02-15T20:56:07.004Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-15T20:51:47.605Z", 
+  "uid2LogOutTime": "2018-02-15T20:56:20.249Z", 
+  "uid2response": {
+    "feedback": "The user left the chat which was disappointing ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1962", 
+  "user2_id": "USR2728", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

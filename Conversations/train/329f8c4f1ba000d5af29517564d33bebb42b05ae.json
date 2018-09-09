@@ -1,0 +1,58 @@
+{
+  "date": "2018-02-16T22:48:10.993Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "so are you familiar with this movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:49:09.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T22:49:52.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay and what were youre thoughts on it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:50:14.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's very funny and shows how clique-ish high school can be.  Are you familiar with it as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T22:50:58.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am to the best of my memory it was quite funny ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:51:37.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay why  did you leave??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:52:38.103Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T22:48:10.993Z", 
+  "uid1LogOutTime": "2018-02-16T22:51:58.844Z", 
+  "uid2LogInTime": "2018-02-16T22:48:10.999Z", 
+  "uid2LogOutTime": "2018-02-16T22:53:09.862Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2649", 
+  "user2_id": "USR274", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

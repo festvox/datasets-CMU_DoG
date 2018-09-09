@@ -1,0 +1,129 @@
+{
+  "date": "2018-01-30T00:51:57.672Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:52:46.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is this about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:53:18.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!  the movie is \"jaws\".  it's an excellent film, and has earned a rating of 97% on rotten tomatoes.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:54:20.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:54:46.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you will love the cast - Roy Scheider as Chief Martin Brody, Robert Shaw as Quint, Richard Dreyfuss as Matt Hooper, and Lorraine Gary as Ellen Brody.  the film was also directed by award-winning director Steven Spielberg. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:55:41.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this a fairly new movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:56:19.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not really.  it was released in 1975.  however, the story is timeless.  it's about a giant man-eating great white shark that attacks beachgoers on Amity Island in New England. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:57:24.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting. How long is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:57:56.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i'm not sure about the length of the movie.  but it's so thrilling, i doubt you will be watching the clock!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:58:40.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My kind of movie. Do you think it is okay for kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:59:26.579Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jaws is too gruesome for children, and likely to turn the stomach of the impressionable at\nany age.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:00:42.158Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool. Definitely want to see it. Is it streaming anywhere?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:01:25.478Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "maybe you can check online!  make sure you check out the beach party scene at the beginning of the movie.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:03:03.927Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "intense?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:03:32.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "definitely!  chrissie watkins is attending the party on amity island, she goes skinny dipping and is pulled under water by the shark!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:04:35.301Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The story sounds like horror but the cast sounds like drama. Combo?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:06:00.104Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T00:51:57.672Z", 
+  "uid1LogOutTime": "2018-01-30T01:06:58.330Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-01-30T00:51:57.712Z", 
+  "uid2LogOutTime": "2018-01-30T01:07:11.043Z", 
+  "uid2response": {
+    "feedback": "The initial response really gave me everything I need to know to make the decision. I could tell it was my type of movie and something I would want to see.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4278", 
+  "user2_id": "USR3148", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

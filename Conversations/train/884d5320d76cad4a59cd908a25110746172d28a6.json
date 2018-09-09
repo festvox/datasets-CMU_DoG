@@ -1,0 +1,250 @@
+{
+  "date": "2018-02-06T20:05:03.426Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:05:13.329Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen John Wick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:05:21.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't.  I would like to though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:05:52.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 2014 apparently.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:22.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:30.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who starred in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:36.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:37.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually no.  I do not know who starred in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:06.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves apparently.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:07:35.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not a fan of his.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:07:45.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like him.  What is movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:08:01.973Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just like the reviews say, \"deadpan\" is his acting style.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:08:14.836Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But the story may demand that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:08:51.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's how he always acts. And the review states that it didn't work here because it wasn't what the story calls for.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:39.341Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Anyway, do you know the director? Chad Stahelski?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:10:01.509Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Then why is he here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:10:06.797Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure.  What else has he done?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:10:29.766Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I asked the same question! I don't know about the director, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:31.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see.  Do you who else acted in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:00.767Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know who else acted in the movie.  Sorry for typo.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:27.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No worries", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:12:39.239Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, John Leguizamo is also in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:12:51.109Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:55.190Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's and odd pair.  It must be a comedy then, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:13:21.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:14:50.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I'm here.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:14:59.520Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, it's an action movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:15:13.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good.  You never when people leave or get disconnected.  What kind of action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:15:50.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's an action thriller.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:16:46.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Keanu Reeves is a retired hitman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:16:59.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's the story line?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:17:10.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Retire but what?  He comes out of retirement to save the world?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:17:47.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's what it seems liek", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:19:31.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:19:33.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reviews say that it's a great B movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:19:46.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So we end up with whole lot of dead people?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:19:59.087Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T20:05:03.426Z", 
+  "uid1LogOutTime": "2018-02-06T20:20:12.839Z", 
+  "uid1response": {
+    "feedback": "I was not provided with any document!", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T20:05:03.521Z", 
+  "uid2LogOutTime": "2018-02-06T20:20:23.276Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4392", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

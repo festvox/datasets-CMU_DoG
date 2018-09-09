@@ -1,0 +1,127 @@
+{
+  "date": "2018-02-20T21:43:40.842Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:43:47.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:44:04.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so I am supposed to convince you to watch this movie, Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:44:27.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ahh, that's a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:44:53.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, so you've seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:45:09.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, i have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:45:14.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:45:49.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:46:07.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a longgg time ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:46:13.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i thought it was an interesting concept as a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:46:35.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but i feel that it would still be hard to really depict what it would be like to be a god", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:46:55.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:47:04.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but, they took the funny route", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:47:16.066Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah I liked that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:47:25.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i recently watched little nicky or whatever it's called with Adam Sandler and it kinda reminded me of it, using religion and deities in a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:47:58.569Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T21:43:40.842Z", 
+  "uid1LogOutTime": "2018-02-20T21:47:55.602Z", 
+  "uid1response": {
+    "feedback": "I love the movie already!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T21:43:41.725Z", 
+  "uid2LogOutTime": "2018-02-20T21:48:03.155Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR891", 
+  "user2_id": "USR2108", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

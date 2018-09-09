@@ -1,0 +1,130 @@
+{
+  "date": "2018-03-21T15:38:57.734Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I've always been impressed with John Favreau's work and this is no exception.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:40:12.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I definitely think this was one of Marvel's best", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:30.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree and honestly I'm amazed at how low the metacritic score is.... did they not watch the same movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:42:04.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really think that rotten tomatoes gets it right most of the time, I tend to trust them more than metacritic when it comes to judging movies. Iron man is just another example of that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:43:00.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True, and Robert Downey Jr. is just the epitome of Tony Stark. Perfect casting choice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:43:29.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree and I really loved Gwyneth Paltrow in anything. She's very versatile and played a convincing Pepper Potts for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:44:23.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gwyenth is always wonderful to watch. What did you think of Jeff Bridges portrayal of Stane?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:45:19.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Bridges did Stane's character justice, it felt very genuine and surprising to see him turn on Stark, almost like we as the audience \nwere going through the same betrayal as Stark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:47:14.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I have to say that the writing team did a marvelous (excuse the pun) job on the script and the CG integration only added to the story, it wasn't too heavy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:48:20.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was definitely impressive for being the first Marvel film..I actually didn't know that was the case.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:49:44.606Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was a great start and it helped establish a base metric by which we can judge all the Marvel films that came after. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:53:11.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you enjoy the reference to the \"Ten Rings\" terrorist group>", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:35.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The scene where Yinsen implants an electromagnet into Stark's chest was wild", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:43.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think I really got that reference about the \"ten rings\" group \nto be honest", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:58:12.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a nice homage to people who have read the comics. And they did alot of nice nods to the fans throughout the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:07:49.772Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And I liked how they really made the film very contemporary with the set up being in Afghanistan. Made it seems very real indeed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:09:13.884Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:38:57.734Z", 
+  "uid1LogOutTime": "2018-03-21T16:04:12.439Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:38:57.786Z", 
+  "uid2LogOutTime": "2018-03-21T16:17:40.341Z", 
+  "uid2response": {
+    "feedback": "I had to step away to attend my daughter briefly and the respondent left the conversation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2323", 
+  "user2_id": "USR4283", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

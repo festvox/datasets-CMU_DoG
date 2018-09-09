@@ -1,0 +1,77 @@
+{
+  "date": "2018-03-16T17:47:34.578Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So do you like dramas?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:51:00.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah there ok but I like comedy\u2019s better ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:52:11.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why do you think this is called a biological drama if no one from face book helped in the project", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:53:22.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I usually do too. But I decided to watch this movie because\n Justin Timberlake is in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:53:23.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was actually asking myself that. To me it is not a biographical movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:54:04.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I don\u2019t think is it seems that you would have to talk to the people who run Facebook to find out about what\u2019s going on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:55:26.868Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly. Someone wasn't paying attention when they selected the genre.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:57:05.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope should have been something else", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:57:34.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you think the actors chosen were good choices?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:11:14.545Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T17:47:34.578Z", 
+  "uid2LogInTime": "2018-03-16T17:47:34.582Z", 
+  "uid2LogOutTime": "2018-03-16T18:19:07.996Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1204", 
+  "user2_id": "USR179", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

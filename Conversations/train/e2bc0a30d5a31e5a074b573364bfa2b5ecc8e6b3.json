@@ -1,0 +1,48 @@
+{
+  "date": "2018-03-19T18:32:16.479Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this moive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:25.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:33:17.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not watched this movie. I'm na big Meryl Streep fan, so I am intrigued.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:34:55.586Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:32:16.479Z", 
+  "uid1LogOutTime": "2018-03-19T18:34:24.687Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:32:16.544Z", 
+  "uid2LogOutTime": "2018-03-19T18:38:09.241Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR412", 
+  "user2_id": "USR4857", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

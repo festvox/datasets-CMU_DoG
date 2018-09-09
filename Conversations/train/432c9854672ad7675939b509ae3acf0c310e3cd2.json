@@ -1,0 +1,81 @@
+{
+  "date": "2018-03-19T20:11:48.727Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How are you doing today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:12:12.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:13:12.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am doing very well thanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:13:34.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any good movies lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:13:45.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen Iron man, have you seen any of those?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:14:14.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't believe I have.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:15:00.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's based off a comic right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:15:08.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it's a marvel movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:15:25.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it's and adventure typ\ne movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:16:34.722Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-19T20:11:48.727Z", 
+  "uid1LogOutTime": "2018-03-19T20:17:35.504Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:11:48.775Z", 
+  "uid2LogOutTime": "2018-03-19T20:18:48.219Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4310", 
+  "user2_id": "USR3911", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2018-03-03T00:22:47.653Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, which movie do you want to talk with me about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T00:23:09.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I want to talk about the movie The Social Network", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T00:23:50.643Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-03T00:22:47.653Z", 
+  "uid1LogOutTime": "2018-03-03T00:24:20.160Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-03T00:22:47.663Z", 
+  "uid2LogOutTime": "2018-03-03T00:23:46.766Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1650", 
+  "user2_id": "USR3103", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

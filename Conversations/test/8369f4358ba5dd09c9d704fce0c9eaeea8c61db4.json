@@ -1,0 +1,104 @@
+{
+  "date": "2018-03-27T14:44:14.707Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie is Home Alone. It's a hilarious comedy starting Macaulay Culkin.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:45:24.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:45:36.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a boy who is mistakenly left behind when his family goes to Paris for Christmas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:46:06.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does he just have wild parties?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:46:24.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No parties. He's an 8-year-old kid who has to deal with criminals. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:47:29.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds fun. Is it old?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:47:58.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out 27 years ago. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:48:21.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not sure why I haven't heard of it before. Might need to check this out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:48:54.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should. It's a classic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:49:20.326Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who else is in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:50:09.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joe Pesci as Harry and Daniel Stern as Marv. (the bad guys)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:50:54.131Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joe Pesci is a good actor. What do they want?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:51:24.526Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T14:44:14.707Z", 
+  "uid1LogOutTime": "2018-03-27T14:51:29.349Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:44:14.817Z", 
+  "uid2LogOutTime": "2018-03-27T14:52:13.262Z", 
+  "uid2response": {
+    "feedback": "I couldn't see the document, but the conversation went well and the other user answered all of my questions", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4009", 
+  "user2_id": "USR834", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

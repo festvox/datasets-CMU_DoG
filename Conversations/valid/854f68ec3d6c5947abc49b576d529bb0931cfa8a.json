@@ -1,0 +1,142 @@
+{
+  "date": "2018-02-13T23:43:44.134Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie although im sure it was different than the comic in some ways.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:45:58.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In what ways would you say?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:46:16.671Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not read the comic but the movie was entertaining.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:46:54.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you more into hero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:46:59.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:47:32.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch movies with a female lead?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:47:39.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It depends, it seems like there are more with male leads.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:48:13.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What would you grade it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:49:12.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Between a 1-10 then at least an 8", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:49:40.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:50:10.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly do not agree with an A for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:50:37.072Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why not? What did you not like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:51:01.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The way they recalled her past was not very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:51:48.618Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "more details would be great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:51:59.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Very true but in movies they tend to leave many out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:52:23.100Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you watch it more than once?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:52:40.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have watched it a few times but probably won't again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:53:06.217Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would like to read the comic to compare it to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:53:44.213Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Honestly they are never the same. Would you have liked to know more about how Steve crossed over?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:54:16.790Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T23:43:44.134Z", 
+  "uid1LogOutTime": "2018-02-13T23:55:50.259Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T23:43:44.147Z", 
+  "uid2LogOutTime": "2018-02-13T23:53:53.069Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3500", 
+  "user2_id": "USR3871", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

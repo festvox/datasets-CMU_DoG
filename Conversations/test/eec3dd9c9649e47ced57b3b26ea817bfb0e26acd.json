@@ -1,0 +1,72 @@
+{
+  "date": "2018-02-05T15:41:40.467Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:45:40.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:46:39.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not 100% on what we are supposed to discuss.. Have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:47:06.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:27.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a 1975 American thriller film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:58:49.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How many time have you seen the Film nu pesu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:02:29.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen that film ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:53.210Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:41:40.467Z", 
+  "uid1LogOutTime": "2018-02-05T15:50:29.931Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:41:40.905Z", 
+  "uid2LogOutTime": "2018-02-05T16:04:12.546Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR900", 
+  "user2_id": "USR1207", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

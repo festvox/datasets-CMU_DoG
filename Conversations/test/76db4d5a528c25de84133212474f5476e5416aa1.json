@@ -1,0 +1,270 @@
+{
+  "date": "2018-03-07T18:30:39.878Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:30:50.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:31:13.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:31:32.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:32:00.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No i have not seen it, but I've heard of it. How is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:32:11.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is very funny. Good for a wide range of ages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:32:46.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long is the movie? standard 80 minutes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:32:57.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:33:21.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so let me guess, the movie is the one with those weird yellow creatures too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:33:46.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good for kids attention spans but deep enough to have a good amount of plot twists and character development.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:33:52.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly, the \"Minions\" are very marketable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:34:15.297Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "plot twists, loool, well Im still not convinced because it has those 'Minions' ... Ugh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:34:23.312Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what kind of rating would you give the movie/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:35:07.417Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:35:08.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Out of 10 stars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:35:12.471Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they grow on you. They even have their own follow up movie sequel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:35:14.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like animated movies and I would say it is an 8/10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:35:36.104Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Grow on you, lool. Yeah I've seen the trailers for their movie sequel. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:35:59.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I could watch it with my kids, but I did prefer UP or the classic Disney movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:36:08.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have a favorite animated movie that you like? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:36:24.852Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like animated movies too, more adult oriented but maybe i will try out despicable me. it has a lot of sequels too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:36:28.357Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah my favourite would have to be maybe Aladdin or Akira", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:36:36.425Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I 'm not the biggest fan of 3D Movies but when they first came out of course they were awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:37:05.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, Aladdin was really good and I do like the Miyazaki films.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:37:31.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But I'm not too harsh a critic and if have the time will watch most movies if they have decent reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:38:11.727Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "heck yeah hayao miyazaki is awesome. gotta love kiki and the castle in the sky and of course spirited away", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:38:25.393Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i like TV series a lot more than movies because they are like ongoing stories", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:38:43.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you notice many tv series coming out on netflix (if you have netflix)?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:38:59.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, and the classic Totoro is iconic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:39:02.089Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do. Netflix releases so many new shows every month it is unbelievable.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:39:44.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. I think it's great they are releasing many foreign tv shows, so we can get a good idea of shows in other countries", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:40:18.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Back to this movie I love the girls, scripting and comic relief with their facial expressions and dialog.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:40:31.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah i've seen some of the trailers and the animators really put a lot of emotion and expression into each character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:41:03.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Certainly despicable me has some good character designs too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:41:20.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I do like Steve Carrell from the \"Office\" tv show as one of my favorites, right up there with Friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:41:38.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So I may be a bit biased to the movie rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:41:56.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah the office is great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:42:15.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohhh we can finish convo, time to get that dough. Good to talk to another m turk worker!!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:42:34.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too, thanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:42:56.425Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T18:30:39.878Z", 
+  "uid1LogOutTime": "2018-03-07T18:42:36.276Z", 
+  "uid1response": {
+    "feedback": "they convinced me it was a good movie, so i might try it out", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T18:30:39.915Z", 
+  "uid2LogOutTime": "2018-03-07T18:44:43.767Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2400", 
+  "user2_id": "USR357", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2018-02-02T19:57:27.479Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:57:41.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:44.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen this movie before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:00.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not i  heard it was good though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:58:12.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like any movie that has leonardo dicaprio tho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:58:31.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is hard to understand in the beginning but you get hooked later on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:47.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nIs it an action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:59:06.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:59:33.256Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's a thriller/science fiction movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:59:52.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh ok.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:00:19.375Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T19:57:27.479Z", 
+  "uid1LogOutTime": "2018-02-02T20:01:48.087Z", 
+  "uid1response": {
+    "feedback": "The person I was paired with did not continue the conversation as instructed to do so. He left the conversation early. ", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:57:27.550Z", 
+  "uid2LogOutTime": "2018-02-02T20:00:13.271Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2802", 
+  "user2_id": "USR724", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2018-03-07T20:44:26.925Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:46:16.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there, good afternoon. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:46:26.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats the name of this movie of which you speak?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:46:47.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ever seen dispicable me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:47:00.689Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not. Whats it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:47:19.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a super-villain called gru..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:48:06.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it an action packed movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:48:21.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's voiced by steve carell so it's funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:48:34.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's a pretty good actor. Are there minions in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:48:51.355Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I like steve carell. has russel brand in it too, I also like him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:49:59.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Russel Brand is great. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:50:13.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:50:25.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol i'm not sure how to answer that.... technically I'm only supposed to tell you about what's in the document they gave me to read... ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:51:02.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they didn't even say anything about the minions on the doc!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:51:27.334Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nthis exercise is rediculous...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:51:47.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Gotcha, yeah I was playing along with what they said as well. I can't see the doc. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:51:49.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The primary purpose my guess is to make sure the chat function is operating. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:52:06.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have no idea. lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:52:25.939Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So Steve is in the doc. What else is the movie about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:53:02.381Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "We'll just keep going I guess lol. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:53:18.940Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:53:35.390Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah he adopts some girls from an orphanage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:53:51.178Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cool, the movie already sounds interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:54:14.311Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its a comedy? (I've seen the movie dozens of times just going along with the exercise\n)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:54:43.623Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T20:44:26.925Z", 
+  "uid1LogOutTime": "2018-03-07T20:54:50.789Z", 
+  "uid1response": {
+    "feedback": "The chat function was good, no issues with it. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T20:44:26.999Z", 
+  "uid2LogOutTime": "2018-03-07T20:54:46.507Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3098", 
+  "user2_id": "USR4210", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

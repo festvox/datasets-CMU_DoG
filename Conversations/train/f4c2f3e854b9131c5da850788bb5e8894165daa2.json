@@ -1,0 +1,93 @@
+{
+  "date": "2018-03-16T18:08:16.419Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So what movie would you like to discuss?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:08:43.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:09:27.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "With Jim Carrey?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:09:35.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey is really funny complaning about everything and also complaining with God. Also Morgan Freeman is amazing as God, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:11:39.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is really funny that it was offered to Bruce the chance to be God for a week.Don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:14:50.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree that this is one of Jim Carrey's best movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:17:09.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:17:25.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it on the theater\n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:19:48.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:00.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:04.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you prefer Carrey's or Freeman's role in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:26.626Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T18:08:16.419Z", 
+  "uid1LogOutTime": "2018-03-16T18:34:21.381Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:08:16.544Z", 
+  "uid2LogOutTime": "2018-03-16T18:22:30.137Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2712", 
+  "user2_id": "USR4843", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2018-02-07T16:09:46.962Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:10:36.851Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HOW IS THE MOVIE STORY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:11:14.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is very good. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:42.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is aout two people who infiltrate the subconscious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:55.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and go into dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:58.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "AND I ALSO THINK THAT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:07.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "SHARE SOMETHING TO A STORY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:41.730Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they wanted to plant an idea into someones dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:14:56.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so that it would impact them in real life", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:05.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its an interesting plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:09.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IT'S A WAR MOVIE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:15:54.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IT HAS A LITTLE DIALOUGE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:16:45.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "TOM GLEYN AS PETER", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:17:33.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "STYLES WON THE ROLL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:18:06.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DURKINS", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:18:54.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "SCREENPLAY IS SUPER", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:19:44.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "PETER ACTS VERY WELL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:01.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DREAMS BECOMES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:18.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO FRIEND", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:45.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:23:32.292Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:09:46.962Z", 
+  "uid1LogOutTime": "2018-02-07T16:27:06.690Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:09:47.323Z", 
+  "user1_id": "USR1941", 
+  "user2_id": "USR4286", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

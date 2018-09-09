@@ -1,0 +1,282 @@
+{
+  "date": "2018-02-12T19:02:43.028Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:56.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about Jaws, the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:04.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:01.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think it sounds like something I would like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:25.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:29.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it is a masterpiece of American Cinema", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:57.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great directing, acting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:09.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and the script was superb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:17.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know it's supposed to be scary, but it doesn't sound scary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:02.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ratings for it are good, but I have to wonder if that's just because it was good for it's time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:28.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you disagree?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:07:23.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I disagree. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:05.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it has stood up the test of time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:13.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Spielberg did great, and the tech and effects were amazing for its time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:28.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But \"for it's time\"... does that necessarily make for a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:22.869Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I mean it pushed the envelope and was great back then, too. It is still great now. As long as you are not expecting marvel movies effects", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:10:00.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nah, I don't need the effects to be amazing, but some of the older ones can really take me out of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:41.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is true. And this movie was a pioneer in its genre. I know it can be cheesy, but this one is not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:20.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The last line in that document is interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:11.243Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:29.484Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "won several academy awards too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:37.297Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:50.772Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steven Spielberg has some good accomplishments", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:00.428Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:19.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do enjoy some of his work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:24.776Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't realize Richard Dreyfuss was in Jaws.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:39.629Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:00.892Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do, and I think he does great job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:37.178Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wonder if the movie follows the novel closely or not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:08.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Man, $10,000 was a lot of money in the 70's.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:17:04.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it really was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:27.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it isnt anything these days}", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:36.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Depends, I guess. I could live on that for almost a year.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:30.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, so can I, but in terms of Hollywood money, its very little", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:52.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most action movies cost hundreds of millions to make and advertise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:12.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:13.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You could still make a good movie with it, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:45.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some of my favorite films of last year were very low budget.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:57.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely! If you have the right cast, script and story. Primer is one of my favorite low budget movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:48.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Time travel made cheap", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:54.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a good one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:29.491Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:02:43.028Z", 
+  "uid1LogOutTime": "2018-02-12T19:24:36.254Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:02:43.093Z", 
+  "uid2LogOutTime": "2018-02-12T19:26:19.054Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4648", 
+  "user2_id": "USR59", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "date": "2018-03-23T15:18:42.667Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:18:52.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:18:59.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:19:23.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:19:30.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, but i love the other pixar movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:19:59.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:20:22.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about talking toys", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:20:33.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:21.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats like every kids dream", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:27.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is. It came out in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:21:39.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:17.696Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like Tom Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:20.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "old movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:25.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:28.104Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i love tom hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:30.936Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's the lead character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:23:40.489Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:24:14.641Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hes so charming", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:24:17.769Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know Tim Allen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:24:33.411Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea of course", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:05.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "home improvement", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:10.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "loved that show", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:16.538Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays\n Buzz Lightyear", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:27.919Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is Buzz lightyear one of the toys?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:25:57.563Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:26:02.871Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:26:58.684Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whats happening in the story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:27:08.589Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It got 100 percent on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:27:10.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well everything before they started aggregating for release don't really count", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:27:49.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "like a ton of old movies have 100% on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:07.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The story is about two toys getting lost and they have to find their way back to their owner named Andy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:28:09.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like a fun little adventure film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:24.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like homeward bound", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:32.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but with toys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:28:36.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:28:41.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John Lasseter directed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:28:50.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:29:47.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he made a few of the other pixar movies as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:29:58.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. The Metacritic score was 95/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:15.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like a fun one to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:26.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think ill have to check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:33.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else you can tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:38.426Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T15:18:42.667Z", 
+  "uid1LogOutTime": "2018-03-23T15:31:59.346Z", 
+  "uid1response": {
+    "feedback": "Toy story sounds like a really well made movie that is about every kids fantasy of talking toys.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:18:42.739Z", 
+  "uid2LogOutTime": "2018-03-23T15:30:51.163Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4783", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

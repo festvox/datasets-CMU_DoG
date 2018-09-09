@@ -1,0 +1,80 @@
+{
+  "date": "2018-02-02T21:12:23.546Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What would you like to talk it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:14:12.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! So La La land got some great reviews on rotton tomatoes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:14:30.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like musicals?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:15:23.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not really do you ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:15:31.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Since la la land got such great reviews I've been thinking about checking it out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:15:58.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm also a huge fan of ryan gosling, how about you/?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:16:11.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no because my wife is ga ga over him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:16:34.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I heard the ove was poor ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:16:37.743Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T21:12:23.546Z", 
+  "uid1LogOutTime": "2018-02-02T21:16:59.982Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T21:12:23.661Z", 
+  "uid2LogOutTime": "2018-02-02T21:16:49.424Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3094", 
+  "user2_id": "USR964", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

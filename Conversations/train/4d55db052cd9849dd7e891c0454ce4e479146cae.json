@@ -1,0 +1,356 @@
+{
+  "date": "2018-02-05T15:48:49.327Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:58.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:10.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:21.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:26.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Jaws, it was directed by Steven Spielberg.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:48.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:53.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"scare machine\" that is a good review", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:15.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that is a good review.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:35.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steven Spielberg is good, isn't he?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:38.202Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on a novel\n as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:54.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a thriller for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:51:47.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It also had great reviews, it was a well reviewed movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:52:13.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The beach party scene really sets the mood.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:52:33.395Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"funny in a Woody Allen way\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:52:35.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that I did not expect", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:52:47.067Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah psycho beach party", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:11.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The bounty on the shark was kind of weird, it made regular people go after it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:53:12.524Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "bounty hunting for shark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:34.621Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, that whole thing could have been avoided.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:53:59.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "indeed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:54:04.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That tiger shark part was funny since they had no idea.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:54:20.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:54:25.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great white shark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:54:33.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Vaughn\n sure looked foolish.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:54:58.437Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "indeed he did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:55:11.224Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "poor guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:55:26.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes really, also sad about Micheal and Brody.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:55:43.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "many sad scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:55:55.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Orca was a funny name for a boat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:56:01.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Schneider's List", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:14.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed that is a funny name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:26.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The scene in the cage was intense.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:56:33.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always think about that cage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:52.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In spite of my rage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:00.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:57:23.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Explosions in the sea, what a scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:34.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Quint went out with a bang", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:57:35.742Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He sure did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:54.343Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, felt some tension for Hooper and Brody after that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:58:22.613Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Poor Quint", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:58:43.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Poor devils", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:58:49.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The 97% score is well deserved.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:59:18.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Overall it was a great movie, I agree with the reviews as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:59:24.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of the best Spielberg movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:59:35.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also looked great for a movie from 1975.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:59:51.375Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:00:31.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:00:36.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Overall I kind of rooted for the shark a little, which is funny. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:01:09.342Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was ahead of its time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:01:15.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good talking to you about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:01:35.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:01:40.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have we talked enough?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:02:14.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:02:53.999Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T15:48:49.327Z", 
+  "uid1LogOutTime": "2018-02-05T16:02:58.680Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:48:49.491Z", 
+  "uid2LogOutTime": "2018-02-05T16:03:35.509Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1126", 
+  "user2_id": "USR3620", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

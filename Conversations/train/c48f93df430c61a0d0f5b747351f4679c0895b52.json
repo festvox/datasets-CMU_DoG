@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-05T17:09:14.027Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "BRUCE ALMIGHTY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:10:16.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ITS A GOOD MOVIE ITS REAL FUNNY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:10:37.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HAVE YOU SEEN IT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:10:56.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WOULDNT YOU LOVE TO HAVE THAT TYPE OF POWER", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:11:48.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope, but I like funny movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:11:54.681Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:09:14.027Z", 
+  "uid2LogInTime": "2018-03-05T17:09:14.032Z", 
+  "uid2LogOutTime": "2018-03-05T17:12:08.294Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR694", 
+  "user2_id": "USR1381", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

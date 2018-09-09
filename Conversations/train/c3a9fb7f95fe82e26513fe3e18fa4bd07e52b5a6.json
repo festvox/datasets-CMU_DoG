@@ -1,0 +1,94 @@
+{
+  "date": "2018-02-06T19:54:36.511Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:54:48.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Greetings!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:55:05.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, what's this movie all about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:56:06.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im not 100% because I have never seen it. But from the document I see on the left it looks like its about a super woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:56:35.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "her name is wonder woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:56:43.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah, who stars in that again? I forget her name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:00.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot is the star of the movie and she plays Diana Prince also known as wonder woman in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:57:39.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah, she is absolutely stunning. A wonderful actress. And then there's that guy from Star Trek in it, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:58:17.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not that I believe ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:26.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ever seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:00:06.122Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've wanted to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:27.461Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is it directed by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:44.171Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:54:36.511Z", 
+  "uid1LogOutTime": "2018-02-06T20:07:11.854Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:54:36.515Z", 
+  "user1_id": "USR1239", 
+  "user2_id": "USR2644", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

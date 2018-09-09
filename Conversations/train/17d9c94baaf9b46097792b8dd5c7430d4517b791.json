@@ -1,0 +1,123 @@
+{
+  "date": "2018-03-02T21:28:44.729Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:29:21.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello I would like to discuss the movie Despicable Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:29:53.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok, sounds good to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:02.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:09.963Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is a great movie that stars a character named Gru who is the voice of Steve Carrell.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:30:53.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Steve Carrell!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:18.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a childrens' movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:37.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it a family friendly movie that is an animation movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:32:45.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, I think I have seen advertisements before. Is it with the minions or is that something else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:33:20.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a movie that stars the character Gru who steals the spotlight as a villain.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:35:34.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "NIce, that sounds like it would be good for adults too. Who else is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:36:18.614Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It also have a character named Vector who is the voice of Jason Segel. Vector is Gru's archenemy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:37:30.654Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh cool. I like Jason Segel too. Anything else you can tell me about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:38:06.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know if you are multitasking or what, but this is incredibly frustrating waiting for your answers and we still need 10 responses each, so I am leaving.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:40:03.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe it'll be a you'll enjoy. It has great ratings for a family friendly movie. It hasa 81% on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:40:27.797Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T21:28:44.729Z", 
+  "uid1LogOutTime": "2018-03-02T21:40:30.454Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T21:28:44.732Z", 
+  "uid2LogOutTime": "2018-03-02T21:40:14.280Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2163", 
+  "user2_id": "USR4334", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

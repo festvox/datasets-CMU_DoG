@@ -1,0 +1,66 @@
+{
+  "date": "2018-02-13T19:28:02.648Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi:  \nThe movie dunkirk has a very unique back story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:04.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! I agree. I haven't seen it, but it looks like it has great reviews and ratings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:31:31.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the director really surrounded his audience with chaos and horror.  The 65MM film gave it a real feel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:32:48.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm very surprised that Harry Styles was cast in such a high-profile role given his background as a singer. Since Nolan didn't know about this, I'm happy his opinion wasn't swayed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:34:28.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, and similarly the lead actor was hired after a secretive auditioning process.  How wonderful it would be to finish months of casting auditions, and win the lead role.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:35:37.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very true! Without much dialogue, it really goes to show that the acting was brilliant. It really took the film to the level of art.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:37:21.325Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:28:02.648Z", 
+  "uid1LogOutTime": "2018-02-13T19:44:20.785Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:28:02.719Z", 
+  "uid2LogOutTime": "2018-02-13T19:48:22.971Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR525", 
+  "user2_id": "USR4813", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

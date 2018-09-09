@@ -1,0 +1,133 @@
+{
+  "date": "2018-03-01T00:19:28.527Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello have you sceene the movie despicable me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:20:32.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:20:44.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i have i have to say its a unique blend of funny and serious which is very hard to pull of what part did you like the most?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:21:40.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess I liked all the scenes with Gru in it. He was my favourite character including the minions. Who was your favourite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:23:17.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Vector and doc nerfario what didnt you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:24:34.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is was too short, it could have been ab bit longer. Do you know what rotten tomato rating it got?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:25:28.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "81% and average 6.8 out of 10 what was one of the cirtical responses you responded well with?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:28:02.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats not bad. I can\u2019t remember who directed this movie, do you know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:28:55.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It had two directorsl pierre coffin and chris renaud do you remember if it was animated stop action or live action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:30:52.537Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it was an animated live action. Animated by the French animated studio Mac Guff. Do you remember when it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:33:14.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2010 its not live animated its computer animated ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:34:44.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Silly me. What was the main plot of the movie again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:35:54.897Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Were onto the next movie which you have, the plot was of gru a super villian turned good guy whoe tried to steal the moon and took in three orphans", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:36:58.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the next movie? Steve Carell is awesome in this, I wonder where he gets he\u2019s inspiration from.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:39:23.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Scroll down on there idk the next page is blank for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:40:02.497Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too. I guess we can keep talking about Despicable me then.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:40:48.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you remember the scene when Gru and the girls arrive at Vector\u2019s fortress?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:43:32.680Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T00:19:28.527Z", 
+  "uid1LogOutTime": "2018-03-01T00:57:50.600Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T00:19:28.532Z", 
+  "uid2LogOutTime": "2018-03-01T00:48:47.686Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3708", 
+  "user2_id": "USR806", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

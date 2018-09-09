@@ -1,0 +1,64 @@
+{
+  "date": "2018-02-16T00:56:27.812Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you know what other movies Ryan Gosling played in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T00:58:20.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Believer. Do you know what other movies Rachel McAdams was known for?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:59:07.226Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T00:59:57.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does he remind you of Warren Beatty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:00:01.516Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he does and she reminds me of Natalie Wood.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:00:36.808Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think this is more of a romance or comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:01:06.692Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T00:56:27.812Z", 
+  "uid1LogOutTime": "2018-02-16T01:00:35.896Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T00:56:28.720Z", 
+  "uid2LogOutTime": "2018-02-16T01:02:16.020Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR456", 
+  "user2_id": "USR3544", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

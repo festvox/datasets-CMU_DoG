@@ -1,0 +1,50 @@
+{
+  "date": "2018-03-30T05:39:24.889Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T05:39:46.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T05:40:29.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love a good thriller. Especially one produced by Steven Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T05:41:17.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, he is great. The Post is one of the better ones which  has a lot to do with Tom Hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T05:42:19.834Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-30T05:39:24.889Z", 
+  "uid1LogOutTime": "2018-03-30T05:43:02.496Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T05:39:24.894Z", 
+  "uid2LogOutTime": "2018-03-30T05:42:49.529Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3969", 
+  "user2_id": "USR2664", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

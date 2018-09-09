@@ -1,0 +1,148 @@
+{
+  "date": "2018-03-02T03:34:04.008Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:35:13.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Movie is Catch me if you can and you should absolutely go see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:35:15.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:35:27.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Q", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:35:45.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:35:51.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a 96% on Rotten Tomatoes and has Tom Hanks as well as Amy adams in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:36:22.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:36:33.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is directed by Speilburg ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:36:58.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:37:38.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It follows Frank Abagnale Jr  who before his 19th birthday conned millions of dollars from people posing as a pilot and even a doctor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:38:08.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you have any questions about the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:42:02.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:49:18.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:57:25.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is from 2002", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:02:33.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo Dicaprio is in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:03:44.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Walken and Martin SHeen are also in this film in supporting roles", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:04:32.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His primary crime was check fraud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:04:54.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some critics thought it was a bit long", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:05:15.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Some critics found the film very funny. Moreso than any actual comedies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:05:39.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a biographic film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:06:01.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cinema Score gave it an A-", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T04:06:15.751Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T03:34:04.008Z", 
+  "uid1LogOutTime": "2018-03-02T04:07:22.866Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-02T03:34:04.731Z", 
+  "user1_id": "USR1674", 
+  "user2_id": "USR928", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

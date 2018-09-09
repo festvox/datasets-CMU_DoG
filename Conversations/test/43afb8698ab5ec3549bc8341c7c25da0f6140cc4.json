@@ -1,0 +1,284 @@
+{
+  "date": "2018-02-06T19:55:40.019Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello have you ever seen The Imitation Game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:56:07.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't, but I'd like to. Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:56:27.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It is a American historical drama film from 2014. It is based on the biography Alan Turing: The Enigma", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:06.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a British cryptanalyist Alan Turing. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:29.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would like to learn more about Alan Turing. He seems like an interesting person", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:57:37.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He decrypted German intelligence codes for the British Government during the second world war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:53.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard the movie takes some artistic license with the plotline", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:58:39.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I forgot to mention that is loosely based on the true story. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:58:56.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some critics said this direction was disappointing because the actual story is great. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:59:40.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It still seems like it would be interesting despite this being a bit disappointing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:56.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It got a 91% score on Rotten Tomatoes and had a Metacritic Score of 73/100.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:37.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree with that rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:01:05.978Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have to agree because it was entertaining. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:33.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It starts off in 1951 so it is nice to learn about that time period. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:55.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They also show him in 1927 when he was young and bullied at boarding school.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:03:18.577Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's always good to learn about pieces of history that are not often known about or discussed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:03:52.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I believe our history classes are pretty stupid and only go into the \"approved\" topics. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:14.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen so many World War 2 things but never heard about Turing before this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:40.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And really only the basics. I had heard of Alan Turing but only vaguely and not with much detail.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:04:53.973Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, the coded messages were a big part of the war. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:05:45.180Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The nazis used \"The Enigma machine\". That is what he helped break.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:09.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yes you get a big advantage if you decode your enemy's coded messages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:09.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He uses a machine called Christopher to try to decrypt Nazi messages.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:39.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They tried to destroy the machine and fire him when it didn't work at first.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:27.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Eventually he breaks Enigma but they decide they can't act on every decoded message or they will know their machine was broken. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:08:43.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's interesting. It must have been hard to not act on things that could have been important.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:09.470Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And to decide what to act on and what not to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:21.410Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's cool that the film goes into Alan Turing's love for a man, Christopher Morcom, who the machine seems to be named after.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:10:01.681Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it is interesting that they threw that into this. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:10:47.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm glad they didn't erase that aspect of Turing's life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:09.072Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "as often happens in films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:15.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes at least some things were kept accurate.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:22.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "An interesting part in the movie is when they find out one of the people Turing was working with was a soviet spy. I am not sure if that happened in real life.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:58.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The soviet spy argues that they are on the same side and threatens to reveal his homosexuality if he turns him in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:13:24.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That must have been awful for Turing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:14:10.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but eventually he just comes out anyways.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:15:17.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That must have been terrifying given how people were towards being gay in that time period. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:15:51.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, and after that everyone went their separate ways and the cryptographers destroyed their work. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:16:19.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, Turing went to an MI6 agent to try and reveal that the soviet spy was a spy. But learned he already knew that and the MI6 agent was the one who told the cryptographers to destroy their work. At least according to the film from what I've heard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:17:49.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes that is what happened. Have a good one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:18:48.116Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:18:52.892Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T19:55:40.019Z", 
+  "uid1LogOutTime": "2018-02-06T20:18:49.812Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:55:40.210Z", 
+  "uid2LogOutTime": "2018-02-06T20:18:56.403Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR561", 
+  "user2_id": "USR4787", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

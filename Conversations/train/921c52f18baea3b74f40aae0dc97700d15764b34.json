@@ -1,0 +1,264 @@
+{
+  "date": "2018-02-07T22:38:34.620Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:39:03.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:39:28.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wanna see a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:39:46.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i just saw a really good movie called Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:40:14.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why was it a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:40:35.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has a 98% rating on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:41:04.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. Who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:41:25.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is an animation, some of the voices include Ginnifer Goodwin, Jason Bateman, and Idris Elba", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:43:09.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Idris Elba. And Jason Batman is so versatile. I'll definitely check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:43:54.647Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a great comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:44:08.809Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can't wait to check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:44:29.523Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it rated pg?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:45:03.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i am not sure but probably", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:46:22.458Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool. I want to take my kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:46:59.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that sounds good it is funny and has a nice storyline", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:47:34.166Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did it come out last year?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:47:38.672Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:47:44.487Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:47:53.112Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't think of anything else I need to know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:48:16.143Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the characters are all kinds of different animals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:48:25.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "like Disney?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:48:41.618Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh wait, is it animated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:48:56.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes animated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:49:21.815Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh wow. that's important.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:49:33.139Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe I'll pass.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:49:48.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think it would be great to take the kids to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:50:14.601Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "although 98% is pretty high for RT", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:50:14.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. I might see it for them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:50:25.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it have songs?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:50:38.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they will like the comedy and all of the animals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:50:50.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah the will", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:51:40.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i do not think the characters sing songs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:51:42.299Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe I will too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:51:44.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a lot of those animated movies aren't just geared for kids", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:52:00.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "adults will like it too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:52:31.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it shows how to overcome obsticles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:52:51.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've decided I'll probably check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:52:54.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:53:01.355Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T22:38:34.620Z", 
+  "uid1LogOutTime": "2018-02-07T22:53:09.693Z", 
+  "uid1response": {
+    "feedback": "It really sounds like a movie I would want to see", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T22:38:34.632Z", 
+  "uid2LogOutTime": "2018-02-07T22:53:21.176Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR729", 
+  "user2_id": "USR4082", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2018-01-26T19:28:51.994Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:29:23.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:29:40.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:29:46.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:30:06.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:30:09.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you seen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:30:34.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave it an 89%.  Would you agree with that?  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:30:38.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:30:40.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:30:55.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:31:01.982Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I find it odd that adults like the movie too.  Do you have kids that like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:31:16.509Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mostly like child ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:31:41.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but good animation so i like very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:31:52.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "good story also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:31:57.136Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which year release?\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:32:43.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah.  My kids are always watching it, so thats how I have seen it.  I think that it would translate well into a broadway musical.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:32:44.153Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:32:52.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:33:04.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think it come 2nd part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:33:18.357Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you consider it a comedy or a musical?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:33:26.808Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Comedy ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:33:48.838Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Good time passing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:33:54.489Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great movie to watch with kids to spend time together.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:34:20.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:34:31.271Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whats your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:34:38.359Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "First half is good one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:35:02.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Whos your favorite character ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:35:12.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How many time u watch ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:35:19.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ive seen it multiple tiems", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:35:28.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:35:30.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh super....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:35:53.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think it had a deeper meaning?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:36:06.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont know...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:36:27.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its like funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:36:33.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Heloo ru there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:37:03.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am wating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:37:52.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Time is going on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:38:56.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:41:30.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:41:32.868Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-26T19:28:51.994Z", 
+  "uid1LogOutTime": "2018-01-26T19:36:31.995Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-26T19:28:52.231Z", 
+  "uid2LogOutTime": "2018-01-26T19:43:53.859Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2025", 
+  "user2_id": "USR197", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

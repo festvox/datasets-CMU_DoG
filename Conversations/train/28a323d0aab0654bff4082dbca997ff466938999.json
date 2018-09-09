@@ -1,0 +1,47 @@
+{
+  "date": "2018-03-07T15:58:50.565Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:58.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:59:13.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We have Despicable Me, which is a pretty funny animated movie with steve carrel as he main character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:22.681Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T15:58:50.565Z", 
+  "uid1LogOutTime": "2018-03-07T15:59:29.032Z", 
+  "uid1response": {
+    "feedback": "user 2 left immediately", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:58:50.601Z", 
+  "uid2LogOutTime": "2018-03-07T15:59:19.204Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR28", 
+  "user2_id": "USR4583", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

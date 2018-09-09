@@ -1,0 +1,170 @@
+{
+  "date": "2018-04-02T16:22:42.209Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:51.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:23:14.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:39.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:24:35.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Got any questions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:24:39.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I do ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:16.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you want to know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:25:25.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wanted to know about the movie \"the shape of water\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:43.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:00.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "apologies as my browser is loading pretty slowly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:26:09.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No worries! I'll tell you a little bit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:38.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There are a lot of plot points, but on it's most basic level it is a fantastical love story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:27:01.977Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "well what is it about? I really like dramas and really psychological movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:43.844Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh nice nice and who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:53.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sally hawkins, michael shannon, and richard jenkins are the main stars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:22.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you'd really like it! It's basically a story of a mute custodian at a high-security government lab. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:44.798Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Big Michael Shannon fan myself", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:28:49.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I won't give you too many more details, but that pretty much outlines it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:55.935Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "haha I'm interested already", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:06.938Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah! What else do you want to know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:29:26.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cool cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:34.256Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "could you recommend another movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:06.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmmm, something like this one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:22.589Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T16:22:42.209Z", 
+  "uid1LogOutTime": "2018-04-02T16:30:23.255Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:22:53.844Z", 
+  "uid2LogOutTime": "2018-04-02T16:30:06.843Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1563", 
+  "user2_id": "USR2785", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

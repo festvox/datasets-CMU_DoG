@@ -1,0 +1,42 @@
+{
+  "date": "2018-02-16T04:03:15.549Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:04:53.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen \"How to Train Your Dragon?\" It got really good reviews on rotten tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:08:35.157Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T04:03:15.549Z", 
+  "uid1LogOutTime": "2018-02-16T04:09:11.524Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T04:03:15.610Z", 
+  "uid2LogOutTime": "2018-02-16T04:05:48.023Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1583", 
+  "user2_id": "USR245", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

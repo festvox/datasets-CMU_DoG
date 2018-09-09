@@ -1,0 +1,117 @@
+{
+  "date": "2018-03-06T15:21:25.085Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:21:56.338Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello. You should really check out the movie Catch Me If You Can, if you get a chance.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:23:31.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:24:17.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its about a con man who successfully cons millions of dollars by posing as an airline pilot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:24:48.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo dicaprio plays the lead, Frank Abagnale who is the con man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:26:27.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow, an airline pilot conning people.  sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:26:46.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen a couple of movies with Leonardo in them.  I believe Titanic was his most famous\n one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:27:36.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catch me if you can got decent reviews too. Cinema score was A- and metacritic 76/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:28:14.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a pretty good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:28:31.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the cast is pretty good too. Tom Hanks and Christopher Walken are also in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:29:00.553Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you prefer movies involving con men and lots of money?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:14.324Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This sounds like the type of movie that Tom Hanks would be in", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:38.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like movies that involve crime like this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:28.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like crime movies, especially if they involve action and have a strong plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:08.559Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This one's plot is pretty intricate. it shows how Frank Abagnale gets invlolved in cons after he runs out of money as a way to get by initially. but eventually his cons keep increasing...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:44.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lack of money is always a strong motive for crime", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:16.339Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He ends up forging checks with such frequency that he is successful in stealing over $2.8 million from Pan Am payroll", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:34:05.748Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:21:25.085Z", 
+  "uid2LogInTime": "2018-03-06T15:21:25.115Z", 
+  "user1_id": "USR819", 
+  "user2_id": "USR1715", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

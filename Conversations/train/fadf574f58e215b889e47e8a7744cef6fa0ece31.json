@@ -1,0 +1,348 @@
+{
+  "date": "2018-02-07T22:06:57.870Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:08:49.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers 2012", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:09:17.779Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, cool!! is this an action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:10:46.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nyeah.. its about american superheroes film based on the marvel comics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:11:34.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome, what superheroes are the ones played in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:12:58.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its the sixth film in the marvel cinematic universe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:13:07.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, how long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:13:32.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man, captain america, hulk, thor, etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:14:13.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's cool! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:14:41.570Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its metacritic score: 69/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:15:19.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting, what is the name of the actors who played the thor roll?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:16:07.219Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "actor*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:16:23.072Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr. as Tony Stark / Iron Man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:16:44.403Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Chris Evans as Steve Rogers / Captain America", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:16:52.434Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mark Ruffalo as Bruce Banner / Hulk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:02.265Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nChris Hemsworth as Thor, the crown prince of Asgard.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:11.393Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Scarlett Johansson as Natasha Romanoff / Black Widow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:19.289Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jeremy Renner as Clint Barton / Hawkeye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:28.783Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good names! seems like an really good movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:18:07.386Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the director of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:19:14.083Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joss Whedon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:19:47.332Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok, I Haven't watch this movie yet but looks interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:20:56.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "does this movie has a second part? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:21:31.016Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You know.. in the story the avengers become devided.. finally good avengers won ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:21:51.144Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "information not provided about second part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:22:16.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ohh I understand. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:22:36.210Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " are the special effects in this movie good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:23:19.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes.. in avenger's movie its common. the scenes are aweson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:24:52.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good to hear, I like scarlett as an actress  so I definitely will be watching this movie! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:26:14.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who are the enemies in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:27:12.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good. and take some review about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:27:33.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hero.. and negative role bothe are avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:27:58.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Asgardian Loki encounters the Other, the leader of an extraterrestrial race known as the\nChitauri. In exchange for retrieving the Tesseract, a powerful energy source of unknown\npotential,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:28:35.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Avengers become divided, both over how to approach Loki and the revelation that\nS.H.I.E.L.D. plans to harness the Tesseract to develop weapons as a deterrent against\nhostile extraterrestrials.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:28:48.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh I see! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:29:45.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this movie available online? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:30:47.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the details not provided", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:31:01.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, I understand.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:31:34.565Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the director filmed the transformation of avengers really marvelous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:31:58.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice, the history seems really exciting so I bet all the characters are very well developed! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:33:01.821Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "finally Avengers will return if \nand when they are needed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:33:34.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! I hope they make another movie it will be awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:34:17.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie is about how the public affecting because of super heroes and the problem between the super heroes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:34:49.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok! is there any other information I need to know before watching the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:36:14.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry.. not getting.. please ask again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:37:02.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know more information about the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:38:38.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not much. I cant reveal my own thoughts. I pick and gave you which I read", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:39:32.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, ok no problem ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:39:53.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:40:25.640Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:41:33.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the length of the movie not provided", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:42:25.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:43:16.766Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T22:06:57.870Z", 
+  "uid1LogOutTime": "2018-02-07T22:43:46.776Z", 
+  "uid1response": {
+    "feedback": "I am very interested in watching the movie, I had never heard of it before but after talking with the other user I am definitively watching it! ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T22:06:58.105Z", 
+  "uid2LogOutTime": "2018-02-07T22:44:17.196Z", 
+  "uid2response": {
+    "feedback": "the key points provided is too long to reveal ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1909", 
+  "user2_id": "USR2898", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

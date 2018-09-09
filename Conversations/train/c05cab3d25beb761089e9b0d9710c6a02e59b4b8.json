@@ -1,0 +1,319 @@
+{
+  "date": "2018-02-28T18:30:11.955Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:30:22.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:30:47.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:31:00.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the movie is Bruce Almighty. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:31:26.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not yet. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:31:52.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy that has Jim Carrey as the main character. He is a TV reporter and complains to God (played by Morgan Freeman) that he is not doing his job correctly, so Freeman gives his job of playing God to Carrey.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:33:23.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was rated a 5.7/10 on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:33:42.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also has Jennifer Aniston as well. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:33:56.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Jim Carrey, I think he is funny. But the ratings is not so good. What do you think about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:34:37.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has some funny parts, not all of it is funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:35:05.833Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "any good moments in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:35:37.608Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Carrey gets carried away with spoiling himself and forgets that there's a lot of people that ned help.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:35:41.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A new document popped up on my side, but it is blank. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:36:13.768Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Weird?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:36:22.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hmm i don't have a document. Is it a family movie? I mean can I watch with my kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:37:28.439Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess it depends on your kid's ages.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:38:31.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "4 and 7?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:38:43.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Like, in one scene, he decides to change his girlfriend's boob sizes to be bigger.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:39:00.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know if that is quite appropriate", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:39:10.821Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He also uses his powers as God to blow a girls skirt up.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:39:22.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't think of any other inappropriate/sexual things in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:39:33.981Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is just a slap-stick comedy for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:39:48.041Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ah ok probably not a good idea to watch it with kids. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:40:00.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I guess its a religious movie? since it is about God?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:40:25.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not really, just basically like, His job is hard.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:40:44.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Like, at one scene, Carrey keeps hearing voices.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:40:59.987Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And it is explained that he hasn't been answering prayers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:41:12.005Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he instead organizes these requests by sorting them into an email.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:41:34.732Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he starts answering them, and gets  a bit overwhelmed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:41:50.334Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So then he just replies\n \"yes\" to everyone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:42:10.104Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So then a bunch of people win the lottery at the same time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:42:30.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He hasn't been answering prayers? God or Carrey?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:42:47.889Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Carrey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:42:59.487Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was just playing with the new given powers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:43:09.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:43:36.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like, blowing up a girl's skirt or pulling the moon closer to impress his girlfriend.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:43:37.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Jennifer his girlfriend in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:44:24.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In another key scene, God appears and tells Bruce (Carrey) to pray what he truly wants. And he prays for Jennifer (yes, his girlfriend) to find a man that would make her happy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:45:19.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They end up getting engaged on tv (since hes a reporter).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:45:51.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "While there are funny parts, the movie brings a lot of other issues to light. You can't just do what you want, or tell everyone yes to their prayers, there are consequences\n for everything.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:46:47.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what year it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:46:54.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2003", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:47:00.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow it is an old movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:47:41.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't heard of CinemaScore, but they rated the movie an A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:47:55.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metracritic Score is 46/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:48:05.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is something to kind of put on in the background and laugh at here and there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:48:23.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice. I will search to see if I can watch it on prime. Thank you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:48:47.850Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T18:30:11.955Z", 
+  "uid1LogOutTime": "2018-02-28T18:48:55.031Z", 
+  "uid1response": {
+    "feedback": "There was a blank page that popped up, not sure what that was about, but the first page was adding paragraphs.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T18:30:11.996Z", 
+  "uid2LogOutTime": "2018-02-28T18:48:50.741Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2578", 
+  "user2_id": "USR2330", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

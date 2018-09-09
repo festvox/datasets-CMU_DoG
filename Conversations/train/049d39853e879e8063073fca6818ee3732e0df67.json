@@ -1,0 +1,536 @@
+{
+  "date": "2018-03-30T22:38:17.189Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:38:58.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:38:58.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are u ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:39:04.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:39:11.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im ok ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:39:15.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:39:21.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so have u watched ..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:39:25.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nope", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:39:28.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but i do like angelina jolie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:39:39.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i havent either, but i love the story of sleeping beauty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:39:42.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:39:48.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "iy has 51 in rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:01.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so hmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:05.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not that good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:08.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "5.7 out of 10. yikes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:40:16.902Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:22.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so this movie is more about the villan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:40:30.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is a dark fantasy film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:34.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:40:37.956Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:40:51.716Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so she was originally a fairy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:41:11.897Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:41:17.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i cant believe its been so long since this movie came out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:41:43.011Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "she fells in love with a human it says", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:41:48.674Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:41:52.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:41:52.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and then her wings are cut off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:41:57.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think i only heard about this movie once", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:42:03.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:42:09.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah man phillips kiss doesnt work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:42:30.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and her lover betrayed her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:43:07.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "stefan is auroras father", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:43:17.266Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and maleficent loves him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:43:39.167Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:43:44.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i feel bad for her now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:43:49.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh boy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:43:56.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she sends stefan to his death", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:44:00.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah i feel bad too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:44:18.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i know its different, but i like the old fashioned sleeping beauty too much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:44:53.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont like how they changed it around", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:45:00.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:45:01.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nthey changed it for it to only get a 5.1 rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:45:13.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this film wanted to break the stereotype", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:45:20.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but it was too much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:45:26.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "righy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:45:26.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:45:29.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they fixed it when it wasnt broken", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:45:40.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:45:59.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was too much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:46:06.478Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i havent heard about that director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:46:23.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i wonder if this is the first movie he made", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:46:32.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he actually sounds familiar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:46:38.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it probably takes a lot to direct a movie like this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:46:48.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think u are right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:47:10.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but its metacritic score was 56/100. ow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:47:15.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:47:47.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "from what i hear angelina jolie performed really well in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:48:07.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well i love her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:20.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im a girl", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:26.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:34.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:48:37.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:40.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she is a good actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:48:44.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think she is a great person and actres", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:49.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there is a scene where aurora is a little girl and she goes up to maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:49:07.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and they had to use Angelinas daughter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:49:20.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh really ???", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:49:29.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because her daughter was the only one who wouldnt get scared and run away lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:49:32.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so i like that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:49:46.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:49:54.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but the critical responses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:50:23.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is interesting that, like frozen, a prince was not needed for the true love scenario", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:50:46.467Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was like a mother daughter love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:50:51.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i love that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:50:55.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which i really like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:50:56.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hate that u need a prince all the time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:51:05.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to make \" everything  better \"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:51:15.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:51:23.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it seems like a very entertaining movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:51:44.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i will have to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:51:50.156Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i might give it a chance this weekend ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:52:04.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:52:08.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but i dont my 2 year old would stand still", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:52:19.944Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T22:38:17.189Z", 
+  "uid1LogOutTime": "2018-03-30T22:54:16.522Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T22:38:17.364Z", 
+  "uid2LogOutTime": "2018-03-30T22:52:11.650Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4383", 
+  "user2_id": "USR828", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

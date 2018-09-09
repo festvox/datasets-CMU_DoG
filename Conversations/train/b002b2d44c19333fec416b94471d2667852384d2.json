@@ -1,0 +1,83 @@
+{
+  "date": "2018-02-19T19:24:48.006Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:25:01.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:25:42.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is the social media", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:26:38.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So this weekend I saw a movie i had never seen ...it is not new..called social net work have you seen it?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:26:52.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i going talk whit you about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:27:03.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see it this weekend? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:27:15.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think? Did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:28:37.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesse Esienberg was such a surprise ?   What did you like\nor not like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:30:47.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really thought the movie was better then expected and was surprised at armie hammer playing two characters.  Justin timberlake was a complete surprise as well.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:34:05.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?  Hello....................................................................................................................................................................................................................................................................................................??????????????????????????????????????????????????????????", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:34:27.398Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:24:48.006Z", 
+  "uid1LogOutTime": "2018-02-19T19:35:52.533Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:24:48.078Z", 
+  "user1_id": "USR1249", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

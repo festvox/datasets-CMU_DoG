@@ -1,0 +1,161 @@
+{
+  "date": "2018-03-21T16:23:20.388Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This seems like it might be interesting to watch. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:25:25.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:09.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:16.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:26:26.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "drama fantasy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:28.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah I've watched it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:35.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "liked it very much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:41.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've been trying to find the time to watch it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:26:51.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "one of the best Del Toros works so far", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:27:11.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't know it had a 92% rating! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:27:34.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actor were chosen good as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:27:38.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I find the title intriguing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:28:31.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very good title ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:29:15.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i would say the movie is about love ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:29:45.121Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and human being ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:29:49.693Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love how fantasy films make you fall in love with them while still teaching you life lessons. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:31:38.793Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wonder if this one does the same. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:32:10.731Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh so I just watched the movie. lol ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:33:02.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, you were right it was awesome! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:33:46.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I found the setting interesting. 1962", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:35:10.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I might have thought if this story in a futuristic setting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:36:48.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:37:24.165Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:46:38.944Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T16:23:20.388Z", 
+  "uid2LogInTime": "2018-03-21T16:23:20.409Z", 
+  "uid2LogOutTime": "2018-03-21T16:52:11.822Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3162", 
+  "user2_id": "USR1043", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2018-02-08T21:29:21.903Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:29:28.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Do you think  this movie earned its 92& rotten tomatoes rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:30:40.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I think it did, it was a great movie.  What do you think of Robert Downey Jr in that role?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:31:12.403Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:29:21.904Z", 
+  "uid1LogOutTime": "2018-02-08T21:31:16.672Z", 
+  "uid1response": {
+    "feedback": "The other Turker left before i could read the document.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:29:21.906Z", 
+  "user1_id": "USR581", 
+  "user2_id": "USR2660", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

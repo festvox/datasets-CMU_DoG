@@ -1,0 +1,111 @@
+{
+  "date": "2018-03-06T17:32:13.865Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:33:26.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think of batman vs. superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:33:38.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there! Honestly, I wasn't impressed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:34:02.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I saw it only got 27% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:34:30.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually liked the movie though!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:34:34.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not a big Affleck or Eisenberg fan, so that probably didn't help. What did you like about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:34:54.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually liked Affleck's portrayal of batman!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:36:11.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I disliked Eisenberg's part though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:36:33.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Amy Adams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:36:47.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought she did alright as Lois. Do you normally get into superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:37:23.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I used to, but I think that I've seen too many lately", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:37:59.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think the movie might have done better if it had a little more comic relief\n? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:38:54.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure. I mean, the Nolan movies didn't have much humor, but they were much more highly rated. I think it maybe just needed more story, overall, instead of so much just smacking each other.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:41:31.033Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T17:32:13.865Z", 
+  "uid1LogOutTime": "2018-03-06T17:41:34.248Z", 
+  "uid1response": {
+    "feedback": "Conversation was on the awkward side. I'd never seen the movie and so was repeatedly referring back to the document while trying to respond to my partner.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T17:32:13.901Z", 
+  "uid2LogOutTime": "2018-03-06T17:41:22.262Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR962", 
+  "user2_id": "USR772", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

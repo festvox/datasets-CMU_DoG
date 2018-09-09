@@ -1,0 +1,94 @@
+{
+  "date": "2018-03-20T16:20:17.737Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:40.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:46.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie \"The Post\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:18.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:22:08.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Let's chat!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:22:16.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "5", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:22:58.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "4", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:00.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "3", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:01.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:03.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "1", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:14.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "0", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:24.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "-", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:29.772Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:20:17.737Z", 
+  "uid2LogInTime": "2018-03-20T16:20:18.764Z", 
+  "uid2LogOutTime": "2018-03-20T16:24:31.986Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3334", 
+  "user2_id": "USR4031", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2018-03-26T18:39:40.085Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This looks like a great movie; I'd really like to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:40:28.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree! I think that its a weird love story that would actually make me feel a little connected", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:40:59.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same, haha. I'm not usually into that kinda stuff, but I think the outside influences around all of it kinda get me more interested than a typical love story would", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:41:42.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that both of the people are handicapped in a way and thats probably why it works really well because they can understand how each other is feeling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:41:56.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah definitely", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:42:01.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its kind of like a drama too so you don't have to be so into the love story haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:42:18.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's an interesting point. I hadn't really thought about the whole handicapped in a way thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:42:31.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The government intrigue is what really hooked me, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:42:46.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah and the whole Russia soviet spy thing is really interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:43:10.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder if they went that direction because of current political turmoil", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:43:47.912Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmmm good thought, I mean I'm super interested because of that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:44:09.606Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its interesting that elsa's best friends are also in some way kinda held back by personal things", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:45:04.786Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-26T18:39:40.085Z", 
+  "uid1LogOutTime": "2018-03-26T18:46:39.110Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T18:39:40.100Z", 
+  "uid2LogOutTime": "2018-03-26T18:46:21.177Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4032", 
+  "user2_id": "USR734", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

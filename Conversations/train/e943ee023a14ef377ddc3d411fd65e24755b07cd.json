@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-20T17:21:53.697Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:22:25.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'am fine. Thanks. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:22:45.466Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am great, thanks for asking. Our movie is Home Alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:22:58.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is Home Alone. Have you read this text already?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:24:23.987Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-20T17:21:53.697Z", 
+  "uid1LogOutTime": "2018-03-20T17:24:19.418Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:21:53.807Z", 
+  "uid2LogOutTime": "2018-03-20T17:24:33.054Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1611", 
+  "user2_id": "USR1217", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "date": "2018-03-16T23:34:44.006Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is Bruce Wayne true name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:38:07.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He moonlights as Batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:38:28.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:39:10.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was ok. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:39:43.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But not the best Batman movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:39:52.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that the movie was made in 2016?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:40:59.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yup!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:41:09.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you realize this was Wonder Woman's first appearance in a DC Comics movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:42:17.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the Man of Steel, what did you think about the movie \"The Man of Steel\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:43:03.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure about that...but Do you usually like super hero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:43:48.949Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I did realize that was the first Wonder Woman first St appearance in a comic movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:45:13.802Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:46:05.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I usually don't watch many super hero movies, but I kind of like that Superman is the \"bad guy\" in this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:46:44.530Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't realize Superman was the bad guy in that movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:47:55.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Batman seems to think he was! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:48:22.180Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I used to see Superman play the good guy. Yes, you are right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:49:09.854Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I never really care for Batman, I think he is one of the weak hero.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:50:13.194Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this Batman is definitely not as good as Christopher nolan's version!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:50:47.167Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think Luthor is a fun \"bad guy?\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:51:13.139Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I do. i like his roll in Batman Movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:52:20.481Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And Jesse Eisenberg plays him well. Although I thought he was a little bit over the top at times. Do you agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:53:11.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I do agree with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:53:50.670Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like these new comic movies, especially the graphics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:54:55.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not really into comic movies. But some of the graphics can be pretty impressive. They definitly have a lot of action!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:56:17.770Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think Batman had major guilt about what he did to Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:57:07.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like the new Superman, Henry Cavil?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:57:20.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think Henry Cavil does a good job...he's good at playing the \"duel personality\" that Superman is about. Nerd vs. Sexy Hero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:58:01.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think Batman had little guilt about what he did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:58:43.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I agree, he played his part well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:59:53.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So why do you think he gave his regrets to Superman's Mom?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:00:06.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To make himself feel better? or just because he felt like he should?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:00:26.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To make himself feel better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:01:36.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:01:49.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you feel like this movie is better than the 27% that Rotten Tomatoes has rated it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:02:21.474Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you remember Superman mom's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:02:49.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Martha Kent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:03:05.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was really surprise, I was thinking Batman wasn't any match for Superman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:04:23.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Knowing what I knew before this movie, I would agree with you on that!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:04:55.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the part when Batman and superman are facing each other.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:06:32.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yup, it felt like a classic \"showdown!\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:07:10.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like DC movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:08:46.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm so so about them...I see one once in a while.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:09:00.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think we will see Lex Luthor in a future DC movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:09:04.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that we will see a lot more of him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:10:19.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is a fun bad guy to watch!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:10:44.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:11:17.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "DO you think this move was funny or more action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:11:59.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It had a few funny moments, but I feel like it was more about the action.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:12:19.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think Superman will come back and seek revenge?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:12:29.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No doubt, superman is the man of steel.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:13:26.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very true!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:13:56.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's why I was so surprise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:13:57.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was your favorite part in the movies, the beginning, middle or the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:16:26.489Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T23:34:44.006Z", 
+  "uid1LogOutTime": "2018-03-17T00:20:02.123Z", 
+  "uid1response": {
+    "feedback": "I really enjoyed the chat with MTurk workers.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T23:34:44.042Z", 
+  "uid2LogOutTime": "2018-03-17T00:15:03.572Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR464", 
+  "user2_id": "USR529", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

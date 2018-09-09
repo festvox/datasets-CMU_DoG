@@ -1,0 +1,116 @@
+{
+  "date": "2018-02-07T16:33:15.505Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:33:26.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:33:43.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:33:46.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which scene like the film ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:33:57.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the fighting scenes when all of the Avengers come together to fight against Loki. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:35:57.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like all scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:36:29.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "interested in this film ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:36:43.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which character do you like the best?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:36:47.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved the movie! Very action packed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:36:58.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like that hero character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:37:16.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i too love the action packed movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:37:30.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers are all hero characters. Which specific character did you enjoy the best, e.g. Iron Man, The Hulk, Captain America, Thor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:38:26.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:39:16.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It appears User 2 left the chat at approximately 10:33AM CT. I will wait 5 minutes before aborting the conversation\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:42:05.412Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:33:15.505Z", 
+  "uid1LogOutTime": "2018-02-07T16:44:01.340Z", 
+  "uid1response": {
+    "feedback": "The user was not very interactive in response to the article. The user just stated he enjoyed the movie, but never mentioned what movie or any characters. The user could have literally been talking about any movie rather than what was in the article.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:33:15.788Z", 
+  "uid2LogOutTime": "2018-02-07T16:38:12.139Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3684", 
+  "user2_id": "USR970", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

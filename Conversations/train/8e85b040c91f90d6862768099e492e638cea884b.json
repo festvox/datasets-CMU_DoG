@@ -1,0 +1,66 @@
+{
+  "date": "2018-03-29T14:02:53.081Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:03:03.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:24.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looks like we got the movie Monster's University. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:40.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:43.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My Favorite Character has to be Mike Wazowski, However the guy who voices him annoys me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:04:32.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:07:06.064Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:02:53.081Z", 
+  "uid1LogOutTime": "2018-03-29T14:07:49.232Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:02:53.126Z", 
+  "uid2LogOutTime": "2018-03-29T14:08:13.796Z", 
+  "uid2response": {
+    "feedback": "This person left the chat without saying anything other than hi.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR144", 
+  "user2_id": "USR2178", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

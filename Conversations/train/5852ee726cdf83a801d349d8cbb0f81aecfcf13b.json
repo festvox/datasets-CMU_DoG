@@ -1,0 +1,337 @@
+{
+  "date": "2018-02-15T20:18:42.523Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, can you tell me the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:19:36.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:21:48.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:21:56.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "avengers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:22:16.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie description?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:22:30.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:22:49.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:22:59.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has a ton of big name actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:23:22.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:23:32.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they all work together really well in the fulm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:23:42.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "film*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:23:44.582Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "work together really well doing what?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:24:11.574Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the cast has a great chemistry on screen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:24:34.950Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how so?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:24:46.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they have to work together in the story line", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:25:40.815Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What are they trying to achieve together?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:25:57.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but iron man seems to be the leader", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:25:59.759Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what other characters are in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:26:13.968Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "theyre trying to stop loki", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:26:17.960Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:26:29.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the Other promises Loki an army of his own", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:26:56.544Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know if Loki gets the army in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:27:25.320Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what other characters are in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:27:50.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it looks like he does", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:27:58.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Go Loki!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:28:12.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the hulk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:28:14.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like Wonder Woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:28:23.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "shes not in here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:28:31.655Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "black widow is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:28:36.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "too bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:28:39.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know that character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:28:45.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "scarlett johansson plays her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:29:00.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, maybe I do, actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:29:09.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think she wears a black jumpsuit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:29:22.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "captain america is in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:29:34.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, I think I know the character after all\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:29:34.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hawkeye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:29:41.426Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thor obviously", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:29:46.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think I know Hawkeye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:29:56.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "jeremy renner plays him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:30:05.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, yeah, the arrow shooting guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:30:16.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:30:34.410Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now I know his name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:30:46.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "joss whedon directed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:31:05.339Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I may have seen this, now that I think about it. . .", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:31:19.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea, i know hawkeye more from cartoons", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:31:50.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we have completed the task?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:31:56.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hope ? hahah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:32:02.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, bye for now :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:32:13.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:32:15.564Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T20:18:42.523Z", 
+  "uid1LogOutTime": "2018-02-15T20:32:17.539Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T20:18:42.604Z", 
+  "uid2LogOutTime": "2018-02-15T20:32:17.486Z", 
+  "uid2response": {
+    "feedback": "I have already seen this movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3859", 
+  "user2_id": "USR815", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

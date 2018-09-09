@@ -1,0 +1,101 @@
+{
+  "date": "2018-03-05T17:34:40.460Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, there's this movie called Bruce Almighty with Jim Carrey in it, have you seen it or would you like to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:35:51.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:36:56.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:37.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:40:18.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it, it's really funny. It's a comedy made in 2003 about a down on his luck tv reporter who complains to god and in return becomes god for a week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:42:16.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " I like comedies. Is Jim Carrey pretty good in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:43:15.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is known as one of his best films, so I would say yes, it is very slapstick comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:44:00.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it also a romance?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:44:42.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no, it's a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:44:54.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no it is not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:45:41.395Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Too bad. I like romantic comedies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:50:23.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does being God work out for him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:51:04.519Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:34:40.460Z", 
+  "uid1LogOutTime": "2018-03-05T17:54:59.892Z", 
+  "uid1response": {
+    "feedback": "I like Jim Carrey", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:34:40.461Z", 
+  "uid2LogOutTime": "2018-03-05T17:53:59.852Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1234", 
+  "user2_id": "USR4920", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

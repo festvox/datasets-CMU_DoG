@@ -1,0 +1,338 @@
+{
+  "date": "2018-02-09T21:28:13.085Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:28:26.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:28:35.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:28:41.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it was pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:29:14.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:29:25.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:29:30.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah he was mine too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:29:40.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Robert Downey Jr's potrayal of him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:29:41.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your least favorite?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:29:53.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Probably Black Widow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:03.110Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought she was kind of boring too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:30:17.246Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not a big Scarlett Johansson fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:23.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no chemistry with the other characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:28.911Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked Thor too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:34.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He was pretty cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:37.963Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think she is as great as everyone makes her to be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:30:41.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:52.982Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thor was pretty bland in the first movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:30:53.773Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joss Sweden right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:31:03.183Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, I think it's Joss Whedon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:31:19.986Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't remember the plot line", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:31:29.119Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what happened exactly in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:31:35.111Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its where Loki tries to take over.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:31:40.838Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was Loki?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:31:49.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thors brother.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:31:57.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:32:06.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who was their father?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:32:19.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has the big fight with the worm hole and iron man almost gets stuck in space.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:32:38.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember that part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:00.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you like Hawkeye?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:03.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:08.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He's the one with the arrows right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:16.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:19.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, not that cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:28.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how does an arrow do so much damage", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:38.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was boring in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:39.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldn't think so to super heros/ aliens", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:54.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:56.512Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hulk looked pretty badass", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:34:19.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah he was cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:04.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he was played by Mark Ruffalo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:22.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How do think Nick Fury got his eye patch?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:35:31.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He probably got in a bar fight", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:41.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "someone stabbed him with a broken bottle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:50.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:35:59.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Drunken Nick Fury should have been in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:36:13.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did this hit the other day and we were done by now.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:36:37.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that would be interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:36:41.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we can submit now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:36:47.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks, have a good day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:36:50.177Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T21:28:13.086Z", 
+  "uid1LogOutTime": "2018-02-09T21:36:51.940Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T21:28:13.102Z", 
+  "uid2LogOutTime": "2018-02-09T21:36:56.693Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4905", 
+  "user2_id": "USR336", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

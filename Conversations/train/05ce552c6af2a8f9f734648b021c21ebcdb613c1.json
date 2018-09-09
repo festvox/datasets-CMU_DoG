@@ -1,0 +1,148 @@
+{
+  "date": "2018-03-30T17:12:13.882Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:12:26.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:12:33.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen this movie, but looks to have some good actresses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:13:36.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it. It was very good, and yes the actresses were great. I can't believe rotten tomatoes gave it such a low score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:14:28.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that is quite low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:14:44.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoy dark fantasy flicks, so I may enjoy this one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:15:16.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Disney has been doing well with their live action movies on classic disney movies. And yes i do believe you'll like it if you like dark fantasy. It gives a new take on maleficent. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:16:07.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plus the visuals were amazing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:16:35.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I heard the visuals were great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:16:44.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Disney really knows how to create some great visuals that's for sure lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:18:00.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Stromberg has done some good work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:18:54.104Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yeah, the Moors, that forest.  I remember that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:19:19.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not quite familiar with him. What other movies has he done?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:19:36.456Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he did the production design on Avatar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:20:18.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and alice in wonderland", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:20:33.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "King Henry says whoever kills Maleficent will be named his successor and marry his daughter.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:22:26.119Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "o I love those movies as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:24:07.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Moors got turned into a dark kingdom after Stefans betrayal.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:25:41.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:30:27.347Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T17:12:13.882Z", 
+  "uid1LogOutTime": "2018-03-30T17:30:43.057Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T17:12:13.891Z", 
+  "uid2LogOutTime": "2018-03-30T17:30:32.867Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3071", 
+  "user2_id": "USR1032", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

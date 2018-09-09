@@ -1,0 +1,253 @@
+{
+  "date": "2018-03-20T18:26:35.805Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:27:00.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You are to tell me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:27:31.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:27:36.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the name of the movie is toy story ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:27:44.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:28:02.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:28:10.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a computer animated movie made in 1995", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:28:18.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who directed the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:28:38.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\n it was directed by John Lasseter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:29:09.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was the first feature length computer animated film and the first feature film produced by Pixar. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:29:11.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What score did it receive? e.g. Rotten Tomatoes etc.. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:29:14.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten Tomatoes gave it a 9/10 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:30:00.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was the film about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:30:08.848Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the metacritic score was 95/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:30:10.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cinema score A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:30:26.970Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:30:33.565Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:30:48.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The story takes place in a world where anthropomorphic toys pretend to be lifeless whenever humans are present, the film's plot focuses on the relationship between two main characters woody and buzz lightyear", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:31:47.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did enjoy this film very muchj", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:31:59.979Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who starred in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:32:10.612Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it Tom Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:32:17.306Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The main characters Woody and Buzz Lightyear who were voiced by Tom Hanks (Woody) and Tim Allen (Buzz Lightyear)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:32:58.357Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:33:08.250Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some critics said that \"it has the purity, the ecstatic freendom of imagination, that's the hallmark of the greatest childrens film\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:33:57.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you not like the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:34:01.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*about the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:34:19.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Personally there was nothing I did not like.  and Looking at this form I can not identify anything that I would choose as a fallback of the film either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:35:21.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toy Story as always", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:35:39.150Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it part 1,2 or 3?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:35:53.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is the part one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:36:19.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but there is also a part two and three", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:36:30.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And does the form list the production company?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:36:46.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you seen Toy Story before? Did you enjoy it if so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:36:47.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who made it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:36:49.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would love to watch it been so long. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:37:07.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pixar animated studios for Walt Disney", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:37:24.939Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T18:26:35.805Z", 
+  "uid1LogOutTime": "2018-03-20T18:37:36.251Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T18:26:36.015Z", 
+  "uid2LogOutTime": "2018-03-20T18:37:21.820Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4271", 
+  "user2_id": "USR4179", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

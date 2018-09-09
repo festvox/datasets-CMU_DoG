@@ -1,0 +1,229 @@
+{
+  "date": "2018-02-20T12:06:54.326Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:07:45.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Mean Girls", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:07:55.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:08:08.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was directed by Mark Waters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:08:11.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:08:28.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about female high school social cliques and about their damaging effects", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:08:44.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who any of the stars are?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:09:00.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lindsay Lohan and Rachel McAdams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:09:13.847Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:09:28.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also Lacy Chabert, Amanda Seyfried and Lizzy Caplan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:09:29.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Teen Comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:09:37.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Those are good actresses! Do you know what time frame the movie is set in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:10:02.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's set around 2004", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:10:19.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:10:47.172Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten Tomatoes gives it 84% and 6.9 out of 10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:11:21.496Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does the movie have inappropriate language?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:11:43.534Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't recall, as my notes do not specify. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:12:20.526Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is the movie rated? PG-13? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:12:40.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't have that information, but probably is. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:12:56.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you watched the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:13:14.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I saw it about 13 years ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:13:29.512Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In your opinion, is this movie appropriate for children?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:13:51.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In my opinion, yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:14:27.063Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it appropriate for someone under the age of 13?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:15:31.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but it depends on how much of prude you are. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:16:13.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HaHa, point taken. Are there any valuable lessons to be learned by watching this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:16:48.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most likely there are for school age girls who get picked on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:17:29.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When you watched this movie, did you laugh a lot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:17:50.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I honestly do no remember.  It was a comedy though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:18:30.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you recommend this movie to other people?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:18:51.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T12:19:22.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok thank you, I will watch this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T12:19:43.503Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T12:06:54.326Z", 
+  "uid1LogOutTime": "2018-02-20T12:19:26.508Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T12:06:54.378Z", 
+  "uid2LogOutTime": "2018-02-20T12:19:45.543Z", 
+  "uid2response": {
+    "feedback": "Based on the question/answer session, I will watch this movie. Thank you!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3234", 
+  "user2_id": "USR1567", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

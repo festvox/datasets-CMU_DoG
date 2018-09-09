@@ -1,0 +1,43 @@
+{
+  "date": "2018-02-16T21:29:36.031Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part about Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:31:05.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the origin aspect to it, how the team all came together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:35:22.457Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T21:29:36.031Z", 
+  "uid1LogOutTime": "2018-02-16T21:50:01.592Z", 
+  "uid1response": {
+    "feedback": "The other user left", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T21:29:36.473Z", 
+  "uid2LogOutTime": "2018-02-16T21:34:14.731Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2679", 
+  "user2_id": "USR2159", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

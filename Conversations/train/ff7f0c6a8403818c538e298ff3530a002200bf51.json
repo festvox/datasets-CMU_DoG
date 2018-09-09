@@ -1,0 +1,406 @@
+{
+  "date": "2018-03-19T19:54:23.897Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi,\n How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:54:41.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey hows it going", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:54:48.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movies have you seen lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:54:57.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just saw Black Panther lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:55:08.178Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hbu", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:55:14.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:55:35.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a prince in Africa that leads a secret city. He is a good guy and catches the bad guys lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:56:04.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, that sounds exciting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:56:18.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:56:26.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm. I'm not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:56:34.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but it's the guy from the jackie robison movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:56:42.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When was it made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:56:45.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "42", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:56:46.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was made 2018 this year", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:56:58.135Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds great.  He was a great actor in that movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:02.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:57:11.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats your favorite movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:57:16.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite movie is Back to the Future", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:40.535Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:57:50.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I never seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:57:57.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love Michael J. Fox and Christopher Lloyd.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:58.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:58:18.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "thats pretty cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:58:28.421Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I hope they come out with another Hulk movie or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:58:38.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director Spielberg was amazing too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:58:43.925Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:58:56.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hulk was awesome, wonder if someone knew someone like the Hulk that made it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:58:59.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:07.685Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah huh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:13.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is your favorite movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:59:19.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the Matrix lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:27.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that was always intriguing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:59:36.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who was the star of that, do you remember?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:59:45.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it was trippy af when I saw it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:48.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Keanu Reeves", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:56.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they gotta come out with another matrix", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:00:20.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah, now I remember.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:00:34.375Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anyways is this all we're supposed to do? haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:00:48.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We need 15 turns each I think so may need a few more.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:01:27.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have any other favorites", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:01:34.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:01:55.770Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not really sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:01:59.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Marvel movies are cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:04.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like straight outta compton", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:19.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:20.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked marvel movies too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:49.754Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are so cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:52.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:59.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "fantastic ideas from stan lee too with his movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:01.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he is amazing.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:05.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I could never think so imaginatively. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:14.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What great ideas.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:21.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we can go now!  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:28.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:28.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:31.479Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a great day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:32.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "alright u wanna finish this conversation? I gotta use the restroom lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:34.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep.  see ya later.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:41.092Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:41.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "see ya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:43.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:43.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:46.459Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T19:54:23.898Z", 
+  "uid1LogOutTime": "2018-03-19T20:03:48.123Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T19:54:23.978Z", 
+  "uid2LogOutTime": "2018-03-19T20:03:49.769Z", 
+  "uid2response": {
+    "feedback": "I like that the movie has great actors that I like and will watch.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1761", 
+  "user2_id": "USR49", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

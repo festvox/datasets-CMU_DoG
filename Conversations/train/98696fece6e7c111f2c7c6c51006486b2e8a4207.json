@@ -1,0 +1,264 @@
+{
+  "date": "2018-02-19T20:41:41.299Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:41:46.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie are we talking about today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:41:58.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We are discussing Batman Vs. Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:42:32.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:42:45.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen this movie. How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:42:54.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:43:02.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did it release?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:43:10.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this the one with Ben Affleck?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:43:28.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gotcha. It was released in 2016. It got a bad rating on Rotten Tomatoes, unfortunately.. 27%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:43:36.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is with Ben", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:43:44.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, that is a pretty low rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:44:26.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe he was Batman, who played Superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:44:55.549Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is. I love the Batman comics so that's pretty disappointing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:45:02.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Henry Cavill \nplayed Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:45:22.967Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched the other Batman movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:45:54.920Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have. I saw all of the ones with Christopher Nolan. It seems that Batman Vs. Superman wasn't even as good as those movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:46:55.586Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:46:58.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I have too. And I agree, those actors could carry off the role well compared to Ben Affleck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:48:06.260Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed! I think maybe that's where they went wrong. The critics are saying Dark Knight set the bar too high for this film to succeed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:48:52.572Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But it was better than Man of Steel lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:49:00.392Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutely true! But I might just want to see this movie to know what the plot is like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:49:55.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree. It seems that it got mostly mixed ratings and honestly who knows if it's as bad as some people say.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:50:53.060Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i usually don't go purely on the ratings, they are very often biased. I prefer asking friends who have seen the movie and then decide if I want to watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:52:23.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Good point. I have seen \"bad movies\" (according to critics) and they ended up being quite good. This movie could be decent. It seems to have gotten mixed reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:53:24.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know the overall plot of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:53:33.271Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:54:12.143Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe that could be a good reason to rent a DVD or per per view and watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:54:35.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very true! The basic plot seems to be Lex Luthor pitting Batman against Superman. I'm not sure why they distrust each other though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:55:29.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That kind of has me curious to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:55:39.115Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems like Lex kidnaps Martha Kent to force Superman to kill Batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:56:36.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It could be interesting to watch two superheroes against each other. As a child, I watched more of Superman than Batman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T20:58:04.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so too. I watched both but mostly Batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:59:25.979Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I'll probably give this movie a shot and watch\n it over the weekend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T20:59:47.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T21:00:15.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! The movie is a reasonable length too, 153 minutes long", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:00:58.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it's worth checking out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:01:09.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I prefer shorter movies. Sometimes the longer ones seem to drag", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T21:01:24.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is a good point! This one seems to have some good amounts of action, so hopefully that helps", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:01:52.398Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T20:41:41.300Z", 
+  "uid1LogOutTime": "2018-02-19T21:02:12.239Z", 
+  "uid1response": {
+    "feedback": "The other user gave me a good idea about the movie and convinced me to watch it", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T20:41:41.317Z", 
+  "uid2LogOutTime": "2018-02-19T21:02:03.883Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR2799", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

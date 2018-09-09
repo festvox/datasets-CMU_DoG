@@ -1,0 +1,157 @@
+{
+  "date": "2018-02-19T18:54:45.851Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "suh dude", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:55:17.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the Batman Begins movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:55:30.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "second best movie in the trilogy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:55:42.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:56:16.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked Christian Bale and Katie Holmes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:56:26.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cilian murphy was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:56:46.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he played scarecrow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:56:50.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is scarecrow?  I don't see that as a character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:57:17.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ah nvm he's in the movie though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:57:43.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "liam neeson is great in the movie as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:57:50.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the Batman movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:57:51.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "theyre great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:57:57.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "dark knight was amazing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:58:02.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:58:17.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not particularly, I'm not into any of the superhero movies tbh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:58:37.028Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what movies do you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:58:46.912Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "documentaries actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:16.936Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ah i see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:59:22.165Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "where you from?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:59:31.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Vermont, you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:42.986Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Florida", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:59:58.095Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T18:54:45.851Z", 
+  "uid1LogOutTime": "2018-02-19T19:00:23.752Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:54:45.852Z", 
+  "uid2LogOutTime": "2018-02-19T19:00:17.447Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4275", 
+  "user2_id": "USR3331", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

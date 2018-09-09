@@ -1,0 +1,289 @@
+{
+  "date": "2018-02-19T19:12:20.548Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, What's the name of the movie we are about to discuss?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:12:46.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:03.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:15.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:20.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:23.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not into batman movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:32.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "when did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:38.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, then I'm going to try to convince you to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:39.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2005", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:44.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:49.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but I'm biased.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:57.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:14:01.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like Christopher Nolan movies? I like them in general.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:14:08.875Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i don't think i even know any of his movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:14:34.830Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are the ratings good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:14:53.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, his most recent one was Dunkirk. Have you heard of that one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:14:53.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nolan's movies are almost always blockbusters, so they are popular.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:15:14.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yup but i haven't watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:15:17.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Heard of Inception?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:15:41.444Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yup, love that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:15:47.609Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are the ratings good? I'm particularly interested in rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:16:18.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So Nolan directed Inception and is also the director of Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:16:20.615Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "RT for Batman Begins is 84%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:16:31.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you usually agree with ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:16:45.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I generally do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:17:03.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i always check ratings before watching a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:17:18.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:17:22.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't want to waste time and money", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:17:29.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i agree, \nwhat do critics say about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:17:39.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The critics say \"being both comic-book archetypes and real people\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:18:25.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"comfortably mix the tormented drama and revenge motifs with light hearted gags and\ncomic book allusions,\"s who sign up to make them, have no evident motive beyond their\nown aggrandizement.\"\n\u25cf \"hype about exploring Batman's damaged psyche\"\n\u25cf \"both the menace and the wit he showed in his brilliant turn in American Psycho\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:18:51.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:19:00.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:19:03.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:19:07.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a famous cast, and the acting is actually good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:19:56.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"comfortably mix the tormented drama and revenge motifs with light hearted gags and\ncomic book allusions,\"s who sign up to make them, have no evident motive beyond their\nown aggrandizement.\"\n\u25cf \"hype about exploring Batman's damaged psyche\"\n\u25cf \"both the menace and the wit he showed in his brilliant turn in American Psycho\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:20:08.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:20:16.892Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "let me try that again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:20:20.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\u25cf Christian Bale as Bruce Wayne / Batman\n\u25cf Michael Caine as Alfred Pennyworth\n\u25cf Liam Neeson as Henri Ducard / Ra's al Ghul\n\u25cf Katie Holmes as Rachel Dawes\n\u25cf Gary Oldman as James Gordon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:20:32.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:23:20.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:31:28.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:31:34.739Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T19:12:20.548Z", 
+  "uid1LogOutTime": "2018-02-19T19:19:10.712Z", 
+  "uid1response": {
+    "feedback": "The other user answered all my questions. This movie does sound interesting but i doubt i will watch it because i'm not into batman movies", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:12:20.570Z", 
+  "uid2LogOutTime": "2018-02-19T19:31:38.206Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR2896", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

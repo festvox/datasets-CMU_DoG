@@ -1,0 +1,119 @@
+{
+  "date": "2018-02-07T17:07:51.321Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:07:59.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:08:43.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:08:59.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good how about yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:09:10.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya i am good i am chatting you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:09:35.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:09:46.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im doing well thx", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:09:53.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so are you a fan of action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:09:58.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya i am action movie like ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:10:08.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:10:13.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "me too, I'd recommend John Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:10:25.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with Keanu Reeves", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:10:30.503Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ya very nice movie for action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:10:56.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "full action ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:11:12.663Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keanu Reeves very super acting this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:11:47.857Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T17:07:51.321Z", 
+  "uid1LogOutTime": "2018-02-07T17:10:46.830Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:07:51.618Z", 
+  "uid2LogOutTime": "2018-02-07T17:14:07.640Z", 
+  "uid2response": {
+    "feedback": "Very nice ", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR419", 
+  "user2_id": "USR625", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

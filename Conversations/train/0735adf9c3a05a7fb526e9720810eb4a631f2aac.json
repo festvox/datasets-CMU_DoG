@@ -1,0 +1,234 @@
+{
+  "date": "2018-03-07T16:48:31.164Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello - what is the movie we are discussing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:48:49.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:49:18.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah interesting - i just watched a clip of that on youtube last night", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:49:38.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it is a really funny movie with Jim Carrey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:50:00.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think of the clip?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:50:17.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think Jim Carrey was well cast for the role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:50:27.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, he was perfect.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:50:40.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was funny, \"oh mighty smiter\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:50:44.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you give me a brief summary of what it's about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:51:20.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah great scene!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:51:37.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about Bruce who works as a news reporter but is wanting to become something bigger in his employment. He then becomes very powerful to teach a life lesson as the role of God", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:53:10.023Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the idea of it, but it almost seems like it could be a sort of dark movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:53:53.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "instead of a light hearted comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:54:02.848Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it isn't at all. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:54:26.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think it could have been made that way?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:55:12.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no I don't think the movie could have been made dark. the comedy in it was a perfect fit for the script.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:55:46.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Like, imagine if Groundhog Day (if you've seen it) was made but wasn't a laughy comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:55:49.711Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well, imagine what someone could/would do if they've been given Godly powers, I think it's an interesting idea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:56:17.143Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am sure some people would try and use it for evil. But in a sense it teaches you to be grateful for everything if used properly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:57:08.717Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who else is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:57:31.581Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jennifer Aniston she plays his grilfriend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:57:55.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and Morgan Freeman plays God", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:58:05.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. Did the critics like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:58:27.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They recieved a 5.7/10 Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:58:56.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow, that's pretty low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:59:09.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And a cinemascore rating of an A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:59:11.063Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it a movie that appeals to people with Jim Careys comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:59:42.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I personally crack up at his films. He has a dry humor that I love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:00:04.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Other Critics have said that this is his best film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:00:45.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah me too, I loved Ace Ventura and Dumb and Dumber...but I also thought he was excellent in slightly serious comedies like Truman Show", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:00:46.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah he excels in his films and truly becomes the character. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:01:20.013Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I would just like a movie like this to take itself just a little more seriously", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:01:20.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok good conversation!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:01:56.520Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T16:48:31.164Z", 
+  "uid1LogOutTime": "2018-03-07T17:01:58.545Z", 
+  "uid1response": {
+    "feedback": "I like the idea of the movie and will watch it if only to see if I can imagine a darker take on it.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:48:31.387Z", 
+  "uid2LogOutTime": "2018-03-07T17:02:03.125Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR374", 
+  "user2_id": "USR1754", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

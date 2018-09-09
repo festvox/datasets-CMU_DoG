@@ -1,0 +1,226 @@
+{
+  "date": "2018-02-12T19:07:00.203Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:07:12.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have the information for the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:16.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:44.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you want to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:56.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie title", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:26.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:10:53.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:11:01.484Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well it is a historical movie with a lot of drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:04.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What time period is it placed in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:24.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game is a 2014 American historical drama film directed by Morten Tyldum and\nwritten by Graham Moore, loosely based on the biography Alan Turing: The Enigma by Andrew\nHodges (which was previously adapted as the stage play and BBC drama Breaking the Code). It\nstars Benedict Cumberbatch as real-life British cryptanalyst Alan Turing, who decrypted German\nintelligence codes for the British government during the Second World War. Keira Knightley, Matthew Goode, Rory Kinnear, Charles Dance and Mark Strong also star.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:47.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, thank you. I do like Benedict Cumberpatch. What did you think of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:13:46.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think he does  G", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:36.547Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A GOOD OB", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:43.224Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does Keira Knightley play around the same character she does in Pirates of The Carribean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:26.740Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i really dont know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:25.595Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay, do you have any other information on it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:42.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:35.852Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well what would you compare it to?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:51.021Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe a Sherlock Holmes type of vibe?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:03.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well i actually have not see the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:10.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so maybe you should search", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:18.524Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "maybe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:31.323Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ohhh, okay. well I think you weren't supposed to give the entire paragraph at one time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:40.755Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So I was just trying to do what was asked of me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:51.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anyways, I think I've made my decision.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:09.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh.. okay sorry! i could not choose the movie in the first place", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:24.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:39.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No worries. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:47.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:03.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I'll check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:10.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "awesome:D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:27.476Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for letting me know about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:39.747Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:07:00.203Z", 
+  "uid1LogOutTime": "2018-02-12T19:21:44.035Z", 
+  "uid1response": {
+    "feedback": "I don't think it seems like my type of movie.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:07:00.330Z", 
+  "uid2LogOutTime": "2018-02-12T19:21:47.807Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR341", 
+  "user2_id": "USR337", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

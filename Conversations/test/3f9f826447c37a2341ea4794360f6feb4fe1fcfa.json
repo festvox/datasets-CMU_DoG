@@ -1,0 +1,82 @@
+{
+  "date": "2018-02-12T20:41:22.737Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is a great historical movie.  suspenseful and engaging with great cinematography.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:43:29.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has interesting characters and the choice of actors is very impressive.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:44:54.866Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like how there isn't much dialogue and was created from a historical standpoint but isn't too sentimental.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:45:45.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Helloo?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:46:41.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:46:58.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:47:13.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to see this movie based on what I said about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:47:43.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure if I did this right, but i am concerned about the time running out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:48:39.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie if you're into historical movies.  I hope I explained it clearly.  what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:50:37.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not usually into war movies, but this one got such a great score for cinematography (A-) that I thought it would be worth seeing.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:52:22.197Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T20:41:22.737Z", 
+  "uid1LogOutTime": "2018-02-12T20:52:47.442Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T20:46:58.320Z", 
+  "user1_id": "USR14", 
+  "user2_id": "USR26", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

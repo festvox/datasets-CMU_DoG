@@ -1,0 +1,319 @@
+{
+  "date": "2018-03-21T16:21:10.196Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:21:18.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:28.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:21:37.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i was seen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:48.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:59.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about the cinema score?Do you think it deserves the B", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:22:34.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cinema score is very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:22:54.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes definitely deserve it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:23:12.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about Leonardo DiCaprio as Jay Gatsby\n ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:23:32.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did he do a good job?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:23:45.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i enjoyed alot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:23:54.171Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes he did a very well job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:24:07.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you know that the movie was based on 1925 novel by Scott Fitzgerald?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:24:48.863Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:24:59.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some critics say that this was a trashy opera of the emotional extravagance", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:26:26.163Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think about the girl Daisy played by Carey Mulligan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:28:28.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great stories", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:29:04.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok.W\nhat do you think about the scene when Jay Gatsby tells Tom that he was having an affair with his wife Daisy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:30:34.987Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes wife curious about daisy and she is right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:32:36.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I feel for Nick Carraway, he is a World War I veteran, who was receiving treatment for alcoholism.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:32:55.306Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about stand out actor Joel Edgerton as Tom Buchanan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:34:11.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He played well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:34:22.939Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Despite his flat one dimensional character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:35:22.975Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "very well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:35:25.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The ratings are not very good, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:36:30.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "5.8 out of 10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:36:41.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the movie was very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:36:50.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:37:06.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know anything about director Baz Luhrmann?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:37:50.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have never heard of him before? Do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:38:09.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes he was a great director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:38:28.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about genre of this movie? Do you like to watch romantic movies, dramas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:39:56.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Too much romantic movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:40:15.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you know that this film fallows the life and timeline of millionaire Jay Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:41:47.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This was the scenery of the 20s in New York State. I like that timeline. A lot of good things happene\nd at that time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:43:38.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So will you watch this movie again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:44:43.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you  shared this with your friends?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:45:15.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:45:55.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i am", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:46:08.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i want to watch this movie again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:46:23.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. That is nice. I f\neel the same way", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:47:13.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:48:15.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. I think we got enough  to finish our conversation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:48:28.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good bye dear", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:48:29.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:48:37.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:48:39.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:48:49.864Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T16:21:10.196Z", 
+  "uid1LogOutTime": "2018-03-21T16:49:00.891Z", 
+  "uid1response": {
+    "feedback": "We had a nice little chat about the movie. The conversation went down smoothly. The user was well mannered and talked on topic. I had a good \nexperience. Thank you .", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:21:10.578Z", 
+  "uid2LogOutTime": "2018-03-21T16:48:44.338Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR4630", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

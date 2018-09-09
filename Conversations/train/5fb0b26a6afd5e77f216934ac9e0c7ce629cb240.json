@@ -1,0 +1,434 @@
+{
+  "date": "2018-03-28T00:05:34.955Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:07:13.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:07:21.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I guess we are talking about Home Alone. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:07:38.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What a funny movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:07:39.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:07:50.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Macaulay Culkin was great in that movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:08:06.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:08:11.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:08:22.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the part where he just realized he was left behind. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:08:44.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My son was young then, and I could just see him feeling like Lord of the Manor... until things started going wrong.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:09:02.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:09:04.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the rest when he is home alone. All the troubles. I know in real life it would not be so funny. All the actors were perfect", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:10:01.786Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, they were.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:10:15.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the critical response note that the first half was flat?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:11:03.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't think the first half was flat and unsurprising", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:11:48.747Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me either!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:11:56.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think they made better movies back then.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:12:18.852Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So who was your favorite character? I liked Kevin, of course, but the bad guys were great, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:12:26.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they definitely seemed more original then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:12:34.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Daniel Stern and Joe Pesci are always great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:12:59.781Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:13:05.043Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you imagine the mother's panic when she realizes she's missing a child?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:13:35.840Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Being a mother that would have been horrifying though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:13:51.836Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's funny...we were both thinking that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:14:12.933Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:14:27.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One crazy family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:14:50.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Even being just across town would be hard enough... but on the other side of an ocean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:14:55.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:15:23.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I would pass out from panic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:15:43.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I had forgotten all about Buzz until he showed up in that paragraph that popped up.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:15:56.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I would, too. Pass out... or have a heart attack.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:16:06.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I was just thinking about Buzz, the older brother", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:16:41.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I didn't remember him. But now I do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:17:01.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wonder what he'd be like as an adult?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:17:08.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mean older brother", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:17:10.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bully", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:17:19.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. But Kevin has new ways of making him pay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:17:29.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol, yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:17:40.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am trying to remember if the one where he went to the toy store", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:18:09.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:18:18.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the booby traps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:18:22.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah..he is funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:18:33.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmmmm... not sure. But maybe?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:18:33.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No one got to enjoy Paris on that trip, that's for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:19:03.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot she got a ride back with the Polka band", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:19:08.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lots of lost airfare money", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:19:11.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I did, too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:19:17.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leave it to Kevin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:19:20.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes didn't score very high", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:20:01.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, it didn't. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:20:07.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metacritic either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:20:22.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I thought it was funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:20:42.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me, too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:20:52.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Plus, I love any Christmas themed movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:21:05.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hey, look who the director is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:21:46.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, me, too. Love the lights and music.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:21:47.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, Carol of the bells. Love that song", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:22:04.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I had forgotten it was John Hughes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:22:14.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I don't know the director.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:22:31.072Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His name is Chris Columbus", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:22:47.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if he is the great great grandson of Christopher Columbus", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:23:05.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL could be.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:23:16.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Overall, it was a really good comedy, and one that families can watch together.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:24:14.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think I have watched the sequels. I may have to watch them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:24:46.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I might just go watch the original again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:25:08.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:25:39.787Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T00:05:34.955Z", 
+  "uid1LogOutTime": "2018-03-28T00:26:26.790Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T00:05:35.017Z", 
+  "uid2LogOutTime": "2018-03-28T00:26:20.828Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3238", 
+  "user2_id": "USR4389", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

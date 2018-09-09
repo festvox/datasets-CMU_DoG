@@ -1,0 +1,40 @@
+{
+  "date": "2018-02-05T21:30:00.484Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:25.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:30:40.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you are suppose to be asking questions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:32:16.962Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:30:00.484Z", 
+  "uid1LogOutTime": "2018-02-05T21:32:59.894Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:30:00.498Z", 
+  "user1_id": "USR568", 
+  "user2_id": "USR4282", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

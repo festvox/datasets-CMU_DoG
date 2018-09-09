@@ -1,0 +1,276 @@
+{
+  "date": "2018-03-19T18:49:24.274Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, how's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:49:37.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hELLO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:49:57.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched Maleficent?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:50:30.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not, actually. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:50:50.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What type of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:50:58.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a fantasy movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:51:15.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is really interesting movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:51:38.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, I like fantasy films. Any famous actors/actresses?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:51:51.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The lead role for this movie is Angelina Jolie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:52:18.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice to know that you like fantasy movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:52:42.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh nice, she's quite good, I haven't seen her recently. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:53:20.399Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what's the film about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:53:24.620Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You can ask me anything you wanna know about this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:53:28.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:54:10.846Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is about a a powerful fairy living in the forest that seek revenge.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:54:12.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "because he was cheated by a man because of his ambition.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:54:46.104Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maleficent used the daughter of the king for her revenge.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:56:33.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "By the way, the King was the one who cheated her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:57:09.420Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems quite interesting. Is it a drama fantasty, then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:58:30.085Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or is it suitable for kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:58:36.337Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maleficent cursed the daughter of the king and the kiss of true love can only remove the curse.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:58:38.526Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it is really a good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:59:58.144Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Very suitable for children.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:00:09.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay, great, that would be good for me then. Any favorite scenes you enjoyed or takeaways?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:01:19.917Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else would you like to know about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:01:25.490Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like I said, do you have any favorite scenes or moments from the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:02:26.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My favorite part is when maleficent kiss Aurora...She did not know that her kiss will remove the curse.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:02:39.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else would you like to know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:03:15.397Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, so a little surprise, I like that. How was the film rated? Did it get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:04:09.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually I was surprised that it only get 51% in rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:04:45.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that's disappointing, huh? Wonder why that is. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:05:02.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was a very low rated film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:05:11.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ask me anything about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:05:52.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Darn, well it sounded good, but that's disappointing. Maybe the ending was bad or something. Can you tell me about the ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:06:13.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maleficent killed the King and Aurora became the new Queen of the Forest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:07:28.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maleficent became a good fairy again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:07:56.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm, seems cliche, maybe that's why the poor reviews. Well, thanks for helping me. I may check out the movie, but probably not. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:30.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:34.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "See ya!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:36.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:08:47.917Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:49:24.274Z", 
+  "uid1LogOutTime": "2018-03-19T19:08:47.931Z", 
+  "uid1response": {
+    "feedback": "The user was not willing to tell me much relevant info unless I asked for specifics, but ultimately did provide me with responses that were appropriate. The conversation was semi-smooth, and I think I'll pass on the film based on their info. ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:49:24.683Z", 
+  "uid2LogOutTime": "2018-03-19T19:08:50.424Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4419", 
+  "user2_id": "USR4031", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

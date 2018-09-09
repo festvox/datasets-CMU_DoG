@@ -1,0 +1,299 @@
+{
+  "date": "2018-02-13T18:06:27.321Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:07:03.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:08:36.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing well, just finished reading the document about the movie Zootopia.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:08:42.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, have you seen Zootopia before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:09:03.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it before. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:09:19.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! And, I really enjoy it.  I love the main character Judy Hopps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:09:45.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who's your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:09:53.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Judy Hopps as well. But Nick is funny too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:10:33.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, okay...Nick the con artist fox.  Yes he and his partner in crime Finninck are very funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:11:31.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All of the animals are quite entertaining.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:11:53.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes they were.  I like how the movie encourages it's viewers to look past species stereotypes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:12:21.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is an intriguing aspect of the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:13:16.864Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it was.  However all though they were fighting stereotypes, it's hilarious how Judy tricked Nick into confessing to tax evasion into her carrot pen!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:14:19.883Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They did an excellent job at personifying the animals to relate to human society. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:16:15.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I agree.  And, I like how Nick and Judy worked together.  And, even though Nick had to be blackmailed to help Judy he still helped her keep her job when Bogo demanded Judy to resign.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:18:04.955Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:19:35.135Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "We still have three more documents to go, hopefully we can get through this in a timely manner and both get paid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:19:57.528Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They didn't come together in the best way but they still helped each other out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:20:11.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, especially when Judy learned that Nick was bullied as a child due to being stereotyped.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:22:19.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So it seems to always come back to the them of defeating stereotypes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:22:36.023Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, even the buffalo acts according to his stereotype.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:23:38.754Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So do you remember the City Hall scene where Judy and Nick got access to the city's traffic cameras?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:24:19.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, they discover that Manchas was captured by wolves.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:25:05.817Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:29:33.662Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you wondering what makes all of the animals turn \"savage\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:31:03.788Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I was wondering the same thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:17.076Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is strange for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:33:33.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if it has something to do with Mr. Big?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:55.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe it was the night howlers, the toxic flowers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:23.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I was thinking that the night howlers were the wolves!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:34:44.436Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No they were flowers,\n they created a psychotropic effect on the animals.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:35:05.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess I was thinking like Judy, she thought the \"night howlers\" were wolves too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:35:43.253Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she did. It wasn't until she returned to Bunnyburrow when she learned that they were toxic flowers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:36:23.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like how Nick did not abandon Judy when she was injured.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:25.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The toxic flowers are also a clever similarity to problems the are happening in the \"real\" world..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:29.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, but what would you compare them to in the real world?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:47.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Because there was a prey-supremacist conspiracy in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:39:34.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A plant that is \"developed into a drug\" that has \"psychotropic effects\". ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:40:03.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very clever way to keep parents interested in the movie as well as children.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:40:28.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol, yes I understand what you mean now.  And I agree, the animated movies are really starting to make sure to incorporate the interests of parents.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:41:53.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about the part when Judy and Nick took the serum out of the gun and put in blueberries instead?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:42:31.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was quite funny. They sure pulled one over on Bellwether!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:43:23.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they did!  It was nice talking to you! Enjoy the rest of your day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:43:35.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you! You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:43:50.527Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T18:06:27.321Z", 
+  "uid1LogOutTime": "2018-02-13T18:43:37.432Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:06:27.348Z", 
+  "uid2LogOutTime": "2018-02-13T18:44:00.883Z", 
+  "uid2response": {
+    "feedback": "The interaction was a little odd. The other user seemed to be impatient and not very thoughtful.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3333", 
+  "user2_id": "USR3155", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

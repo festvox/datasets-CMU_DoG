@@ -1,0 +1,144 @@
+{
+  "date": "2018-03-05T19:50:58.548Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have I got a movie suggestion for you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:51:25.089Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:51:31.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:51:52.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:52:26.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That movie was really funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:53:04.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, then you know all about the slapstick scenes. Which was your favorite scene?\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:53:22.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where the monkey crawl out of the guy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:54:01.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:55:59.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a pretty good one. Carrey is hilarious in the slapstick scenes, but Bruce Almighty gets bogged down in treacle. I do agree with the monkey scenes. Do you remember the job and name of Jim Carrey's character in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:56:00.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was a news reporter. The character name was Bruce  Nolen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:57:26.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice! I read a summary that In one of Jim Carrey's best films he place Bruce Nolan, a news reporter that nurses the hopes of one day becoming an anchor, but is seen as too comedic by his fellow workers. Kind of like Carrey probably nursed hopes of one day becoming a real actor. What are your thoughts on that? Do you feel it is accurate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:59:09.029Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it is accurate because in order to succeed sometimes you can't always be nice. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:01:16.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. I was really surprised to see that the film only received a 48% on rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:02:42.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. Not all people like it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:03:27.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are we done here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:06:29.058Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:09:20.080Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "???", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:11:59.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:13:37.692Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:14:20.581Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T19:50:58.548Z", 
+  "uid1LogOutTime": "2018-03-05T20:14:50.158Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T19:50:58.550Z", 
+  "uid2LogOutTime": "2018-03-05T20:14:43.283Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4774", 
+  "user2_id": "USR4307", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

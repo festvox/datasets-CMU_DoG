@@ -1,0 +1,122 @@
+{
+  "date": "2018-02-13T18:26:04.349Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie is called The Imitation Game, a drama that received a score of 91% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:28:42.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, what is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:29:15.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of this movie?  It is about a cryptanalyst named Alan Turing who decrypted German intelligence codes for the British government during WW2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:30:15.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not heard about it. If sounds like it would be a good movie. I already like the plot of the movie. Who plays in it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:31:15.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie stars Benedict Cumberbatch as Alan Turing, Keira Knightley as Joan Clarke, Matthew Goode as Hugh Alexander and Tom Goodman-Hill as Sgt. Staehl - in all honesty I don't think I have heard of any of them haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:32:12.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of Keira Knightley, I liked the Disney Pirate moves with Jack Sparrow. She played in all the movies. Good actress. I am surprised you have not heard of her. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:04.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen the movies, other than Johnny Depp and Orlando Bloom I probably couldn't name the rest of the cast.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:36:18.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game received great reviews from critics and a CinemaScore of A+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:31.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do not think I can either, I would need to google them just to see who they are and what they have been in the past. I hope they put together a good cast and crew for this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:39.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that is nice, that gives me hope that it will be good. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:53.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Imitation Game is directed by Morten Tyldum, are you familiar with any of his other movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:38:22.999Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont think so, what else has he produced? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:42.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I honestly have no idea...  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:40:07.713Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm sorry, this is taking too long to progress to the next one I'm going to return this HIT.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:40:26.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Another item we would have to google to look up. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:40:35.588Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:26:04.349Z", 
+  "uid1LogOutTime": "2018-02-13T18:40:52.799Z", 
+  "uid1response": {
+    "feedback": "the movie sounds good and I like the plot of the movie and one of the actresses. I would watch it", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:26:04.411Z", 
+  "uid2LogOutTime": "2018-02-13T18:40:33.216Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2857", 
+  "user2_id": "USR121", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

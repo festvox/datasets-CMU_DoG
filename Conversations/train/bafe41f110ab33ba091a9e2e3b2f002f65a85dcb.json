@@ -1,0 +1,240 @@
+{
+  "date": "2018-01-29T23:45:31.902Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:46:09.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:46:13.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I understand you have a document about a movie to read to me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:46:29.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I'm suppossed to answer questions that you ask", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:46:51.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hm, these are my instructions:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:47:17.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is \"La La Land\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:47:20.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. Can you tell me what kind of movie it is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:47:43.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You ask questions and I akswer them based on the information about the film given to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:47:48.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. What genre is the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:47:58.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It says it's a musical romantic comedy drama.  It sounds awful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:48:10.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love musical comedies. Who does it star?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:48:25.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling and Emma Stone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:48:51.175Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Two of my favorites. What's it rated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:49:01.423Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's no information on the rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:49:32.968Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of IMDB rating has it gotten?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:49:43.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "IMDB is 8.1/10, which is pretty good if you can get around the jagged Oscar the Grouch face of Emma Stone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:50:23.579Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe the critics like Sesame Street, as do I. Thanks for the information.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:50:48.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Um, who is it directed by?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:51:21.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Damien Chazelle...apparently a white man trying to \"save jazz\" was an appealing project to him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:51:52.561Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who wouldn't love that? What else has he directed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:52:18.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do'nt know and I wasn't given that information.  I can only use the information I've been given, I'm sorry.  However you seem interested so I can tell you that there are a lot of dance numbers in this film and it seems like most important sections involve some dance number", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:53:23.789Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's right up my alley. Any information on who composed the musical score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:53:55.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "While there's no information on who composed the score or choreographed the numbers, Emma Stone is constantly failing at auditions (Which seems pretty dumb to have a musical with good dancers playing bad dancers but what do I know) so that might be fun to watch if you have nothing better to do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:55:17.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have a thing for seeing Emma Stone overcoming adversity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:56:12.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it has a happy ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:56:18.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure, but by the third major scene The two main characters are bitching at each other, with Emma Stone complaining that Ryan Gosling is giving up on his dreams.  I'm sure she says hee's not dancing enough WHILE DANCING.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:57:17.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would imagine it turns out sad in the end, be3cause Emma Stone moves away", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:58:00.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry, this UI is really clunky and hard to use and the text I've been given is very small so I keep having to resize the screen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:58:30.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:58:40.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have some infomation about critical response", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:58:55.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, you've been very helpful regardless. Anything else you can tell me about the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:58:58.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds good, what have they been saying about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:59:07.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a bit mixed, with most saying they enjoyed it and a few claiming things such as lack of character development ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:59:55.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I tend to believe the optimists in this instance. Thanks so much for your help today, Emma Stone would be proud of your perserverance in the face of adversity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:00:40.708Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:45:31.902Z", 
+  "uid1LogOutTime": "2018-01-30T00:00:52.429Z", 
+  "uid1response": {
+    "feedback": "This UI is REALLY bad.  I had to resize the document multiple times, open it in a new tab every time something new was added.  It's just terrible, really.  Burn it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:45:31.943Z", 
+  "uid2LogOutTime": "2018-01-30T00:00:44.120Z", 
+  "uid2response": {
+    "feedback": "It doesn't sound like the kind of movie I like, I don't like the actors, actress, or the genre, and I can't stand musicals or dance films.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4749", 
+  "user2_id": "USR3702", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

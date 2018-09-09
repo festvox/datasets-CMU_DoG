@@ -1,0 +1,70 @@
+{
+  "date": "2018-02-18T02:44:49.452Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "You should probably not watch The Avengers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T02:45:30.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ha! not sure where to go with that . But I love the Avenger movies! Why do you say not watch them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T02:46:10.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joss Whedon directs it, and it sounds like the same old thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T02:46:55.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you referring to the original specifically", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T02:49:29.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds like it's like every other super hero movie. Maybe you would like it if you like those. I just find everything from the names to the outfits to the origin stori4es kind of corny, Like, \"Captain America\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T02:50:20.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T02:56:00.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Perhaps we should move on to the enxt movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:01:04.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Please respond", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:25:47.132Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T02:44:49.452Z", 
+  "uid1LogOutTime": "2018-02-18T03:26:07.876Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-18T02:44:49.462Z", 
+  "user1_id": "USR2581", 
+  "user2_id": "USR1162", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

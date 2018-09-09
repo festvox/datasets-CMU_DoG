@@ -1,0 +1,169 @@
+{
+  "date": "2018-03-29T01:44:06.118Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:45:29.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:45:45.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie home alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:46:03.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone? It seems that I haven't seen that movie yet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:46:25.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:46:29.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's basically how it sounds it's about a kid who get's left alone by mistake on Christmas. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:47:41.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a comedy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:47:51.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's interesting, I love comedy!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:48:44.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of humor does it employ? Is it mostly jokes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:48:58.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's more of pranks happening. See when the boy gets left alone he was fine with it until some people tried to break into his house.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:50:00.659Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So in order to get them to leave he pranked them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:50:23.222Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this a movie you can watch with the whole family?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:50:50.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes for sure ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:51:08.836Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it include violence though?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:51:42.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's an older movie but it is great for laughs. There is a little violence but only things like falling down stairs, No guns are anything of that sort.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:52:46.141Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:53:49.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Now that you mention that it's an old movie, do you think the movie is still enjoyable for present-day viewers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:55:10.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is old movie but it what the younger kid's call \"oldies but goodies.\" ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:55:53.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think is the perfect time of the year to watch this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T01:57:12.365Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would say around Christmas time. Not only that but around Christmas time is when it comes on the ABC Family channel. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T01:58:22.547Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is the movie's running time?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T02:00:37.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it viewable in 2 hours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T02:00:45.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know I believe it is but you can always look it up. I do know they have a great director and cast.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T02:03:07.936Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T01:44:06.118Z", 
+  "uid1LogOutTime": "2018-03-29T02:08:22.309Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T01:44:06.351Z", 
+  "uid2LogOutTime": "2018-03-29T02:35:57.967Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR244", 
+  "user2_id": "USR3060", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

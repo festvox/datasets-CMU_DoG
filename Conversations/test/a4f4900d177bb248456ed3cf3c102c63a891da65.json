@@ -1,0 +1,111 @@
+{
+  "date": "2018-03-20T16:31:02.944Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:31:11.565Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! Today we are talking about Home Alone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:32:16.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh boy, that's an old one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:32:25.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No kidding! Considering it scored an average of 5.5/10 on Rotten Tomatoes it hasn't fared as well as one might think.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:33:33.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow! I would've thought a cult classic like that would be rated much higher.  I think Rotten Tomatoes is garbage though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:34:08.464Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I was surprised by that too. The metacritic score wasn't much higher-- 63/100. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:34:59.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "One of the critics wrote it was a \"sadistic festival of adult-bashing.\" lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:35:29.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I really don't rely on many of those review sites.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:35:32.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it's supposed to be a children's movie, so wouldn't adult bashing justify it for children?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:36:27.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actually, you make a good point. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:37:00.838Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I mean, as long as it's not vulgar or anything, I would think that it's acceptable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:37:38.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed, and it's not like any eight year old couldn't devise the same sorts of booby traps. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:38:15.768Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Though the scenario hasn't particularly aged well. Seeing as Kevin gets left behind simply because the power went out and the alarm clocks reset. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:40:44.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:42:35.339Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-20T16:31:02.945Z", 
+  "uid1LogOutTime": "2018-03-20T16:55:50.533Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:31:03.045Z", 
+  "uid2LogOutTime": "2018-03-20T16:43:05.289Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4183", 
+  "user2_id": "USR3083", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

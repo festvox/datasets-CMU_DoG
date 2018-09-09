@@ -1,0 +1,216 @@
+{
+  "date": "2018-03-20T17:36:06.065Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:36:55.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, the movie we are talking about today is Maleficent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:37:16.115Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:37:24.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maleficent...oh ok...is that a disney movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:37:37.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not seen it, but am thinking about whether i will see it or not ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:38:01.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based off of the 1959 Disney film Sleeping Beauty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:38:25.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie ? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:39:07.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you recommend it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:39:28.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it manages to be improbably entertaining to watch due solely to the title character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:40:22.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays the title character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:40:40.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Angelina Jolie plays the title character. Do you like movies she is in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:41:11.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yes, i do like movies that she is in. And i imagine she would make a great Maleficent too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:41:43.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got a CinemaScore of A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:42:10.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i am interested in watching the movie. What would you rate it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:42:26.339Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would agree with Rotten Tomatoes and give it a 51%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:43:07.429Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you usually watch superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:43:25.100Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it a very long movie, i dont usually like movies that are very long and drawn out ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:43:49.520Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes i have watched many superhero movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:44:42.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure how long the movie is but it didn't seem to feel like is dragged on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:44:51.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it sounds like it is a good movie then ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:45:21.223Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Elle Fanning is also in this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:45:25.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like movies she is in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:45:37.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does she play Sleeping Beauty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:45:41.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i cant think of any other movies that she was in right now. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:46:07.977Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she plays Aurora. Maleficent does not like her in the beginning but grows to care for her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:46:58.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like fantasy films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:47:33.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i do like fantasy films ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:48:07.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then you will probably like the movie. It also destroys stereotypes\n that were only tweaked in Frozen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:49:04.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh that sounds cool ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:49:21.158Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i do like the story of sleeping beauty also ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:49:37.889Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T17:36:06.065Z", 
+  "uid1LogOutTime": "2018-03-20T17:49:42.504Z", 
+  "uid1response": {
+    "feedback": "i will watch the movie because what he told me about it sounded good \n", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:36:06.075Z", 
+  "uid2LogOutTime": "2018-03-20T17:49:33.463Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3201", 
+  "user2_id": "USR1791", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

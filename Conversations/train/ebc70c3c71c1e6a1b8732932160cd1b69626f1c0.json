@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-06T15:25:29.579Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:25:35.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any good movies lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:25:52.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Yes, we saw Black Panther in theaters and I liked it. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:26:52.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you like Bruce Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:28:04.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually just saw an older movie for the first time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:28:05.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:28:21.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:28:22.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:28:40.252Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T15:25:29.579Z", 
+  "uid1LogOutTime": "2018-03-06T15:28:51.921Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-06T15:25:29.600Z", 
+  "uid2LogOutTime": "2018-03-06T15:28:26.977Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR300", 
+  "user2_id": "USR946", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

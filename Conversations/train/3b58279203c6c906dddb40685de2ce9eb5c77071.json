@@ -1,0 +1,66 @@
+{
+  "date": "2018-03-30T17:04:55.106Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:05:05.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:05:17.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so have you seen the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T17:05:42.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:05:51.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but it's been so long hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:00.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T17:06:06.640Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T17:04:55.106Z", 
+  "uid1LogOutTime": "2018-03-30T17:06:11.162Z", 
+  "uid1response": {
+    "feedback": "Th guy just left me", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T17:04:55.331Z", 
+  "uid2LogOutTime": "2018-03-30T17:05:57.870Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4568", 
+  "user2_id": "USR1685", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

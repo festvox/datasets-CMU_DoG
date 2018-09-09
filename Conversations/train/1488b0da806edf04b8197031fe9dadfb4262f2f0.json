@@ -1,0 +1,365 @@
+{
+  "date": "2018-02-20T15:38:43.091Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:38:49.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:05.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:14.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen catch me if you can?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:39:18.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:24.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im good staying warm here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:39:25.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where are you? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:32.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you must go see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:39:34.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is there snow on the ground?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:38.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:39:42.711Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "tell me why I should see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:39:44.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you like tom hanks and leonardo dicaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:02.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like hanks more", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:40:11.905Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well they both play there roles perfectly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:30.807Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "plus it keeps you guessing the whole time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:38.963Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok...that's not a very compelling reason", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:40:44.098Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "which takes really good actors to pull that off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:46.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what makes the move special? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:40:51.145Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Depends on what you like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:40:59.358Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not every movie is going to be good for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:08.372Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there are a LOT of movies out there. I don't like to waste time seeing ones that I really don't like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:41:21.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Like I would never watch musicals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:37.041Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but some would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:41.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i get that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:41:44.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its got a fast paced to this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:48.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like documentaries ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:41:50.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "with a side romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:52.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "side crime", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:54.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and humor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:41:57.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like movies based on true stories. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:41:57.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this is true story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:42:03.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like foreign films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:42:08.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK...but you still have told me a really compelling reason to see the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:42:24.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did it win any awards? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:42:29.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "96 percent rotten tomotoe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:42:45.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it a chick flick? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:42:45.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:42:48.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's it rated? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:42:50.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "biographical crime", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:43:03.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "pg-13? R?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:43:11.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "director steven spielburg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:43:12.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think its pg-13", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:43:29.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it glorify the criminal? and make him look good? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:43:39.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Watch the trailer and see if you like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:43:42.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its more like con artist criminal work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:43:53.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where can i find the trailer? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:43:56.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "counterfitting money", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:44:00.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where can i find the trailer? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:44:20.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Youtube", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:44:24.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:44:29.118Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you will like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:44:37.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HAve a good day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:44:42.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for the recommendation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:44:44.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what does IMDB say about it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:44:52.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:45:37.548Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T15:38:43.091Z", 
+  "uid1LogOutTime": "2018-02-20T15:47:24.997Z", 
+  "uid1response": {
+    "feedback": "the conversation was a bit awkward, but that's OK. the other person didn't give me any compelling reason to see the movie. I didn't detect any emotion - anything to make me really want to see the movie. It seemed at times that the other person was a robot and not a real person. ", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T15:38:43.101Z", 
+  "uid2LogOutTime": "2018-02-20T15:44:47.868Z", 
+  "uid2response": {
+    "feedback": "The other user was a little rude and too direct on the questions.  But Trying to convey what the movie and story is about was my plan.  ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4230", 
+  "user2_id": "USR3843", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

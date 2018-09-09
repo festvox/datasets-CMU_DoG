@@ -1,0 +1,121 @@
+{
+  "date": "2018-03-26T15:22:19.946Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:22:30.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen the shape of water?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:22:37.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it, how is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:22:55.458Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's really great. It's a Fantasy/Drama film ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:23:13.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:23:23.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a mute woman who works as a custodian in a high security government lab and she forms a relationship with a captured amphibian creature", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:24:17.605Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seems strange to me... Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:24:39.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sally Hawkins, Michael Shannon, Octavia Spencer, and Richard Jenkins", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:25:15.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not heard of any of those actors/actresses lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:25:42.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are the reviews like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:25:52.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They're a lot of people you may not know by name but they are in a lot of movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:26:01.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The reviews across the board are good. Rotten Tomatoes gave it a 92%, Metacritic gave it an 87%, and Cinema Score gave it an A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:26:48.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, those really are good reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:27:18.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What else happens in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:27:41.156Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T15:22:19.946Z", 
+  "uid1LogOutTime": "2018-03-26T15:27:26.584Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T15:22:20.000Z", 
+  "uid2LogOutTime": "2018-03-26T15:28:36.112Z", 
+  "uid2response": {
+    "feedback": "My chat partner left the room rather quickly; I would have liked to hear more about the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2800", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

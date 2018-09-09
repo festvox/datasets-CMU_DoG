@@ -1,0 +1,221 @@
+{
+  "date": "2018-02-09T22:20:47.439Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello Hi  are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:21:45.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:21:52.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:22:03.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is Wonder Woman. have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:22:06.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i havent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:22:15.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:22:20.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's based on the DC Comic character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:22:58.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:23:14.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman I guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:23:38.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who's yours", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:23:44.521Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What lesson did you take from the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:23:48.345Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wonder Woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:23:56.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:24:58.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:25:17.964Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "two hours and 21 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:25:54.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you see the movie again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:26:02.992Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen it yet but i plan on it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:26:19.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you going ot see it in IMAX?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:26:43.963Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No probably on TV when it comes on on netflix or amazon prime.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:27:20.536Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the villan in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:28:17.261Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ares?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:30:46.470Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What city is the movie based in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:30:48.987Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:32:49.199Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Themyscira", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:32:50.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry I thought I hit wnter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:33:09.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "enter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:33:12.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this an abandoned city or a metropolis?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:33:21.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:34:18.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think it is child appropriate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:35:19.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:36:17.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any kids in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:36:40.534Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T22:20:47.439Z", 
+  "uid1LogOutTime": "2018-02-09T22:36:59.143Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T22:20:52.837Z", 
+  "uid2LogOutTime": "2018-02-09T22:36:46.389Z", 
+  "uid2response": {
+    "feedback": "Wonderwoman looked corny in the previews and I don't find the lead actress interesting, so Im not going to watch it. The other user took too long to respond.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR330", 
+  "user2_id": "USR73", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

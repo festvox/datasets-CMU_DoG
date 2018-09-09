@@ -1,0 +1,244 @@
+{
+  "date": "2018-03-05T16:32:33.134Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:34:22.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:35:30.665Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did the document you read a movie that you have seen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:37:14.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry Was the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:37:26.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:37:46.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did the movie sound interesting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:38:17.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:39:03.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "was it a drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:35.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:39:46.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "were there any famous actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:40:06.694Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "none that i remember of ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:40:34.954Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "was is a movie made recently", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:40:45.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:41:02.297Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did it come out in the theater? or was it a Netflix/Amazon type movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:41:52.886Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\ndon't remember really ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:42:43.639Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what was the movie about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:42:54.900Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "don't remember really ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:43:00.660Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:43:13.019Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "don't remember really ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:43:32.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you don't remember but it is something you would watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:44:58.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes absolutely, looked interesting ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:45:20.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so what was your interest in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:45:46.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:46:04.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are drama's the only one;s you like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:47:19.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:47:36.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so what was it about the drama that made you want to see the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:50:50.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "everything! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:52:15.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "such as", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:52:27.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "describe the movie to me ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:52:37.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the whole movie??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:54:03.141Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no just what made you interested in seeing it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:54:40.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if it is interesting i might want to watch it as well, if you could remember the name it would be helpful for me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:55:18.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the movie is about How God makes a visit to some human who has lost faith to restore it, something like bruce almighty is the title", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:57:32.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bruce Almighty was actually a movie that came out years ago it was very funny not a drama at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:58:13.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really? i like all the drama of how God comes to earth I don't think there is anything funny about that, maybe my sense of humor needs some god", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:00:34.339Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T16:32:33.134Z", 
+  "uid1LogOutTime": "2018-03-05T16:58:51.198Z", 
+  "uid1response": {
+    "feedback": "I did not recieve the document and it was very hard to get the other to participate in the conversation. the most were 1 word answers and they couldnt remember the name of the movie nor what the movie was about, i have a copy of the conversation if you would like to see it. The other person also said it was a new movie but then when they finally described the movie it was an older movie. ", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:32:33.372Z", 
+  "uid2LogOutTime": "2018-03-05T17:06:45.978Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1660", 
+  "user2_id": "USR716", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "date": "2018-03-05T17:04:53.967Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:05:24.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought we were supposed to read a document about a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:05:41.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. This move stars Jim Carrey and Jennifer Aniston", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:05:55.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Apparently only I have the document. What would you like to know about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:06:23.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do love Jennifer Aniston, on the other hand Jim Carrey seems a little crazy these days.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:06:28.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:06:39.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it another romantic comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:06:57.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Somewhat. Morgan Freeman plays God and gives Jim Carrey the power to become God.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:07:26.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, I don't think I ever saw that one, but it does sound familiar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:07:50.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was a news reporter who went kind of nuts because another reporter got the stories he wanted.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:08:23.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it rated for the whole family though?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:08:30.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, no, pretty sure I haven't watched it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:08:59.132Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think its good for anyone over 10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:09:08.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:09:31.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Bruce Almighty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:09:41.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah, yes, okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:09:58.024Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jennifer Aniston breaks up with him because as God, he becomes a real jerk.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:10:07.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He uses one of his powers to make her breasts bigger.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:10:48.790Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:10:54.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okay, I think it would be fun to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:11:08.977Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That part was funny. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:11:13.430Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was a pretty good movie, so good that they end up making a spin-off from it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:11:34.432Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what's the spin-off?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:11:46.281Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh wait, did that one have Chris Rock?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:11:58.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's called Evan Almighty and Evan is the reporter who got the job that Jim Carrey wanted", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:12:27.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont think so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:12:37.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It does have Steve Carrell in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:12:47.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, okay, must have been thinking of another movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:13:09.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well these two would be good watched back to back then. I guess that is all the info I needed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:13:33.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hope you have a great day. Oh and another good part is when he uses his powers to find the body of Jimmy Hoffa.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:14:08.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for all the info", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:14:24.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and for doing the reading work :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:14:32.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:14:37.937Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T17:04:53.967Z", 
+  "uid1LogOutTime": "2018-03-05T17:14:44.202Z", 
+  "uid1response": {
+    "feedback": "I have never watched Bruce Almighty or the spin off movie, it sounds like a fun movie to watch for movie night. I am always looking for new movie ideas.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:04:53.968Z", 
+  "uid2LogOutTime": "2018-03-05T17:14:40.227Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1215", 
+  "user2_id": "USR2439", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

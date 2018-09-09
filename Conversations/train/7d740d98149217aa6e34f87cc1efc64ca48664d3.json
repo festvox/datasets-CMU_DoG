@@ -1,0 +1,149 @@
+{
+  "date": "2018-02-13T20:06:49.884Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie is Marvels 2012 The Avengers and is a superhero\n movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:09:24.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don't think I ever got around to seeing it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:10:32.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has actors like Robert Downey Jr as Tony Stark and Chris Evans as Captain America", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:11:54.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Saw earlier ones with those characters and actors, by the time this movie game out I was feeling burned out on them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:13:27.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is the sixth film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:15:26.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sixth including the individual character intro movies (Thor, Iron Man, etc)?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:17:04.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes in this one Samuel L. Jackson is Nick Fury and he recruits them all for a team.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:19:25.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK, maybe I did actually see this one.  First time with all the characters on a single team.  Didn't realize they managed to milk out the whole thing for THAT many movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:22:30.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The villain is Thor's brother Loki.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:24:42.555Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely remember Loki, from this movie and I guess two Thor movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:26:10.064Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you care about movie ratings it had a 92% on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:28:33.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Surprised it rated that high.  Thought it was good, for a Sci Fi-ish action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:29:58.895Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some of the plot includes the searching for the Tesseract which is a energy source of unknown potential.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:32:40.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Don't recall that part, but then it's been a while since I've seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:33:31.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a bit older having been made in 2012.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:34:01.796Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems that way to me, seems they've pumped out hundreds more since then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:35:02.066Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director on this one was Joss Whedon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:37:25.116Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Don't know him or of him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:37:55.877Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:41:50.579Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did a while ago.  They just suddenly started putting out so many it seemed they were milking the genre for all its worth and I burned out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:43:04.886Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T20:06:49.885Z", 
+  "uid1LogOutTime": "2018-02-13T20:44:12.049Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:06:49.894Z", 
+  "uid2LogOutTime": "2018-02-13T20:45:26.272Z", 
+  "uid2response": {
+    "feedback": "Already seen the movie and don't consider it remarkable enough to see it again.  Conversation was slow, took forever.  Was not presented with a document to read during the conversation.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1428", 
+  "user2_id": "USR3462", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

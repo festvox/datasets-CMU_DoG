@@ -1,0 +1,233 @@
+{
+  "date": "2018-02-28T17:49:17.178Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there - have you seen the movie How to Train Your Dragon before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:50:35.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't, what is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:00.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an animation fantasy movie that is based on a British Book series with the same title. It is a coming of age tale about friendship between a boy and his animal.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:52:07.322Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it live action or animated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:52:30.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is animated.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:52:35.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anyone famous doing the voices?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:53:00.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The voice actor are Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, TJ Miller, Kristen Wiig, and Chris Mintz-Plasse.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:51.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actors*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:55.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like Craig Ferguson, sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:24.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What rating is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:51.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has gotten great reviews, especially for its animation skills and comedy. If you are looking for a movie it may be worth a watch. Rotten Tomatoes gave it a 98% rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:55:19.511Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It does sound promising, do you know what studio made it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:17.623Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pixar studios made the film. Do you typically watch animated films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:30.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actually I misread that. I'm not sure who made the film but it is compared to the level of Pixar in the reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:04.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh OK. I do like the Pixar stuff a lot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:28.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Looks like DreamWorks produced How to Train Your Dragon - do you also like movies from that studio?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:06.248Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't recall any DreamWorks movies by name, but yes I like some of their stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:46.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year was it made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:01.808Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was made in 2010. Some of the key scenes from the movie involve interactions between a 15yo kid from a Viking Village and a dragon he finds in the forest after mistakenly thinking he shot it down. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:14.232Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do like Dragons and I like fantasy movies as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:53.585Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie seems like it might be a good match for you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:13.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it does sound like it could be fun to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:34.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you enjoy action films as well? This movie has some animated battle scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:14.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really liked the Lord of the Rings movies, plenty of battles in those", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:37.602Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's a scene in which the dragon, Toothless, ends up battling an entire Dragon's Nest - I think you might enjoy it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:34.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the dragon named \"Toothless\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:59.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes the dragon is named Toothless.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:19.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I assume it does actually have teeth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:04:33.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The name was given by the 15yo boy (named Hiccup) because the dragon can retract his teeth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:03.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool... seems like the movie has some humor in it too then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:36.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes some of the reviews mention the comedy portions as well. Think you will consider watching this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:16.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:17.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for all the info, you've been very helpful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:26.637Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:49:17.178Z", 
+  "uid1LogOutTime": "2018-02-28T18:06:30.997Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:49:17.250Z", 
+  "uid2LogOutTime": "2018-02-28T18:06:28.733Z", 
+  "uid2response": {
+    "feedback": "I'm not really too much of a fan of animated movies to be honest, so that is the biggest deciding factor for me", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2038", 
+  "user2_id": "USR1326", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

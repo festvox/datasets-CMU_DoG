@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-06T16:08:18.156Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:08:29.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:09:37.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:10:08.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:10:11.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:10:12.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm great thank you ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:13:27.695Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T16:08:18.157Z", 
+  "uid1LogOutTime": "2018-03-06T16:11:47.191Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T16:08:18.159Z", 
+  "uid2LogOutTime": "2018-03-06T16:13:31.954Z", 
+  "uid2response": {
+    "feedback": "The other person took a while to respond then right when I responded they ended the chat", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4900", 
+  "user2_id": "USR3849", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

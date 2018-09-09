@@ -1,0 +1,151 @@
+{
+  "date": "2018-03-17T00:39:36.972Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:39:50.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:40:17.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:41:04.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have u watched this movie ? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:41:38.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:41:48.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's one of my favourite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:41:51.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:41:56.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catch me if you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:42:01.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have never heard of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:42:10.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why is it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:42:18.642Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about a young boy who is genius", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:42:26.843Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You  can say he was Jack of all tasks but master of none", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:42:56.296Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:43:11.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He adopted every profession just by acting ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:43:19.231Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Steven stelburg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:43:54.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You mean Spielberg?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:44:14.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a crime movie basically", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:44:16.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But at the end to hanks put his crime on right direction", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T00:44:36.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "K", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:45:32.086Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where did you go?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T00:45:38.073Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-17T00:39:36.972Z", 
+  "uid1LogOutTime": "2018-03-17T00:45:43.554Z", 
+  "uid1response": {
+    "feedback": "Doesnt sound like an interesting movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-17T00:39:37.132Z", 
+  "uid2LogOutTime": "2018-03-17T00:44:40.704Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR565", 
+  "user2_id": "USR3078", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

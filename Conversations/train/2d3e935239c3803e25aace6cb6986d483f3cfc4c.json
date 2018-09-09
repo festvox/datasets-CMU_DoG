@@ -1,0 +1,226 @@
+{
+  "date": "2018-03-23T17:46:01.755Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:46:39.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you seen The Wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:47:05.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I heard leonardo dicaprio is great in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:47:26.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is! He plays Jordan Belfort, a stockbroker in New York ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:47:59.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:48:13.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I's a black comedy about Wall S\ntreet and corruption and fraud", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:48:48.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds pretty good. I like Margot Robbie too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:49:11.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is really good in it! She plays his wife", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:49:41.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:50:05.976Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know. It has been described as \"an irresponsible glorification\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:51:33.129Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm. who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:51:51.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Martin Scorcese", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:52:01.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what studio produced it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:52:45.370Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio is the producer and the star", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:53:46.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what year did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:54:58.759Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:55:23.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But the film is set in 1987", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:55:43.387Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow 1987 was a wild time on wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:55:58.755Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is based ona true story, of drug and sex fueed stocbroker culture", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:56:31.883Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who else is in the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:57:28.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rob Reiner is in it as Max Belfort", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:57:51.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jonah Hill is Donnie Azoff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:58:07.372Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are there any little people in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:58:28.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't remember. It's really just a film about the decadent\n lifestyles of the stockbrokers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:00:26.645Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And all the prostitutes and affairs and drugs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:00:37.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rob Reiner is always funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:00:43.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he only has a small role but he is very funny. Jordan's career ends after Black Monday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:02:48.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How about jonah hill?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:03:23.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He plays the neighbor - him and Jordan found the comapny together ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:04:02.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and Jordan trains them all in the art of the \"hard sell\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:04:19.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds good. I might have to check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:04:52.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:05:17.617Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T17:46:01.755Z", 
+  "uid1LogOutTime": "2018-03-23T18:05:20.273Z", 
+  "uid1response": {
+    "feedback": " A bit awkward, but not bad", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T17:46:01.884Z", 
+  "uid2LogOutTime": "2018-03-23T18:05:31.648Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3591", 
+  "user2_id": "USR4366", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

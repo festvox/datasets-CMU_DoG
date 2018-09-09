@@ -1,0 +1,89 @@
+{
+  "date": "2018-03-20T16:49:32.657Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:50:04.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:50:11.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! Have you seen this little known film called Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:50:46.663Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:50:59.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plenty of times! How would you rank them compared to other Pixar films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:51:30.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was cute with a great story line, much like many of the other Pixar films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:52:15.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you likely to see it again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:52:38.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Probably, I have 2 young boys, so it's a great movie to watch with them!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:53:02.676Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the music sound track of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:53:49.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sweet! I just remember that one song \u2018You Got a Friend in Me\u201d but it\u2019s quite nostalgic for me to hear it since I grew up with the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:54:47.595Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, that's a catchy one! Which character was your favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:55:47.055Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:49:32.657Z", 
+  "uid1LogOutTime": "2018-03-20T17:01:36.646Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:49:41.039Z", 
+  "user1_id": "USR2056", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

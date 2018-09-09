@@ -1,0 +1,257 @@
+{
+  "date": "2018-03-20T22:37:24.246Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:37:44.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I would like to talk about is The Wolf of Wall Street.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:37:52.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is from 2013.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:38:06.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:38:08.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:38:11.941Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The genre is \"black comedy\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:38:15.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is black comedy exactly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:38:28.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You might know Leonardo DiCaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:38:30.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do know him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:38:37.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What other actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:38:42.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He plays the main character. Jordan Belfort.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:38:54.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:39:07.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director is Martin Scorsese", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:39:31.741Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the plot of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:39:41.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is based on the memoir of Jordan Belfort.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:40:09.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What ratings did the movie get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:40:33.010Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It tells the story of the career of Jordan Belfort as stockbroker.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:40:35.861Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "On rotten tomatoes the movie rated average with 78%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:41:13.015Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What was the release date of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:41:25.701Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is from 2013.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:41:36.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was the movie successful at the box office?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:41:47.220Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You should watch the movie if you haven't already.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:41:53.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like a very interesting movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:42:13.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me tell you of one scene.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:42:23.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure, that would be great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:42:42.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It starts in 1987 where the Jordan Belfort works as a stockbroker.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:42:51.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:43:06.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He learns his business and that the life of stockbrokers is filled with sex&drugs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:43:25.014Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, how interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:43:46.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is supposed to mainly look out making money only for himself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:43:49.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This sounds like a very interesting movie.  Thank you very much for the information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:44:10.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But right then his whole career comes to a full stop with the Black Monday.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:44:13.121Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He starts a small business together with his friends.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:44:30.018Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He trains them in the art of \"hard sell\". Which is a pump and dump scam in the field of penny stocks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:45:06.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That movie sounds like a very captivating watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:45:22.253Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to watch it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:45:33.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Their comapny becomes very successful and attracts many investors.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:46:01.096Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T22:37:24.246Z", 
+  "uid1LogOutTime": "2018-03-20T22:45:48.974Z", 
+  "uid1response": {
+    "feedback": "Overall, the other user responded to me very well, and made the movie sound interesting.  I would consider watching the movie after speaking with the other user.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T22:37:24.312Z", 
+  "uid2LogOutTime": "2018-03-20T22:46:10.120Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1073", 
+  "user2_id": "USR2357", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

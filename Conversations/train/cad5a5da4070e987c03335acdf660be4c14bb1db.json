@@ -1,0 +1,96 @@
+{
+  "date": "2018-02-08T21:23:50.435Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:24:01.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:06.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what movie are we looking at today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:24:21.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We're looking at Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:34.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a little about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:24:39.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a giant great white shark that attacks beachgoers in the resort town of Amity Island.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:25:30.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how were the reviews for the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:25:52.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie has great reviews. With a Rotten Tomatoes score of 97% and an IMDB score of 8/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:26:49.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's great, have you watched it, what are you thoughts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:27:00.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have not seen the movie, but from the reviews I think I should!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:28:08.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "anything else you can tell me about the movie, what are they going to do about the shark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:28:37.176Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T21:23:50.435Z", 
+  "uid1LogOutTime": "2018-02-08T21:28:34.584Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:23:50.436Z", 
+  "uid2LogOutTime": "2018-02-08T21:28:38.933Z", 
+  "uid2response": {
+    "feedback": "good flow of conversation", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1313", 
+  "user2_id": "USR1411", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

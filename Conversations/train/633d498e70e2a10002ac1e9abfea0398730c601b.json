@@ -1,0 +1,166 @@
+{
+  "date": "2018-02-06T14:55:45.144Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:55:58.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:56:08.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " I LIKE THIS MOVIE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:56:16.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THIS AWARD WINNING MOVIE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:56:32.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:56:49.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "LA LA LAND ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:57:25.863Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ASCOR AWARD WINNING MOVIE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:57:37.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting, I am not familiar with it but it sounds good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:58:40.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:58:41.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:58:44.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES THIS MOVIE BACKGROUND MUSIC IS AWESOME \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:59:07.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "SO I REALLY LIKE IT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:59:19.039Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah but can you tell me more about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:00:44.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "THIS MOVIE DIRECTOR IS DAMIEN CHAZELLE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:01:09.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh Hes a good director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:03:07.693Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I would like that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:05:28.111Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I CAN SEE THIS MOVIE 4 TIME", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:05:51.161Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "THIS AMERICAN MUSICAL ROMANTIC MOVIE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:06:10.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "FAST REPLY ME\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:07:59.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "HELLO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:09:39.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "HELLOW", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:10:01.860Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you took long", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:11:43.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "first", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:11:44.196Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T14:55:45.144Z", 
+  "uid1LogOutTime": "2018-02-06T15:11:55.762Z", 
+  "uid1response": {
+    "feedback": "He was replying slow, in weird capital letters and very weird all around. I wonder if English was his native language. \"Hellow\"...", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:55:45.427Z", 
+  "uid2LogOutTime": "2018-02-06T15:10:37.654Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3237", 
+  "user2_id": "USR2810", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

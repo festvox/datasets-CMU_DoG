@@ -1,0 +1,85 @@
+{
+  "date": "2018-02-05T15:27:14.714Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So how did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:28:55.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there. Just wondering if you saw the movie The Imitation Game. And what you think about it  I actually like the movie a lot because of it's classic thriller vibe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:29:20.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't really like the thriller part of it. That doesn't really fit the source material to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:29:56.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The fact that Kiera Knightley was one of the main characters really blew my mind. It's beautifully written. But I can see why you don't like it\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:30:54.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She and Benedict Cumberbatch are always pretty good, but Hollywood changes too many things to make them more fake and overdramatic and I don't like that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:02.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I'm actually just really into historical drama. That's true actually. It isn't as original as how I would've expected it to be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:36.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the story could have been much better if there hadn't been so much artistic license. I guess it doesn't help that I'm not into historical dramas.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:33:59.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Totally get your point. I just like I think the attractiveness combined with charisma of the starts in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:35:00.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That makes sense. Kiera Knightley and Benedict Cumberbatch are always fun to watch. They made it a watchable movie even though it did mess up Alan Turing's story so much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:35:54.233Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:27:14.714Z", 
+  "uid1LogOutTime": "2018-02-05T15:39:44.760Z", 
+  "uid1response": {
+    "feedback": "The other participant didn't seem to respond as directly to what I said or as smoothly as I'm used to in regular conversations, and then they suddenly stopped and left.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:27:14.910Z", 
+  "uid2LogOutTime": "2018-02-05T15:39:23.120Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1921", 
+  "user2_id": "USR2110", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

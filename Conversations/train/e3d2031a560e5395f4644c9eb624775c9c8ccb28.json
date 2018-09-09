@@ -1,0 +1,433 @@
+{
+  "date": "2018-02-09T22:26:51.066Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:27:29.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:28:35.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, we are discussing the movie, Frozen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:28:54.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you received the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:29:01.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:29:23.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I have seen the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:29:42.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen the movie as well. It is very charming.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:30:01.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I really the love the characters, the storyline and music.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:30:42.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Kristen Bell provided the voice for Anna, Elsa's sister?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:30:51.671Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really. That is neat.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:31:34.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did she sing the songs too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:32:13.403Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen any of her other film's, but I have seen a few interviews. She's pretty funny. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:32:16.706Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think she did, but I'm not certain. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:32:28.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is fun to see the interviews too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:33:01.590Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The snowman has quite a personality.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:33:46.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes! Olaf is funny. It was great that the creators of the story offered a good bit of humor since it really is a sad story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:34:27.954Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And thinking of Olaf being a snowman and all, I have \"Do You Want to Build a Snowman?\" stuck in my head. haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:35:31.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Olaf added alot to the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:35:33.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He really did!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:35:39.673Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was interesting twist to make the prince the bad guy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:36:21.815Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was a creative twist from Disney for sure! Not that we could have know how Elsa would have responded to Hans' proposal to Anna, but really, you could probably back up and blame the whole fiasco on Hans.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:37:57.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. I really loved Hans sidekick the reindeer too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:39:34.024Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They worked together well as a team with Anna.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:39:56.796Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But truly, it could be argued that Elsa may have never really learned to grasp her powers if she hadn't lost control.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:39:56.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kristoff has the reindeer :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:40:07.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah sorry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:40:51.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree about her powers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:41:39.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They really had a lot of real life meaning in the plot. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:42:17.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love how the film displays the unrelenting love of a sister. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:42:42.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They really did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:42:51.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes me too. It is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:43:10.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a true love between sisters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:43:48.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope they come out with a sequel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:44:08.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think seeing Anna risk her own life to attempt to get Elsa to see that she has meaning and is loved is something we can all look to. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:44:09.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That would be awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:44:16.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there is a lot of real life lessons we could learn from this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:44:56.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. That is what I believe a lot of movies should have that in their story line. With a true message you learned from. A new perspective in life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:46:36.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it also teaches not to look too much at the outside: mainly from the perspective of Hans & Kristoff. One has all the credentials & the other is a blue collar worker.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:47:20.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes very true.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:48:13.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't want to stereotype people in authority roles, but it shows just how easily those powers can be abused. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:48:25.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree with you there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:48:47.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hans let his being a prince go to his head for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:49:40.814Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:51:16.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like how it was the sister love of Elsa helped Ann not be frozen anymore. They could of easily made it be Kristoff but they gave that special ability to Elsa.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:52:54.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hans had a 'good' plan for taking over the thrown\n: locking Anna away to \"freeze\" and then blaming it on her sister.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:53:08.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah luckily it did not work.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:53:45.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was cool Ann gave Kristoff a new sleigh too in the end.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:55:06.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very lucky. When I was a teenager, my mom used to have this saying that got under my skin as we were not a religious family, but she'd tell  me, \"Your sins will find you out!\" I'm glad this came true for Hans! HAHA!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:56:04.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She was royalty, it was only right that she replace what was destroyed in the process of trying to retrieve her sister.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:56:29.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did Kristoff make his sleigh? The one in the beginning?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:57:57.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is a great saying for Hans. I guess he did not have anyone to teach him that at a young age.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:58:41.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure but it did go over a cliff. Ann gave him a new one in the end.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T22:59:34.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T22:59:54.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, do you generally like these kinds of movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:00:03.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love them very much. My favorite.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:00:26.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:01:01.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm typically an action/adventure type person, but I love movies with happy endings. I'm not a tragedy person.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:01:50.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You are fun to talk to about movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:02:06.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like action adventure too. But I always like a movie with a lot of meaning with it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:02:54.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks! Life can be hard, movies can be an escape. lol. I don't typically listen too much to critics about films. I'm with you, I like something with meaning behind it. How do you feel about movie ratings/critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:03:43.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well mostly I go by with it some. Alot of people have different perspective of what they like. What others like others might dislike. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:06:43.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Agreed. This one got some generally good reviews. The lowest score it received was my Metacritics: 74/100. Not really sure what they based their rating on, but that seems kind of low to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:07:42.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. \nI love sequel to movies alot. And other times I will start to watch to see if I like it or not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:08:33.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love all Disney movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:08:48.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! I think we are in a time where we just LOVE stories with a lot of depth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:09:02.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm a Disney fan as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:09:09.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I really love a stories with depth. Great word for that. I always look for that in the story line whenever I am watching it. And always looking for the depth in the storyline of all movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:12:11.877Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T22:26:51.067Z", 
+  "uid1LogOutTime": "2018-02-09T23:09:19.260Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T22:26:51.095Z", 
+  "uid2LogOutTime": "2018-02-09T23:12:22.338Z", 
+  "uid2response": {
+    "feedback": "I really would watch the movie Frozen again by the users introduction. I enjoyed talking the other user about the movie Frozen. It was a lot of fun.\nThank-you very much.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2252", 
+  "user2_id": "USR3746", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

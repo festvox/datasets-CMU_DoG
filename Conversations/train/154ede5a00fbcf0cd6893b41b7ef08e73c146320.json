@@ -1,0 +1,236 @@
+{
+  "date": "2018-02-19T02:13:32.293Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:14:25.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did.  There were moments where I found it pretty boring, but I think all in all it was pretty decent.  What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:14:54.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I may be biased because I really enjoy any type of war movies but I loved it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:15:16.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you say you agreed with the ratings given by various movie reviewing cites?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:15:50.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so, yeah.  I couldn't find any glaring problems with it.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:16:32.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you typically agree with movie ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:16:44.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's 50/50, generally.  Sometimes they're spot on, sometimes they just seem completely wrong.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:17:17.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Especially Rotten Tomatoes.  How do you feel about ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:17:29.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, I try not to go use ratings as a deciding factor on whether or not I go see a movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:17:51.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel like I would miss movies I would enjoy if I only used ratings to decide what to see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:18:13.200Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sometimes I'll default to checking ratings if it's a movie I don't know much about.  If it gets really low (like 10% or less), I'll definitely skip it.  But there's been 3 or 4 that ended up actually being really good.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:18:55.570Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the authenticity of the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:19:23.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is tough for me to judge authenticity since I haven't actually experienced war, but it felt very real to me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:19:52.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was surprised by Harry Styles' performance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:20:02.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you know he could act?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:20:07.907Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nope, I had absolutely no idea.  Honestly, I didn't even know who he was until I just researched him.  Considering the band he's from, I'm even more surprised.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:21:19.848Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. I would've thought he would've ruined the character, but he did a good job as Alex.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:22:29.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How gripping of a character was George for you, and the whole blindness/death that happens?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:24:04.560Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked George's character a lot and was disappointed when he died. I also thought it was smart that they did not tell the rescued officer that he died.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:26:15.615Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you think of the moments when Gibson revealed his true identity?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:27:24.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In retrospect, it almost seems like a continuation of the whole \"The French are cowards!\" motif.  How did you feel about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:29:11.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't even think of that, but I absolutely agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:29:45.558Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you think that the civilians that took their boat to rescue the troops were brave?  Did you think they were foolish?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:31:13.172Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If it was me, I don't think I could've done it. But it was very brave of them!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:33:21.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree.  There's no way I could do something like that, I don't think.  Especially considering the repercussions.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:34:16.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about the hero's welcome the soldiers received? Were you surprised - like Alex was?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:35:42.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was, and I enjoyed that part.  Especially when you compare it with other films that document, say, the return from Vietnam.  I like that films document how important public opinion of wars are, and especially that Dunkirk's opinion of the British soldiers was positive rather than negative.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:37:44.078Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, public reaction is very important in understanding the implications of the war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:38:31.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people view Churchill has a savior.  Other people view him as a shrewd phony.  How did his portrayal in the film match up to your opinion of him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:41:32.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say I fall in the middle of those two descriptions of Churchill. I don't know that I could call him a savior, but I wouldn't go out of my way to dismiss him either. I was fine with the way he was portrayed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:43:51.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will say I am glad the focus was not too much on him, as that would've taken away from the movie for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:44:19.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did you feel about the lack of dialogue? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:44:43.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Honestly, I don't think I noticed it that much.  Which I think might say a lot because generally I would notice there being an absence of it.  And it still felt like a complete story - there weren't parts that felt like they were missing or anything.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:45:32.863Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T02:13:32.293Z", 
+  "uid1LogOutTime": "2018-02-19T02:45:39.857Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T02:13:32.340Z", 
+  "uid2LogOutTime": "2018-02-19T02:45:47.561Z", 
+  "uid2response": {
+    "feedback": "The other user was friendly and provided good feedback and ideas.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3676", 
+  "user2_id": "USR1358", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

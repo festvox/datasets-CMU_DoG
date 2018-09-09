@@ -1,0 +1,47 @@
+{
+  "date": "2018-01-30T19:28:52.566Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "30 minutes for $2? FUCK THIS! Hey, let's ditch this shit.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:29:39.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:30:22.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:31:16.798Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:28:52.566Z", 
+  "uid1LogOutTime": "2018-01-30T19:29:45.540Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:28:52.612Z", 
+  "uid2LogOutTime": "2018-01-30T19:32:51.659Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR295", 
+  "user2_id": "USR76", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "date": "2018-02-13T22:03:02.375Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:03:48.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Today we are going to talk about John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:05:14.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie was amazing. I love action movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:05:16.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do I. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:05:28.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:05:34.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I especially like action movies that have a mafia element. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:05:41.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely! the russian mafia showed up}", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:05:55.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All because they killed Johns cat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:06:03.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was interesting to see John Leguizamo in this film. He's quite a character. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:06:31.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked the cinematography too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:06:39.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, I like him a lot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:06:44.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Funny guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:06:46.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked the effects and screenplay for its budget", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:07:15.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The back story was sad, and it left a bad taste in my mouth. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:07:15.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, but I mean, the movie is about revenge", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:07:26.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So you have to give it a sad bad story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:07:35.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:07:40.654Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I just watched part 2, and it kicks ass", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:07:57.340Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Loved it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:08:01.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:08:05.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Willem Dafoe was another good addition to the film. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:08:22.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm suprised that Metacritic only gave it a 68/100!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:09:01.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely! That is not cool. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:15.227Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When Rotten Tomatoes and CinemaScore gave it favorable marks. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:09:23.821Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean, its a lot of action but it is entertaining", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:28.245Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would honestly give it a 90", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:36.409Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "because it is fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:40.051Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "never gets boring", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:43.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean, marvel hero movies dont have this much action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:59.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely. The action and wide range of cast really pushed it up there for me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:10:00.999Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I mean known actors having fun, you know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:10:23.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it never feels forced", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:10:28.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The story is quite rich too. Interesting scenery. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:10:49.782Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah! I loved that too, and the killers society with rules and protection was a unique touch too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:11:28.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The violence was a bit gratuitous in parts. But it goes with the story I guess. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:11:48.195Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His Mustang was killer too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:12:08.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Always nice to see cool cars in films. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:12:19.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and I get why they did it, it was exaggerated\n on purpose", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:12:28.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mustang was amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:12:34.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "murdered out so cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:12:38.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fight scenes seemed very well choreographed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:13:11.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The choreography was amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:13:34.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the music too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:13:37.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The pit bull puppy that he rescued was adorable. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:13:57.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All around great film. Two Thumbs Up. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:14:20.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Loved that part! I think it was all well balanced", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:14:32.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice talking to you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:14:38.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:14:40.469Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T22:03:02.375Z", 
+  "uid1LogOutTime": "2018-02-13T22:14:40.305Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T22:03:02.522Z", 
+  "uid2LogOutTime": "2018-02-13T22:14:43.382Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4101", 
+  "user2_id": "USR59", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

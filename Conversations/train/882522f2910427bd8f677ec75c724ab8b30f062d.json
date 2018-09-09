@@ -1,0 +1,103 @@
+{
+  "date": "2018-02-14T21:16:20.892Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I don't think this movie sounds very good. It sounds like just another WW2 movie, doesn't seem to have any special qualities or interesting plot. What do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:18:53.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I did like Benedict Cumberbatch's acting. However, it didn't seem to be true to the biography. It seems as though this happens pretty often in films. I was interested in the plot initially. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:20:29.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The only thing I really like about this movie is Keira Knightley, great actress. I'm overall very interested in the World War 2 genre, but I feel that it's overdone. That's the problem I have with this film. It didn't seem to bring anything interesting or new to the genre. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:22:51.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with your opinion on Keira Knightley. The cast was pretty well put together. My biggest problem with the genre is the inflated sense of conflict and action in most of the movies. I think the movie would have been better if the biopic had more closely mirrored the true story it is trying to portray.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:25:06.331Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I concur. It's frustrating when you go and see a \"based on a true story\" and it is so far removed from the actual story, it might as well be a fiction movie. I really can't get into such movies, when I know they are given such artistic license. I also dislike Mathew Goode as an actor, and felt his acting fell flat in this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:28:52.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I had actually never seen Matthew Goode before, but I agree. He certainly isn't one of my new favorites. While I do enjoy biopics, it's like you said: it is sometimes so far removed, it might as well be fiction. It often removes the sense of authenticity from the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:30:58.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah well he's really horrible. He looks like he smells. Dirty and ragged looking. I don't even know why hollywood deals with him anymore. I feel he single handedly destroyed this film. I can't imagine how Keira Knightley even stood near him honestly. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:33:41.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't speak to that, although that all sounds awful! Overall, the film was just underwhelming for me. I will try my hand at reading the biography, because the plot was interesting. It was all the extra fluff I didn't like.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:36:43.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, I was actually very surprised it got a 91% on rotten tomatoes. I wouldn't watch the film again if they paid me to. I'd rather dig out one of my own eyeballs with a spoon than watch it again. Seriously, if given the choice I'd choose the latter option. What about you would you rather watch the film again? Or maim yourself in some way?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:40:50.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would rather give it a terrible rating to lower the Rotten Tomatoes score. I have watched plenty of movies with \"bad\" ratings that have turned out to be very good. I am unsure how the system works, but this was a definite dud for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:42:15.219Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Your avoiding the question. Would you rather watch the movie again, or dig your eye out with a spoon? I feel a very deep connection between us do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T21:43:33.046Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am unsure about that. It seemed a bit odd to me that Turing spent his entire life doing cryptography after discovering it was an interest of his first love. Although I suppose the passion could have been there for it all along, and it just took Christopher introducing him to it to spark a career interest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T21:48:43.352Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T21:16:20.892Z", 
+  "uid1LogOutTime": "2018-02-14T21:49:12.997Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T21:16:20.896Z", 
+  "uid2LogOutTime": "2018-02-14T21:49:36.700Z", 
+  "uid2response": {
+    "feedback": "Toward the end, the other user either lost interest or decided to completely abandon the subject.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3774", 
+  "user2_id": "USR4058", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-12T21:39:37.854Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey There", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:39:56.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:44:33.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:48:43.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think you're here anymore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:23:44.949Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you hate me that much?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:23:54.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it never said you left", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:23:58.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but it's okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:24:00.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I still love you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:24:03.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:24:04.749Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T21:39:37.854Z", 
+  "uid2LogInTime": "2018-02-12T21:39:37.893Z", 
+  "uid2LogOutTime": "2018-02-12T22:24:13.846Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4346", 
+  "user2_id": "USR1704", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

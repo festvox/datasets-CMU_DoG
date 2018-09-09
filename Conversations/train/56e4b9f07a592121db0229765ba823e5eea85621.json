@@ -1,0 +1,128 @@
+{
+  "date": "2018-02-14T22:50:14.833Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:51:34.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:52:20.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:52:20.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:52:24.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm well thanks, yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:52:32.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:52:39.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:52:46.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:52:50.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I forgot what we are supposed to chat about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:52:57.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It looks like a movie that is best seen in a theatre though ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:53:17.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think just stuff that is in the paragraph to the left", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:53:31.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and I agree, it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:53:36.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the sound was really epic in the theater ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:53:45.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nolan is pretty immersive ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:53:46.154Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The ratings are pretty high", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:53:56.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That guy from one direction is in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:54:29.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok so they left, I have no idea what I do from here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:55:01.904Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-14T22:50:14.833Z", 
+  "uid1LogOutTime": "2018-02-14T22:54:23.544Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T22:50:15.192Z", 
+  "uid2LogOutTime": "2018-02-14T23:03:16.069Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR329", 
+  "user2_id": "USR384", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

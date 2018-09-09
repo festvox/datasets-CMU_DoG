@@ -1,0 +1,301 @@
+{
+  "date": "2018-03-16T19:04:22.831Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:04:36.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:04:51.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:14.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nThe movie we are discussing is despicable me, have you heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:05:25.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:35.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am actually interested in watching it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:41.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:47.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know any of the cast \nmates or character by name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:06:01.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't.  Who are some of the characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:06:16.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carrel, Jason Segel and Russel Brand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:06:32.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, that's impressive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:06:43.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:06:48.022Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about a evil scientists who wants to take over the world but he is blocked when three orphan girls fall into his lap . After he finds love he changes his mind", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:07:40.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:08:01.271Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the movie get good ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:08:05.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie came out in 2010, and ranked low on most movie reviews, besides the amount of pop\nularity that it has received", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:08:50.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay, interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:09:16.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was the director of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:09:22.110Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For rotten tomatoes it only recieved 6.8,  metacritic score 72/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:09:36.267Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Peter Coffin and Chris Renaud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:06.079Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It sounds like it is still worth watching, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:10:08.022Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there any other information you have about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:10:46.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's definelty interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:49.513Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not really , thats the basics of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:11:22.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No problem, that is enough for me to make a decision.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:11:40.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thank you for your assistance!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:11:44.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome, have a good day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:12:02.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a good day as well.  Goodbye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:12:33.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Goodbye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:12:44.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:15.833Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:18.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:18.776Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:19.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:20.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:21.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:21.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:22.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:22.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:23.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:23.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:23.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\n\n\n\n\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:25.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:25.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:25.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:13:26.256Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T19:04:22.831Z", 
+  "uid1LogOutTime": "2018-03-16T19:13:38.489Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T19:04:22.835Z", 
+  "uid2LogOutTime": "2018-03-16T19:13:33.091Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR417", 
+  "user2_id": "USR1073", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

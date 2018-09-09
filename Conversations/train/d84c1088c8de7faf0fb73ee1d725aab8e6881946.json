@@ -1,0 +1,391 @@
+{
+  "date": "2018-03-20T21:17:02.192Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:17:11.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:17:25.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Home Alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:17:44.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have before, it is a good movie. I am surprised that it scored as low as it did on Rotten Tomatoes and Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:18:27.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like the adults that watched the film did not find it that funny since the document says that critical responses said that it was a \"sadistic festival of adult-bashing\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:19:07.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hwllo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:21:43.614Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like a movie that seems funny enough though. It seems a little critical though I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:21:53.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It did score somewhat low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:21:57.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But the actos are great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:22:02.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joe Pesci", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:22:06.772Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That surprised me that it scored low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:22:09.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and Macaulay Culkin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:22:12.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think that Culkin does a good job acting as Kevin dealing with his cousins and siblings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:22:53.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes he does an amazing job!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:05.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't believe it came out so long ago- almost 20 years!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:07.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's good in recent movies too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:15.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "although I don't remember the names.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:21.530Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It doesn't feel like it's been 20 years since this movie has come out haha. I guess I just feel old. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:23:34.252Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know- me too. I watched that movie as a child", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:44.680Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wonder if Columbus would change anything about the movie if he had the chance today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:23:59.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe, but also it's such a notable movie , i feel like the viewer wouldn't want any changes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:24:30.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't realize they left to spend christmas in Paris", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:24:39.566Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was NYC the family travelled to", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:24:49.220Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Between that scene and the next scene, I feel really bad for the family. Talk about bad luck, not a fun way to spend your Christmas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:25:13.126Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh not fun at all! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:26:27.079Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's so funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:26:33.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I find it hilarious because that is about as good as my luck is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:26:53.111Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the part that scared me when I was little were when the two burglers got into the home", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:27:11.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but it ended up being a comedy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:27:18.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "didn't realiize the genre was comedy when I first watched", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:27:28.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I find it funny that they \"mistakingly left him at home\". I guess with bigger families, it is hard to keep track of all of your kids at once!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:28:05.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can relate to Harry and Marv here. I am clumsy and seem to get injured rather...easy per se ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:28:45.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hahaha me too! I don't think I would be smart enough to set up all the traps though!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:29:26.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think I would either. I would set up simple ones then just be waiting with like a gun or something. Kevin goes out and beyond what any normal person would do o_0", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:30:14.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh absolutely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:32:50.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's super weird", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:32:52.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was SUCH A smart child", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:32:58.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But super funny too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:33:02.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where did they live?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:33:08.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Chicago?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:33:11.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe that's what the document said. If I remember correctly, Chicago is where they live. And they can't get back home because of the cancelations and delays", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:33:38.476Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh damn", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:34:55.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hear Chicago is so busy during the holidays", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:35:02.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't realize the power went out because winds knocked them out too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:35:13.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really forgot a lot of details from the movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:35:20.210Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was so long ago I watched", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:35:24.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've never been there during aholiday, but the movie made it seem super busy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:35:27.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OH yeah! No surprise it took them so long to get home", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:36:48.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol funny kevin wished his parents would disappear ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:37:12.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and then they did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:37:14.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At least Kevin wasn't bored during the holiday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:37:27.467Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lmaoo I would have been so sad home alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:37:36.029Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hear the critical responses are so mean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:37:48.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel for Kevin still not having his family on Christmas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:37:51.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't understand why though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:37:58.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "some of them are nice and promote the movie, but others dont justify how great it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:38:02.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah me neither", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:38:13.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, it was fun discussing childhood memories of movies with you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:38:31.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same here, see you next time!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:39:01.571Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T21:17:02.192Z", 
+  "uid1LogOutTime": "2018-03-20T21:39:03.135Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T21:17:02.492Z", 
+  "uid2LogOutTime": "2018-03-20T21:39:09.025Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3761", 
+  "user2_id": "USR372", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

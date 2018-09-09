@@ -1,0 +1,216 @@
+{
+  "date": "2018-03-07T15:48:55.109Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:49:38.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:49:45.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you the Bruce Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:12.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have seen this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:23.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies in this genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:34.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I enjoy these types of movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:52.983Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with Rotten Tomatoes rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:53:20.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the Rotten Tomatoes rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:42.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "5.7 out of 10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:05.340Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think that is a little low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:30.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was you favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:59.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked when Bruce made the other anchor say gibberish while on the air", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:58:04.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, that was good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:58:18.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Carey was funny in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:01.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. I liked him a lot in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:59:44.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you generally watch movie with good rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:00:29.351Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I tend to prefer movies that have good ratings over ones with poor ones", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:00:49.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you enjoy Jennifer Aniston?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:02:25.192Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not a fan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:03:02.247Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like Jennifer Aniston as Grace Connelly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:03:15.738Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about Morgan Freeman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:03:45.707Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did not like Jennifer Aniston in this moive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:04:23.460Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like Morgan Freeman a lot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:04:34.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is very talented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:04:44.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bruce Nolan - interesting character!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:11.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:16.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The film has a very interesting premise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:47.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't believe how many years passed - its a 2003 movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:22.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it does not feel that old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:31.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its a classic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:47.469Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T15:48:55.109Z", 
+  "uid1LogOutTime": "2018-03-07T16:07:29.213Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:48:55.182Z", 
+  "uid2LogOutTime": "2018-03-07T16:07:24.818Z", 
+  "uid2response": {
+    "feedback": "This is a film I'm familiar with but have not watched in a long time. The other user brought up some of the interesting parts that I had forgotten about and would like to revisit", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR335", 
+  "user2_id": "USR2653", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2018-02-13T17:58:54.007Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:03.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like the avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:29.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not especially anymore, It jumped the shark with Black Panther", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:59:53.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yeah, they are releasing the black panther later this year i think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:00:18.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but, i suppose this about the 1st Avengers.  Yes, this one was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:20.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, yes, I thought Avengers from 2012 was really fun.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:53.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which avenger is your favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:10.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I reckon Captain America, and yours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:01:27.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man, just because i like his style", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:38.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats fair enough.  Captain America, Iron Man, and Thor had an amusing disagreement in the beginning of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:17.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Scarlett Johansson, would ya?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:03:12.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "would i ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:03:23.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ahahaha you know, mess?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:03:33.234Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T17:58:54.008Z", 
+  "uid1LogOutTime": "2018-02-13T18:03:48.727Z", 
+  "uid1response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T17:58:54.009Z", 
+  "uid2LogOutTime": "2018-02-13T18:04:23.280Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4675", 
+  "user2_id": "USR3459", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

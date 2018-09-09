@@ -1,0 +1,234 @@
+{
+  "date": "2018-03-21T16:56:32.027Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:56:47.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey there how's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:57:02.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good. What movie are we chatting about today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:57:14.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Great Gatsby. The 2013 version starring Leonardo Dicaprio.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:57:49.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:57:55.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a good one, I remember liking it but I haven't seen it in a few years.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:58:21.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an odd film. I'm not sure if I liked it or not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:59:06.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really, how come?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:59:17.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess the camera tricks and everything they added to it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:00:23.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess I don't have the technical terms for it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:00:32.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What are the ratings on it like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:00:44.934Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Like around 50% on RT", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:01:26.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:01:29.401Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you read the book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:01:34.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow, that's not so great. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:01:38.020Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I read the book, but it was a long time ago in highschool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:01:47.827Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:01:52.941Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Baz Luhrman.  I remember he also did Moulin Rouge", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:02:18.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That would explain the style then. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:02:31.972Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He has a \"visual flare\" to all his films, doesn't he?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:02:37.622Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who else was in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:02:41.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tobey Maguire. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:02:54.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Carey Mulligan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:03:07.993Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yeah, he's his bestfriend ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:03:11.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In real life and in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:03:20.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha, yeah that's true. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:03:31.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tell me more about the memorable scenes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:03:53.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel like there was the scene where he sees Gatsby for the first time, with the fireworks going off.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:04:23.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That has become a fairly popular meme", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:04:31.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right, with him holding up the glass.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:04:42.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Classic Dicaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:04:48.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember the music in that movie being pretty cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:04:50.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jay-Z I think.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:05:02.402Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T16:56:32.027Z", 
+  "uid1LogOutTime": "2018-03-21T17:05:04.956Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:56:32.050Z", 
+  "uid2LogOutTime": "2018-03-21T17:05:09.131Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4375", 
+  "user2_id": "USR273", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

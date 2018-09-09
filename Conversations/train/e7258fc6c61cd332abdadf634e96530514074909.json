@@ -1,0 +1,266 @@
+{
+  "date": "2018-03-28T21:38:22.447Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:38:34.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:38:52.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am fine.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:38:54.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie Iron Man? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:38:56.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw it in theaters when it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:39:04.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but I guess it was sometime in 2009.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:39:26.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't espescially like the Marvel heroes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:40:04.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I forgot that Terrance Howard was in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:40:37.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, i'm not a big superhero fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:40:45.841Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The effects were good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:41:04.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, the rocket propelled grenade action was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:41:45.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "All in all the whole story was a bit like spiderman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:42:18.909Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see that the criticism is mixed-maybe they weren't really fans either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:42:35.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did like the \"military thriller\"-style feeing in the beginning one critc mentioned.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:43:43.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But the movie rated quite good on the platforms.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:44:40.394Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am still wondering what the relevance to military was ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:44:40.709Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They were trying to build new missilies for the military.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:45:18.643Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh, ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:09.333Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That makes sense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:15.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did not like the whole thing about the heart symbolism and the magnet protecting his heart from the shrapnels.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:21.878Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am shocked about the rating from Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:29.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "why not?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:44.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "94%. A lot of Marvel fans there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:47.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:59.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The symbolism was much too easy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:47:07.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nothing new there, just a common place symbol for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:47:38.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The effects were kind of new and nice, but couldn't save the somehow weak story for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:48:11.572Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the symbolism deeper, though? Was the movie really giving a parallel meaning for some events that really happened?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:48:12.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No. I don't think there was anything deeper.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:48:42.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:49:29.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But okay, if you see anything in it I would be happy to re-watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:49:54.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "why the iron suit though?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:50:01.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I ca't remember.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:19.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe it had something to do with this reactor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:32.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "looks like the suit was reverse engineered", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:50:38.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I barely remember the character Pepper Potts. Is she another Marvel character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:51:30.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seems more like a female sidekick.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:03.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good night and see you tomorrow :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:22.631Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T21:38:22.447Z", 
+  "uid1LogOutTime": "2018-03-28T21:52:28.753Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T21:38:22.510Z", 
+  "uid2LogOutTime": "2018-03-28T21:52:24.461Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR939", 
+  "user2_id": "USR2357", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

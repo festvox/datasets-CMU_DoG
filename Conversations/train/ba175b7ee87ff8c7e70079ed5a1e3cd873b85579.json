@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-07T17:25:33.677Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you get a chance to see Social Network", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:27:34.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did; it's interesting because it works very well as a movie but I'm not sure if it's really accurate as a biopic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:28:27.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I get what you mean that it works as a movie but I'm not sure what you mean by the second part of your statement?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:29:26.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Like is it an accurate re-telling of the event. Everything in it seems heightened to elicit the maximum amount of drama.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:30:27.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sure that makes sense.  I guess I assume that is the case with any movie that is supposedly based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:31:08.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't read the book.  Did you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:31:22.684Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T17:25:33.677Z", 
+  "uid1LogOutTime": "2018-03-07T17:31:20.889Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:25:33.771Z", 
+  "uid2LogOutTime": "2018-03-07T17:31:46.294Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR194", 
+  "user2_id": "USR4330", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2018-03-27T20:50:35.527Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie seems to be a bit bloated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T20:52:41.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? I think its pretty interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T20:53:03.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critical response so far has been that it is overlong and unfocused", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T20:53:26.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I can see how someone would feel that way. I do feel like their opinions are a bit vague though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T20:55:09.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the accusation that this is glorifying the bad behavior it is supposed to be satirizing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T20:56:29.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Due to the fact that fraud and corruption ultimately led to his demise, I don't feel like its glorifying it at all. More like...this is what happens when you do bad things. I feel like it does the complete opposite.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T20:59:29.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T21:01:05.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "While it may have been his downfall, we spent most of the movie watching him get high and live in a fantasy world. That seems to have a greater moral weight overall than the downfall. I think people either fell in love with the world of these characters, in which case they were probably more impressed by the partying than the downfall, or they saw these characters for the delusional people they were and had a hard time getting through the film. That probably explains its middling reviews. It's cinemascore is a C. For a Scorcese film, that seems a bit low.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T21:05:18.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great point. I guess it depends on the viewer. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T21:17:07.415Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T20:50:35.527Z", 
+  "uid1LogOutTime": "2018-03-27T21:17:29.778Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T20:50:35.531Z", 
+  "uid2LogOutTime": "2018-03-27T21:16:41.687Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR713", 
+  "user2_id": "USR3445", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

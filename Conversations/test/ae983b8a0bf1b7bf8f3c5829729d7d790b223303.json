@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-05T21:41:31.175Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:41:57.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember this movie, I can't believe it was way back in '02.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:42:18.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:43:05.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I've never seen it. However, it sounds like it only did okay at the box office. Not one of the biggest hits of Spielberg's. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:44:45.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's true, it was one of his smaller films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:45:03.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No big effects or anything like that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:45:10.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should try and rent it when you get the chance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:46:56.115Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not sure if it's my type of movie, actually. Besides, it's kind of long in duration at 140 minutes. As a critic said, it's bogged down and ends like a winded tortoise.\" lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:49:40.731Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-05T21:41:31.175Z", 
+  "uid1LogOutTime": "2018-03-05T21:47:51.452Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T21:41:31.214Z", 
+  "uid2LogOutTime": "2018-03-05T21:53:01.946Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2505", 
+  "user2_id": "USR3065", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

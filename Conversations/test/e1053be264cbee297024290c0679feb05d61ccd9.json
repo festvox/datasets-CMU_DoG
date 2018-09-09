@@ -1,0 +1,104 @@
+{
+  "date": "2018-02-16T05:37:14.542Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like musical movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:38:50.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, it depends on the musical but this one had a jazz pianist so I think having a musical with some jazz is really interesting. What do you think about the musical being tied with drama and romance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:40:01.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it gives the movie emotional depth.  However most musicals are tied to romance.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:42:04.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I noticed this movie has very good ratings.  When you watch a movie is that important for you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:43:50.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're right, I think a lot of musicals are tied to romance or emotional depth. I think musicals are also tied to fantasy, since in real life people don't just start singing, so I think the idea that \"La La Land\" in part refers to being out of touch with reality goes well with a musical. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:44:16.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ratings are not so important, because there are mixed ratings here... some say its pleasurable, another says it sags badly in the middle, so I like to form my own opinions.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:44:58.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a 92% score on rotten tomatoes? Would you trust that rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:45:21.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When I look at movies I have liked in the past and their rotten tomatoes score in caparison to their IMDB rating I usually agree more with IMDB ratings.  Looking at the cast, would you be more attracted to the movie based upon one or more of the cast them\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:48:54.614Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:48:58.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not experienced with IMDB vs. Rotten tomatoes, but since I don't care much about ratings, yes, I would look at the cast and also the plot. I like Ryan Gosling, but I am not crazy about Emma stone. The plot though seems interesting enough to make up for that, I like that it's called a comedy-drama. Do you enjoy blended genres?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:50:39.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why would you agree more with the IMDB rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:52:39.713Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do enjoy blended genres.  I especially enjoy comedies, as well as dramas.  One of the critical responses says that this movie is the year's most seriously pleasurable entertainment.  Given that the year of release was 2016 would you agree?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:55:02.008Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T05:37:14.542Z", 
+  "uid1LogOutTime": "2018-02-16T05:55:56.389Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T05:37:14.581Z", 
+  "uid2LogOutTime": "2018-02-16T05:55:25.084Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2758", 
+  "user2_id": "USR4388", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

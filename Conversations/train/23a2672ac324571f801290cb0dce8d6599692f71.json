@@ -1,0 +1,236 @@
+{
+  "date": "2017-12-19T17:52:54.577Z", 
+  "docLinkIdx": 0, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:53:43.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:53:46.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:53:52.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Frozen, have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:54:06.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I don't believe I have seen that one yet\n. I do like animation movies a lot though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:54:34.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you? Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:54:42.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is categorized as a Comedy, Adventure, Animation.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:55:12.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what the plotline is about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:55:27.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have with my kids, they loved it, it was very popular when it came out and continued to be popular for a few years.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:55:32.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Story of a fearless princess who sets off on a journey alongside a rugged iceman, his loyal pet reindeer, and a naive snowman to find her estranged sister, whose icy powers have inadvertently trapped the kindom in eternal winter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:56:28.363Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow, that sounds like it could be quite interesting... I think I will definitely add it to my list of movies to watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:57:08.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thank you for sharing that. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:57:18.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No problem.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:57:31.622Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Want to hear some critical responses for the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:57:58.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes please, that would be helpful", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:58:12.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"the best animated musical to come out of Disney since the tragic death of lyricist Howard\nAshman, whose work on The Little Mermaid and Beauty and the Beast helped build the\nstudio's modern animated division into what it is today.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:58:45.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "more?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:59:34.263Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's a glowing review!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:59:54.937Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, one or two more reviews would be nice to read, thanks ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:00:06.383Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"while it lags the tiniest bit on its way to the conclusion, the script... really delivers; it offers\ncharacters to care about, along with some nifty twists and surprises along the way.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:00:34.398Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Very good review again", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:01:21.790Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"a great big snowy pleasure with an emotionally gripping core, brilliant Broadway-style\nsongs and a crafty plot. Its first and third acts are better than the jokey middle, but this is\nthe rare example of a Walt Disney Animation Studios effort that reaches as deep as a\nPixar film.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:01:26.591Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like a really wonderful film. Did you have any favorite characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:02:04.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Princess Elsa", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:02:27.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay, the main character. Any others?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:03:01.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anna was an interesting character", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:03:55.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, who was she? Also a main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:04:17.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was Elsa's younger sister", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:05:06.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay. Were there any animal characters apart from the reindeer?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:06:41.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Umm I don't think so or can't recall that there were.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:06:59.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh I see. Well, the characters all sound interesting and the movie sounds a lot of fun!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:07:33.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you very much for sharing your thoughts and the reviews ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:07:51.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it's a good watch for sure and np.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:08:10.670Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-19T17:52:54.577Z", 
+  "uid1LogOutTime": "2017-12-19T18:08:17.623Z", 
+  "uid1response": {
+    "feedback": "It was a very enjoyable chat and the user was very helpful and responded very quickly. I also am a big fan of animated movies and having never watched Frozen, I am very likely to watch it now as it sounds like a great film for all age groups. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:52:54.586Z", 
+  "uid2LogOutTime": "2017-12-19T18:08:12.395Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4159", 
+  "user2_id": "USR1252", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

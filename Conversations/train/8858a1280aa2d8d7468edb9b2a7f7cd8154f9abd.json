@@ -1,0 +1,245 @@
+{
+  "date": "2018-02-13T21:19:39.771Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:20:01.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:20:12.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:20:18.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:20:35.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio. Do you like science fiction movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:21:09.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh he is a good actor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:21:23.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not a huge science fiction fan though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:21:39.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch movies with good ratings? Users rated this 8.1 out of 10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:22:10.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I do. That is a pretty high rating. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:22:37.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If I remember correctly that movie won several Oscars.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:23:59.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you pay attention to what the critics have to say about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:24:31.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes I do but sometimes I pay more attention to a movies trailer to see if it may interest me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:25:43.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you like DiCaprio you might like this movie. One critic said that it will draw you in with a love story that will appeal even to non-sci-fi fans.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:25:55.544Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A love story? That does sound interesting. I like more comedies and romance movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:27:32.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who plays the love interest in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:28:36.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great. Then I think this movie may be something that you would like. Ellen Page plays Ariadne a graduate student of architecture.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:29:46.298Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She is recruited to construct dreamscapes which are described as mazes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:30:22.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting. I have never seen any movies with her in it before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:30:48.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe you would like some other cast members Joseph Gordon-Levitt plays Arthur who researches the missions and Tom Hardy plays Eames an associate of Cobb (DiCaprio).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:33:44.670Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yea both of those guys are good actors.  What kind of Business do they do?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:34:30.145Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cobb is a professional thief who specializes in conning secrets from his victims by infiltrating their dreams. Cobb's partner Arthur manages and researches the missions while Ellen Page plays a key part to the love story. She constructs these \"dreamscapes\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:36:46.622Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So they are all working together?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:38:54.660Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, Cobb and Arthur are known as \"extractors\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:41:56.799Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They are using these secrets against people to conn them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:43:13.993Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They \nperform corporate espionage using an experimental military technology to infiltrate the subconscious of their targets and extract valuable information from a shared dream world.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:43:34.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This isn't a movie where it all ends up being a dream is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:44:28.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd hate to give away too much of the plot. Especially if you plan on seeing it. I don't want to ruin the movie for you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:45:26.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else should I know about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:47:00.083Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Their target in \"inception\" is Saito who wants to break up an energy conglomerate of ailing competitor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:49:27.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Saito wants Cobb to convince Fischer's son and heir, Robert to dissolve his fathers company.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:49:50.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is nothing else I can say about it, without giving too much of the plot away.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:50:36.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So other people are in the same business?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:50:41.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know I don't want you to give the plot away.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:51:12.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not 100% sure it is my type of movie except for the love story part.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:52:21.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Saito wants to test Cobb with a seemly impossible job. Planting an idea in a persons subconscious or \"inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:52:30.148Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T21:19:39.771Z", 
+  "uid1LogOutTime": "2018-02-13T21:52:44.555Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T21:19:39.779Z", 
+  "uid2LogOutTime": "2018-02-13T21:52:38.388Z", 
+  "uid2response": {
+    "feedback": "It doesn't seem like my type of movie. Sounds a little confusing. I am also worried it is one of those movies ends up being a dream.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1910", 
+  "user2_id": "USR2457", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

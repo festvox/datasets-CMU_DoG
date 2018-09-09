@@ -1,0 +1,40 @@
+{
+  "date": "2018-03-06T15:33:30.806Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:45.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:49.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie that was picked, I'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:58.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:34:04.030Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:33:30.806Z", 
+  "uid2LogInTime": "2018-03-06T15:33:30.899Z", 
+  "user1_id": "USR1646", 
+  "user2_id": "USR2361", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

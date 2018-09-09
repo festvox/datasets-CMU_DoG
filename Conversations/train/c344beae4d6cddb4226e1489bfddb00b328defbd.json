@@ -1,0 +1,122 @@
+{
+  "date": "2018-03-28T15:29:55.878Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What can I say? This is a classic! Great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:30:35.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great film! The cast is the best part!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:31:15.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know, especially Tom Hanks. I can't imagine anyone else for the part of Woody.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:31:48.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "100% on Rotten tomatoes. That's rare.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:32:12.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And a CGI film in 1995, the first of its kind.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:32:40.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, can't believe it's been so long. Makes me feel old!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:33:04.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally like Disney films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:33:39.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know that they're some of my favorite.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:33:51.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do.  This one by far is one of my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:34:06.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What character did you like the best?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:35:02.992Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So this is one of the first Pixar film...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:35:08.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the Mr. Potato head...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:35:23.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also like Buzz. It's funny how he thought he was a real space ranger.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:36:13.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The misadventures the toys had are good memories", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:37:26.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. It's fun to think how toys come to life when we are not looking.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:38:13.016Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T15:29:55.878Z", 
+  "uid1LogOutTime": "2018-03-28T15:37:37.745Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:29:55.884Z", 
+  "uid2LogOutTime": "2018-03-28T15:39:35.476Z", 
+  "uid2response": {
+    "feedback": "Unfortunately the other person left conversation before all the documents have loaded. We were having a good conversation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3750", 
+  "user2_id": "USR2088", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

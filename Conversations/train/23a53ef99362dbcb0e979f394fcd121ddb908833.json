@@ -1,0 +1,211 @@
+{
+  "date": "2018-03-02T20:19:09.001Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:19:30.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:19:36.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:19:46.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure I have seen it. What is it called?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:20:07.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman vs. Superman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:20:17.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome! I like comic book movies. Who directed it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:20:44.054Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zack Snyder directed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:21:09.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like his work. Who is the love interest?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:21:41.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess you could say Lois Lane, played by Amy Adams was the love interest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:22:30.509Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow. She is beautiful! Who plays Batman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:23:04.640Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ben Affleck played Batman in this one. I think he did a good job, but there was too much backstory for Batman in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:23:47.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems like Superman could just kill Batman with ease. Is the movie interesting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:25:03.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, but they set it up so Batman has kryptonite and thus an advantage. I thought it was interesting as it was an integration of not only the super heros but also their cities of origin.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:26:33.367Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yeah! I forgot about Krypton. Who did the soundtrack? I love movie music.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:27:45.872Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I actually don't remember much about the soundtrack, I think it was mostly background filler music nothing from major music artists like in other movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:28:51.520Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is Batman and Superman Marvel or D.C? I forget.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:29:51.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "D.C., Wonder Woman was also in the movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:30:27.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really! Who plays Wonder Woman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:31:29.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The same person who played her in the Wonder Woman movie, I forget her name though. She was helpful because she got Batman and Superman to get along better towards the end of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:33:06.081Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did she use the Lasso of Truth?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:34:01.719Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know if it was of truth but it was glowing and unbreakable ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:34:31.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's the one! How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:36:02.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "153 minutes! So about 2.5 hours!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:36:52.615Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it okay for kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:37:35.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It gets a little dark and violent which might scare some of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:38:33.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is it rated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:38:56.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably PG-13 or R", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:39:30.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any idea how much money it made at the box office\n, roughly?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:40:36.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think it did very well money wise but it wasn't the worst. I think it is hard to compete with bigger movies sometimes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:41:41.027Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T20:19:09.001Z", 
+  "uid1LogOutTime": "2018-03-02T20:41:43.021Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T20:19:09.065Z", 
+  "uid2LogOutTime": "2018-03-02T20:41:29.988Z", 
+  "uid2response": {
+    "feedback": "It was very pleasant!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2888", 
+  "user2_id": "USR4755", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

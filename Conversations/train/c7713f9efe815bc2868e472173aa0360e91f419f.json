@@ -1,0 +1,160 @@
+{
+  "date": "2018-02-15T02:58:11.893Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T02:58:44.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you call your movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T02:59:50.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called Dunkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:00:05.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, is it a comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:00:27.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk is a war movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:00:41.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:01:05.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:01:25.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did. It received a 92% on Rotten Tomatoes and one critic referred to it as a \"masterpiece\n.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:01:57.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a good review", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:02:55.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What war is it set in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:03:15.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It depicts World War II", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:04:12.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:04:22.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it depict a battle that took place in France?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:05:05.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure, but the actors portray British and French soldiers. The fighting takes place on land, air, and sea.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:06:47.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there lots of excitement?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:07:13.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you feel the movie was historically accurate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:14:01.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Were the characters well cast?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:17:23.590Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you fall asleep during the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:18:29.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or was is captivating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:18:40.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who won", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:23:17.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree with Rotten Tomato?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:26:41.110Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or was it incorrectly rated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:26:58.888Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:27:07.155Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T02:58:11.893Z", 
+  "uid2LogInTime": "2018-02-15T02:58:11.929Z", 
+  "uid2LogOutTime": "2018-02-15T03:31:01.071Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3209", 
+  "user2_id": "USR1937", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2018-02-12T20:54:29.274Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like computer-animated movies? Particularly musicals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:55:42.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They're usually pretty interesting, I haven't seen many however. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:56:04.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is a fanatastic one that came out in 2013, called Frozen.. Have you heard of it?!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:56:22.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have heard of it! I have not seen it however. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:56:46.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it was based on Hans Christian Andersen's fairty tale \"The Snow Queen\", and tells the story of a fearless princess and the friends she makes on her journey as well as her estranged sister and their relationship", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:58:02.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds pretty fun to watch. Do the songs also relate to the old fairy tale as well?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:59:07.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure, unfortunately I don't know much about the original fairy tale. But he songs are truly captivating! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:59:45.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It does sound like a good movie! Do you know the best way to watch the movie in case I do want to watch it sometime?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:00:21.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would suggest renting a copy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:00:51.814Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know who the main voice actress is for the main character? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:02:07.900Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes! Idina Menzel plays Elsa, she is the main character. The fearless princess with ice powers!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:02:41.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character sounds like quite the character. How well did the movie rate among critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:03:59.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Metaciritics gave it a 74, but rotten tomatoes gave it an 89% and cinemaScore was an A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:05:09.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've always used rotten tomato's audience rating as the true rating for a movie, so it must be a very good movie! Is it a children's movie then or is it for more mature audiences?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:06:34.665Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe ultimately it was created as a Disney Children's movie, however it is enjoyable for adults and childrena like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:07:08.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gotcha, Disney always knows how to make movies for everyone I guess. How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:08:17.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "1 hour and 49 minutes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:10:19.767Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "At least it's not too long, there's certainly movies that are hard to finish because they are 2+ hours. Have you personally seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:10:59.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yes, and i loved it very much. My favorite seen is probably when Elsa turns 21 and is about to be crowned Queen.. She is terrified that the citizens may find out about her powers!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:12:33.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That does sound like quite the story! I'm curious, how does Elsa's sister play a role in this movie if they're worried about finding out about her powers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:14:18.391Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T20:54:29.274Z", 
+  "uid1LogOutTime": "2018-02-12T21:15:50.139Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T20:54:29.304Z", 
+  "uid2LogOutTime": "2018-02-12T21:15:39.797Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1862", 
+  "user2_id": "USR2035", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

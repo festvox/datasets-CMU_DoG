@@ -1,0 +1,104 @@
+{
+  "date": "2018-03-29T13:24:28.785Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:24:33.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:25:00.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Toy Story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:25:06.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:25:08.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, when I was a child", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:26:12.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was one of my favorite movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:26:16.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:26:23.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "1995", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:26:37.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its been 23 years! makes me feel old", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:26:57.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here, I was born only a year earlier", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:27:21.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:27:22.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:27:23.681Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you enjoy animated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:27:55.481Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:31:00.092Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-29T13:24:28.785Z", 
+  "uid1LogOutTime": "2018-03-29T13:33:10.128Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-29T13:24:28.797Z", 
+  "user1_id": "USR4553", 
+  "user2_id": "USR3761", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

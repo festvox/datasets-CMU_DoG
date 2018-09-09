@@ -1,0 +1,372 @@
+{
+  "date": "2018-03-20T17:09:51.410Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:10:29.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to watch a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:10:43.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello user 2", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:11:00.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you doing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:11:04.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:11:05.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:11:19.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " have you watch movie home alone?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:11:29.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how you feel ??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:11:36.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:11:40.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it is a class movie with macaulay culkin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:11:53.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he used to be a good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:00.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think he does not act anymore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:05.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen home alon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:09.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "alone*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:12.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "y 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:12:13.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:12:18.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am doing good thank you for asking", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:21.111Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there were very nice subject", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:12:31.437Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the movie has a lot of action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:42.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and suspense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:44.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the direction of the Chris Columbus awsome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:12:55.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:13:07.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes it is the action and inteligence movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:10.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is your favorite scene in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:13:26.575Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": ". It stars Macaulay Culkin as Kevin McCallister, an eight-year-old boy living in Chicago who is mistakenly left behind when his family flies to Paris for their Christmas vacation. Kevin initially relishes being home ...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:27.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes that is my favorite scene also...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:13:48.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "when the boy make fun of thieves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:50.615Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you think that movie is realistic?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:14:04.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:14:15.164Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you think a real boy could win against home invaders?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:14:15.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no i dont think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:06.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if it has the super dooper power ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:21.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cant win", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:27.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was the theory not practicle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:40.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "every one gets nervois", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:50.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nervous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:54.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:15:54.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what punishment do you think the home invaders should receive", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:10.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:11.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "even the old or matured person also got nervous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:17.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I would be very nervous", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:26.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "luckily our constitution protects the second amendment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:37.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think they should have to pay penalty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:44.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like 50,000 dollars penalty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:12.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say the most punitive punishment possible would be appropriate for home invaders", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:18.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you agree??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:18.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think that is too soft of a punishment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:28.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "home invaders are scum", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:36.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but should be ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:44.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and they must be dealt with without mercy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:47.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:17:53.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they usually do not show their victims any remorse", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:58.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i enjoy talk to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:02.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:18:05.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:06.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:07.875Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T17:09:51.410Z", 
+  "uid1LogOutTime": "2018-03-20T17:18:24.006Z", 
+  "uid1response": {
+    "feedback": "The other user was positive and very charming. I enjoyed speaking with them about the Home Alone Movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:09:51.654Z", 
+  "uid2LogOutTime": "2018-03-20T17:18:08.848Z", 
+  "uid2response": {
+    "feedback": "nice smooth talking", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4724", 
+  "user2_id": "USR3642", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "date": "2018-02-13T18:18:13.089Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:18:50.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:21:58.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what movie will you talk about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:22:47.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws 1975 thriller by Steven Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:24:21.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok how was it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:25:19.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie not for children but everyone watched it. About a man eating shark attacks beachgoers and the local police chiefs attempt to kill it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:29:49.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow was it scary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:30:03.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It had its moments the music would get scary so yu knew and attack was going to happen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:32:22.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's cool how did they try to kill the shark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:25.774Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Waiting for the shark was boring the it attacked the boat tearing it it got a scuba tank in its mouth and they shot at the tank and it blow up lucky because the boat was sinking ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:29.106Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow it must have been quite the scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:14.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:39:00.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats cool so should i check this film out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:40:08.066Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, its available opening scene makes you not want to go alone to the beach ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:42:31.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it must have been very bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:42:49.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes without spoiling it too much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:43:30.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how did the actors do in your opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:44:15.089Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "or the director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:46:57.273Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They played real people Roy Scheider as Chief Martin Brody very concern with safety Robert Shaw as Quint was a real hunter type Richard Dreyfuss Biologist Matt Hooper helpful but not necessary Lorraine Gary as the chiefs wife Ellen Brody supportive ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:52:07.595Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:18:13.089Z", 
+  "uid1LogOutTime": "2018-02-13T18:51:36.437Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:18:13.122Z", 
+  "uid2LogOutTime": "2018-02-13T18:54:29.540Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR163", 
+  "user2_id": "USR2944", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

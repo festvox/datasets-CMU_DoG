@@ -1,0 +1,298 @@
+{
+  "date": "2018-03-30T10:07:49.996Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:07:59.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:11.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so have you seen this movie yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:22.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:29.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maleficent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:36.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh shoot havent watched it yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:45.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really it's supposed to be a kids movie but it actually scared my kids a little", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:59.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ohhh I love kids movies..is it disney?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:09:13.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes its based on the sleeping beauty story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:09:24.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whom does it star?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:09:29.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Angelina Jolie plays the lead part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:09:39.756Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sadly the rotten tomatos score is a little low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:09:52.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow thats great..is there anything that stands out about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:10:00.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel its a little harsh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:10:00.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its has some good action and interesting scenes in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:10:18.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it because it scared the kids or because it is legit not good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:10:25.977Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no its fine ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:10:48.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okaayyy ..what would be your rating for this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:10:57.085Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would say b+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:11:05.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okayy if 2 adults were to go for this movie,would you advise it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:11:25.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I would say its good for that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:12:23.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you see the cinemascore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:12:51.401Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okayy great..whats angelina jolies part in this..does she play the sleeping beauty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:12:54.753Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no,not yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:13:22.095Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what does cinemascore say though?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:13:36.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They gave a rating of A which I feel is fair", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:13:48.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Angelina plays the villian slash superhero maleficent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:14:01.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she plays a really good villian", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:14:08.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow,yes..atleast for her presence,I think the movie is worth a one time watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:14:34.567Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes I would recommend you at least try and watch it one time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:14:48.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its also somewhat of a love story at least for part of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:15:01.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh the genre..is it romantic or more of action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:15:24.852Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "action mostly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:15:35.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the romance is only for a short period in the beginning of the movie before the lead actor turns on her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:15:54.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "isnt angelina the lead?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:16:13.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or is there another co-lead?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:16:20.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:16:21.738Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the lead actor is who turns on her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:16:29.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ahhh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:16:43.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think his name is Sharito Copley ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:16:45.754Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he plays Stefan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:16:49.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:17:05.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well it was great talking with you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:17:06.979Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:17:09.756Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T10:07:49.996Z", 
+  "uid1LogOutTime": "2018-03-30T10:17:13.075Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T10:07:50.167Z", 
+  "uid2LogOutTime": "2018-03-30T10:17:18.867Z", 
+  "uid2response": {
+    "feedback": "would definitely watch the movie as angelina is the lead,and its a kids movie", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4471", 
+  "user2_id": "USR1884", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2018-03-05T17:39:33.617Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there. Have you seen Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:39:48.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, but it's a been a while. You a fan? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:40:30.912Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:39:33.617Z", 
+  "uid1LogOutTime": "2018-03-05T17:44:46.564Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:39:33.666Z", 
+  "uid2LogOutTime": "2018-03-05T17:40:37.982Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3224", 
+  "user2_id": "USR1814", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

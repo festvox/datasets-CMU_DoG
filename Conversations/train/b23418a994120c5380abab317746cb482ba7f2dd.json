@@ -1,0 +1,140 @@
+{
+  "date": "2018-03-07T04:24:33.224Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "alright, so what movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:24:52.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We are going to discuss the 2005 superhero film \"Batman Begins\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:25:21.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:25:37.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Critics enjoyed it as well, especially due to its \"being both comic-book archetypes and real people\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:26:19.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "christian bale was awesome in that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:26:22.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bale and Liam Neeson both had two characters they were cast as in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:27:07.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its weird seeing him in it because i always see him as qui gon jinn", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:28:23.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bale showed menace and wit \"in his brilliant turn in American Psycho\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:30:45.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree that movie was great too he was really excellent in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:31:33.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Dis you know the group CinemaScore graded \"Batman Begins\" with an A grade?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:32:33.666Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no i didnt know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:32:49.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film explores the origins of Batman's damaged psyche", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:34:00.493Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it does. It really shows the depth of his character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:34:57.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Alfred Pennyworth's character has depth because he is forced to step into a guiding role for young-and older- Bruce Wayne.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:35:53.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:37:32.154Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "We see him mentoring him both when hes young and when he is old", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:37:43.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director, Christopher Nolan, is an excellent visual storyteller.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:39:02.782Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joe Chill is the name of the character who mugs and kills Bruce's parents.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:39:43.586Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nolan is a great director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:41:36.919Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "im a huge fan of all of his movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:41:43.950Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T04:24:33.224Z", 
+  "uid1LogOutTime": "2018-03-07T12:36:40.589Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T04:24:33.442Z", 
+  "user1_id": "USR4734", 
+  "user2_id": "USR1597", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

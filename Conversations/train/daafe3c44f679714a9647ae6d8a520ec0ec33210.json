@@ -1,0 +1,292 @@
+{
+  "date": "2018-03-30T22:20:49.723Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:21:14.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:21:28.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Real Steel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:21:39.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did see the movie Real of steel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:22:06.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:22:14.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it was good to me, how about you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:22:35.426Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never even heard of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:22:45.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:22:56.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critic's response that it is Rocy with robots sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:23:12.942Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was very interesting movie, you will like iy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:23:42.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do love Hugh Jackman! Is he good in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:24:18.449Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe\n he is good, I saw about all of his movies. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:25:05.350Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is fabulous!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:25:15.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think the premise is believable?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:25:27.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it remind of boxing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:26:13.080Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do they build their own robots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:27:16.542Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is a great act to me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:27:20.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "His character Charlie seems to have a lot of problems", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:28:41.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think they do or they have people wearing a black suit with many white balls to act like the robot. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:29:08.292Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:30:17.041Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie was basic on a book call steel that came out in 1956", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:31:10.168Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did like the part when he found the robot and train it to be a boxers. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:35:03.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ooh Anthony Mackie! I live him!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:35:29.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:36:39.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So in the end, the humans have to box for the robots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:36:44.908Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What a twist!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:36:48.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes what a twist.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:37:01.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do like that fact that he realize that he can do that boxing motion and the robot will copy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:38:28.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like a cool film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:38:33.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That does sound cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:38:40.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah he look happy doing the boxing move. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:39:21.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:42:00.115Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He happy to make money", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:42:01.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am glad it all workd out for him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:42:16.028Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always appreciate a happy ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:42:28.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes in USA ending. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:43:39.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:46:18.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is there a different ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:46:25.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In different country have different\n ending", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:47:30.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow! I didn't know that!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T22:48:42.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did like he kid was with him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:52:01.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did like that fact the son teach the robot to dances.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:55:57.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you still here.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T22:57:30.014Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T22:20:49.723Z", 
+  "uid1LogOutTime": "2018-03-30T22:48:44.425Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T22:20:49.788Z", 
+  "uid2LogOutTime": "2018-03-30T22:58:41.121Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR520", 
+  "user2_id": "USR2011", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

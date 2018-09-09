@@ -1,0 +1,294 @@
+{
+  "date": "2018-03-16T20:33:47.928Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:34:01.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, tell me about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:34:17.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you never seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:34:29.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know anything about it. What is the full title?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:34:47.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:35:03.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, no. I've never seen the movie. Can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:35:19.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey(Bruce) had trouble with his life and blamed everything on God", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:35:35.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So God\" heard him and thought how fun it would be to see if Bruce could do a better job at being God\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:36:11.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "At first Bruce liked it because he could make all his wishes come true, the girl,car,job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:36:41.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But after reality set in that God\" has a bigger job than just making people happy Bruce got overwhelmed\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:37:20.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, Is it a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:37:34.256Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:37:39.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its super funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:37:45.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "really I like anything that Jim Carrey is in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:37:55.679Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool! Are there any other major actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:38:23.139Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morgan Freemna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:38:39.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:38:45.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jennifer Aniston", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:38:53.331Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what else would you like to know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:39:12.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long ago was it in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:39:42.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2003", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:39:52.818Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay, makes sense! I remember the name but I've never seen it myself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:40:16.507Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of ratings did it get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:40:29.382Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not sure maybe 4", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:41:10.783Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:41:18.249Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It sounds like a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:41:25.321Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I imagine Morgan Freeman was the voice of God", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:41:39.738Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Director was Tom Shadyac", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:42:00.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:42:09.671Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I also like Jim Carrey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:18.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I just don't know a whole lot about him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:25.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But he seems funny and perfect for a movie like this", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:33.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes the roles fit all the character ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:43:14.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it sounds good. I'll have to remember it when I'm looking for something to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:43:26.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it sounds like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:43:37.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Critical response : Carrey is hilarious in the slapstick scenes\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:46:06.199Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Best film Jim Carrey was in ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:46:31.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes\n gave it 48%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:47:19.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But CinemaScore :A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:47:36.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rotten Tomatoes can be a tough one haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:48:17.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the other ratings are good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:48:23.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's good to know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:48:29.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In the film Bruce was a news reporter ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:48:50.004Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T20:33:47.928Z", 
+  "uid1LogOutTime": "2018-03-16T20:49:03.792Z", 
+  "uid1response": {
+    "feedback": "I didn't get a document,\nThe other user was good and I will watch the movie if I get a chance", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T20:33:47.976Z", 
+  "uid2LogOutTime": "2018-03-16T20:49:11.417Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4806", 
+  "user2_id": "USR4891", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

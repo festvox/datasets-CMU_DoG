@@ -1,0 +1,79 @@
+{
+  "date": "2018-02-19T19:05:59.379Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:06:04.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:06:38.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:06:56.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman v Superman. Have you watched it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:07:19.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I havent, is it good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:07:42.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:21.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's better than Man of Steel, the superman movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:42.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But well below Dark Knight.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:56.814Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T19:05:59.379Z", 
+  "uid1LogOutTime": "2018-02-19T19:09:14.678Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:05:59.525Z", 
+  "uid2LogOutTime": "2018-02-19T19:08:02.048Z", 
+  "uid2response": {
+    "feedback": "The other user droped from the conversation.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3498", 
+  "user2_id": "USR960", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

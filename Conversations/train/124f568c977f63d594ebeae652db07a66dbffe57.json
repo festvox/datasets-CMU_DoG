@@ -1,0 +1,43 @@
+{
+  "date": "2018-03-26T23:21:30.202Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T23:22:09.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen Monsters University? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T23:23:41.653Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T23:21:30.202Z", 
+  "uid1LogOutTime": "2018-03-26T23:23:24.535Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-26T23:21:30.494Z", 
+  "uid2LogOutTime": "2018-03-26T23:24:15.695Z", 
+  "uid2response": {
+    "feedback": "It says the other user left.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2360", 
+  "user2_id": "USR70", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

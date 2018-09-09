@@ -1,0 +1,234 @@
+{
+  "date": "2018-02-13T17:57:21.474Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:57:36.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hallo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:57:49.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:58:00.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:58:09.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wonder woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:58:17.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:58:26.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like gal gadot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:58:44.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:58:49.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "she awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:59:00.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "indeed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:06.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like the character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:59:22.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "love her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:27.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T17:59:34.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "her costume :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T17:59:47.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the Amazon women", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:06.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:00:10.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:31.173Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:00:36.183Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "patty jenkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:00:45.083Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "never heard of her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:00:51.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah it's a good film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:01:10.476Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like comics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:01:19.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:24.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but movies based on comics, yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:01:32.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:01:39.007Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did the movie get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:02:18.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:23.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:28.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rotten tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:02:34.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:38.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "92%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:02:46.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:02:51.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talkin to ya", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:03:03.050Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T17:57:21.474Z", 
+  "uid1LogOutTime": "2018-02-13T18:04:02.715Z", 
+  "uid1response": {
+    "feedback": "I like it", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T17:57:21.475Z", 
+  "uid2LogOutTime": "2018-02-13T18:03:11.384Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3620", 
+  "user2_id": "USR4312", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

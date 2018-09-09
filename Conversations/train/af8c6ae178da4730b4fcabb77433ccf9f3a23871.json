@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-28T22:35:03.012Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:35:19.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:35:28.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:35:33.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Wolf of Wall Street is the movie that was chosen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:35:57.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:36:02.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:36:13.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:36:39.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Leonardo DiCaprio and also has Jonah Hill in the cast as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:36:49.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds good, what the storyline?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:37:13.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is actually a memoir about Jordan Belfort who DiCaprio plays", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:37:15.646Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do the critics say about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:37:48.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie relates to the Stockmarket and the highs and lows that are involved while working in the market", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:37:52.565Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten tomatoes gave it a 7.8/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:38:12.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sounds pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:38:24.865Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:38:45.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One critic actually said it was irresponsible glorification rather than a satirical takedown ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:39:12.035Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did anyone not like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:39:31.106Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "On CinemaScore it was given a C as a grade", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:39:59.419Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Metacritic Score wasn't too bad with 75%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:40:19.856Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "would you recommend it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:40:24.491Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would! I think it is an interesting storyline and the fact that it is based on true events makes it even more interesting to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:41:02.144Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea i wouldnt mind watching it if i had the time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:41:25.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The cast is actually pretty famous overall", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:41:41.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think Margot Robbie does well as DiCaprios romantic partner in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:42:48.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " would you recommend\n it for kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:42:55.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldn't recommend it for kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:43:02.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is drug use and alcohol use in the movie. Plus there are some scenes that could be offensive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:43:24.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i see, so its an adult movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:44:04.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is an adult movie for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:44:16.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I would still recommend watching it when you have time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:44:29.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i definitely\n will  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:45:09.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like Leonardo as an actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:45:10.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea but i dont watch a lot of movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:45:26.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He plays this role very well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:45:40.446Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T22:35:03.012Z", 
+  "uid1LogOutTime": "2018-03-28T22:46:16.472Z", 
+  "uid1response": {
+    "feedback": "i will watch the movie", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T22:35:03.063Z", 
+  "uid2LogOutTime": "2018-03-28T22:45:42.350Z", 
+  "uid2response": {
+    "feedback": "Thanks", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR708", 
+  "user2_id": "USR2058", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

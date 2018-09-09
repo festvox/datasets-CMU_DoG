@@ -1,0 +1,334 @@
+{
+  "date": "2018-02-17T18:06:42.743Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:07:04.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:07:53.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:10:25.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:10:47.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Frozen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:10:58.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:11:02.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:11:08.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, yes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:11:11.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:11:21.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually really enjoyed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:11:30.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:11:34.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:11:43.869Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw it with my nieces who loooved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:11:56.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it about the move that you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:12:12.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw it with one of my friends. We were some of the only non-parent adults in the theater, but it was worth it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:12:31.687Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the songs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:12:37.975Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Very catchy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:12:43.834Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes the music was really well done", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:13:04.401Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Im amazed at how popular it has become", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:13:10.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:13:22.897Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Though I guess people have moved on to other movies now :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:13:33.121Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:13:42.018Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anna", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:14:00.634Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cool, I like Olaf :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:14:14.832Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha, Olaf was good too :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:14:20.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think Kristen Bell was perfect for Anna though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:14:32.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:14:53.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think there were any good lessons for kids in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:15:08.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there was a strong message about the importance of family", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:15:31.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "though I don't think that really came through until the end", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:15:39.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how about you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:15:41.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:15:42.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the messages about expressing emotions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:16:05.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that was good too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:16:19.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the relationship between the sisters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:16:29.266Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, though I didn't find Elsa very likeable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:16:46.688Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:17:10.694Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did enjoy her singing, though :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:17:19.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked that she felt like she needed to stay isolated from everyone to protect them at first", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:17:43.165Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and how this changes throughout the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:17:55.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what was your favorite song?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:18:29.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am glad that changes throughout the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:18:29.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think \"do you want to build a snowman\" was my favorite!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:18:50.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it still gets stuck in my head today", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:18:57.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes very catchy <3", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:19:03.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's your favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:19:29.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The other I really remembered is let it go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:20:12.847Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the reindeer song too :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T18:20:25.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha yes :)\na", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:20:27.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "alright, i think it's time to go!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T18:20:33.746Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-17T18:06:42.743Z", 
+  "uid1LogOutTime": "2018-02-17T18:20:35.442Z", 
+  "uid1response": {
+    "feedback": "I have already seen the movie!", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T18:06:42.926Z", 
+  "uid2LogOutTime": "2018-02-17T18:20:41.770Z", 
+  "uid2response": {
+    "feedback": "We had a great conversation!  Need to go watch Frozen now :) <3 <3", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR667", 
+  "user2_id": "USR824", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

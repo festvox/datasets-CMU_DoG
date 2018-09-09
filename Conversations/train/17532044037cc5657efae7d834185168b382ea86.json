@@ -1,0 +1,100 @@
+{
+  "date": "2018-02-14T01:04:54.680Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie sounds really funny and interesting to me. What is your opinion?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:06:18.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought this was a really cute movie.  As an adult, I enjoyed it, so I can just imagine how much kids liked it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:06:42.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked how they didn't change way nature is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:07:44.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually brought my daughter to go see the movie and then we just had to get it on DVD of course, she loved the names of all the animals and thought it was so funny that animals were talking!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:07:59.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also loved the way they showed nature it looked so realistic and nice!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:08:10.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love animal movies..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:08:12.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too! I love animation movies and I think they took a lot of time making this movie but they did a really good job on it all together and it was worth the movie ticket for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:08:40.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just like how you can imagine the squirrels talk to each other by chittering, makes me wonder what they're really saying", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:08:45.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont remember if there are squirrels in the movie but my favorite character personally was the sheep who was the assistant mayor ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:09:25.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I meant animals in general having conversations. But I loved office judy hopps", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:10:19.794Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I enjoyed the adult humor along with with kid humor...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:10:52.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i also liked how forceful Judy was inthe whole blackmail scene..lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:12:20.432Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T01:04:54.680Z", 
+  "uid1LogOutTime": "2018-02-14T01:14:25.799Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T01:04:55.149Z", 
+  "uid2LogOutTime": "2018-02-14T01:09:49.306Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4513", 
+  "user2_id": "USR4527", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

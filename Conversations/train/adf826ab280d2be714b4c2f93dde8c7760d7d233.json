@@ -1,0 +1,473 @@
+{
+  "date": "2018-02-14T19:42:41.772Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:43:31.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:44:43.161Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you want to talk about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:45:18.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Zootopia released in 2016.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:45:33.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have watched that\n movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:46:23.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gives it a 98% rating - and 8/10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:46:29.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it.  Was it worth watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:46:37.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you are interested in animations movies, you should also see this one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:47:06.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the Rotten Tomaotes rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:47:12.896Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it more of an adult movie or one to watch with kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:47:26.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Those are very high ratings especially for rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:47:43.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a family movie, you can watch it with kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:48:02.049Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What age on the kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:48:15.579Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What were some of your favorite scenes in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:48:42.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not think there is an age restriction on the movie but the kids should be at some age to understand the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:49:21.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there is DMU scene in the movie with sloth bears", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:49:37.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the scene is also in the trailers, you should definitely watch that trailer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:49:52.586Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I will have to do that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:00.779Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no but it is a really funny scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:50:34.265Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How did you like the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:46.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jason Bateman as a fox seems interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:58.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this is an animation movie so those are voice actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:19.981Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I bet Idris Elba made it amusing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:51:21.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think she voice the bunny police", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:45.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think Ginnifer Goodwin was the bunny police.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:37.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like the animation genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:44.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not a real fan of that genre, but I love the famous ones, like Zootopia, Ice Age, etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:53:28.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm like you, not a real fan, but will watch some.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:53:49.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "zootopia is really good, if you watch the trailers, you will definitely want to see the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:54:23.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would the movie keep younger kids entertained for just a bit or most of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:54:44.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "definitely for the whole movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:55:11.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that would be great then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:55:18.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I heard that they are also making zootopia 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:55:35.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It must be a good movie if they are making a second one.  I will have to watch the first one for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:56:11.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure. do you want to add something about the movie or this is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:56:25.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When watching movies in general, do you go by the rating?  Or do you take a chance to watch it if ratings are poor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:56:52.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am a big fan of drama, sci-fictions movies. So I go with the genres, not based on ratings. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:57:46.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That makes sense.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:10.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I go more with the ratings myself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:38.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you watch more in theater or on DVD?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:49.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most on DVDs and netflix but I try to go to theaters once a month", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:59:10.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:59:19.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:59:20.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always rent.  Haven't been to a theater in years.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:59:40.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "for example, I watch the trailer of Zootopia on theater when I went to watch the new Star Wars movie 2 years ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:19.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't even remember the last movie in theater I watched.  That is so bad.  haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:03.381Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If the movie is based on a book, do you read the book?  If so, before or after seeing the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:35.861Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not want to wait certain\n movies to be available on DVD", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:01:43.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I keep a list of the ones that I want to see and the release dates.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:23.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not read many books and I do not remember reading a book after seeing the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:26.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I usually read the book prior to seeing the movie.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:03:02.375Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not my style", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:03:52.052Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was your favorite character in Zootopia?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:03.166Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "of course the slothbear which has only 2-3 mins scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:40.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and then the rabbit bunny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:58.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i meant the police lady", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:05:10.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From what I am reading, I think I would like the fox and the buffalo.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:05:30.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the fox is the con one, he is also very good in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:06.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what about the sheep?  did it have much of a part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:23.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not want to give you spilers :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:06.183Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "spoilers ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:11.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good point", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:22.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what message/them did you take away from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:49.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this is not one of those message movies, you go there, watched the movie, laughed a lot and have fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:08:17.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "one of the best kind to have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:08:33.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:08:38.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else on the movie you can think to add?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:02.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you should definitely watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:17.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at least watch the trailer with the sloth in it, it is about 2 mins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:33.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to do that.  Do you think the conversation can me marked as finished?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:59.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:10:10.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for the chat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:10:16.908Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright.  Nice chatting with you.  Thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:10:20.981Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:42:41.772Z", 
+  "uid1LogOutTime": "2018-02-14T20:10:29.181Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:42:41.903Z", 
+  "uid2LogOutTime": "2018-02-14T20:10:25.581Z", 
+  "uid2response": {
+    "feedback": "I have already watched the movie and I think I made the other guy to watch it.", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1466", 
+  "user2_id": "USR509", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2018-02-28T19:18:39.415Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good day to you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:19:09.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Catch Me if You Can?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:19:16.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not! Is it any good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:19:32.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it has good reviews on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:19:55.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it's directed by Steven Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:20:05.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome! I trust Rotten Tomatoes and love Spielberg. Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:20:22.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:20:33.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and Tom Hanks and Christopher Walken and Amy Adams!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:20:53.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All great actors. A list in my opinion. What's the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:21:33.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a biographical crime film about the life of Frank Abagnale who was a con man who posed as a Pan American World Airways pilot, a Georgia doctor and a Louisiana parish prosecutor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:22:49.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've actually heard about Abagnale. Didn't know the movie was about him. Who plays the character of Frank?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:23:54.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:24:15.249Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome! I bet he nailed the part as always!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:24:44.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know the exact score Rotten Tomatoes gave the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:25:09.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "96%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:26:55.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's amazing as RT is tough on movies so if this film got a rating in the 90s, it must be spectacular. Any other interesting plot details you can share?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:28:05.076Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He also poses as a substitute teacher in his French class", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:30:29.856Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like he was great at deceiving people. What character did Tom Hanks play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:31:19.923Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He works with the FBI trying to track Frank Down", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:31:41.948Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Frank ends up getting caught, but has the opportunity to work for the FBI to catch other cons.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:32:05.167Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Awesome. He's one of my favorite actors. And the fact that he was caught and offered a job with the FBI makes it more appealing as it sounds like it explores his entire story. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:33:20.355Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, it's a great movie. It has some great drama, but also comedy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:34:17.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Those are my two favorite genres. Do you happen to know what character Christpher Walken played?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:35:08.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he plays Frank Abagnale, Sr.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:35:31.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The film has a great ending. After the ending credits, we learn that Frank started a family and still made lots of money because he invented a new kind of un\nforgeable check.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:36:40.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*unforgeable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:36:47.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh the dad! Wow! Perfect casting as Christopher could really pass as Leo's dad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:36:55.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it's a great dynamic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:37:31.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm glad the ending was happy for him. The guy was clearly a genius! ! So what about Amy Adams? Do you happen to know her character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:37:39.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She played Brenda Strong", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:38:48.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't remember what role she plays in the story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:39:12.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This sounds like a great film. It has an all star cast, a legendary director, is critically acclaimed and a very interesting plot!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:39:28.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I hope you see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:40:28.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:40:31.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I plan on it and same to you! Thanks for all the info!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:40:56.232Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T19:18:39.415Z", 
+  "uid1LogOutTime": "2018-02-28T19:40:32.941Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T19:18:39.470Z", 
+  "uid2LogOutTime": "2018-02-28T19:41:22.868Z", 
+  "uid2response": {
+    "feedback": "I decided to watch it based on the other user's introduction because they made the film sound great and provided me with information that made the movie very appealing. So it sounds like a great film and I plan on watching it!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1004", 
+  "user2_id": "USR3781", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

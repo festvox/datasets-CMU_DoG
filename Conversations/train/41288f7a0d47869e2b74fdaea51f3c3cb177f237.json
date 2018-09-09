@@ -1,0 +1,284 @@
+{
+  "date": "2018-03-20T16:15:11.632Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:15:23.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, i'm doing well. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:31.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Leonardo DiCaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:50.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good. What did you think of the Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:15:50.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am pretty neutral, I think he has his good movies and bad ones.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:16:11.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea, he does. The Great Gatsby was pretty good, more interesting than the book", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:16:31.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? What makes you say that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:04.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DiCaprio performed really well in it, and I liked the grandiose nature of the scenes displayed in that media. The book was a little hard to interpret with its traditional language.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:18:15.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you find it to be trashy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:01.181Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wouldn't say it was trashy, but I don't think it was really as good as the book.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:19:32.315Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Leo was great and performed well with what he had", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:19:48.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Joel Edgerton really shined in it too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:53.929Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I think overall the movie was a 5/20 for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:19:58.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joel was pretty spot on with his character, I think he was the perfect fit for the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:17.546Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess it's best to put aside thoughts about the book when watching the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:23.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I liked the scenery too, it was filmed in Australia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:47.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I went into the film expecting it to folow the book to a T.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:57.113Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I really need to stop having that expectation because it ruins a lot of movies for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:21:12.933Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Same here. Edgerton was great, even though he didn't have much variation to work with", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:19.643Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I guess we shouldn't really look for relatability in this one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:35.452Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, Hollywood drastically changes things.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:21:57.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It has more of an entertainment value, oh yes for the shock factor I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:22:05.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I can agree with that. I was definitely shocked while watching lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:22:35.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about the ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:22:51.712Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you feel they were fair?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:22:57.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol me too. Ratings are always rough, I think they're on par with this one though. I'd give it a B too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:21.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "McGuire & DiCaprio were great in it, and Daisy was casted well I think, how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:49.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "MaGuire*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:24:04.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now that I think about it, I can't really say I could think of anyone else that I would cast other than them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:24:36.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They just played their characters very well, but I dont think this is their best works.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:24:51.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's a good point. Good thing for the 190 million dollar budget", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:24:56.754Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, more of a romantic comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:25:19.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:26:06.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you watch it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:26:12.783Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not really a fan of watching movies twice. How about you? I think I watched it back in 2013 and that's it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:27:04.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No I am not a fan of seeing movies more than once unless they are really good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:27:25.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting with me. I enjoyed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:27:36.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a great day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:27:42.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same here. It was entertaining, definitely used the large budget for props and luxuries. You too ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:27:44.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:27:50.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "see ya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:27:53.028Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T16:15:11.632Z", 
+  "uid1LogOutTime": "2018-03-20T16:27:54.937Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:15:11.645Z", 
+  "uid2LogOutTime": "2018-03-20T16:27:53.270Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR2635", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

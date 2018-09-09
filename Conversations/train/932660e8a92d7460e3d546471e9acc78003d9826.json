@@ -1,0 +1,146 @@
+{
+  "date": "2018-03-19T20:19:47.278Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:02.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like Tom Hanks ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:20:20.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:20:37.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do, I like some of his stuff better than others", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:20:54.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so did you watch Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:21:07.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "h performed as Woody which was a string -pull cowboy doll", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:21:30.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the whole movie, only small parts of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:21:37.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pixar produced it in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:22:11.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, wow I didn't know it was that old", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:29.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:22:36.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and it had a great ratings in both rotten tomatoes\n and cinema score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:01.113Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know about the other cast members?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:42.684Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are some of the other actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:23:44.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tim Allen as Buzz", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:57.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He has to be pretty funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:24:13.356Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jim Varney as the slinkey dog", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:13.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know who that is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:24:32.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was there a female lead too or that was in another one? I think there are a few out now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:25:54.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I may have myself confused.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:26:09.329Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there any other big names?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:32:29.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have any other info?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:41:29.608Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-19T20:19:47.278Z", 
+  "uid1LogOutTime": "2018-03-19T20:43:56.416Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:19:47.373Z", 
+  "user1_id": "USR3911", 
+  "user2_id": "USR1552", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

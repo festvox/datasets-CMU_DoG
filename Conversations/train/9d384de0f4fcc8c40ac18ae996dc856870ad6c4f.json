@@ -1,0 +1,70 @@
+{
+  "date": "2018-02-09T23:44:13.383Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I don't see anything about a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T23:45:06.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019m exactly certain if I can say the title. It did not say, but it is woman wonder, and rotten tomatos gives it 92%. I have only seen bits and pieces of it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:45:50.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not exactly certain* sorry, typo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:46:03.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on dc comics so if you like those you may like this ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:46:36.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Starts out on her journey as a little girl to become a superhero ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:46:50.282Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It \nis a war movie set In World War One ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:47:51.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T23:48:59.226Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T23:44:13.383Z", 
+  "uid1LogOutTime": "2018-02-09T23:50:16.064Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T23:44:13.389Z", 
+  "uid2LogOutTime": "2018-02-09T23:50:15.168Z", 
+  "uid2response": {
+    "feedback": "I have watched pieces of the movie but not all of it, my partner did not respond. ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR18", 
+  "user2_id": "USR3213", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

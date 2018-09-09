@@ -1,0 +1,410 @@
+{
+  "date": "2018-03-03T04:03:10.108Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:03:49.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello! I am good, and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:03:59.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "gooood!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:04:04.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:04:08.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen Bruce Almighty before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:04:15.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have! who was your favorite\n actor in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:04:41.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "morgan freeman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:04:51.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Jim Carrey.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:04:54.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love his characted - his voice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:05:00.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "his voice is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:05:10.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeahhhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:05:13.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2003 long time ago..wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:05:23.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:05:28.798Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:05:40.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I forgot Jennifer Anisoton was in it too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:05:58.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is funny. what did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:06:12.661Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeahhh she was really great - although i feel like a lot of her roles are very similar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:06:24.137Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i liked it alot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:06:28.049Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "got a 5.7/10 rotten tomatoes score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:06:38.581Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah.. but rotten tomatoes is always such a difficult critic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:06:55.294Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i love when comedies are able to display a deeper context.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:07:05.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like how Bruce used his powers in the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:07:05.734Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "similar to Big Daddy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:07:09.021Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:07:11.789Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "to get back at those gangsters lol ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:07:20.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Shadyac is the director. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:07:32.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and i loved the scene where he pulled in the moon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:07:42.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the news reporters..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:08:01.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:08:08.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hilarioius", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:08:11.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what was your least favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:08:22.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hilarious in the slapstick scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:08:34.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Carrey takes himself a bit seriously for being such a goof", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:09:09.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:09:16.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats very true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:09:19.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i didn't like that he was kind of selfish... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:09:27.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but in general i really loved the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:09:35.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:09:49.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohhhh! and i forgot that he flirted with the other reporter sometimes...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:09:58.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually he doesn't portray such a great person ... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:10:10.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not so much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:10:19.253Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kinds of treats jennifer aniston badly...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:10:23.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "selfish career-wise", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:10:32.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but then she took him back in the end anyways", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:10:41.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "morgan freeman really made the movie though.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:10:49.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i feel like that role paved the way for him doing all these voiceovers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:11:00.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "guess they were in love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:11:01.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeahhh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:11:04.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:11:23.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:11:29.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice and simple plot line", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:11:35.671Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very relateable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:11:42.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "easy watch if you want a mindless movie. sometimes that is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:11:54.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yesssss", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:12:05.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to have it playing in the background", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:12:10.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "relateable, ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:12:11.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yesss", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:12:34.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think i will watch it this weekend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:12:37.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeahhh i would too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:12:57.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will watch God appear to Bruce ..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T04:13:08.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i felt that the scene where morgan freeman was just mopping was very soothing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:13:10.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "loll yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T04:13:14.377Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-03T04:03:10.109Z", 
+  "uid1LogOutTime": "2018-03-03T04:13:32.649Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-03T04:03:10.112Z", 
+  "uid2LogOutTime": "2018-03-03T04:13:26.659Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR127", 
+  "user2_id": "USR1212", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

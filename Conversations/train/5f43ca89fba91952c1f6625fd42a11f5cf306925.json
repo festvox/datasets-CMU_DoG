@@ -1,0 +1,68 @@
+{
+  "date": "2018-03-05T18:02:58.845Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I have never seen this. I am not sure I want to.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:03:58.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It doesn't look that great to me either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:04:07.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think my money would be better spent elsewhere....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:04:25.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you usually watch movies with good Rotten Tomatoes ratings? It has pretty good ratings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:05:01.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It does look like they got the A list cast. And yes, I do consider those ratings. I am not particularly interested in the subject matter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:05:32.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Uh, oh. Looks like you left.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:06:12.138Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T18:02:58.845Z", 
+  "uid1LogOutTime": "2018-03-05T18:06:18.161Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T18:02:59.595Z", 
+  "uid2LogOutTime": "2018-03-05T18:05:08.970Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4733", 
+  "user2_id": "USR4918", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

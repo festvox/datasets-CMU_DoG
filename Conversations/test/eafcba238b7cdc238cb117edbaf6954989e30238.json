@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-28T22:38:13.156Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Do you have any movie suggestions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:39:05.054Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I like to recommend Real Steel which is a 2011 movie starring Hugh Jackman and Dakota Goyo.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:39:50.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:40:22.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on a short story written by Richard Matheson called Steel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:42:01.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not familiar with that short story. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:43:07.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre does the movie fall under?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:43:33.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sci Fi and mystery", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:43:43.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What makes it sci-fi? Are there aliens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:44:21.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about animatronic robots that were built for the film.  But it is a real movie.  There are characters and it has a compelling plot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:46:19.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:48:49.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I have not seen it but it has a Cinema Score of A.  The rotten tomatoes score isn't as good :(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:49:28.267Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well rotten tomatoes doesn't always accurately score movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:50:21.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Based on what you know what other movies are similar to it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:50:38.076Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's how I feel also.  There are so many good actors in it too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:50:42.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh boy, I don't have an answer for that question.  I'm not a big sci fi fan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:51:09.902Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's okay!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:51:23.673Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay great.  Would you like the other stars of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:51:49.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sure! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:52:00.138Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hugh Jackman as Charlie Kenton, Dakota Goyo as Max Kenton, Evangeline Lilly as Bailey Tallet, Anthony Mackie as Finn and Olga Fonda as Farra Lemkova", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:52:55.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, I just thought of something, someone called the movie Rocky with Robots, implying it's got a Rocky type theme to it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:53:50.463Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know who Hugh Jackman is but can you tell me more about the other actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:54:03.116Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Dakota Goyo is a Canadian actor.  Right now this movie has been his biggest role.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:55:34.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Evangeline Lilly is a Canadian actress and author. She came to prominence for her starring role as Kate Austen in the ABC series Lost, for which she won a Screen Actors Guild Award and received a Golden Globe Award nomination.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:56:12.666Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did they think of the movie? Do you know if they liked\n acting in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:59:13.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know that either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:59:34.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T23:03:18.001Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well then, would you watch this movie based on what you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T23:03:32.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can tell you it's based in 2020 when human robots are replaced by machines.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T23:03:53.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That seems interesting considering that that is two years away.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T23:05:10.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes but at the time of the movie it was 9 years.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T23:05:46.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else you would like to know about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T23:07:14.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it is available on any online streaming service like Netflix? Or do you just watch it on DVD?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T23:10:34.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Other than that I have no other questions :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T23:10:52.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know but you should be able to find that information online.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T23:11:08.147Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T22:38:13.156Z", 
+  "uid1LogOutTime": "2018-03-28T23:14:54.655Z", 
+  "uid1response": {
+    "feedback": "I am also not a big scifi fan when it comes to robots. ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T22:38:14.135Z", 
+  "uid2LogOutTime": "2018-03-28T23:11:45.107Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1200", 
+  "user2_id": "USR2698", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

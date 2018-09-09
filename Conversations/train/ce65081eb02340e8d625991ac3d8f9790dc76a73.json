@@ -1,0 +1,59 @@
+{
+  "date": "2018-03-01T21:02:32.809Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:02:46.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:03:00.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:04:05.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me is a really good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:05:45.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it debuted in 2010 also the first film from illumination", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:06:35.494Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T21:02:32.809Z", 
+  "uid1LogOutTime": "2018-03-01T21:08:40.870Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:02:33.047Z", 
+  "uid2LogOutTime": "2018-03-01T21:03:45.824Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3803", 
+  "user2_id": "USR2356", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

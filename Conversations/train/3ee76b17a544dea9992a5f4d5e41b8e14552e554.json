@@ -1,0 +1,81 @@
+{
+  "date": "2018-03-27T15:30:04.341Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:30:27.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:31:00.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:31:01.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. Ever heard of Monsters Inc?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:31:02.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:31:02.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:31:28.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:31:36.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey this guy left, i cant remember what to do if that happens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:32:49.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": ":(", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:49.953Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T15:30:04.342Z", 
+  "uid1LogOutTime": "2018-03-27T15:34:52.800Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:30:04.523Z", 
+  "uid2LogOutTime": "2018-03-27T15:31:34.595Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2723", 
+  "user2_id": "USR4713", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

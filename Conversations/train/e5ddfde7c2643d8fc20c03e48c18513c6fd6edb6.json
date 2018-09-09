@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-22T14:48:29.087Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:48:43.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:49:19.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "User left the chat while I was reading the introduction.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:49:43.763Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T14:48:29.087Z", 
+  "uid1LogOutTime": "2018-03-22T14:49:08.645Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:48:29.112Z", 
+  "uid2LogOutTime": "2018-03-22T14:50:03.549Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2004", 
+  "user2_id": "USR2720", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "date": "2018-01-29T23:26:24.836Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:28:14.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I was reading", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:28:25.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great. Let me know when you are finished ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:28:52.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what do you think this movie is (e.g., musical or romantic comedy)?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:29:06.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it is a romantic musical with a bit of comedy included", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:29:48.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I tend to agree... It's more about music...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:30:17.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Signing and dancing of actors with some romance mixed in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:31:05.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it seem plausible that traditional black music needs to be saved?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:31:20.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:32:53.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie does seem to promote the saving of old jazz music that isn't as popular now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:33:13.283Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, that's probably a worthy endevor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:33:43.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The choice of actors seem good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:34:57.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They seem to include some great 80's songs as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:35:13.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool, the 80s seem to be making a comeback ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:35:41.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The cast is very interesting. I didn't know John Legend acted. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:35:49.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't know Gosling could dance", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:36:28.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it's not something that I have seen in his previous work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:37:07.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Although the reviews mention that the dancing wasn't the best", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:38:04.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can see him at a jazz club", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:38:13.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Agreed ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:38:43.386Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "...and being invited to play keyboards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:38:48.165Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sad to see some critic felt that Emma Stone's character lacked depth. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:39:29.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can also see him trying to convince someone's mother that he is worthwhile.  Hee", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:39:49.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe since she plays one of the millions trying to be a \"star\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:40:34.389Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sadly it doesn't work out for her and she has to go back home", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:41:16.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hate to keep harping of Gosling but I can see him missing the play...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:41:30.398Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is sad, sure it happens in real life a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:41:52.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes and I can see her being so stubborn and refusing to forgive him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:42:01.474Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep, that seems realistic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:42:15.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It meant a lot to her. I understand why she was hurt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:42:22.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that's kind of hard to forgive...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:42:42.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never heard of Boulder City, Nevada...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:43:08.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:43:15.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "must have been rough to go back to a small? place after living in a more exciting LA", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:43:42.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people don't take to LA well...  To me, it's nice to visit but you know the rest...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:44:33.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The traffic would drive me crazy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:44:59.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That and the smog...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:45:14.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When are we supposed to finish the conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:45:38.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. She is probably better off back in NV ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:45:57.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It got pretty good ratings from IMDB...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:46:13.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think after we have made 12 comments ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:46:21.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure, I've only been to Vegas and that's also a nice to visit place but...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:47:33.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK, thanks... I'm checking out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:47:52.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice chatting\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:48:00.003Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:26:24.837Z", 
+  "uid1LogOutTime": "2018-01-29T23:48:35.193Z", 
+  "uid1response": {
+    "feedback": "It went very well.  No problems, technical or otherwise...", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:26:24.875Z", 
+  "uid2LogOutTime": "2018-01-29T23:48:05.298Z", 
+  "uid2response": {
+    "feedback": "This was fun ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR692", 
+  "user2_id": "USR3232", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

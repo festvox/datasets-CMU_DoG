@@ -1,0 +1,115 @@
+{
+  "date": "2018-02-20T03:14:09.666Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How do you like this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:15:17.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seems pretty interesting for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:15:39.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats the rating for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:15:56.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me has a fairly good rating. The rating shows how well others liked this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:16:56.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ive never particularly watched Despicable Me ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:18:19.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I was expecting the ratings to\n be higher than that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:18:42.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Usually, for movies of this genre, ratings are lower than expected. However that doesn't mean that it isn't a good film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:19:15.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jason Segel is a very talented voice actor who performs as Gru's archenemy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:19:45.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool! so he also starred as Vector Perkins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:21:54.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He did! He worked alongside Russell Brand as Dr. Nefario and Steve Carrell as Gru. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:22:39.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The story was written by Sergio Pablos. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:22:59.448Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me more about Russel Brand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T03:23:50.588Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Russell Brand plays Dr. Nefario, a close friend and colleague of Gru. Dr. Nefario makes special gadgets that assist Gru with his goal to steal the moon. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:26:31.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What else would you like to hear more about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T03:30:05.412Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T03:14:09.666Z", 
+  "uid1LogOutTime": "2018-02-20T03:31:17.404Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T03:14:09.931Z", 
+  "uid2LogOutTime": "2018-02-20T03:31:22.328Z", 
+  "uid2response": {
+    "feedback": "I didn't really get great responses from my partner and I tried to actively engage them. ", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1873", 
+  "user2_id": "USR2073", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

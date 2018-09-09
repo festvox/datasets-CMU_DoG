@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-02T19:58:51.457Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:59:21.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:59:26.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see Batman Begins?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:00:06.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did. Do you agree with the Rotten Tomatoes rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:00:28.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:01:01.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it is appropriate", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:01:11.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I liked all of the actors except for katie holmes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:01:37.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any particular scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:03:16.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean any scene that you enjoyed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:04:12.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I like when they are training ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:04:32.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the Ras al Ghul and Scarecrow villians", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:04:51.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like movies in this genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:05:21.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes I like action movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:05:34.363Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you like the key scene # 1?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:06:07.507Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it was memorable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:06:42.359Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the scene where he discovers the well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:07:05.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, that was interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:07:37.859Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is sad when Joe Chill murders his parents", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:07:59.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you generally watch movies with  good\n ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:08:14.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I try to watch movies with good ratings at the theatre", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:08:45.189Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you like about the key scene 2?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:09:02.309Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:09:39.363Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like when Bruce rejects the league of shadows and rebels\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:10:15.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was very action-oriented. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:11:00.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was  brave", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:11:24.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it was suspensful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:11:37.400Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what did you like about key scene 3?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:11:59.688Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Christian Bale wa good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:12:03.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:12:09.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the scarecrow and they asylum part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:12:51.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, a bit scary", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:13:08.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Liam Neeson also played well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:14:10.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, he did a good job ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:14:37.507Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T19:58:51.457Z", 
+  "uid1LogOutTime": "2018-03-02T20:14:56.748Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T19:58:51.568Z", 
+  "uid2LogOutTime": "2018-03-02T20:14:45.429Z", 
+  "uid2response": {
+    "feedback": "Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1535", 
+  "user2_id": "USR335", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

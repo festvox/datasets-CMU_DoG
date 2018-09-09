@@ -1,0 +1,246 @@
+{
+  "date": "2018-02-14T19:57:14.038Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HELLO, WHAT IS THE NAME OF THE MOVIE WE ARE DISCUSSING?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:11.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IS IT AN ACTION FILM?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:53.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is La La Land.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:59:16.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IS THIS A MUSICAL?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:59:39.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHO IS THE MAIN CHARACTER IN THE MOVIE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:05.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is categorized under Musical, Drama, and Romance.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:10.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHAT YEAR WAS THE MOVIE RELEASED?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:35.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie was released in 2016.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:53.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IT SOUNDS LIKE A GOOD MOVIE BECAUSE OF IT'S VARIETY.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:20.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DO YOU KNOW WHAT RATING THE MOVIE RECEIVED? DID IT WIN ANY AWARDS, OR NOMINATIONS?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:08.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It received mostly good critic reviews, and it has an average on Rotten Tomatoes of 8.6/10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:11.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHAT IS THE MOVIE MAINLY ABOUT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:44.354Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't believe that it was nominated or won any awards.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:56.935Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ANY HUGE STARS IN THIS MOVIE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:03:30.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is mostly about Sebastian, a jazz pianist, and Mia, an aspiring actor, who fall in love in Los Angeles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:19.967Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mia is played by Emma Stone. Sebastian is played by Ryan Gosling.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:46.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WOW, TWO OF MY FAVORITES!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:05:22.652Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WHERE WAS THE MOVIE FILMED?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:05:44.524Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's good. I like them as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:05:48.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "WAS IT FILMED AT MORE THAN ONE LOCATION?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:02.068Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure exactly where it was filmed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:20.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "SOUNDS LIKE SOMETHING I WOULD ENJOY.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:41.384Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ARE THEY PLANNING A SEQUEL?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:30.890Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie essentially show the development of the love between the two main characters, as well as how they balance the growth of their love during a time in which their careers are struggling to develop.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:38.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure if there is a sequel in the works.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:08:11.537Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I recommend that you see the movie. It has some of your favorite actors and actresses, received good reviews, and has an interesting storyline.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:03.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "SOUNDS LIKE A BIT OF A TEAR JERKER.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:07.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HOW LONG WAS THE MOVIE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:10:31.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "During the later portion of the movie, the characters do hit a rough patch. With Sebastian making a critical mistake, and Sebastian not being happy with the way Mia views him. So, it does have its ups and downs and could be a tear jerker for some.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:11:02.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ANY PARTS WHERE IT BECAME BORING?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:11:32.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure how long the movie runs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:11:39.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ANY SURPRISE ENDING TO THIS MOVIE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:11:57.211Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IS IT SUITABLE FOR CHILDREN UNDER 17?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:12:21.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not that I am aware. However, two movie critics did indicate they believed certain portions were dull and boring.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:12:40.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IS THERE VULGAR LANGUAGE INVOLVED?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:12:50.504Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:57:14.038Z", 
+  "uid1LogOutTime": "2018-02-14T20:12:55.832Z", 
+  "uid1response": {
+    "feedback": "THE MOVIE HAS DRAMA, MUSIC, AND VARIETY. I WOULD LIKE TO WATCH IT.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:57:14.044Z", 
+  "uid2LogOutTime": "2018-02-14T20:15:40.868Z", 
+  "uid2response": {
+    "feedback": "I do not have any comments.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1184", 
+  "user2_id": "USR2164", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

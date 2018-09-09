@@ -1,0 +1,125 @@
+{
+  "date": "2018-03-19T23:01:42.000Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:02:36.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey yo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:02:42.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whadup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:02:48.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool movie right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:02:56.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just reading this paragraph", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:02:59.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "v dope movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:03:07.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do you know what we're supposed to do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:04:09.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, just let me know how you found this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:04:32.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me for example I loved Roberts character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:04:44.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I found the special effects to be top-notch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:05:46.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, the CG was pretty ncie for the year 2008", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:06:17.484Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly, I think Gwyneth Paltrow could have done a better job with her character ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:07:21.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:07:51.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Favreau was funny though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:08:17.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "also the part when Tony got locked up in the terrorist base, and woke up plugged in to the electrical heart", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:08:57.715Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:09:11.106Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I think the plot was very exciting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:09:44.573Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T23:01:42.000Z", 
+  "uid1LogOutTime": "2018-03-19T23:10:04.487Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-19T23:01:42.188Z", 
+  "user1_id": "USR1971", 
+  "user2_id": "USR1665", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

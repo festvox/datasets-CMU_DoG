@@ -1,0 +1,94 @@
+{
+  "date": "2018-03-06T15:29:24.734Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:29:44.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:57.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:15.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have heard of it but never saw it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:30.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have watched it although not my typical type of movie.  It was pretty good though ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:50.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool. they have a fe\nw good actors in the film that made it worth watching i guess!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:19.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes they did. I really like Christain Bale. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:40.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie got pretty good ratings to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:48.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah me too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:55.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i see it. from what id heard, people thought it was a good film. i think most of batman films seem to do well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:52.690Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes i think they do. Batman is a classic, i dont think they will ever do bad ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:08.730Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really liked the scene where batman fell into a well and was attacked by bats. He was afraid of them.  Interesting since he is Batman ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:47.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is the movie a mixture\n of the comics too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:34:11.561Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:29:24.735Z", 
+  "uid2LogInTime": "2018-03-06T15:29:24.746Z", 
+  "user1_id": "USR429", 
+  "user2_id": "USR4798", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

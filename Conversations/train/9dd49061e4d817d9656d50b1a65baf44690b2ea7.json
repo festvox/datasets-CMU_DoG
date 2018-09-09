@@ -1,0 +1,118 @@
+{
+  "date": "2018-02-13T20:14:19.133Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:15:05.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:15:11.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "am I telling you about a movie, or vice versa?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:15:35.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not sure I think we are suppose to talk about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:16:21.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok...but what movie? haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:16:40.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers i guess.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:17:17.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok...I've never seen it but I know a bit about it. Its a superhero movie with Tony Stark right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:18:07.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Right i seen it along time ago cant really remember it though. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:19:39.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would you watch it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:21:00.270Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know what to do now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:21:24.537Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol okay. I'm following your lead", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:21:41.539Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you see a document on your end?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:22:53.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont. I know one of us is supposed to have a movie to describe to the other, but I dont have one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:23:48.212Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok i have it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:24:32.786Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "alright. Ready and listening", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:24:59.833Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T20:14:19.133Z", 
+  "uid1LogOutTime": "2018-02-13T20:26:20.836Z", 
+  "uid1response": {
+    "feedback": "other user was unresponsive", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:14:19.154Z", 
+  "uid2LogOutTime": "2018-02-13T20:25:58.814Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3442", 
+  "user2_id": "USR3464", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

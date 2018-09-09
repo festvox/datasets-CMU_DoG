@@ -1,0 +1,354 @@
+{
+  "date": "2018-02-21T15:21:35.944Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Have you seen any good movies lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:23:06.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:23:11.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:23:13.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What have you seen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:23:40.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie The Social Network is pretty good ... it's about how Facebook came about and the lawsuit that took place after a dispute of ideas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:24:00.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm. Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:24:31.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesse Eisenberg stars as Mark Zuckerberg and Justin Timberlake is in the movie as Sean Parker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:24:45.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Justin Timberlake?! Really? Wow, he's versatile.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:25:19.460Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He seems to do it all. This is the first time I've seen him in a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:25:54.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:26:17.454Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "David Fincher is the director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:26:33.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's a biopraphic/drama that has received excellent reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:26:50.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't recognize the name. Do you know of any other films he's done?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:26:50.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not, but the critics seem to love the way he tackled this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:27:26.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten Tomatoes gave it a 9/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:27:40.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Metacritic scored it 95 out of 100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:27:54.358Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Facebook was not involved in the making of the movie either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:28:13.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's impressive. When was the film released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:28:19.324Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2010", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:28:24.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, Aaron Sorkin wrote the film and Fincher directed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:28:45.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sorkin -- didn't he write West Wing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:29:05.717Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:29:17.105Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is the movie? i hope it's not one of those three-hour affairs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:29:37.547Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No time was given", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:30:01.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anything else you can tell me about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:30:17.558Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's cool to see how facebook came about after Zuckerberg was dumped by his girlfriend at Harvard.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:30:48.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So that's why he invented it? Revenge?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:31:14.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His LiveJournal blog turned into a campus website called Facemash, which rates female students on attractiveness.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:31:37.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Zuckerberg crashed the Harvard computer network with it and got six months academic probabtion,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:32:17.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kind of creepy. Weren't there others involved in Facebook's early days.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:32:29.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The twins, Cameron and Tyler Winklevoss, who went on to sue Zuckerberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:33:06.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, did any of the critics have anything bad to say about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:33:43.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorkin based his screenplay on a contentious book about the subject, so some of the parts of the story might not be 100 percent accurate", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:34:31.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, it is technically fiction, right? So I wouldn't expect 100 percent truth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:35:00.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The film takes a lot of liberties", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:35:24.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seems like I might enjoy The Social Network.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:35:58.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ben Mezrich wrote the original book that Sorkin uses for his screenplay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:36:21.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That came out in 2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:36:30.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't recognize the name.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:36:45.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Besides Eisenberg and Timberlake, is there anyone else recognizable among the actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:37:14.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems like what turned out to be college kids coming up with a great idea in Facebook turned into a messy divorce with lots of lawsuits\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:37:15.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Arnie Hammer plays both twin brothers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:37:28.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:37:40.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Max Minghella is in it and Andrew Garfield", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:37:45.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No \"leading lady\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:38:04.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like these types of movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:38:10.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "None was listed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:38:13.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I might like this.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:38:26.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But they should make one about Twiiter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:38:35.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you watch films based on only good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:38:50.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually, I tend to avoid reviews. I want to make up my own mind.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:39:22.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How important is knowing the actors or actresses in a film to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:39:50.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like to know because there are some actors who I simply don't like. No matter the film, I just won't watch it if that actor is in it with a major role.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:40:42.952Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-21T15:21:35.944Z", 
+  "uid1LogOutTime": "2018-02-21T15:40:37.440Z", 
+  "uid1response": {
+    "feedback": "It went overall well", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-21T15:21:36.119Z", 
+  "uid2LogOutTime": "2018-02-21T15:41:04.913Z", 
+  "uid2response": {
+    "feedback": "User2 provided enough detail that made the film sound interesting.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4378", 
+  "user2_id": "USR1989", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

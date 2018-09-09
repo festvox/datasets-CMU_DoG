@@ -1,0 +1,302 @@
+{
+  "date": "2018-03-26T22:18:32.693Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:19:03.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we are going to talk about the movie The Shape of Water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:19:15.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is\n a 2017 American fantasy drama film directed by Guillermo del Toro", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:20:02.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and the story \nfollows a mute custodian at a high-security government laboratory who falls in love with a captured\nhumanoid amphibian creature.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:20:29.331Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, yes lets talk about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:20:58.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how do you feel about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:21:25.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it seem unrealistic but it gets good reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:21:39.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:22:28.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has received some good ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:22:40.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why would a spy be posing as a scientist to study an amphobian?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:22:54.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I beleive they won awards for this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:23:37.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it has received awards and good ratings from Rotten Tomatoes: 92% and average: 8.4/10, at Metacritic Score: 87/100 and at CinemaScore: A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:24:34.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think of these ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:24:44.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they seem very high, but I don't always agree with the ratings of mainstream", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:25:04.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok. now we should talk about some key scenes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:25:56.673Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is a humanoid?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:25:57.464Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:05.359Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "which scenes?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:18.814Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the main character is elisa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:26:33.943Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and she is mute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:26:40.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "does the question of how she became mute get answered?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:45.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not exactly sure but in the movie we can see she as an orphaned child, was found in a river with wounds on her neck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:27:40.602Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the bathtub scene sounds interesting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:27:42.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure if Stricklands interrogation includes Elisa?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:28:33.268Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He tried to interrogate both elisa and her friend at his office", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:29:51.360Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "about the creature", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:30:03.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Unsure of the staement of him dismissing them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:30:14.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:30:47.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the story gets complicated", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:31:17.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "as elisa tries to release the creature into the ocean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:31:38.942Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is Moskenov?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:31:43.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh I see it's the spy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:32:08.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "inters\nting that she can now breathe under water, how did the gills grow so quick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:32:41.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dimitri Mosenkov, a Soviet spy working as a scientist studying the\ncreature, under the alias \"Dr. Robert Hoffstetler\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:32:42.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see that now, thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:32:51.793Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:32:59.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes at the end they ecape together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:33:29.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope htey did live ever after sounds like \na sweet story that I no longer need to see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:33:39.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes a sweat story i believe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:34:03.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did strickland get aretsed when the police arrived?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:34:04.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:34:11.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i ve seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:34:42.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did it meet the cirtics reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:34:51.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we can now finish conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:34:53.603Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T22:18:32.693Z", 
+  "uid1LogOutTime": "2018-03-26T22:35:06.787Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T22:18:32.704Z", 
+  "uid2LogOutTime": "2018-03-26T22:34:57.466Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4287", 
+  "user2_id": "USR4099", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

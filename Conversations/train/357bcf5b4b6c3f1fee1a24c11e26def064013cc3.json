@@ -1,0 +1,308 @@
+{
+  "date": "2018-03-26T20:44:49.265Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there! Are you looking for a movie recommendation?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:45:10.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Great Gatsby from 2013?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:45:53.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have! I absolutely loved it - I love most Baz Luhrmann movies! I especially loved Leo as Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:46:35.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tobey Maguire is also in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:47:28.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it yet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:48:26.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes - and Carey Mulligan as Daisy was about perfect. Joel Edgerton as Tom was also really great - they had some great casting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:48:28.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It isn't your typical literary movie though. It is very dramatic and showy, with lots of color and opulance. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:49:02.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes only gives the film a 48", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:49:10.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which I thought was a little low, but overall CinemaScore is a B, which is probably about right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:49:46.822Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie had a 190 million budget.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:50:22.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which is massive - that's a lot of money for a movie, but I suppose since it was shot in Australia, it cost a little more.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:51:05.509Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you watch it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:52:16.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love the story of Gatsby, though - he is the American tragedy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:52:19.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Absolutely. The movie is more of an experience than a movie - especially when you watch the party scenes. They are so over the top and extravagant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:52:57.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It takes place during the Roaring Twenties", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:53:21.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In New York! Which was a very happening place to\n be during that time period.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:53:38.031Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You make me want to watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:53:54.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is very fun - there's scandal and affairs and secrets and lies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:54:28.469Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you call it a romantic drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:54:53.782Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would, but I would also consider it a tragedy, ultimately. Gatsby absolutely loves Daisy and would do anything for her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:55:31.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But Daisy is fickle and will do what is best for her own survival.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:55:50.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "F Scott Fitzgerald was a good writer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:56:12.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes! So many twists and turns, with Gatsby taking the blame for things he didn't do, lying about his background - all sorts of things!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:56:51.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gatsby was a millionare  when that was a lot of money", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:57:28.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly, but it is so tragic that the only thing he ever wanted was Daisy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:58:05.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then, because he covers for her, there is a case of mistaken identity, and he is killed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:58:20.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah sad story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:58:47.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the worst part is that Daisy, the woman he loved, doesn't even bother to come to his funeral!! After everything he did for her. It is just the worst.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:58:52.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Daisy is an interesting character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:59:48.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's pretty much a horrible person, but she is charming and beautiful, so it is easy to see why Gatsby loved her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:00:06.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nick was the only person to attend Gatsby's funeral", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:00:15.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Because he was Gatsby's only true friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:00:28.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reviews make it sound like it's all style and no substance", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:00:31.317Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is probably fair. It tells the story but with Baz Luhrmann, it is all about how things look and how you experience them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:01:03.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is his directing style - so this movie is very stylish and opulent and over the top", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:01:25.193Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How was Joel Edgerton", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:01:57.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was fantastic as Tom. It was really fun to watch him!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:02:31.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, this version is very different from past adaptions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:02:35.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:02:39.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope you think about watching it - remember it's not about the story, it's about the experience - and that's really what hooks you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:02:55.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will definitely think about it. You make the film sound better than my preconceptions ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:04:03.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I am glad to help and hope you enjoy it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:04:14.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the fun conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:04:30.299Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Goodbye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:04:47.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too! Goodbye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:04:47.965Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T20:44:49.265Z", 
+  "uid1LogOutTime": "2018-03-26T21:05:06.730Z", 
+  "uid1response": {
+    "feedback": "Interesting movie to talk about.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T20:44:49.282Z", 
+  "uid2LogOutTime": "2018-03-26T21:04:51.511Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2820", 
+  "user2_id": "USR2335", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

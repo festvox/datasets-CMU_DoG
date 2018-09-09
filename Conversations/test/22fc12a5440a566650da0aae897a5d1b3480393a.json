@@ -1,0 +1,233 @@
+{
+  "date": "2018-02-16T13:56:18.987Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:57:07.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:57:40.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Inception before ? One of my favorite movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:57:53.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "of course i seen it....lol.... i am a Sci-Fi nut!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:58:10.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Such a great movie !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:58:27.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IMDB rated 8.8/10 pretty good ratings ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:58:39.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was definitely a well thought out movie and the overall concept of the movie was ingenious.   ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:59:09.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:59:23.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It took me 2 times watching this movie to understand what was going on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:59:35.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I understood the movie right away and was really marveled at the acting done by Leonardo DiCaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:00:16.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He did such a great job in this movie . I may have to watch this in the near future ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:00:47.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you own this movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:00:55.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I technically do not \"own\" the movie but I have Netflix and Kodi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:01:41.260Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good ways to watch it without buying it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:02:33.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I remember the scene on the plane where they are taking the body back to Los Angeles.... The scene was intense and well thought out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:03:29.422Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that was a very great scene , what was your favorite scene from the movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:04:37.838Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The overall concept of the different \"levels\" of the dream states and the special effects that went along with it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:05:08.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also loved the concept that if you \"die\" in this dream world, you are forever in limbo.... scary and deep stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:05:45.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yeah those were very intense scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:05:57.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just noticed rotten tomatoes rated 86 percent , i dont trust them much anymore ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:07:05.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "why not? explain", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:07:31.297Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Based on movies i have seen , IMDB rates movies better in my opinion .  Rotten Tomatoes will rate great movies very low ratings .  Just my opinion . ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:08:51.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "rotten tomatoes rated it at 86% (8.1) and IMDB rate it at an 8.8", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:09:41.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "all in the same category really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:09:51.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what did you think about the scene where it showed how cobb and Mal were in \"limbo\" for 50 years?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:10:31.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah .. was talking about movies in general . ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:11:25.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was  a very great scene one of my fav\ns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:11:34.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i understand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:11:34.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the scene on the plane where they all awaken and cobb returns to his home in Los Angeles.... but was it REALITY or was he still in a dream???? love it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:13:26.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah that was also a very great scene.  Makes you really think !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:15:24.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"Kicking\" yourself back up the different levels of the dream state", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:16:06.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure if I EVER want to dream that \"DEEP\" lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:16:27.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol yeah that would be one scary dream!  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:16:45.119Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T13:56:18.987Z", 
+  "uid1LogOutTime": "2018-02-16T14:16:46.716Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T13:56:19.052Z", 
+  "uid2LogOutTime": "2018-02-16T14:16:51.239Z", 
+  "uid2response": {
+    "feedback": "Thank you!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1134", 
+  "user2_id": "USR4188", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

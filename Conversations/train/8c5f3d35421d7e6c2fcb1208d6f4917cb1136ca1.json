@@ -1,0 +1,259 @@
+{
+  "date": "2018-02-16T05:28:46.709Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:29:15.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:29:54.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I am here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:30:38.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the movie. I'm interested in jazz and I appreciate the main character following his passion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:32:56.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:33:24.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you feel about the acting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:33:34.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy the singing and choreography in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:34:25.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was decent acting, although the actors were perhaps not that talented singers or dancers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:34:33.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did enjoy the singing and choreography, and the actors did their best given the fact that they are not professionally trained as singers or dancers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:35:14.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you think Ryan Gosling and Emma Stone had good chemistry as co-stars?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:35:32.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they work well together.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:36:32.152Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think this movie was deserving of the accolades and hype it received?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:37:05.323Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree that the middle of the movie \"sags badly\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:37:05.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it is mostly deserving of the praise it received.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:38:13.224Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel like it was a bit too long for me, and for a romantic comedy... but overall I agree that it was enjoyable to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:38:29.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was a great date night movie, and my wife loved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:38:54.091Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you think John Legend did a good job of acting, considering he is more known as a musician?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:39:11.142Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought he was okay.. I agree that the 3 of them (Gosling, Stone, Legend) were all stretched", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:40:03.080Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Legend with acting, and the other two with musical performing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:40:22.040Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do like him though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:40:35.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you find the characters likable?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:42:43.700Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did, it was different than most movies I usually watch ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:43:30.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How was it different?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:43:43.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was a nice change of pace with a lot of the other heavy Oscar contending movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:43:51.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you find unique?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:44:21.314Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked how the movie looked, and the feel of Los Angeles as the setting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:45:17.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think any other setting would have suited the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:45:40.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel like the homage to Hollywood and California was a big part of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:46:13.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe Paris?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:46:21.976Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It reminded me a bit of The Artist, which I really enjoyed a few years back.  It was charming", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:47:00.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How do you feel about the ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:47:31.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it could have worked in another city with an art scene, but I agree that LA is an appropriate setting given Mia's struggles to make it as an actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:47:34.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "On one had it was sad that Mia and Sebastian did not end up together, but the ending made the movie more interesting and memorable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:49:33.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And maybe more believable?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:49:57.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In terms of how many people come to be stars and it doesn't work out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:50:33.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the strain it can put on a relationship when one person becomes more successful than the other", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:51:59.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes differences in success can put a strain on relationships, when the dynamic changes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:53:34.021Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T05:28:46.709Z", 
+  "uid1LogOutTime": "2018-02-16T05:53:49.455Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T05:28:46.763Z", 
+  "uid2LogOutTime": "2018-02-16T05:53:55.044Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4063", 
+  "user2_id": "USR824", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

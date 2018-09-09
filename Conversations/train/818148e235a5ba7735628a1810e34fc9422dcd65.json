@@ -1,0 +1,119 @@
+{
+  "date": "2018-03-29T14:18:20.348Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:18:32.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:18:32.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HAVE YOU SEEN THIS MOIVIE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:18:46.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THIS WAS A GREAT MOVIE MY KIDS LOVED IT ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:19:00.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, what movie are you talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:19:32.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "MONSTERS UNIVERISITY", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:19:46.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BILLY CRYSTAL PLAYED LEAD ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:05.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I see, I don't recall watching it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:20:12.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very funny really had you entertained the whole time watching", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:49.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it is a comedy movie, what is the main plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:07.625Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes-  comedy- the main plot was kind of all over the place but its been awhile since ive seen it and i cant really remember", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:10.064Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "im suprised it wsnt rated very well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:24.886Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, I looked it up it was produced by Pixar, and it was a prequel to Monsters Inc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:31.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For the next movies is always hard to get a good appreciation from the critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:24:12.036Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it is quite cute how the movie portrayed how people dream about their future, in the case of Mike Wazowski", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:27:12.997Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Going to the company and then years later finally getting into the university to fulfill his dream.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:27:42.993Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:18:20.348Z", 
+  "uid2LogInTime": "2018-03-29T14:18:20.409Z", 
+  "uid2LogOutTime": "2018-03-29T14:35:43.097Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4211", 
+  "user2_id": "USR3412", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

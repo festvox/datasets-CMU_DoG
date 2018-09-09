@@ -1,0 +1,324 @@
+{
+  "date": "2018-03-07T16:05:44.928Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:55.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:03.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:24.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:32.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:10.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dispicable me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:07:27.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm, I've not seen that film either. Could you tell me a bit about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:44.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or I think so??? that is what it says at the top left of the page", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:07:54.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a Disney animated movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:12.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is in 3d and I think that it puts the spotlight on the villain more", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:09:20.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:09:31.583Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh nice, I like animated films. And there's a villain? Nice. What type of reviews did the film get? I like to know what I\"m getting into", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:57.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I think I may have to give it a try maybe this weekend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:01.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it got 81% on rotten tomato ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:29.119Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with an average of 6.8/10 and a cinema score A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:49.170Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whoa, well that's pretty decent! Must be a good film. Is it a kids film or is it appropriate for adults too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:02.292Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the reviews are very helpful to me as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:05.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "based on the description and the rating I think it might turn out to be a pretty good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:32.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Disney almost always puts out fantastic movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:51.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very high quality", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:57.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is appropriate for all ages", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:12:41.822Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm yeah, they certainly do, though I'd like to know more. Who are the actors in the film? Or voice actors, since it's animated. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:12:43.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Steve Carell does the voice for the villain Gru", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:16.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jason Segel does the voice of Victor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:29.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and Russell Brand as Dr. Nefario", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:48.204Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow,  nice, those guys are hilarious. Must be a funny film then, eh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:14:35.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the minions have their hands full in this movie lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:15:04.295Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes it is bound to be funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:15:21.076Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Awesome, I'm a big fan of comedies so that makes me want to check it out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:15:39.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What's the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:15:45.875Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love comedies as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:15:51.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the plot: the villain is trying to steal the great pyramind of giza so he goes to the bank to try to get a loan to pay for this adventure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:17:08.828Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but the bank wants him to steal a shrink ray in order to get the loan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:17:45.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha, that's ridiculous, I love it! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:17:52.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes I am definitely going to be watching this ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:17:58.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "me too!!  I definitely think it will be hilarious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:18:20.130Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great cast. great ratings, and a great storyline", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:00.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can picture Steve Carrell's character, I'm sure it's a great performance as always. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:19:09.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how long this film is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:19:49.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "let me check", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:19:58.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like movies, but don't like them when they're super long!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:20:01.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it does not indicate how long", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:20:33.830Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but with this being a disney film I would say probably 1 1/2 to 2 hrs at most", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:21:12.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm, okay, well thanks for the info anyways.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:21:24.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, it was great chatting, I'll be sure to check this out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:21:33.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "See ya!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:21:39.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anytime and I hope that you will enjoy Despicable Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:21:43.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:21:45.960Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T16:05:44.928Z", 
+  "uid1LogOutTime": "2018-03-07T16:22:02.835Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:05:44.986Z", 
+  "uid2LogOutTime": "2018-03-07T16:21:47.787Z", 
+  "uid2response": {
+    "feedback": "I will definitely check out the movie because it seems funny. As a note, I don't think the user was discussing the document itself a lot, and I'm not sure if that is supposed to happen. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2259", 
+  "user2_id": "USR4419", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

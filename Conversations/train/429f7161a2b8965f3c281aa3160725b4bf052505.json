@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-19T18:49:51.803Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:49:56.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:56:16.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to see \" Bruce All mighty\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:57:16.610Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie, defiantly worth watching it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:09.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a high concept comedy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:51.446Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T18:49:51.803Z", 
+  "uid1LogOutTime": "2018-02-19T18:54:16.899Z", 
+  "uid1response": {
+    "feedback": "he did not say anything", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:49:51.804Z", 
+  "user1_id": "USR2206", 
+  "user2_id": "USR1228", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

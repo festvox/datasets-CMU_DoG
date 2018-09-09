@@ -1,0 +1,93 @@
+{
+  "date": "2018-03-01T22:43:26.396Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I hope that Morgan Freeman is actually G-d in reality, if there is one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:44:12.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah same here, looks like Rotten Tom atoes and Metacritic didn't score the movie very well...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T22:44:56.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never heard of CinemaScore but they seem to think highly of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:45:16.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm more familiar with Rotten Tomatoes. But they do say Jim Carrey is hilarious\n in this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T22:46:07.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never heard of Lisa Ann Walter, but I assume she plays Jennifer Aniston's sister or mother in this. It doesn't say if they find out if he is G-d or not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:47:09.363Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here, never heard of the side characters. I have no idea who Philip Baker Hall is. He isn't sharing any simiar character last name so I'm guessing he might play a friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T22:50:12.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what it means to \"get bogged down in treacle\"? I don't know what to make of that review", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:50:56.648Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have no idea what that word means, but I'm assuming they are trying to say the movie lacked in substance or Carrey's acting ability? It seems the second review doesn't think Jim is a real actor \"...Carrey probably nursed hopes of one day becoming a real actor\" Both reviews don't seem to like his acting skills....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T22:53:28.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd still see it given the cast. Never heard of the director though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:55:06.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T22:57:50.978Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T22:43:26.396Z", 
+  "uid1LogOutTime": "2018-03-01T22:59:28.847Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T22:43:26.473Z", 
+  "uid2LogOutTime": "2018-03-01T22:55:16.847Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1248", 
+  "user2_id": "USR3402", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

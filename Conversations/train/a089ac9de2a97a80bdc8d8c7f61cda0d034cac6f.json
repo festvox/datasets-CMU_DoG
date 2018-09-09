@@ -1,0 +1,258 @@
+{
+  "date": "2018-03-29T14:39:47.344Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you ever seen the movie Real Steel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:40:19.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never heard of this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:19.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:23.338Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it's basically a science fiction Rocky (boxing) movie with robots. It's actually rated somewhat badly on rotten tomatoes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:42:16.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you saying I shouldn't watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:42:34.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am indeed suggesting that you shouldn't watch this movie. Its pretty bad ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:43:01.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the rating on IMDB?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:43:18.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't see that eating on IMDB. However the rottentomatoes score is 59%, which is pretty lackluster. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:44:10.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some of the reviews stated things like there is no story, it's just right scenes that don't make much sense", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:44:40.963Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's not the worst rating ever. What's the user score on rottentomatoes? Or if that is the user score, what's the critic score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:44:44.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Criticscore is 56/100. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:45:10.506Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What year was this movie made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:29.289Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has High Jackman in it. He's pretty cool. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:45:38.352Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was made in 2011", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:45:44.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:51.553Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Shawn Levy directed it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:46:05.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For DreamWorks productions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:46:17.645Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you tell me if Shawn Levy has directed anything else notable?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:46:25.782Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Actually I don't have that information available at this time. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:47:07.949Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who else stars in this movie besides Jackman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:47:26.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Dakota Goyo. Evangeline Lilly ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:48:01.514Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anthony Mackie. And Olga Fonda. Never heard of those two before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:48:30.626Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It doesn't sound like an interesting movie so far. Is there any other information I should know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:48:35.197Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The film was actually based on a short story called \"Steel\" in 1956 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:49:22.266Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you tell me more about this story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:49:32.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was later adapted into the twilight zone in 1963 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:49:51.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:49:54.325Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the 1963 Twilight zone version worth watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:14.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In the year 2020. Human boxers are replaced by robots ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:50:25.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure about the twilight zone one. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:50:40.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's the plot hook? Or what would hypothetically make me interested in watching htis?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:51:22.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A former boxer (hugh jackman) Charlie owns\n one of these robots. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:51:34.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He loses it in one fight. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:51:58.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The robot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:52:06.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. It turns out that the fight was rigged so he would lose. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:52:24.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At this point I'm fairly confident that I won't be watching this movie. I trust your evaluation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:52:44.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok thanks. Have a nice day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:53:00.336Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:39:47.344Z", 
+  "uid1LogOutTime": "2018-03-29T14:53:28.772Z", 
+  "uid1response": {
+    "feedback": "The other user heavily recommended against watching the movie.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:39:47.378Z", 
+  "uid2LogOutTime": "2018-03-29T14:53:01.319Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3482", 
+  "user2_id": "USR4481", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

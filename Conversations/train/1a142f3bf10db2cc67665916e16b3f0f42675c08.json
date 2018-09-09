@@ -1,0 +1,336 @@
+{
+  "date": "2018-03-02T21:16:09.616Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey There", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:16:32.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! This is about an animated movie, is that ok?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:17:08.676Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:17:34.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:17:41.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a little about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:17:54.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am all for a good animated movie :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:18:25.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2010 movie, about a villain who ends up being the star of the show.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:18:49.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The villain is voiced by Steve Carrell, his character is calledGru.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:19:22.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's an interesting name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:19:53.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there any other big names in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:20:16.024Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jason Segel voices Victor, and Russell Brand plays the character who is Gru's scientist sidekick, Dr Nefario.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:21:07.131Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The stars of the show are The Minions, and all of them set off to steal the moon using a Shrinking Ray stolen from another villain, Vector.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:22:23.812Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So Gru is a villian, is it just about his life?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:22:31.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are those the little yellow guys?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:23:22.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In a way. Gru tries to borrow money from a \"villain's bank\", but gets turned down and has to resort to other means to be in with a chance of stealing the moon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:23:27.180Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The information I have here does not specify the Minions' colour, alas.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:24:21.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So do the minions work for Gru? Or they are doing their own thing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:25:05.610Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It does mention that Vector, the competing villain, stole one of the great Pyramids.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:25:08.638Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are the villains competing against each other?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:25:57.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Here's a little more detail now, not much about the Minions other than the fact that Gru, with no loan, cannot afford to pay his Minion workers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:26:05.000Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Both Vector and Gru are after the same thing - the shrink ray, and then the moon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:26:35.799Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The catch is Vector is related to the director of the Villains Bank...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:01.367Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what ages this movies is recommended\n for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:27:38.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "...and then has to look after some girls that he meets up with.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:39.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Gru a kid or an adult?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:28:07.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, it's for all ages, with a quote that \"Kids will dig it\" and \"adlts will smile with amusement\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:32.743Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru is an adult, Vector is little more than a teenager.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:55.379Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru just found the girls or is that ano\nther story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:29:38.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Vector kidnaps the girls in an attempt to get Gru to hand over the Moon, once he has successfully acquired the shrink ray and shrunk the moon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:29:46.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The information here seems to miss out on how he ends up with some little girls in tow. But they must like him, as one of them offered the contents of her piggy bank when Gru reveals he cannot get a loan from the bank.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:03.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like Gru is kind of a good guy ev\nen though he is labeled a villain?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:31:11.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's a fair assessment. The last bit of info says he actually rescues the girls after Vector has kidnapped them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:51.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru gets caught up in the stealing the moon thing, and misses attending the ballet recital that the girls are taking part in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:32:51.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm guessing this one pulls the heartstrings a bit for moms", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:32:54.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's sad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:33:19.641Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I would say so.  The girls, it seems, were from an orphanage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:33:28.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he took them in? How many girls?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:33:59.602Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru returns the to the orphanage, but must rejoin them as they all work together when Vector steals the stolen moon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:34:27.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "3 girls, Margo, Edith and Agnes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:34:53.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What kind of ratings did this movie get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:35:25.018Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten tomatoes rated it 6.8/10, Metacritic 72/100 and Cinemascore gave it an A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:35:59.406Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sure sounds like it is a cute movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:36:30.881Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you hav\ne a favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:37:14.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The text here says \"it's no first-rank CGI cartoon\", but is \"Fun, with tary bits for kids and fresh and smart for adults.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:37:30.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wuld have liked to know ore of the interactions with the Minions, actually. I am sure an evil scientist sidekick and many Minions could get up to some mischief!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:38:22.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I bet they could.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:38:57.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No more information has been provided, Would you want to see it based on what I've told you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:39:11.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder how he acquired\n the minions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:39:13.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I would", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:39:22.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I would too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:39:29.946Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T21:16:09.616Z", 
+  "uid1LogOutTime": "2018-03-02T21:39:26.517Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T21:16:09.715Z", 
+  "uid2LogOutTime": "2018-03-02T21:39:31.993Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3911", 
+  "user2_id": "USR3857", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2018-02-09T17:57:48.757Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:57:56.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi have you seen the first \"\nJohn Wick\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:58:47.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't,,,,,have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:47.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it's an outstanding action movie. Maybe a bit over the top but it is entertainment. Do you like action films? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:30.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like action films but it mainly depends on who is in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:01:07.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:01:16.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a Keanu Reeves film. I cant decide if his dry, semi-stolid, personality fits or not. It has a lot of violence so the it fits the action bill.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:02:12.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves, Alfie Allen, Michael Nyqvist, Adrianne Palicki and John Leguizamo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:02:54.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The cast is good, I will consider watching this  movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:03:14.481Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite actor from this list?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:03:28.927Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should. You'll enjoy it. Tough to say. You get mostly Keanu through the majority of the film. Leguizamo plays a dirt bag well\n. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:04:10.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He definitely gets the look and tones right anyway. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:05:16.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, but sounds interesting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:05:32.789Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T17:57:48.757Z", 
+  "uid1LogOutTime": "2018-02-09T18:05:34.717Z", 
+  "uid1response": {
+    "feedback": "The player gave me a positive review about the movie that they had seen", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:57:48.840Z", 
+  "uid2LogOutTime": "2018-02-09T18:05:20.990Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR2494", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

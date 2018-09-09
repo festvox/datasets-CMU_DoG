@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-19T18:36:29.344Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:36:55.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Have you heard of the movie The Wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:37:22.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it\u2019s a trip.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:37:32.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great movie eh. Got 78% in Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:38:07.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Should\u2019ve been higher. It\u2019s a marathon of drug-addled madness and it\u2019s hysterical. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:38:48.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. Leonardo did a great job portraying his role as Jordan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:39:38.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "based on the memoir of the same name by Jordan Belfort.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:28.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:47:39.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Wolf of Wall Street is a 2013 American black comedy directed by Martin Scorsese and\nwritten by Terence Winter, based on the memoir of the same name by Jordan Belfort. It recounts\nBelfort's perspective on his career as a stockbroker in New York City and how his firm Stratton\nOakmont engaged in rampant corruption and fraud on Wall Street that ultimately led to his\ndownfall. Leonardo DiCaprio (who was also a producer) stars as Belfort, with Jonah Hill as his\nbusiness partner and friend Donnie Azoff, Margot Robbie as his wife Naomi Lapaglia and Kyle\nChandler as Patrick Denham, the FBI agent who tries to bring him down. Matthew McConaughey,\nRob Reiner, Jon Favreau, Joanna Lumley and Jean Dujardin also star.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:47:50.018Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:36:29.344Z", 
+  "uid2LogInTime": "2018-03-19T18:36:29.537Z", 
+  "uid2LogOutTime": "2018-03-19T18:52:01.957Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR854", 
+  "user2_id": "USR2330", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

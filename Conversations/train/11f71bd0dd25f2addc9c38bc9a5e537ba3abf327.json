@@ -1,0 +1,716 @@
+{
+  "date": "2018-02-09T17:48:13.603Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi , how are you ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:48:53.719Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like the movie wonder woman ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:49:28.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good. Thank you. How about you? How did you like the \"Wonder woman movie\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:49:36.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like the fact that has a lot of action ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:50:09.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:50:15.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it. I like it is telling the story of Princess Diana. It is interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:07.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea and i like that chris pine is in it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:30.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about the director ? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:56.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have u ever heard about her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:05.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Using love to fight war might sound goofy as stated but Jenkins makes the concept work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:32.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:56.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How many times did you see this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:56.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea me neither , but i guess this movie is a good presentaiton card of her career", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:53:59.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "probably just 1", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:05.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like all those movie about super heroes but i think i prefer other movies better than this on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:50.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "one ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:51.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah that's true.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:06.129Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like though the accions scenes a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:55:45.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they were good executed ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:55:59.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a warner bros creation right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:19.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a princess trying to stop a war thats always good right ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:23.830Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes it is ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:29.900Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Diana was raised on the hidden island of themyscira. Intersting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:06.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but we should take into consideration the bad rating ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:57:14.302Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very much so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:57:23.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "anythign related with history i love to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:57:45.672Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not a big fan of a war movie to be honest", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:58:09.419Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just the heroine's action are little bit thrilling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:06.618Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i am only because sometimes the movie really stick to reality", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:09.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea and the outfit ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:28.616Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "loved it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:31.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "American pilot crashes and he is rescued by the heroine which was very ordinary and normal. Same old story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:31.332Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "all this story takes place in the ancient worl", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:36.671Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "dworls thats extremely interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:44.701Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what about the actress ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:01:25.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did u think she was good ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:01:31.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like her. Any way the main thing thing is she is leaving her home to end the conflict", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:01:53.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:02:52.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gal Gadot as Diana prince/wonder woman has done a good job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:02:57.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was quite a quest of her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:03:13.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to try to help with a bunch of conflict", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:03:29.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:03:39.943Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm but what about the rating of rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:25.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:26.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not able to trust it completely", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:04:40.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i kinda do ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:51.779Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It depend on the individual. I guess?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:05:04.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i read a whole lot of reviews before i watch anything", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:05:07.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thats actually a good thing to do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:05:24.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if not most of the times is wasting time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:05:30.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what do you think about destroying steve's lab scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:06:27.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:07:43.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when Diana sends email to bruce, it was quite interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:07:43.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "especially in the present day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:08:00.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know about \"Mustard gas\" before\n this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:08:39.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no , not really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:08:51.195Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what about when sir patrick reveals himself as Ares?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:09:44.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i liked that part a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:09:49.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was quite unexpected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:10:09.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it was interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:10:13.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:10:18.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lets see i the director comes up with another movie soon..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:10:53.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:10:59.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "exactly we have to wait and see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:11:13.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is the \"Thermysciran coast\" real?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:12:00.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in our real world?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:12:11.650Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont think is real", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:12:30.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i read a lot about history geography ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:12:50.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i never heard or read about that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:12:59.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "quite interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:13:15.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the whole cast did a good job ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:14:04.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:14:14.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was soemthing u could watch in a weekend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:14:14.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "withhout having to pay a lot of attention", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:14:24.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:14:31.415Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not like thriller ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:14:34.459Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Danny huston as general of the german army \nhas done an awesome job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:15:32.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and something that got my attention was a little bit of history ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:15:41.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "of WW1", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:15:45.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes world war I", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:15:58.415Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "endless battles scenes though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:16:53.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like it and with the amount of special effects ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:17:06.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "amazing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:17:11.348Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Eventhough ares is trying to convince diana to kill maru", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:17:29.517Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the memories causing her to realize that humans have goog in them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:17:53.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good in them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:18:04.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:18:08.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:18:14.965Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "all in all n okay movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:19:26.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes it is ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:19:49.907Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what do you thonk about the sister of hippolyra", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:20:35.493Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "another character from a comic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:20:37.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i liked it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:20:39.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like her ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:21:03.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she was the one who raised diana", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:21:09.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. Robin wright has truly done a wonderful job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:21:43.402Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what about antilope ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:22:58.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did u like that character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:23:04.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I like her too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:23:22.776Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i liked how she trained diana", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:23:53.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:24:05.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was thrilling to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:24:56.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes it was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:25:11.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wonder woman should have taken a long time to create", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:25:59.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "for sure ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:26:08.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:26:12.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its been 30 mins", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:26:17.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "should we end the converstaion ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:26:26.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:26:34.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok nice to meet u and have a good day ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:26:45.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice to meet you too. Have a Blessed day. Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:27:02.910Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i will prob watch this movie this weekend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:27:05.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:27:09.646Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T17:48:13.603Z", 
+  "uid1LogOutTime": "2018-02-09T18:27:11.663Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:48:13.715Z", 
+  "uid2LogOutTime": "2018-02-09T18:27:18.779Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4383", 
+  "user2_id": "USR3175", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

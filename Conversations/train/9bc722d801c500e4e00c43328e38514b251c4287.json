@@ -1,0 +1,205 @@
+{
+  "date": "2018-03-05T17:30:33.381Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, what movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:31:08.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me is an animated movie from 2010 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:32:04.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the lead voice actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:32:20.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Steve Carell as the main character, Gru.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:32:35.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would this be interesting to adults?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:33:01.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is smart and \nit also has great music and songs by Pharrell.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:33:45.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What Pharrell songs are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:34:10.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It doesn't say but he did the accompanied songs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:35:01.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, are there any characters that stand out to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:35:37.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Gru is the main character and I like Steve Carell.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:36:41.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you've seen the Office or Bruce Almighty, is his humor similar to in those?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:23.470Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it would be more PG rated but still funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:38:15.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "About what age level of kids do you think the movie targets?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:39:07.641Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure but I'd say all ages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:39:54.261Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a Pixar movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:40:37.042Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, it is not, but it is inspired by Pixar's quality of animated movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:41:32.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like it more than most Pixar movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:41:58.145Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the movie is great, on the same level as other great animated movies. It has a funny and original plot and funny characters and good music.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:43:13.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there any sequels? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:44:04.563Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It doesn't say but I feel like tons of movies have sequels.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:44:56.869Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is that the movie with the yellow minions? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:45:34.166Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, there are Minions that help Gru.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:47:09.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Gru an evil character? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:47:29.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes and no, he is a supervillain that changes his ways when he adopts 3 girls.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:49:38.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there more of a prominent villain or antagonist? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:50:26.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Gru's archenemy is Vector, another supervillain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:51:21.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What are the names of the girls he adopts? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:51:48.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Margo, Edith, and Agnes are the names of the girls.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:52:41.684Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T17:30:33.381Z", 
+  "uid1LogOutTime": "2018-03-05T17:53:11.616Z", 
+  "uid1response": {
+    "feedback": "I am usually not interested in animated movies marketed towards children. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:30:33.411Z", 
+  "uid2LogOutTime": "2018-03-05T17:53:07.129Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2755", 
+  "user2_id": "USR3001", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

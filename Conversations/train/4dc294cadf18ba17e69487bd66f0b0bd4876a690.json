@@ -1,0 +1,264 @@
+{
+  "date": "2018-03-16T20:54:18.064Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:54:29.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, a pleasure to meet you. Feel like going to the movies/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:55:21.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:56:08.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of the movie \"The Social Network\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:56:32.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, I missed it out when it was released. Did you have the chance to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:57:24.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not, I have heard a bit about it though. It seems interesting!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:58:51.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder what the plot is about...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:59:23.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In the document I have, it says it is a biographical drama about the founding of facebook", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:01:40.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you use facebook?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:02:18.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, that sounds like a current topic! i use it every now and then; I prefer YouTube", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:02:40.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I prefer instagram. I feel like everyone has a facebook though so it definitely is a relative concept!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:03:35.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know who writes the musical score? I am fond of musicians on film!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:04:32.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure, it does not say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:07:31.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's fine. Anyway, I guess it has a lot of drama in it..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:08:41.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any famous actor or actress there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:08:56.146Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jesse Eisenberg plays the creator of Facebook Mark Zuckerberg, I've never really liked him as an actor, I am curious how he acts in this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:08:58.046Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you heard of Jesse Eisenberg?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:09:27.957Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not really.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:09:39.733Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But I missed an important one. Who's the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:10:01.201Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director's name is David Fincher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:10:34.820Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure what else he directs, do you know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:10:46.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jesse Eisenberg was one of the main characters in Zombieland", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:11:11.222Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, that does sound interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:11:23.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have heard about other David Fincher films, and the only ones coming to my mind are \"Alien 3\" and \"Seven\" a crime ovie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:12:21.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "excuse me, a crime movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:12:35.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ooo those sound intriguing!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:12:47.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep. Any reviews of that movie you have heard of?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:13:18.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well this movie got a Rotten Tomatoes score of 96% but I don't know who is judging through rotten tomatoes because most of the time their reviews do not align with my opinions of movies haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:13:55.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol! That is so right!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:14:19.572Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems to have scored high through other reviewers, it could be worth the view.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:14:48.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you heard about how Facebook AI recently created their own language?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:15:05.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have heard something but have not looked in depth..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:15:30.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But definitely every project they undertake is a breakthrough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:15:52.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, feel like renting it for this weekend?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:16:49.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is pretty interesting, I could imagine our world being controlled by artificial intelligence; it seems like the scary direction we are headed towards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:16:50.582Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:17:01.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for conversing with me! Have a wonderful day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:17:18.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The same to you. Nice conversing to you, my pleasure!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:18:02.634Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T20:54:18.064Z", 
+  "uid1LogOutTime": "2018-03-16T21:18:58.066Z", 
+  "uid1response": {
+    "feedback": "My chat partner was very active and I think they did not use information that was not available in their document, so I think they did a great job! The movie seems interesting but this guy David Fincher is at times too dark for my taste, but taking into account the topic It might be worth a look!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T20:54:18.139Z", 
+  "uid2LogOutTime": "2018-03-16T21:17:24.908Z", 
+  "uid2response": {
+    "feedback": "Thank you for the opportunity to participate in this study!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4196", 
+  "user2_id": "USR48", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2018-03-16T16:47:26.568Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey do you like mobies ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:48:27.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:53:14.691Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T16:47:26.569Z", 
+  "uid1LogOutTime": "2018-03-16T16:53:20.371Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T16:47:26.577Z", 
+  "uid2LogOutTime": "2018-03-16T16:49:56.286Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3843", 
+  "user2_id": "USR256", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

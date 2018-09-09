@@ -1,0 +1,234 @@
+{
+  "date": "2018-03-02T21:26:01.935Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:26:13.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:26:28.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know this great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:00.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:27:09.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Blind Side. Seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:19.851Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:27:26.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got Sandra Bullock.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:38.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, I sort of hate her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:27:49.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, it's a sports movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:02.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:28:09.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a feel-good sports movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:22.397Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "also has Tim McGraw", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:37.039Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have no idea who that is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:28:45.506Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cinemascore gave it an A+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:29:12.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:29:20.499Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "seems like other critics liked it, too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:29:39.584Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, but it still has Sandra Bullock in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:29:58.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It delves into some deep family issues", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:21.539Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "addiction", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:25.947Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's not positive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:42.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "foster care", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:55.669Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm getting depressed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:31:03.332Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The critics say Sandra was good in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:19.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not a fan, probably won't see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:31:32.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "why don't you like her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:31:50.517Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:31:56.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seen her in too many movies, I guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:32:07.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did I mention it also delves into drug addiction?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:32:39.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's from 2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:32:58.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's too plain", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:33:12.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's everygirl, I guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:33:22.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But not sexy like other everygirls", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:33:30.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Reviews say it may be a little too formulaic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:34:04.523Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T21:26:01.935Z", 
+  "uid1LogOutTime": "2018-03-02T21:34:09.841Z", 
+  "uid1response": {
+    "feedback": "Probably won't see it", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T21:26:01.941Z", 
+  "uid2LogOutTime": "2018-03-02T21:34:49.213Z", 
+  "uid2response": {
+    "feedback": "Couldn't convince my partner to try the movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1324", 
+  "user2_id": "USR729", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

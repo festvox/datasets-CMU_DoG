@@ -1,0 +1,241 @@
+{
+  "date": "2018-03-29T14:03:05.531Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:03:21.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:30.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:40.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen wolf of wall street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:03:40.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:03:51.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not! What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:54.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its a true story about jordan belfort", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:04:13.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it funny? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:04:27.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "leonardo dicaprio did great in his role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:04:34.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sometimes hes funny, sometimes hes over the top insane!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:04:52.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "jonah hill is in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:05:05.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh that's right I remember seeing that he was in it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:05:11.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jaonah hill is funny!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:05:21.586Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he was hilarious!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:05:21.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could i watch it with my family?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:05:37.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its a little too mature for children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:05:54.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok so maybe a date night movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:06:10.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it scary?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:06:20.803Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "maybe, theres alot of bad language and drug use", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:06:28.883Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it wasnt scary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:06:39.388Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What would you rate this movie on a scale of 1-10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:07:05.821Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you know martin scorsese directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:07:09.794Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i would it around a 7 or 8", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:07:22.263Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow! he is a great director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:07:30.117Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where is the setting of this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:07:44.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "new yo\nrk city, wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:08:16.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it upbeat, or dark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:08:34.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a little dark at times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:09:09.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there romance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:09:20.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes margot robbie is the romantic interest", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:09:51.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh i love her! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:10:02.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she did great in her role with leo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:10:29.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it a movie you would watch again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:10:35.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "definately", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:10:52.452Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:03:05.531Z", 
+  "uid1LogOutTime": "2018-03-29T14:11:13.682Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:03:05.560Z", 
+  "uid2LogOutTime": "2018-03-29T14:10:42.527Z", 
+  "uid2response": {
+    "feedback": "I would not watch the movie as it has a lot of language and drug use in it, and I don't really watch those kinds of movies.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3735", 
+  "user2_id": "USR642", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

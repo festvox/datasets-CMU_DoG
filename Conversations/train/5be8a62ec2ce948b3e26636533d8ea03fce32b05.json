@@ -1,0 +1,223 @@
+{
+  "date": "2018-03-22T15:25:44.981Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:25:59.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:26:11.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do you like movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:26:38.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i watch movies all the time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:26:54.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's wonderful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:27:23.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie listed by the survey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:27:51.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have! What do you want to know about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:28:05.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think starting with the title is a good idea lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:28:28.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the cast and director like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:29:01.946Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's called Maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:29:55.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:30:14.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main person is Angelina Jolie (who places Maleficent) and it's directed by Robert Stromberg.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:30:21.122Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's basically Sleeping Beauty, but just a darker version based on the bad person from Sleeping Beauty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:30:48.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who does angelina jolie play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:31:51.380Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character, Maleficent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:32:28.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Got any other questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:33:56.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:34:02.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who plays sleeping beauty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:34:08.917Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There isn't an actual sleeping beauty character, it's just loosely based on some people from Sleeping Beauty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:34:41.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:35:33.295Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was a key scene in the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:36:00.194Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's super interesting, I'd definitely recommend it. An interesting concept. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:36:16.576Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't want to give too much away, but there's a lot of fairy tale themes and drama where a lot of people are trying to kill Maleficent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:36:58.498Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Any other questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:39:11.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so you would say it was a movie worth watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:40:11.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was the acting good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:40:17.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah definitely! You won't see many other movies like it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:40:24.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And yes definitely, Angelina Jolie steals the show.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:40:31.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like a pretty cool movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:40:47.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you have a favorite scene? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:40:56.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's a pretty intense one, where Stefan and a couple other people are trying to kidnap and kill Maleficent. She and Aurora have to escape, and I won't tell you how it ends, but it's pretty intense.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:42:11.296Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T15:25:44.981Z", 
+  "uid1LogOutTime": "2018-03-22T15:42:20.526Z", 
+  "uid1response": {
+    "feedback": "its sounds like an interesting movie with a good actor", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T15:25:45.126Z", 
+  "uid2LogOutTime": "2018-03-22T15:42:12.558Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2249", 
+  "user2_id": "USR1563", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

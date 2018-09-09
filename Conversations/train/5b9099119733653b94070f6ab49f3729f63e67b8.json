@@ -1,0 +1,80 @@
+{
+  "date": "2018-03-27T18:28:39.605Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:28:50.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do u think about the wolf of wallstreet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:29:06.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:29:41.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe this is a good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:30:20.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know all the actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:30:41.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am mostly familiar with Leonardo DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:32:01.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:32:17.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you like about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:34:56.544Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T18:28:39.605Z", 
+  "uid1LogOutTime": "2018-03-27T18:41:53.157Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T18:28:39.618Z", 
+  "uid2LogOutTime": "2018-03-27T18:37:46.642Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2463", 
+  "user2_id": "USR2875", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-20T02:12:08.810Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T02:12:33.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So this movie was from 2005? Good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T02:12:38.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes. it was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T02:13:05.365Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T02:12:08.810Z", 
+  "uid1LogOutTime": "2018-02-20T02:13:07.229Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T02:12:08.906Z", 
+  "uid2LogOutTime": "2018-02-20T02:21:11.482Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2794", 
+  "user2_id": "USR4774", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

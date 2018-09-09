@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-08T15:45:49.633Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:48:35.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:49:32.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I guess we\u2019re discussing Despicable Me. I really liked the movie! Did you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:50:42.214Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-08T15:45:49.633Z", 
+  "uid1LogOutTime": "2018-03-08T15:51:15.206Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-08T15:45:49.648Z", 
+  "uid2LogOutTime": "2018-03-08T15:52:09.830Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR892", 
+  "user2_id": "USR3410", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

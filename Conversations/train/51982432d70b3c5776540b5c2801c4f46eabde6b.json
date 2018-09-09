@@ -1,0 +1,135 @@
+{
+  "date": "2018-03-24T03:32:02.123Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "You definitly don't want to watch The Great Gatsby. It's not very good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:33:37.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The trailer made it seem like it could be a decent movie. How come it isn't a good movie to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:34:48.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It only got 48% on Rotten Tomatoes and a Metacritic Score of 55/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:35:24.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Those are pretty poor scores. I tend to trust those opinions. Plus I don't see a lot of movies, so I wouldn't waste my time on one with low scores. Have you seen The Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:37:27.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, and I was upset that the stand out actor Joel Edgerton was given such a 1 dimensional role. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:39:14.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, that would totally bother me as well. I really appreciate good writing with good acting. It sucks when a great actor doesn't have good writing to thrive with. My friend's had a birthday that was Gatsby themed and it was fun. What did you think of wardrobe and the setting? Did the movie do that well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:42:11.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound fun. The film had a $190 million budget so the wardrobe and sets were top notch. I'll give the movie credit for that. But I still don;t think it;s worth watching when there' s so many better movies out there. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:45:41.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I completely agree. Watching a movie is all about being entertained. I can only marvel at the scenery and costumes for so long.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:47:32.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I tend to not like romantic dramas much anyway. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:49:36.166Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Other than Romeo and Juliet, me neither. I love comedy and documentaries. Make me laugh or teach me something. What do you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:50:46.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like stuff that's not too predictable or cliche. My tastes are so varied though. I enjoy everything from horror movies and stoner comedies to film noir and 90's independent films. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T03:54:43.639Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, that is very varied tastes. I bet all of your friends go to you for movie recommendations. Say a friend planned on going to see Great Gatsby. I know you don't think it is worth the time so which movie would you suggest that could scratch the same itch as it were except a better movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T03:57:22.893Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmmm let me think a minute. It's almost like The Great Gatsby is the only thing I can think about right now. The negative emotions it stirred up in me is still haunting me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T04:00:15.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You really don't like when a movie wastes your time. I feel the same way, especially when I have high expectations for something. Life is too short for unsatisfying media. I really bums me out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T04:02:46.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is worth going through all the bad stuff to find the really great stuff. Something that really resonates is always worth looking for.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T04:04:04.931Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Let's talk about The Great Gatsby for 2 hours. Are you up for it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T04:04:54.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wouldn't enjoy it but I could do it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T04:06:17.978Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-24T03:32:02.123Z", 
+  "uid1LogOutTime": "2018-03-24T04:06:26.050Z", 
+  "uid1response": {
+    "feedback": "They said it was a bad movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-24T03:32:02.181Z", 
+  "uid2LogOutTime": "2018-03-24T04:05:46.503Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR909", 
+  "user2_id": "USR2680", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

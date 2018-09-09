@@ -1,0 +1,144 @@
+{
+  "date": "2018-03-27T15:22:40.181Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:23:03.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:23:35.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the wolf of wall street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:24:09.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it, who's in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:24:33.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo Dicaprio is the lead.  Jonah Hill, Margot Robbie also have roles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:25:06.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:25:19.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2013.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:25:28.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on a true unlikely story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:25:38.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Martin Scorsese was the director ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:25:55.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a cool mobie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:26:56.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:26:59.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it make a lot of money?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:27:08.975Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about his career as a stockbroker and how his company was involveed in widespread fraud and corruption and the crazy anticts that happened.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:27:16.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I remember seeing trailers for it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:27:35.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not really sure how much it made, I know it was well received critically.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:28:00.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "At the time the I think it had the most uses of the \"F\" word in a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:28:19.358Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What city did it take place in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:28:31.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "New York City as well as Long Island", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:28:51.502Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T15:22:40.181Z", 
+  "uid1LogOutTime": "2018-03-27T15:29:36.342Z", 
+  "uid1response": {
+    "feedback": "It had actors I was interested in seeing.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:22:40.215Z", 
+  "uid2LogOutTime": "2018-03-27T15:29:31.825Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2397", 
+  "user2_id": "USR3601", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

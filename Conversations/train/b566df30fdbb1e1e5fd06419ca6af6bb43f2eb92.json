@@ -1,0 +1,73 @@
+{
+  "date": "2018-03-21T01:45:25.234Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So it appears this movie was not well recieved", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T01:47:35.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it would appear, they called it a trashy opera.. lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T01:48:58.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lmao... Gatsby is so ridiculous, \"hoping that Daisy will show up\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T01:49:47.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they should have stayed true to the book.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T01:49:49.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "idk i liked the book, but i guess its hard to relate this day and age", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T01:50:47.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i just noticed it was filmed in australia?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T01:53:58.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello u there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T02:00:46.819Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T01:45:25.234Z", 
+  "uid1LogOutTime": "2018-03-21T02:35:23.760Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T01:45:25.458Z", 
+  "uid2LogOutTime": "2018-03-21T02:06:00.454Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4899", 
+  "user2_id": "USR2608", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

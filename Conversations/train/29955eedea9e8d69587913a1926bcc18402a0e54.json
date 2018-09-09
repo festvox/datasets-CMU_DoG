@@ -1,0 +1,105 @@
+{
+  "date": "2018-03-01T04:38:36.452Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:39:38.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, Iwas wondering if you were a fan of Jim Carrey's movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:40:37.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I am! That guy is hilarious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:41:29.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do\n you have one of his movies that is your favorite?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:42:11.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I completely agree and would strongly suggest a movie that he did in 2003, starring Morgan Freeman and Jennifer Anniston. It's about a down and out reporter that is complaining to god that he isn't doing his job correctly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:43:06.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of that movie? It sounds interesting to watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:44:08.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Bruce Almighty and I think that since you are a fan of his you are going to love this movie. Some critics have been harsh about this movie but just like most of his fans, I personally thought it had some really side splitting scenes and is a great movie overall.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:45:38.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How was this movie compared to his other films? Is it more comical or more dramatic?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:48:15.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film is up there with majority of his other films and is more comical. There is some portions of it that have some dramatic parts, when it gets to the moral of the storyline. For the most part it his comedic for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:49:45.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a love story mixed into the plot? I am wondering if it would be a good date movie to watch with someone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:51:13.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes there is, he is given the chance to become god himself for one week and part of the driving force that comes to leading him to complain to god so much is the issues that comes with relationship struggles.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:52:38.722Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He gets to be God? That sounds interesting. Does the movie have some crazy CGI effects", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:56:11.593Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T04:38:36.452Z", 
+  "uid1LogOutTime": "2018-03-01T04:57:37.446Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T04:38:36.505Z", 
+  "uid2LogOutTime": "2018-03-01T04:59:48.334Z", 
+  "uid2response": {
+    "feedback": "I found the description interesting and I plan on watching the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4313", 
+  "user2_id": "USR3274", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

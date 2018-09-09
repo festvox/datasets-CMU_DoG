@@ -1,0 +1,247 @@
+{
+  "date": "2018-03-07T16:04:11.914Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:04:17.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi are there any good movies out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:04:35.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes have you ever seen a batman movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:04:54.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I love Batman movies! Who is the actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:14.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was christian bale", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:05:33.226Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, I love him. Is there a lot of action in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:05:50.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it was a darker take on batman it explored batman's damaged mind", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:06:33.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow. Does the joker play an important role in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:06:58.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i think it was scare crow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:07:19.188Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay. Is it a long movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:07:40.894Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i would say about a hour and a half", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:17.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's not too bad. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:37.718Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "would you like to hear a bit about the plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:08:40.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really want to watch this movie I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:47.182Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sure!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:08:49.192Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok it starts with bruce as a child", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:09:19.919Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah okay. Are his parents alive?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:35.821Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also, what is the name of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:09:53.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they get kill at the movies after bruce wants to leave ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:25.236Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "batman begins", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:10:30.254Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay. Does Bruce want to\n seek revenge for the death of his parents?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:00.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes but someone kills the guy first", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:11:18.886Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. Does Bruce inherit a lot of money from his parents?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:11:55.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes and he goes and travels the world", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:12:18.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to learn how to fight injustice ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:12:29.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay. Who teaches him how to fight?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:12:44.410Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a man named Ra's al Ghul", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:06.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but it turns out that he was evil and wanted to burn gotham down", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:13:39.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok I think I remember that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:13:53.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So is Bruce loved by the people of Gotham?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:14:13.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think  so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:14:26.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will let you see the rest for yourself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:14:41.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for the chat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:14:50.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:14:51.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All the best", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:14:56.201Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T16:04:11.914Z", 
+  "uid1LogOutTime": "2018-03-07T16:15:19.309Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:04:11.966Z", 
+  "uid2LogOutTime": "2018-03-07T16:14:57.497Z", 
+  "uid2response": {
+    "feedback": "I love Batman! Great discussion.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR163", 
+  "user2_id": "USR3721", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

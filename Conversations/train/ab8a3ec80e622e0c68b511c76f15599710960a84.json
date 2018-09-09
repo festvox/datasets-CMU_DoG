@@ -1,0 +1,72 @@
+{
+  "date": "2018-02-05T21:29:15.005Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, so we are talking about the movie Frozen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:39.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kristen Bell was great as Anna in the movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:08.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen this movie several times and liked it, I would enjoy seeing the broadway show", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:30:23.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never knew that it was based off \"The Snow Queen\" by Hans Christian Andersen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:31:03.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would also love seeing it turned into a Broadway show", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:31:32.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course, the reindeer Sven and Olaf the snowman steal the show!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:33:07.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you enjoy movies of this genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:34:38.903Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:29:15.005Z", 
+  "uid1LogOutTime": "2018-02-05T21:30:32.825Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:29:15.092Z", 
+  "uid2LogOutTime": "2018-02-05T21:35:08.829Z", 
+  "uid2response": {
+    "feedback": "The other participant dropped off after responding only once. I waited for several minutes for responses.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR536", 
+  "user2_id": "USR4437", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

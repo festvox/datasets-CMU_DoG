@@ -1,0 +1,55 @@
+{
+  "date": "2018-02-07T17:01:30.996Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:02:01.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:02:21.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any body there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:02:22.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "heloo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:03:21.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ru there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:04:51.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi any there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:06:02.798Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T17:01:30.996Z", 
+  "uid1LogOutTime": "2018-02-07T17:06:11.649Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR625", 
+  "user2_id": "USR1", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

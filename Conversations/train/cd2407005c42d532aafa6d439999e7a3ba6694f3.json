@@ -1,0 +1,245 @@
+{
+  "date": "2018-03-27T22:18:08.993Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Which movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:18:26.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HiHave you seen The Wolf of Wall Street, directed by Martin Scorsese?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:19:09.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah great movie I heard! I am a big fan of Scorsese!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:19:41.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:19:50.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leonardo DiCaprio, Jonah Hill, Margot Robbie. Kyle Chandler, and Rob Reiner.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:20:14.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just Adore everything Leonardo DiCaprio is in since growing pains.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:20:46.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very nice ensemble of cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:20:52.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jonah Hill is so funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:20:57.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure. Are the reviews good for the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:21:11.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Margot Robbie is so pretty!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:21:17.225Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well let's talk about the contents of the document you are given", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:22:01.523Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a very entertaining movie. It's somewhat of a black comedy. I didn't know, but it is based on a memoir.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:22:13.715Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So tell me about Leo's character. What does he do in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:22:49.612Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It tells a story of Jordan Belfort (DiCaprio) in his career as a stockbroker. Jonah Hill is his business partner, Donnie Azoff.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:23:42.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see. Do they start their own firm? or are they just a coworker?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:24:24.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They get into some shady business dealings and the FBI tries to bring them down. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:24:38.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Matthew McConaughey is in the movie too. He does a pretty impressive acting job in this movie, he useually comes across somewhat dingy, but He played his character intensely.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:25:49.594Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay. What character does he play? Does he play an important role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:26:36.497Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The characters make a fortune in penny stocks, and there is some high life luxeries with sex and drugs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:27:27.657Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am asking you about Matthew McConaughey's character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:27:44.481Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I forgot his character's name, let me figure that out for you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:28:07.166Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nonono you shouldn't discuss anything not included in the documents", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:28:22.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Let's just talk about the plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:29:00.239Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What happens to DiCaprio's and Hills' characters\n while working as penny stocker? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:29:38.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "McConaughey's character is Mark Hanna, the main boss of the stockbroking business. He lures in Jordan Belfont and Donnie Azoff to his firm doing shady investing in offshore pennystocks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:30:11.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He entices them with parties with sex and drugs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:30:28.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Move on to the next scene, what happens after?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:30:52.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "eventually the FBI arrests Jordan, but trades leniency for information on his colleagues.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:31:44.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. that sounds like the beginning of the end for Jordan's fortune", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:32:42.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And then what happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:32:46.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Eventually Jordan loses everything, his shady job, his wife leaves him and takes their children. He even tries to warn his buddy Donnie that the FBI is after him because he cares for him, but Donnie betrays him and rats him out to the FBI.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:33:33.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great. Sounds like an interesting plot. Thanks for chatting with me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:34:04.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope you will see it, I feel I don't give it enough credit. I was very entertained", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:34:06.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good night!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:34:12.789Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:34:13.189Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T22:18:08.993Z", 
+  "uid1LogOutTime": "2018-03-27T22:34:15.774Z", 
+  "uid1response": {
+    "feedback": "The conversation was a bit awkward", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T22:18:09.027Z", 
+  "uid2LogOutTime": "2018-03-27T22:34:16.799Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR931", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

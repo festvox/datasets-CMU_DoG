@@ -1,0 +1,377 @@
+{
+  "date": "2018-03-07T16:25:47.408Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Ello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:25:57.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is batman begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:05.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "With christian bale", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:11.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nolleH", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:26:13.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:14.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he's okay, do you like him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:26:33.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea hes a pretty good actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:43.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never seen that movie, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:26:54.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "liam neison is in this movie as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:55.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:58.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:27:00.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, hes a very good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:27:13.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does the movie have a good ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:27:47.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:27.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i dont want to spoil it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:30.600Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "katie holmes is in it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:37.934Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The ratings are really goos", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:48.866Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, thank you! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:28:50.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "rotten tomoatoes is 7.7", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:54.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I will make sure to see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:28:59.039Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No prob!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:29:01.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OH morgan freeman too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:29:18.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, good rating!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:29:23.239Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cinemascore rated it an A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:29:36.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Morgan freeman movies are the best!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:29:50.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i agree!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:29:56.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i wish he would never age and stay that same age forever", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:30:06.746Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:30:17.880Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you see the movie at the theater?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:30:42.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:30:45.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a long movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:31:18.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:31:51.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was made in 2005 i can tell you that much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:32:03.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "also batman is scared of bats", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:32:12.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if I can find the movie on Netflix", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:32:41.778Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you can i believe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:32:56.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ive seen it on there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:32:58.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I never knew that he was scared of bats, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:33:12.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its a great film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:33:15.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol yea its one of the opening scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:33:27.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he is so scred fo them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:33:32.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome, I'm going to watch it tonight then. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:33:42.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hell yea thanks for making me feel good:) you will not be disappointed\n!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:08.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like\n batman more than Spider-Man?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:34:16.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:21.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "batman could happen sideyboy could not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:32.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "spideyboy*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:38.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IMe too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:34:41.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:45.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:34:54.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you rate the genre of superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:03.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "1-10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:06.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like batmans suit better, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:35:38.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "uh oh i think we are done. i had fun chatting, have a great day! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:42.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "love you ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:48.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ";p", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:35:52.160Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:35:55.592Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T16:25:47.408Z", 
+  "uid1LogOutTime": "2018-03-07T16:36:03.687Z", 
+  "uid1response": {
+    "feedback": "I am excited to watch the movie, we had a great conversation.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:25:47.528Z", 
+  "uid2LogOutTime": "2018-03-07T16:35:56.582Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1882", 
+  "user2_id": "USR1592", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2018-02-07T21:45:55.018Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:46:20.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:46:29.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception is a great movie. Do you think so?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:47:47.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes,its a good one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:30.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the ratings were too good for the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:51.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:49:07.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Leonardo DiCaprio was great in the film. He is such a great actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:49:29.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the credit goes to the director  Christopher nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:48.322Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joseph Levett had a character who managed and researched the missions. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:51:23.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the story about the espionage and militry operations", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:52:19.830Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, the credit should go to the director. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:23.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out  back in 2009.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:55:30.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the story plot doesnt seems filled with actions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:55:56.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a scientific movie but has alot of drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:57:48.796Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the role of LIMBO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:58:37.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is means subconcious world,where there is  a risk of  forgetting  everything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:00:35.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a unique concept which force people to watch the movie and see what will happen next", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:01:21.846Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are u there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:01:37.214Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are people drawn into dreams in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:04:43.143Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the critical responses are mixed views of good and bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:34.417Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are u there,shall we abort the discussion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:06:52.567Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:45:55.018Z", 
+  "uid2LogInTime": "2018-02-07T21:45:55.123Z", 
+  "uid2LogOutTime": "2018-02-07T22:22:38.001Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1494", 
+  "user2_id": "USR1420", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

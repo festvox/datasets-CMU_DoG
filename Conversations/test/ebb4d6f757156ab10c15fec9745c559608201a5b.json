@@ -1,0 +1,48 @@
+{
+  "date": "2018-03-01T21:29:45.346Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:29:54.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:30:38.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Bruce Almighty? I did and it is fantastic. Jim Carrey is hilarius but Freeman takes the show with his presence. It is a nice team.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:33:50.375Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T21:29:45.346Z", 
+  "uid1LogOutTime": "2018-03-01T21:30:17.159Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:29:45.495Z", 
+  "uid2LogOutTime": "2018-03-01T21:34:16.979Z", 
+  "uid2response": {
+    "feedback": "Other user left the chat and didn't came back. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3668", 
+  "user2_id": "USR4843", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

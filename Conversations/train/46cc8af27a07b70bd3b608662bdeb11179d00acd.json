@@ -1,0 +1,146 @@
+{
+  "date": "2018-02-12T20:23:18.455Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, let's talk about Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:24:01.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i think Roy Schneider was a good fit for Chief Martin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:25:02.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You are right. I don't think anyone else could have played the role as well. The entire cast was great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:26:38.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your favorite actor in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:26:56.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Roy Scheider he had a great persona for the role he played", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:27:16.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think the shark looked better being real than CGI?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:27:47.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. I am partial to Richard Dreyfuss as Matt, but I am a fan of his in general. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:27:48.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "At the time it was made I think the shark was perfect and it was realistic. If it had been remade today with the new technology, I feel like CGI in combination with the anim\natronic would look best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:28:57.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never knew the movie was based on a novel of the same name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:30:25.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't either, but that makes sense. Do you think it was one of Spielberg's best films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:30:51.186Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of? yes i do think it is one of his best films. Because the way it's directed makes it so memorable ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:32:20.843Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is in the Thriller Genre but it feels more like an Action or drama do you agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:33:43.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do think it seems more like action than thriller, but I suppose genres were defined differently back then. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:35:45.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw a documentary about Spielberg and he said that he wouldn't make the movie as gruesome if he did it present day. That after he had children of his own, he hasn't wanted to put children being harmed in his movies like back then. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:37:01.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "your right the movie is rated PG but i get the feeling it would be rated higher than that by todays standards ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:37:02.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Most certainly, PG13 at the very least. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:37:30.098Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The part where Roy is trapped in the sinking Orca is the best part i think because of the suspense what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:39:07.053Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Honestly, it's been so many years since I rewatched it that I don't remember it well enough to recall the suspense I felt during that scene. The Amity Island scene has to be the most memorable in the movie to me, aside from Jaws jumping onto the boat to get Quint. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:40:26.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The most memorable thing about the JAWs franchise was the terrible Nintendo game made by LJN. I remember playing that as a kid and getting very angry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:41:32.115Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T20:23:18.455Z", 
+  "uid1LogOutTime": "2018-02-12T20:43:20.115Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T20:23:18.470Z", 
+  "uid2LogOutTime": "2018-02-12T20:43:16.064Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3743", 
+  "user2_id": "USR617", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

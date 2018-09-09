@@ -1,0 +1,67 @@
+{
+  "date": "2018-02-16T19:26:42.958Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:26:56.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i hope you like romance, because ive got a scorcher here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:27:14.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the 2004 ryan gosling drama: the notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:27:34.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I like romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:27:52.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well you're in for it, this ones based on a best seller", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:28:14.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well then!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:28:49.244Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T19:26:42.958Z", 
+  "uid1LogOutTime": "2018-02-16T19:28:50.564Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T19:26:43.146Z", 
+  "uid2LogOutTime": "2018-02-16T19:28:44.402Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2310", 
+  "user2_id": "USR1803", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

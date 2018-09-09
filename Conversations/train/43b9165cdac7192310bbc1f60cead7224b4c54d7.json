@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-27T14:16:11.280Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:16:20.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:16:23.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ever seen the film 'Toy Story'?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:16:31.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i did but i will pretend i didn't", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:16:42.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": ":)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:16:43.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year did it come out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:16:50.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice one... Back in 1995, if you can believe that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:17:02.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:17:17.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Lasseter, though I have never heard of him...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:17:38.329Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me neither", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:17:43.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This was Pixar's first film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:17:43.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i LOVE pixar's movies!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:17:56.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what about the ratings? are the ratings good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:18:10.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got great ratings - Rotten Tomatoes has 100%, Metacritic 95/100, and CinemaScore: A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:18:49.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not surprising at all, from what I remember of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:18:58.247Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've never seen rotten tomatoes giving 100% rating!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:19:14.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I cannot remember ever seeing that myself, either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:19:25.569Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:19:34.330Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:19:37.251Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Comedy mostly, but also animation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:20:19.110Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you think this movie is only good for kids or adults would enjoy it as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:20:42.408Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does not give its running length, but it is probably around 100 minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:20:43.774Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:20:52.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely a family film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:20:54.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My kid still watches it, her mom loves it too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:21:10.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can you tell me what this movie is about? just in general", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:21:27.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie is about toys. They act lifeless whenever people are around, but when they are alone, they come to life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:22:30.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:22:52.193Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what about cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:22:57.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The two main toys, Woody and Buzz Lightyear, sort of have a rivalry during the film, competing for the kid's attention", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:23:03.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice! thank you for chatting with me. have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:23:26.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great cast, Tom Hanks is the voice of Woody, Tim Allen is the voice of Buzz, and there are others too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:23:29.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:23:33.594Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T14:16:11.281Z", 
+  "uid1LogOutTime": "2018-03-27T14:23:36.026Z", 
+  "uid1response": {
+    "feedback": "I've watched this movie before but i would definitely  watch it again. I really enjoyed talking to the other person. He answered all my questions", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:16:11.383Z", 
+  "uid2LogOutTime": "2018-03-27T14:23:39.225Z", 
+  "uid2response": {
+    "feedback": "Engaging partner, conversation went quite well.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "date": "2018-02-12T18:55:50.073Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:56:09.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:56:29.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so you know any movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:56:58.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea i watched lalaland, loved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:18.633Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you see it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:28.633Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh no but it looked interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:36.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its a romantic comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:52.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "musical if you are into those movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:58:00.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not really my cup of tea. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:58:13.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "gosling did an aamazing job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:58:24.327Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm I have heard a lot of good things about it so I might check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:58:47.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes the restaurant scene is amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:59:20.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it more then once?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:59:25.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no just once", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:59:44.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you watch it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:59:57.665Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "kinda 80s pop cover band", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:00.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no i wouldnt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:03.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its highly rated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:08.726Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:10.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "80s pop cover interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:31.371Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i know you might like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:39.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I normally only watch old black and white films with no sound. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:04.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that is different, this is a little more modern ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:20.263Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well it is still highly recommend\n so i will check it out I think.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:50.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "8.1 on imdb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:00.814Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is not bad. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:09.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "emma stone also did good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:33.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it kinda like that Adam Sandler movie Jack & Jill?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:20.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "along those lines yea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:43.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well that movie is awful. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:55.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:08.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "glad i didnt see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:14.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:25.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think John legend did not do a good job in this flick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:27.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good to know.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:42.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:50.901Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i did not likie his character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:53.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will make sure to just keep watching Jack & Jill. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:17.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea you do that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:38.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think its not your thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:43.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we have to talk till done", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:51.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:54.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a great day. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:55.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it says finish conversation so. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:04.381Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:08.962Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T18:55:50.074Z", 
+  "uid1LogOutTime": "2018-02-12T19:06:06.048Z", 
+  "uid1response": {
+    "feedback": "Not my kind of movie. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T18:55:50.342Z", 
+  "uid2LogOutTime": "2018-02-12T19:06:13.810Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1360", 
+  "user2_id": "USR256", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

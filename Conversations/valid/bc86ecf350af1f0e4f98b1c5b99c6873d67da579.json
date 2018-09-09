@@ -1,0 +1,308 @@
+{
+  "date": "2018-03-23T16:57:46.856Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:57:57.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you watch an Iron Man movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:58:23.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, yes for sure. I like super heroes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:58:45.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Marvel Comics characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:59:07.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:59:18.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Comics are my favorite genre.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:59:53.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr is for sure the right guy to be Tonny Stark. He has some hilarious scenes, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:00:08.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I think so as well. A very good pick for an Iron Man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:00:42.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays very well the role of industrialist and master engineer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:01:19.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:02:36.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nDo you agree with some critics  who mentioned that that the movie was\" expensively entertaining special effects extravaganza\" .", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:02:50.485Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Normally I don't consider movie critics, and in this case when you want to see Iron Man this is exactly what you are looking for right? For me the movie is exactly what the fans like.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:03:59.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "We definitely\n can agree on that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:04:38.818Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you know that this was the first film in the Marvel Cinematic Universe?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:04:45.161Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I didn't. The initial of the history is very interesting as Tony trying to make business in Afghanistan, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:05:54.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:06:43.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know anything about the director of the movie Jon Favreau?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:06:51.368Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have never heard about him before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:07:32.766Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Prior to this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:07:46.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not really. But he did a tremendous job. Stark's scene on the cave captured by the terrorism group is real breathtaking.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:08:32.830Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes that is for sure. Movie is great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:08:57.226Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How do you like actress Gwyneth Paltrow in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:10:17.648Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is really nice. She played very well the role of assistant and also falling in love for Tony.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:10:55.165Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " Yes, she is a good actress and her presence made the movie better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:12:12.933Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In my own opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:12:25.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When Iron Man flies to Afghanistan to save the village it is also an amazing scene.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:13:18.344Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, Ireally liked that one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:14:46.039Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I also like that Favreau does not go in for stylized comic-book frames, at least for the first half.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:14:51.670Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree. And I like a lot when SHIELD agents come to the scene. Don't you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:16:00.763Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, futuristic scene!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:16:31.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So you think you would watch it again or share it with your friends?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:17:19.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes for sure. This is the kind of movie I can see multiple times.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:17:57.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but I think that the average 7.7/10 raitings could have been better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:19:03.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For sure yes. When Stark and Stane have the last fight it is amazing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:19:41.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that when everybody know that this is the end of the road.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:20:51.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And it is really difficult to imagine how Iron Man could win with such disadvantage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:22:12.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes and no.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:22:44.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We knew he would win but how.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:23:29.193Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me tell you this", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:23:56.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that fact that Iron Man built his own exoskeleton, which made him the technologically advanced super hero.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:24:01.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe that played a big role in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:24:19.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For sure. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:24:22.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks a lot for chatting on this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:24:37.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You are welcome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:24:45.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:25:00.345Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T16:57:46.856Z", 
+  "uid1LogOutTime": "2018-03-23T17:25:06.402Z", 
+  "uid1response": {
+    "feedback": "The conversation was fun and engaging. The user was well mannered, polite and knowledgeable about the movie. I had a pleasant experience, thank you.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:57:46.996Z", 
+  "uid2LogOutTime": "2018-03-23T17:24:41.600Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR4843", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

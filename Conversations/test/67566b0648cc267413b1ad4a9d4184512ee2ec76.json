@@ -1,0 +1,324 @@
+{
+  "date": "2018-03-27T14:31:06.939Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:31:14.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?  What movie are we discussing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:31:30.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im great what about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:31:42.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:31:45.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we are discussing Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:31:50.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:31:58.790Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I would love to see that!  It looks great, can you tell me more about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:32:00.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:32:07.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have actually seen it but it's beena  long time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:32:10.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it was produced in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:32:16.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its a comedy animation and adventur film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:32:31.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has great reatings as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:32:43.379Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do people say about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:32:48.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has good critacal responces", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:33:25.422Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it says that the movie is a work of genius", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:33:38.623Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's good, and average people seem to like it too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:33:41.271Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, that's a huge compliment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:33:59.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, it has a Rotten Tomatoes of 100% and average 9/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:34:10.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cinema score A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:34:15.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "dang that's really high", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:17.984Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and Metacritic Score of 95/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:34:28.996Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is the basic plot line again? remind me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:38.206Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So its a pretty good movie to enjoy with the family", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:34:41.050Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I think we have the VHS somewhere", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:58.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and the plot is about a wold in where toys are living things who preted to be lifeless when humas are present", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:14.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "such a clever idea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:35:24.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then the main characters are Woody and the famouse Buzz Lightyear", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:31.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they have a rivalry at first but then become the greatest friends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:44.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh that's right, they are fighting to be the favorite toy or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:11.942Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tom Hanks is Woody and  Tim Allen is Buzz Lightyear,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:18.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:22.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they fight to be the favorite one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:29.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great cast, I never knew it was them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:34.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Woody is actually jelous at first", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:36.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And yeah, great cast indeed, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:47.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who else is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:57.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don Rickles as Mr. Potatoe Head, Jim Varney as Slinky dog", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:22.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not sure I'm familiar with them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:37:30.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and Wallace Shawn as Rex", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:30.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rex is one of my favorites", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:38.410Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I dont know them either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:44.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So I hope you watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:54.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its a really great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:59.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked him too, he was funny.  Well it looks like we have met the requirements of this HIT, I appreciate the recap of Toy Story, definitely a favorite classic.  I will rewatch it soon, my 2 year old has never seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:38:02.786Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:38:13.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a nice day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:38:15.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:38:16.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:38:17.485Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T14:31:06.939Z", 
+  "uid1LogOutTime": "2018-03-27T14:38:19.381Z", 
+  "uid1response": {
+    "feedback": "it's a great movie and they reminded me of the things about it that I Really liked. I want to see it again.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:31:07.318Z", 
+  "uid2LogOutTime": "2018-03-27T14:38:17.928Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2221", 
+  "user2_id": "USR960", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

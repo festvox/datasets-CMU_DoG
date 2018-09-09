@@ -1,0 +1,182 @@
+{
+  "date": "2018-02-08T22:05:44.311Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:07:09.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:07:17.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Zootopia?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:07:38.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I find animals portrayed as humans is quite funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:08:02.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the plot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:08:19.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. I also thought it was quite funny. And I liked the plot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:08:30.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the actors voices were perfect for their parts.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:08:51.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. Did you have a favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:09:08.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, Officer Judy Hopps", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:09:23.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very endearing and bold.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:09:36.319Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She was my favorite too. I liked her optimism and courage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:09:43.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like the music?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:01.879Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did. I thought it was catchy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:10:16.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think teenagers would enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:36.265Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure. I think so, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:10:54.370Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like the ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:11:27.341Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was pretty good. I liked how the friendship between Judy and Nick developed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:11:49.667Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some of the scenarios were very surprising.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:12:31.729Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I must confess the sheep was charming.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:13:09.590Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "True. The plot made some unexpected twists and turns. Like the initial \"solving\" of the crime, before they find out there's more behind it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:13:21.036Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked the fact that they made her a villain, though. But a sympathetic villain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:13:44.913Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Otterton is quite the savage.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:14:01.484Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "True. Manchas was as well. That was pretty scary.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:14:36.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think of Lionheart?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:15:07.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought he was kind of arrogant in his treatment of Bellwether.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:15:34.101Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:05:44.311Z", 
+  "uid1LogOutTime": "2018-02-08T22:15:38.253Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:05:44.367Z", 
+  "uid2LogOutTime": "2018-02-08T22:15:56.526Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1015", 
+  "user2_id": "USR2920", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2017-12-19T17:04:04.328Z", 
+  "docLinkIdx": 8, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:06:37.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there. The name of the movie is Wonder Woman. It seems like a good movie with a rating of 92% on Rotten Tmatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:07:12.226Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are the names of the actors/actresses in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:07:36.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot is Diana Prince/Wonder Woman. Chris Pine is Steve Trevor. Robin Wright and Danny Huston are in it as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:08:20.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where does the story take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:08:45.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The story starts on the Amazon island of Themyscira where Princess Diana lives. Steve Trevor, an American pilot, crashes on to the island. Diana then leaves her home to try to help \nend the war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:10:25.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you enjoy DC superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:11:11.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i enjoy them a lot. I'm a big fan of dc marvel movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:11:38.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched Wonder Woman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:11:51.726Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, i haven't but the rating and plot sounds fascinating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:12:22.847Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is very interesting. It seems there's also some scenes where Diana recalls her past.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:14:25.929Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there a lot of action, moderate action, little action in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:15:03.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There seems to be a lot of action in the movie given that Wonder woman joins Steve to join the war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:15:38.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is steve a super hero too, or not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:16:38.847Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It says he's an American pilot fighting in World War I.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:17:09.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So the time frame of this movie is during world war 1, correct?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:17:58.039Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:18:20.047Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does wonder woman fall in love in this movie, or not, or hard to say?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:18:53.080Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's hard to say. It doesn't seem like it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:19:06.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What superpowers does she have in this movie? or does it not say much?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:19:59.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It says she has trained to be an Amazonian warrior. She has a \"Godkiller\" sword and a lasso she uses when fighting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:20:51.415Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She believes that Ares is responsible for the war and sets off to defeat Ares.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:21:20.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know the movie sales of this movie, by any chance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:22:52.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "box office gross, i mean to be exact.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:23:11.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I'm not aware of the total sales it has made.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:23:24.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a mother figure in wonder woman's life, in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:24:06.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wonder Woman is the daughter of Queen Hippolyta. She was initially forbidden to learn to be a warrior but eventually her mother gave in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:24:57.299Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Wonder woman's father in this movie? If so, who plays him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:25:46.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It does not seem her father is present in the movie but he is mentioned.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:26:12.525Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-19T17:04:04.328Z", 
+  "uid1LogOutTime": "2017-12-19T17:27:14.539Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:04:04.354Z", 
+  "uid2LogOutTime": "2017-12-19T17:26:39.980Z", 
+  "uid2response": {
+    "feedback": "The other user was quickly responding to my questions I've had. Seems like the movie has a lot of action and must-watch for me.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3483", 
+  "user2_id": "USR793", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

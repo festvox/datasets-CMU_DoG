@@ -1,0 +1,249 @@
+{
+  "date": "2018-02-07T17:04:34.895Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:05:31.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:05:38.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:05:55.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the name of the movie is La La Land", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:06:02.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:06:14.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! It's a very inspirational and uplifting movie--about two people getting in touch with their dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:07:00.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you get me an outline about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:07:23.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:09:12.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about an aspiring jazz pianist, Ryan Gosling, and an aspiring actress, Emma Stone. They meet and fall in love in Los Angeles--but with time their dreams gradually create distance between them. It deals with the prospect of choosing your dreams over love--because life is all about timing, really.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:09:13.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "seems a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:10:02.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it is. Do you have any other questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:10:16.888Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah any academy awards for the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:10:37.613Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it won several.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:11:02.229Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It also has a 92% rating on rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:11:08.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:11:34.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": ":-) Yep.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:12:05.115Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did it get any Oscars?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:12:30.496Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. 6 wins from the Oscars--the first film to ever achieve as such.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:13:09.407Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So one of the best movies ever", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:13:32.657Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well that's subjective--I watched it and thought it was a little overrated. Just because it was slightly cliched, and I personally feel that I've seen better films. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:14:12.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But nonetheless it's still worth the watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:14:24.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Will love to do that, Is it available online?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:15:00.509Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:15:27.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where can I watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:15:44.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You can watch it on Hulu, it's also been playing quite a few times on HBO so if you don't want to pay for it online the TV's an option as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:16:53.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:18:16.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Will check TV, If it is available and if not available will try to pay and watch. If I pay for it will it be worth?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:18:22.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I recommend it. If you've never seen it, it's definitely a film that deserves to be watched at least once.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:18:59.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You might be aware of this already but it's a musical.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:19:27.425Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not a big fan of musical films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:20:01.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah me neither! But this film was actually good despite the musical aspect of it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:20:26.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also, if you're a fan of photography or art--you'll really appreciate how nicely the film was shot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:20:47.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am a fan of photography, but not of art", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:21:32.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah then you'll really enjoy the cinematography of the film. The scenes were filmed very beautifully. The lighting, the backdrop, the placement--all of it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:22:19.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that all your questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:22:32.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I think so , Thank you for your information", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:23:21.488Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T17:04:34.895Z", 
+  "uid1LogOutTime": "2018-02-07T17:23:25.698Z", 
+  "uid1response": {
+    "feedback": "I had to get a bit of a review about the movie and also wanted to know about an outline of the story and the explanation I got was good", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:04:34.899Z", 
+  "uid2LogOutTime": "2018-02-07T17:23:02.232Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4838", 
+  "user2_id": "USR1338", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

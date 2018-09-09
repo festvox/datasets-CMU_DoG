@@ -1,0 +1,288 @@
+{
+  "date": "2018-03-16T16:59:01.624Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:59:21.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:01:26.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Despicable Me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:01:39.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that the movie with the cute little yellow guys?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:02:06.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You mean the minions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:02:18.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Probably, I haven't gotten a chance to see the movie... or is it movies? If I remember correctly there were a few.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:02:58.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw this movie a long time ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:03:30.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You must watch it, it's funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:03:38.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Especially with Steve Carell as Gru", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:04:04.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really? What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:04:05.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's animated and the story is a comedy about Gru the mean supervillain and his rivalry with Victor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:05:14.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nIt is suitable for adults and kids", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:05:42.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, is it an action movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:05:48.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, not really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:05:57.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's more like a comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:06:03.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There is also an element of heartwarming and touching emotions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:06:26.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it good for all ages or is it more of a kid-oriented animation.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:06:55.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think even adults can enjoy this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:07:21.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has a pretty high score on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:07:38.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a long movie or does it run through pretty quickly? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:08:02.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not too long, around 90 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:08:20.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it released in 2010", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:08:46.038Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The merchandise from this movie was so popluar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:09:00.134Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah. So what's your favorite part of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:09:12.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't remember much, it was a long time ago that I watched it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:09:39.886Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But I have a good overall impression that it was funny and enjoyable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:10:04.981Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmm, on a scale from 1-10, what would you rate this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:10:47.003Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "about 8", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:11:21.654Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like animated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:11:37.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems like an interesting movie but I am a fan of animated movies (among other ones of course).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:11:57.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it has a good story, definitely not boring", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:12:31.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you want to go see it again sometime? It seems like a movie that you need to go see with a friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:13:26.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure, on DVD", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:00.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's a good movie to watch on weekends", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:11.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahh, so it's a good Saturday night film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:14:49.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes1", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:34.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:37.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Though is there a solid plot? So you remember? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:29.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember vaguely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:51.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like Steve Carell, so it was fun watching his voice over", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:14.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yea, who else stars in this movie? So you know? I'm just curious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:43.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jason Segel and Russell Brand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:10.973Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T16:59:01.624Z", 
+  "uid1LogOutTime": "2018-03-16T17:18:13.022Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T16:59:01.730Z", 
+  "uid2LogOutTime": "2018-03-16T17:18:18.751Z", 
+  "uid2response": {
+    "feedback": "Other user was attentive to my questions and seemed to have a genuine liking for the movie.\n", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR1020", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

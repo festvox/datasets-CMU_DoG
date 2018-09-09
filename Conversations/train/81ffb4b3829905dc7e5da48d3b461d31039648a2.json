@@ -1,0 +1,77 @@
+{
+  "date": "2018-03-19T20:01:11.895Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello we are to talk about the movie malificent ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:01:44.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think about it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:01:52.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. I thought that movie was very good. Its been a while since I last saw it though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:15.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me too ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:26.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love angelina in this movie though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:37.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe Angelina Jolie played her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:40.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah the movie was better than what I thought", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:53.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and it reminded me of that show once upon a time where they took a story and changed what we thought of it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:03.493Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T20:01:11.895Z", 
+  "uid1LogOutTime": "2018-03-19T20:03:38.015Z", 
+  "uid1response": {
+    "feedback": "My other user left the conversation after 2 responds. I had to finish the convo earlier than the instructions called for cause they left.  ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:01:11.924Z", 
+  "uid2LogOutTime": "2018-03-19T20:02:59.002Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3438", 
+  "user2_id": "USR3537", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2018-03-22T16:25:07.321Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:27:10.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! The movie we're supposed to discuss is the Wolf of Wall Street. Have you watched it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:27:26.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen bits and pieces but not the entire thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:27:42.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:27:55.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't watched it either, but so far based on this document I have, it doesn't look that great. It's about a guy who worked as a stockbroker in NYC and worked at a firm with a ton of corruption and fraud", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:28:43.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah, so I'm guessing its a drama? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:29:03.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it based on a true story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:29:08.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Weirdly enough it's supposed to be a \"black comedy\"...and yeah it's based on a true story. The guy's name is Jordan Belfort. He wrote a memoir about his experience", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:29:42.648Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"black comedy\"? As in African American?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:30:12.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's what I was confused by...it's definitely all white actors. Maybe it means \"dark comedy\"? The genre listed here says black comedy for some reason", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:31:34.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe in real life the guy Jordan Belfort is black, but I don't know for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:32:21.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I could see where they would mean a dark comedy... Although I'm not sure how funny Wall Street corruption is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:32:57.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, apparently critics say it was pretty dull. It got decent rotten tomato scores, but I don't think it's as funny as they tried to make it seem", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:36:29.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If the critics say that it was dull than I'm scared to watch it, typically they enjoy dull", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:37:15.255Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T16:25:07.321Z", 
+  "uid1LogOutTime": "2018-03-22T16:37:44.095Z", 
+  "uid1response": {
+    "feedback": "They said it had bad reviews and that critics said it was dull.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T16:25:07.471Z", 
+  "uid2LogOutTime": "2018-03-22T16:36:58.235Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3959", 
+  "user2_id": "USR2840", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

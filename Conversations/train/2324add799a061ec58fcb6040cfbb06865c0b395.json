@@ -1,0 +1,286 @@
+{
+  "date": "2018-02-05T17:28:03.672Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, whats the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:28:35.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia?  Cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:28:47.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:28:47.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, that's all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:28:53.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie, what about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:29:23.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Haven't seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:29:30.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's obviously a child's movie, but it's pretty deep in meaning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:30:41.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Coo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:30:48.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has pretty good reviews, 98% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:32:07.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "98%s good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:32:20.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember when IMDB was worthy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:32:33.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's your method for choosing movies, word of mouth, or do you look into reviews and such?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:33:18.545Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Both", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:33:26.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:33:30.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah pretty much the same, I typically don't watch very many movies though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:33:52.799Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, they said you need to not act normally so WBAOAHAMAO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:34:32.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Judy Hopps is a great actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:35:11.102Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jenny Slate is poor in judgement.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:35:19.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah me too, I love her voice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:35:22.643Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wilde and Finnick is nasty.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:35:27.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Comedy in 2016 is bunk.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:35:37.232Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you generally watch movies of this genre?\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:35:41.260Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, they are stupid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:35:49.811Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, alright, fair enough.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:36:06.699Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Byron Howard is a bitch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:36:15.360Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten Tomatoes is cool, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:36:22.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think the ratings are fair then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:36:25.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'll get you to pop..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:36:41.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sure do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:36:45.557Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Assistant mayor of Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:36:55.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah me too, 98% is really high, but I think it's above 90% for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:37:10.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Speaking of sheep, whats that one with the bad sheep in it..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:37:21.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its like, someone whos a sheep but with a guy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:37:32.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure, do you like the overall art style of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:38:05.640Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure about that but did you know Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:38:06.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "May you can check online but well thats it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:38:33.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did I know about it? Yes I've seen it before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:38:41.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like this stupid thing because its stupid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:38:48.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like movies of stupid thing,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:38:59.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you generally watch movies with (good/bad) ratings? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:39:12.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think the idea of a rabbit being a police officer is a good one? I think it's pretty unique", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:39:19.493Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I do typically.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:39:25.975Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T17:28:03.672Z", 
+  "uid1LogOutTime": "2018-02-05T17:39:35.159Z", 
+  "uid1response": {
+    "feedback": "I very much enjoyed this thing with a talking; yeah.", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T17:28:03.686Z", 
+  "uid2LogOutTime": "2018-02-05T17:39:37.223Z", 
+  "uid2response": {
+    "feedback": "It was not a worker, I could tell as it's responses were completely random at times. ", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4900", 
+  "user2_id": "USR1262", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

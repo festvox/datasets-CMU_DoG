@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-23T01:43:49.867Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. So you read a document about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:45:16.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "still\n reading", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:45:40.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:46:13.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alright. So what's the movie called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:46:44.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:46:52.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a superhero film - do you like comics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:47:01.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do. I get real into them and try to dig up as much info as I can. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:47:54.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who the villain will be?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:48:23.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Obadiah Stone, who is Tony Stark's second in command in Stark Industries. Turncoat who tries to overtake the company!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:49:23.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alright, so a more down to earth super hero movie than some. No super aliens or anything like that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:51:32.767Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, I\n like superhero films that rely more on technology and skill than superpowers - feels more within the realm of possibility. Critics describe this as having a military thriller feel, as opposed to a stylized comic book frame by frame replay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:51:51.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no super aliens; grenades, terrorists, and electromagnetic exosuits!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:53:14.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and a hint of romance, too; Gwyneth Paltrow as Pepper Potts, Tony Stark (Ironman's) potential love interest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:54:02.661Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has something for everyone! I highly recommend it :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:54:19.075Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Since it's just called \"Iron Man\" with no secondary title I'm guessing probably an origin story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:54:42.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good guess! It'\ns the first film in the Marvel Cinematic Universe, actually.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:55:55.454Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting. Since it's the first how is the budget? Do special effects suffer at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:57:38.954Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "don't know about the budget - but critical response is that it's an \"expansively entertaining special effects extr\navaganza\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:58:43.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with relatively seamless CGI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:58:52.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Alright cool. You mentioned Pepper Potts actress; Who else is starring?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:00:25.799Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Robert Downey Jr as Iron Man; Jeff Bridges as his nemesis, and Terrance Howard as James \"Rhodey\" Rhodes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:02:16.884Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know James Rhodes. Who is he, in the general scheme of things?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:03:44.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is a friend of Tony Stark's - he is liaison between Stark Industries and the military, because Lt. Colonel \nRhodes is in the US Air Force in the weapons development / acquisitions dept, and Stark Industries is a defense contractor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:05:35.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What kind of weapons is Stark Industries selling to the air force?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:08:41.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Power armor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:08:47.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:09:06.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rocket propelled grenades", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:09:11.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:09:37.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I think I've got a pretty good picture of the movie now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:10:53.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any last thoughts?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:10:57.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think you'd enjoy it? Do you want to go see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:11:08.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely. That kind of movie is right up my alley.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:11:28.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just that while critics do vary in response, a 94% rating is pretty decent! A from cinema score and 79/100 on Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:11:55.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is very impressive. Thank you for time!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:12:26.901Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T01:43:49.867Z", 
+  "uid1LogOutTime": "2018-03-23T02:12:32.638Z", 
+  "uid1response": {
+    "feedback": "I love superhero movies and the other user did a decent job of describing the general feel of the movie, and it seems like something I'd really enjoy.\n\nP.S. I didn't check the document is understandable box because I didn't have a document to read.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T01:43:49.901Z", 
+  "uid2LogOutTime": "2018-03-23T02:12:40.283Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR181", 
+  "user2_id": "USR1615", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

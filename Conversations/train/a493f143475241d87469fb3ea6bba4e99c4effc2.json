@@ -1,0 +1,264 @@
+{
+  "date": "2018-03-19T21:14:22.416Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:14:55.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello to you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:15:17.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie The Shape of the Water?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:15:32.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not yet, but I am planning on it.  How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:15:59.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've kinda been waiting to read the book first.  I am on the library waiting list.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:16:50.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's really good. Guillermo Del Toro at his finest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:17:08.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yep, I have read the reviews on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:17:35.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the fantasy genre? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:18:32.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:18:49.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that The Shape of Water was actually classified as a 'horror' flick.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:19:36.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Really, don't see why. Kind of thought it was fantasy/drama. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:20:17.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, according to the New York Times, as I recall, it was 'horror'.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:20:55.707Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "From the reviews I read, it could also be 'love story'.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:21:24.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The cast features Sally Hawkins, Octavia Spencer, and Michael Shannon. What do you think of the cast?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:22:49.325Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was a good cast.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:23:04.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was it that played the monster?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:24:32.973Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Don't know. Kinda curious myself now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:25:24.810Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, according to the reviews he did a great job. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:26:03.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tough job to be all covered up like that for the part.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:26:30.128Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep. I thought it was great the the main character Elisa Esposito was mute.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:27:57.234Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Her casting was a very positive thing in light of affirmative action!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:28:57.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie was set in 1962. Do you like movies set during the Cold War?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:31:20.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, yes I sorta do having lived through the Cold War as a child.  Brings back memories, though not all of them are good memories - Duck and Cover and all that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:32:28.877Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh. Wow. My only knowledge of the Cold War is through movies and history books. What do you think of the representation of that time in movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:34:06.974Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Such as The Shape of the Water?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:34:42.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For the most part the representations are pretty accurate although there is not much representation of how it impacted the individuals.  For example, lots of people built underground bomb shelters and were forced to decide, based on economics, which members of their families they could accomodate.  I was evacuated to an underground bunker, during that period, on an AF base.  We didn't know if it was real or a drill.  There's very little talk about how it affected us..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:38:03.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow. Thank you for your response. It must have been very difficult, I couldn't even imagine what that would be like. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:40:41.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember as a kid looking up how to protect yourself during an atomic attack.  It was recommended, among other things that you build walls of earth to block your windows to prevent penetration of radioactivity.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:40:49.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It could be pretty intense. Sorta like a never-ending earthquake threat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:41:50.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean now there is some threat of nuclear war with North Korea, but it's not treated like something probable and we're not being reminded every minute of the day. I guess it must have been very different situation in the past.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:44:50.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sort of went a little off topic there. Have you heard of the end of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:46:37.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, think about it, there are all those Survivalists out there now - If you're part of that movement I suspect it's pretty much the same.  To me, the difference is that it is not government supported.  I think that is the difference.  Probably though, the folks in Hawaii who got the 'mistaken' message don't feel that way.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:46:53.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope, haven't heard the end of the movie.  Hopefully, it wasn't sad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:47:22.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Remember, all movies are based in some way on reality, so background is important.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:48:38.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for the conversation. I won't spoil the end of the movie. Better not comment on it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:48:52.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks, though when I read the book, supposedly, I will know the outcome.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:49:23.779Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:49:32.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye.  Nice chatting with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:49:52.666Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T21:14:22.416Z", 
+  "uid1LogOutTime": "2018-03-19T21:50:24.669Z", 
+  "uid1response": {
+    "feedback": "I did not receive any documentation.  It sounded like the other party had documentation.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T21:14:22.434Z", 
+  "uid2LogOutTime": "2018-03-19T21:49:56.743Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3168", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

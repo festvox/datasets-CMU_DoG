@@ -1,0 +1,122 @@
+{
+  "date": "2018-02-13T19:25:22.909Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:25:41.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is John Wick. Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:26:19.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just watched it yesterday ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:26:32.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:26:49.822Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah I thought it was awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:26:58.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the same thing when I watched it. Keanu was amazing in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:27:24.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel like they dont make movies like that anymore, like action movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:28:00.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They really don't and they should start making this style.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:28:32.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah exactly ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:28:45.818Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was nice to see John Leguizamo make a little bit of a comeback.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:29:30.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont remember seeing him in the first one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:30:17.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would have had the same reaction as Wick\n to anyone who killed the puppy my dead wife gave to me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:31:52.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah your right I would have gone insane.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:32:38.231Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was interesting to see a part of the assassin world. John Wick's car was pretty beautiful until it got stolen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:33:54.852Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was thinking the same thing yesterday his car is cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:34:31.205Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:25:22.909Z", 
+  "uid1LogOutTime": "2018-02-13T19:35:28.064Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:25:22.944Z", 
+  "uid2LogOutTime": "2018-02-13T19:36:10.454Z", 
+  "uid2response": {
+    "feedback": "User left about half way through the chat", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3599", 
+  "user2_id": "USR1425", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

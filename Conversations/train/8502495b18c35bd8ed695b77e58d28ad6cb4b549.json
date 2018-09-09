@@ -1,0 +1,65 @@
+{
+  "date": "2018-01-30T19:18:41.500Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey have you seen john wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:19:48.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have. Great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:19:56.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What dos you like about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:20:19.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is really great as the main protagonist and is such a badass. The gunfights and the action are also top tier", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:21:24.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me about it. The \"gun fu\" was awesome. Did you see john wick 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:22:24.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It was pretty good but I do not think as good as the first ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:22:47.808Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:18:41.500Z", 
+  "uid1LogOutTime": "2018-01-30T19:23:27.726Z", 
+  "uid1response": {
+    "feedback": "The User left the chat after a couple chats ", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:18:41.565Z", 
+  "uid2LogOutTime": "2018-01-30T19:23:11.718Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4030", 
+  "user2_id": "USR839", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

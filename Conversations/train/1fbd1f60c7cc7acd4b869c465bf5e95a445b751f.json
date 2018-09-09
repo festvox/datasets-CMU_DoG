@@ -1,0 +1,88 @@
+{
+  "date": "2018-03-03T03:05:41.685Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me sounds like its an older film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:08:41.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "since the CGI is no first-rank cartoon, it sounds like it may be outdated compared to today's CGI animation films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:09:07.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I had no idea that Despicable me was the debut film for Illumination Entertainment.  Nor did I realize that it was animated by a French animation studio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:09:10.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Neither did I. I also did not know that Steve Carell was the star of it. they should have advertised that more. maybe I would have gone to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:10:01.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really don't like to watch films in 3D.  My kids really enjoy it but just a pain in the patootie with the glasses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:10:57.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think it was an actual 3d movie, just 3d animation based on the introduction. Doesn't sound like you would learn any life lessons from the movie however. Just something to take the kids to. I prefer movies that teach something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:12:56.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Steve Carell was a good choice and yes they should have let people know that.  I enjoy movies that teach something as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:14:04.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Especially when its a kids movie. You definitely want something that will teach the kids a life lesson. I've never heard of illumination Entertainment. If this was their debut film they should have put more effort into advertisement.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:16:04.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree.  I find it humorous that film companies worry so much about ratings.  I have never worried about that.  If it looks good I watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:18:29.193Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-03T03:05:41.685Z", 
+  "uid1LogOutTime": "2018-03-03T03:17:51.415Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-03T03:05:42.999Z", 
+  "uid2LogOutTime": "2018-03-03T03:18:55.198Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1689", 
+  "user2_id": "USR4872", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

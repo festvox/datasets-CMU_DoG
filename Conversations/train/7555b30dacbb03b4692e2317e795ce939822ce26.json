@@ -1,0 +1,289 @@
+{
+  "date": "2018-03-22T04:32:44.571Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:33:55.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you ever seen The Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:35:27.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:35:39.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but the newer version with Leonard DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:35:52.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not the older version", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:35:57.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The newer version is the one the document is talking about...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:36:10.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ever watched it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:36:35.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think you understand this task to be honest", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:36:51.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm suppose to get information about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:37:16.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You pretend you haven't seen the movie and then let me use the information i have to persuade you to watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:37:44.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so tell me, why should I rewatch this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:37:55.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should watch it because it had Leonardo Di Caprio in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:38:58.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is he considered to be a good actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:39:15.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is there another reason why the movie is a good one to watch?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:40:30.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes he is a great actor. In case you've forgotten about the film, it's retold through a character named Nick Carraway who is recovering from Alcoholism, he retells his experience with Jay Gatsby", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:40:43.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jay Gatsby is a famous billionaire who throws wild parties in his house, hoping a woman named Daisy Buchanan will show up.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:41:46.539Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like Romantic Dramas in general?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:42:33.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I definitely do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:42:44.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "from your description, definitely sounds like an interesting story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:43:14.059Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie didn't get very good reviews, one critic describes it as a \"splashy, trashy opera\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:43:35.272Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:43:50.443Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I did not know that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:43:54.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds harsh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:44:02.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but, the critic must have had a reason to say that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:44:26.846Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, there is one intense scene though where a woman named Myrtle gets run over by a car", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:45:19.899Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is also a lot of deception between the characters and accusations of being unfaithful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:45:49.205Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh goodness", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:46:37.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is actually based off a novel by F. Scott Fitzgerald, I read it in school and it's a great book", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:46:48.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seems like a movie that's filled with a lot of drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:47:01.881Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "& I did know that, but was never assign to read that book", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:47:18.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have heard that it's a very popular book", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:47:42.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which is why I thought it was strange that the movie wouldn't get great reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:47:58.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but, books aren't always translated well to movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:48:13.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so it's understandable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:48:19.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is indeed. If you remember the final scene is also intense and quite sad. George mistakes Gatsby as Myrtle's lover and eventually shoots him before committing suicide himself\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:48:57.129Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a bit of a bleak ending, but very dramatic, I can see why it's described as an opera", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:49:16.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And further the film received bad ratings on most sites, with only 48% on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:50:03.508Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "However if you want to see an adaption of a great book I would recommend it. It's good to see how others envision someone elses work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:51:07.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "definitely, thanks for the recommendation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:52:03.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:52:06.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No problem.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T04:52:08.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:52:14.514Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T04:32:44.571Z", 
+  "uid1LogOutTime": "2018-03-22T04:52:17.589Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T04:32:44.582Z", 
+  "uid2LogOutTime": "2018-03-22T04:52:20.741Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2955", 
+  "user2_id": "USR149", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

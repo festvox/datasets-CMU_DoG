@@ -1,0 +1,117 @@
+{
+  "date": "2018-03-01T04:11:54.078Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you think the movie was funny?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:12:23.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did, not only was it funny it had a good message, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:13:45.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you usually like animated movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:16:57.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah! It was enjoyable for all ages.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:17:14.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about 50/50 for me. It depends on how developed the plot is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:17:41.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. Fortunately the movie had a good plot. Do you agree with its various ratings? Including, the low in my opinion, 72 metacritic score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:18:47.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I disagree with its rating too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:20:42.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure it's a simple movie, but the creative background was very strong - and everyone who saw it loved it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:20:53.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nPeople of all ages love this movie, me included. Steve Carrell did a phenomenal job voicing Gru. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:22:09.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The cast did some spot on voice work!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:22:59.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Russel Brand as the Dr, you would've never expected it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:23:31.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see it in 3D?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T04:23:35.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't get a chance to see it in 3D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:34:42.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why did you leave the chat?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T04:35:01.990Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T04:11:54.078Z", 
+  "uid1LogOutTime": "2018-03-01T04:30:51.322Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T04:11:54.093Z", 
+  "uid2LogOutTime": "2018-03-01T04:36:58.668Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1965", 
+  "user2_id": "USR1506", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2018-03-28T18:50:56.698Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:51:51.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, are you feeling like you would go to the movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:52:22.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I'm interested.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:52:34.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or maybe rent, anything is reason to celebrate..I would like to talk about a movie called \"Home Alone\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:53:24.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok I'm interested. What's the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:53:48.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about this boy that is by accident forsaken from his family's holiday trip to Paris, and when he is enjoying the home for himself he notices that a couple of guys want to break in to rob the house.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:55:33.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a great movie. Any more details?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:56:01.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems the first half of the movie is pretty calm. Then everything changes when the boy, whose name is Kevin, realizes that he has missed his family's trip and they also notice his absence.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:57:44.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome. Who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:02:07.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Macaulay Culkin plays Kevin, the kid left alone at home. Catherine O'Hara and John Heard play Kevin's parents; The would-be home burglars are Joe Pesci and Daniel Stern, and there is another character called Marley, that is played by Roberts Blossom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:05:27.466Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-28T18:50:56.698Z", 
+  "uid1LogOutTime": "2018-03-28T19:05:22.977Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-28T18:50:56.708Z", 
+  "uid2LogOutTime": "2018-03-28T19:10:23.791Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1229", 
+  "user2_id": "USR4196", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

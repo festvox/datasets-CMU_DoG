@@ -1,0 +1,147 @@
+{
+  "date": "2018-02-20T19:11:24.305Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi@", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:11:31.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. Can you tell me the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:12:06.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Mean Girls.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:12:59.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:13:03.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not. Is it about girls?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:13:24.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. And those girls are mean", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:15:13.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2004 film that is an American teen comedy film written by Tina Fey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:15:29.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:15:45.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What I know is that Rotten Tomatoes named it in its \"Top 50 Greatest Teen Comedies\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:18:55.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it was received pretty well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:19:08.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it something you could take a child to see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:19:26.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess it depends on your style of parenting and how old they are. The movie does have sexual references and (I think) cursing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:20:48.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But that's to be expected in a teen comedy film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:02.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know if it won any major awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:21:19.327Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was praised as being \"comic gold\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:24:01.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds pretty good. Do you know if Tina Fey has written any other movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:24:57.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure but she has been highly praised for this film. Lindsay Lohan as Cady Heron was the main character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:27:25.975Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't want to get bored. Do you know how long the movie is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:28:10.485Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is pretty long but just a normal length.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:34:24.814Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T19:11:24.305Z", 
+  "uid1LogOutTime": "2018-02-20T19:34:26.604Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:11:24.412Z", 
+  "uid2LogOutTime": "2018-02-20T19:34:40.303Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1143", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

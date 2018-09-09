@@ -1,0 +1,154 @@
+{
+  "date": "2018-02-13T21:49:06.483Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:49:53.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm looking for movie recommendations for Valentines Day, have you seen anything good recently?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:50:43.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm hoping for a movie title with some information about the film\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:52:29.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The avenger is a perfect movie for valentines day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:53:13.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:53:50.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool I have heard the name but know nothing about it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:53:52.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the basis of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:54:38.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is a document that you should read.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:55:10.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:56:18.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is in the left side of the screen. Take a look first.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:56:56.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The conversation must be based on the document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:57:39.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My task says the other user will read the document and I should ask questions about the movie to decide if I want to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:57:45.450Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have no document only the chat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:58:01.731Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, I see.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:58:27.453Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:58:31.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched the movie the Avenger?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:58:40.813Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:58:44.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Then, you should start asking about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T21:59:58.463Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay let's start again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:00:18.043Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What's the basis of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:00:33.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who acts in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:00:41.584Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-13T21:49:06.483Z", 
+  "uid1LogOutTime": "2018-02-13T22:01:19.225Z", 
+  "uid1response": {
+    "feedback": "The other user left the conversion before I could get enough information to decide to see the movie", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T21:49:06.668Z", 
+  "uid2LogOutTime": "2018-02-13T22:04:49.299Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1433", 
+  "user2_id": "USR3667", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

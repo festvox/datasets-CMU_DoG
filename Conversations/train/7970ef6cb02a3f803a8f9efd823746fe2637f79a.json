@@ -1,0 +1,641 @@
+{
+  "date": "2018-02-17T16:45:26.195Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:46:02.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:46:15.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:46:35.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a bunny named Judy who wants to be a police officer even though she is on the bottom of the food chain. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:47:18.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "People do no think that she can handle the responsibility and job requirements and often comment on her size.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:48:02.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:48:21.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't but sounds funny. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:49:00.281Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like she is going to prove herself even though her size is small", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:49:32.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is given a case to crack involving a missing mammal and was told that if she doesn't solve the case in 48 hours she will give up her job willingly. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:49:59.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I might like to go see it I like movies that are comical ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:50:02.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What type of mammal does she need to find?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:50:43.422Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has been out on dvd for a while.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:50:48.835Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I have never seen or heard of it. I may go look for it then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:51:13.895Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She has to find a missing otter,,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:51:17.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh ok hope she finds the otter. Does she seem determined ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:52:04.283Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:52:06.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The wife of that otter told her that she never expected him to go missing so she goes to his workplace and finds out that they haven't\n seen the otter since he attacked a limo driver. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:52:14.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She is very determined since this assignment\n could make or break her career. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:52:40.182Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She forces a con artist fox to help her since he conned her out of 20 dollars.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:53:05.704Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Right true, sounds like shes on the mission already at the otters house. Interesting he attacked a limo driver.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:53:22.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like the otter is bad news", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:54:06.140Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did the fox help her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:54:17.796Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He attacked the limo driver because he was under the influence of a savage inducing drug that was being given to all predators in the city.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:54:17.836Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The fox helped her but there was a while where he wouldn't help her anymore because she told everyone in a news conference that predators\n were the only ones going savage. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:55:07.737Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow are \nother predators acted out due to this drug?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:55:10.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Since he was also a predator he took offence to that since he wanted to be a member of the junior scouts in his old neighborhood but they attacked him and put a muzzle on him and treated him like a criminal\n. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:56:02.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The fox is a mammal did he not get the shot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:56:06.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:56:50.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The drug wasn'\nt given to the fox. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:57:13.496Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So they just muzzled him to keep him quiet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:57:17.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They muzzled him because they thought a fox can'\nt be trusted. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:57:46.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:58:01.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Im sorry. I dont know why my paragraphs are like that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:58:04.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So whats judys next plan of action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:58:10.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its ok im understanding ;)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:58:19.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After she hurt his feelings but offending him she gave up and went back to her parents town. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:58:48.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh  no shes going to give up that soon? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:59:08.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope she rethinks her decision and goes back out there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:59:33.884Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does she?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:59:36.909Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was there that her old bully apologized to her and helped her understand that the drug was a toxic flower that has severe effects on mammals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:59:43.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. She went back and found her fellow fox detective and apologized. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:00:09.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who cast this toxic poison on the flowers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:00:10.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh thats good didnt think she was really going to give up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:00:33.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was a toxic flower that makes them go savage. No\nthing is sprayed on the flower. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:00:38.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know yet who sprayed the flowers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:00:56.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She had a momentary lapse of confidence but it didn't\n take her long to snap out of it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:01:15.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No one sprayed the flowers. They are naturally like that. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:01:35.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good I always like to see determination in a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:01:41.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok weird ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:02:03.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There must be a way to destroy those flowers for good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:02:19.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a way to destroy them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:02:44.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes she is very determined to make others understand\n that being small has nothing to do with courage. You could be a small mouse and still be a great detective", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:02:45.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is very true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:03:11.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Since her parents owned a farm that grew those flowers I think she would help create a law that would ban these flowers fro being grown. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:03:24.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a movie that teaches an important life lesson. Does it seem that way to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:03:37.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now that they know what those flowers do to mammals. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:03:50.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it does. I really like this movie since it teaches kids to have big dreams and go for those dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:04:20.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh good sounds like she is thinking very smart for a way to fix the situation. Are her parents willing to do that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:04:30.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:04:48.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they would be willing to help ban this flower. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:05:24.021Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh good hopefully they follow through with helping Judy and all predator mammals", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:06:03.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So what are their plans?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:06:15.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:06:17.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It turned out to be the mayors assistant that was behind this scheme. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:06:56.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Figures someone in power.. Does the mayor know of this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:07:30.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Since she was as small as Judy she was sick of being bossed around by the big animals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:07:33.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So she got spiteful and vengeful because she was hurt?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:08:03.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He knew about the drug and missing mammals but he didnt know his assistant was behind it and they were both arrested.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:08:07.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:08:15.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people cant stand being treated like dirt but there is a proper way to go about this. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:08:44.886Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So now what was done after they were both arrested? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:08:58.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She shouldn't have tried to convince her world that predators are responsible\n for every bad thing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:09:18.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what do they mean a proper way?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:09:18.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right that sounds true not everyone is a like in this world", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:10:06.726Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well for one she shouldn't blame predators for the animals going savage\n. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:10:07.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After they were arrested Judy was able to keep her job and\n the fox became a police officer too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:10:42.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So what happens next?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:10:43.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh Awesome what a happy ending :) ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:11:10.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did Judy receive any recognition for a job well done other then keeping her job?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:11:34.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She had fulfilled her dream of becoming a true police officer and recruited a fox as well. The fox was a con artist but he became a better person after that since he is street smart and that helps him be a good police officer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:12:05.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She was able to start working on higher cases. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:12:21.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a great movie on life.. Did you enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:12:35.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wander if there will be a part 2 ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:13:02.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did. Especially since my son watches\n it every single day. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:13:06.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope there is a part 2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:13:20.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahaha awesome.. I will have to find it for my grandsons Im sure they will enjoy it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:13:31.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should! Its on netlfix.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:14:04.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes sounds like a good movie :) your son has good taste then. I have to look for this movie now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:14:10.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok I will definitely look for it but what is the name of it?'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:14:34.596Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I gave you the basic version of this but there is more to the movie that would've\n taken a while to discuss. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:14:47.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is called ZOOTOPIA", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:14:58.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok yes I have heard of it :) nice ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:15:22.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie destroys any stereotypes\n a person might face. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:15:35.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And assumptions of ones nature. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:15:53.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thank you for telling me about this movie and also how much  your son enjoys it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:16:02.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Your'e welcome. I enjoyed our conversation\n!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:16:24.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right and there is so much of this unfortunately in this world so sounds like this is a valuable lesson for our young ones. Something positive.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:16:35.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same here enjoy your weekend ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:16:47.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is. :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:16:51.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye take care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T17:17:21.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye. Thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T17:17:42.626Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-17T16:45:26.195Z", 
+  "uid1LogOutTime": "2018-02-17T17:17:45.360Z", 
+  "uid1response": {
+    "feedback": "I didn't know what movie it was till user 2 told me in the end. Then I recognized the title. I have come across it but never watched it. I definitely want my grandsons to watch it now that I know of the plot involved. It teaches important life lessons. Which is important for our young ones in today's times. The user made it very interesting and explained it well. Cant wait to see it now :)", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T16:45:26.284Z", 
+  "uid2LogOutTime": "2018-02-17T17:17:45.236Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1889", 
+  "user2_id": "USR2630", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

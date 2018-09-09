@@ -1,0 +1,132 @@
+{
+  "date": "2018-03-27T15:19:38.999Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So, what movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:20:40.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is called Real Steel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:20:55.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:21:08.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:22:54.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, it's a sci-fi sports film, based on the short story \"Steel\" by RIchard Matheson. It's about robots but I'm not sure much about the plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:23:11.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman stars as Charlie Kenton, Dakota Goyo as Max Kenton, Evangeline Lilly as Bailey Tallet, Anthony Mackie as Finn, and Olga Fonda as Farra Lemkova", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:23:47.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting. What were the reviews like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:24:08.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did most people like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:26:27.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Average reviews. 5.9 out of 10 on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:26:45.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Reviews among critics were average as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:27:06.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice! I'd be interested to see it since I really like Hugh Jackman as an actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:27:41.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He did play the main role in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:29:03.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the reviews say anything about the cinematography? That's something I look for in movies: good cinematography.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:29:40.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot is about the year 2020, human boxers are being replaced by robots. Jackman plays a former boxer, who loses in a fight against a bull belonging to promoter and carnival owner Ricky who actually rigged the fight. \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:30:49.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see, so it's meant to illustrate the future of AI. Is it a science fiction movie, then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:31:53.759Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is, a science fiction sports film. Never heard of anything like it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:32:18.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No response from User 2, User 2 has left the chat.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:33:45.071Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T15:19:38.999Z", 
+  "uid1LogOutTime": "2018-03-27T15:32:40.066Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:19:39.062Z", 
+  "uid2LogOutTime": "2018-03-27T15:33:48.298Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1774", 
+  "user2_id": "USR4671", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

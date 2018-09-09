@@ -1,0 +1,78 @@
+{
+  "date": "2018-02-14T11:25:04.350Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T11:25:23.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HIIIIIIIIIIIIIIIIIIIIIIIIIIII", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T11:25:33.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T11:25:45.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T11:26:27.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T11:26:39.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T11:29:39.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "GREAT MOVIE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T11:29:44.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "CLIMAX IS AWSOME", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T11:29:48.621Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T11:25:04.350Z", 
+  "uid1LogOutTime": "2018-02-14T11:28:15.613Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T11:25:04.354Z", 
+  "uid2LogOutTime": "2018-02-14T11:29:57.145Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR884", 
+  "user2_id": "USR4439", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

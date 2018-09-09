@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-09T20:18:35.299Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, can you tell me about the movie? What's it called?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:19:53.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Today I'm going to chat with you about Zootopia. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:20:00.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool, what's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:20:17.498Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:18:35.299Z", 
+  "uid1LogOutTime": "2018-02-09T20:20:56.432Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:18:35.356Z", 
+  "uid2LogOutTime": "2018-02-09T20:21:20.519Z", 
+  "uid2response": {
+    "feedback": "The user just told me the title and then left the chat.", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4651", 
+  "user2_id": "USR4517", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

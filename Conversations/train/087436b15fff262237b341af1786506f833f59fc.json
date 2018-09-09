@@ -1,0 +1,56 @@
+{
+  "date": "2018-03-23T17:30:35.375Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you? How did you like the movie Iron Man? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:31:17.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I havent watched that movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:31:53.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T17:32:01.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I think Robert Downey Jr. did a great job!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:32:26.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd say it was one of the best super hero films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T17:32:43.183Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-23T17:30:35.375Z", 
+  "uid1LogOutTime": "2018-03-23T17:33:07.496Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-23T17:30:35.555Z", 
+  "uid2LogOutTime": "2018-03-23T17:32:11.672Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR4542", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

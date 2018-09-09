@@ -1,0 +1,155 @@
+{
+  "date": "2018-03-23T18:33:23.316Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:33:32.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:33:38.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is Real Steel\n}", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:34:12.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did u watch the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:34:41.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:34:48.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "jaja ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:34:50.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but the selection was automatic!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:35:22.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its a sci fi movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:35:23.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nHugh Jackman as Charlie Kenton must be very good if this actor works!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:35:50.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok did u receive any document regarding the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:36:00.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good if you like as an actor!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:36:08.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Real Steel\u200b is a 2011 American science fiction sports film starring Hugh Jackman and Dakota Goyo\nand co-produced and directed by Shawn Levy for DreamWorks Pictures. The film is based on the\nshort story \"Steel\", written by Richard Matheson, which was originally published in the May 1956\nedition of The Magazine of Fantasy & Science Fiction, and later adapted into a 1963 Twilight Zone\nepisode. Real Steel was in development for several years before production began on June 24,\n2010. Filming took place primarily in the U.S. state of Michigan. Animatronic robots were built for\nthe film, and motion capture technology was used to depict the brawling of computer-generated\nrobots and animatronics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:36:42.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie was average", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:37:34.429Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "story is not good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:37:47.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "as we expected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:37:57.817Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nthat depends on what kind of movies you like!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:38:02.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "even the ra\nting was average", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:38:32.286Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:38:50.109Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:39:22.292Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nI mean that to me in general it seems a good plot according to what I could read", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:40:45.377Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T18:33:23.316Z", 
+  "uid1LogOutTime": "2018-03-23T18:39:24.945Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:33:23.325Z", 
+  "uid2LogOutTime": "2018-03-23T18:40:47.543Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4581", 
+  "user2_id": "USR4713", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

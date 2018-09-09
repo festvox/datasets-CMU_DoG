@@ -1,0 +1,282 @@
+{
+  "date": "2018-02-08T21:56:56.252Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, what's the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:57:41.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, it's the Imitation Game", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:58:03.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it seem interesting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:58:19.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely, it takes place during WWII and it's decrypting spy code messages", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:59:01.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, is there a main lead actor or actress that's easily identifiable?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:59:46.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it stars Benedict Cumberbatch and Keira Knightly, it's got a pretty good score on Rotten Tomatoes and CinemaScore.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:00:28.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good to know, what studio is it produced by?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:01:03.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure about that but did you know there was an earlier movie about the same book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:02:15.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So\n it's based on a book?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:02:50.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it's based on Alan Turing:  The Enigma and the earlier movie was called Breaking the Code, it was on BBC.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:03:31.034Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good to know, although I didn't ask; does it say who starred in the BBC version?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:04:25.379Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, but I've got info on a few of the key scenes if you're interested in knowing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:05:06.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Absolutely, are the scenes taken from the book, the BBC version, or the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:05:52.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "From the 2014 movie with Cumberbatch and Knightley.  The earliest scene has Turing in boarding school being bullied, and he makes a friend there that gets him interested in cryptography.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:07:03.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's cool, so it's sort of a biographical movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:07:52.485Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The next scene is when Britain declares war on Germany, Turing goes to work at a place called Bletchley Park that is trying to decode the Nazi's Enigma Machine.  Yes, it's a historical drama.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:08:33.669Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you want to hear the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:08.665Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it mention how accurate the movie is as opposed to real-life events; that's why I was asking if it was biographical as opposed to simply historical?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:10:24.682Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh.  One of the critics says it rearranges the time sequences and invents fictional characters.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:11:04.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thanks for the clarification\n, are there any more excerpts?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:12:01.117Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, the plot sounds really good.  Turing manages to decrypt the Nazi code machine, but the Nazis change the code every day.  So they all realize they can't act on every day's decrypted messages or the Nazis will know that their code machine is useless.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:13:24.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting, does it mention how it's resolved, or does it leave you sort of on the cliff?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:14:10.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It kind of leaves a cliffhanger there.  There are a couple of twists, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:15:11.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it say whether the main characters survive to the end, or are they wounded, etcetera?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:16:03.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It doesn't tell.  One of the twists in the plot is that a Russian spy is discovered by Turing.  Which isn't surprising at first, but then we find out that British intelligence planted him to tell the Russians secrets they wanted them to know, after all Russia and Great Britain were on the same side in WWII.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:17:38.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's sort of a twisted narrative of the political situation, but whatever, anything else super useful or interesting, (it sounds like a great movie)?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:19:23.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When I watched the movie, I liked the codebreaking machine they had,  It was this massive technical looking wall that was way before the time of WWII.  Yes, there's another twist in the plot where the Russian spy threatens to tell everyone that Turing is homosexual.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:20:05.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did the spy know that Turing was gay?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:20:54.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Turing told the spy, because Turing was about to get married to Clarke (Knightley).  It sounds like high drama to me.  The spy (before Turing realized he was a spy) told Turing to keep his homosexuality a secret.  I guess they were pretty tight.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:22:42.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that's a big ol' ball of secrecy for that time period, is there anything else about the plot or whatever you should tell me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:24:26.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, at the end of the movie, the Allies win the war and the boss makes the cryptographers promise to never see each other again and they destroy all the code.  Also, Turing tells Clarke (Knightley) to leave because he is scared for her safety.  He tells her he is gay and that he never cared for her, which wasn't true because he was in love with her.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:26:58.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It got a pretty good score on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:27:42.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's the rotten tomatoes score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:27:54.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes is 91%, CinemaScore is A+, and Metacritic Score is a bit low at 73/100.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:28:30.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm, not bad at all, does it say when it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:29:30.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that about does it for this movie, do you think you'll see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:29:35.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:29:43.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds really good, more likely than not, I will; how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:30:23.662Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't realize I had already seen it until I started reading this.  I remember it was really good.  If a movie isn't good I usually don't recall it this clearly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:31:20.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was definitely a good look into what life was like during that horrible war.  It's been good chatting with you, I enjoyed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:32:14.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol, likewise, I'm pretty sure we just do the exit survey at this point and tell them whether we want to see the movie, right? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:32:51.340Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:56:56.252Z", 
+  "uid1LogOutTime": "2018-02-08T22:32:53.793Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:56:56.344Z", 
+  "uid2LogOutTime": "2018-02-08T22:32:57.909Z", 
+  "uid2response": {
+    "feedback": "It was a little rocky to get the information I most wanted, but it smoothed out quickly once we both determined the other honestly was trying their best. At least that's how it seemed to me. The detailed explanation was great, but felt forced. I'm interested in the subject matter though, so I'll most likely watch the movie.. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR46", 
+  "user2_id": "USR863", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

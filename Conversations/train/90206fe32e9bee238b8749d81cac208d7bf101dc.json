@@ -1,0 +1,149 @@
+{
+  "date": "2018-02-07T16:01:31.335Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:53.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:57.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "FINE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:04.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good. Can we talk about inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:16.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:22.114Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya i seen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:47.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, what do you think about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:01.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:06.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this is my new type survey.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:57.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, we should talk abou the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:17.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked Leonardo Dicaprio acting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:30.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The setting was really unique", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:36.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya super ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:05:10.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the effects while creating the dreams were amazing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:14.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should talk more about the film}", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:23.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Leo was still dreaming when the movie ended", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:38.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like very much this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:00.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The limbo and dream scenes were very awesome.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:28.380Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It won several academy awards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:36.770Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you do not talk about the movie you will be rejected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:04.816Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:01:31.335Z", 
+  "uid1LogOutTime": "2018-02-07T16:08:21.703Z", 
+  "uid1response": {
+    "feedback": "The other user did not talk about the movie at all. I dont think English was their first language either. He/She did not participate at all.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:01:31.530Z", 
+  "uid2LogOutTime": "2018-02-07T16:07:45.669Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR59", 
+  "user2_id": "USR1731", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

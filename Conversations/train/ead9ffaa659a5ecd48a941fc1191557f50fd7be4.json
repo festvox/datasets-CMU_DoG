@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-12T19:28:12.942Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I've never actually seen John Wick! I didn't know it had such high ratings!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:28:52.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave John Wick and average of 6.9/10 so it is worth the watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:32:32.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "At least you stuck it out for a whopping 3 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:33.100Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:28:12.942Z", 
+  "uid1LogOutTime": "2018-02-12T19:37:55.029Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:28:12.956Z", 
+  "uid2LogOutTime": "2018-02-12T19:31:23.873Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1357", 
+  "user2_id": "USR4135", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

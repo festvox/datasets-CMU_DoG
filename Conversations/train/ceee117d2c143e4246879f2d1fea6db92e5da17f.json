@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-06T15:31:40.062Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:53.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:09.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:13.847Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:20.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing pretty good today, I have been looking for a movie to watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:37.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:55.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah i've actually seen the movie in the document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:11.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen bruce almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:20.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:24.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't seen that one yet.  Is it good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:34.549Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:31:40.062Z", 
+  "uid2LogInTime": "2018-03-06T15:31:40.063Z", 
+  "user1_id": "USR2249", 
+  "user2_id": "USR46", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

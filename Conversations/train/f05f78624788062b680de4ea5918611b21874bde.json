@@ -1,0 +1,148 @@
+{
+  "date": "2018-03-20T16:14:55.649Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:02.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:15:26.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's strange, it gave me a different movie than I requested, but I love Home Alone, so whatever!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:29.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Home Alone?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:36.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Only the first!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:15:49.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has been a while though..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:16:19.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, well, I love the movie. Great slapstick humor and a Christmas movie too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:16:32.583Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Should i wait to watch it again during the holidays?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:00.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure. My family watches every year. Good movie to bake cookies with.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:24.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What year did the movie come out again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:57.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Even if you are completely familiar with the movie, still fun to watch. Hopefully it wont give me 4 year old daughter ideas about how to booby trap the house", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:18:06.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:18:07.168Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "1990! Are the booby traps used in the movie actually useful? or just pure hollywood?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:18:48.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "paint cans on a string with stairs is fairly realistic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:35.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A 10 year old using a blowtorch seems strange to me, but desperate measures...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:19:51.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very much so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:48.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I will give it a go again this winter!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:21:04.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutely. I dont think its real long", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:25.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Doesnt get a great rating from rotten tomatoes, but its fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:35.791Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When did you first see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:38.172Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You stil lthere?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:34:32.410Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:14:55.649Z", 
+  "uid2LogInTime": "2018-03-20T16:14:55.683Z", 
+  "uid2LogOutTime": "2018-03-20T16:53:15.204Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1622", 
+  "user2_id": "USR28", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

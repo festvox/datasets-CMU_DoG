@@ -1,0 +1,102 @@
+{
+  "date": "2018-03-29T17:29:15.554Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there1!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:30:20.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T17:30:38.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you finished reading the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:31:16.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T17:31:20.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about Toy Story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T17:31:28.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool, i loved Toy Story as a kid. Did you watch any of the sequels?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:31:49.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they're great movies with an awesome voice cast.  Tom Hanks and Tim Allen are the best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T17:32:58.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the original was probably my favorite. And i couldn't agree more. I wish those two were still making movied together.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:33:22.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movies*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:33:25.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I might have to go and rewatch Toy Story, it's been way to long since i last saw it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:33:55.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same here, I want to rewatch all of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T17:35:03.507Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Totally should. I imagine they sell the whole series for pretty cheap at department stores like Target or WalMart. how long was the doc they made you read?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T17:37:07.516Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T17:29:15.554Z", 
+  "uid1LogOutTime": "2018-03-29T17:37:37.215Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-29T17:29:15.579Z", 
+  "uid2LogOutTime": "2018-03-29T17:37:51.693Z", 
+  "uid2response": {
+    "feedback": "Toy Story is the best, so i'll definitely  watch it again. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1824", 
+  "user2_id": "USR2689", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

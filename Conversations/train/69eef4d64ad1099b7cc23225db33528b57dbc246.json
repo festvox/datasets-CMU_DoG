@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-02T19:38:52.021Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Do you want to discuss the movie Batman Begins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:40:46.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.  It is one of my favorites!  I love the fact that it was Christian Bale as Batman Morgan Freeman in there as well!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:41:25.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has not was* Opps. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:41:34.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bale was very good! I also really liked Liam Neelson as Ra's al Ghul", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:42:37.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a really great movie.  Gary oldman did excellent as well despite what the citrics said.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:44:04.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Overall the critics liked the move though because it has an 84% rating on Rotten Tomatoes and a CinemaScore of A.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:45:39.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomato's is a hard one to score high on too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:47:48.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a great thing the movie did so will and was able to mix comic-book\n with live action.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:48:08.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's what I like about it too. It was a superhero movie but it still felt like real people were in it. Do you normally watch a lot of superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:49:07.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Honestly I don't really care much for them other than the Batman and Superman movies.  What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:49:52.972Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same here honestly but I really enjoyed this movie. It was dark and moody and it really explored Batman's damaged psyche.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:52:17.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also liked Katie Holmes in her role as Rachel Dawes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:58:23.199Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:00:57.616Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie goes into the childhood trauma that Bruce Wayne suffered ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:04:26.321Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-02T19:38:52.021Z", 
+  "uid1LogOutTime": "2018-03-02T20:04:32.341Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-02T19:38:52.036Z", 
+  "uid2LogOutTime": "2018-03-02T21:59:28.336Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR185", 
+  "user2_id": "USR116", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

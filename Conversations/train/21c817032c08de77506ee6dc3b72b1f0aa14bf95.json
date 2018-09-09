@@ -1,0 +1,104 @@
+{
+  "date": "2018-03-06T02:09:01.912Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! The movie we're talking about is Batman Begins. Would you be interested in seeing it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:09:58.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who ar ethe villains?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:10:33.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The villains are Ra's al Ghul and Scarecrow.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:11:18.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is there a lot of action in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:12:07.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have that information exactly, but it's a well-rated movie with a score of 84% on Rotten Tomatoes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:13:15.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting it has to be better than BVS", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:13:47.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it has lots of good scores on different websites and a positive critical response. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:14:25.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh Batman begins with Christian Bale right. Now im interested", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:15:22.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yep! It has Christian Bale as Batman/Bruce Wayne. Michael Caine is also great as Alfred. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:16:28.142Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Im really not sure what to do now, I want to watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:18:20.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's good! I have some more info that I can ask you about. . . do you generally like SuperHero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:19:57.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes i am a marvel fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:31:23.873Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T02:09:01.912Z", 
+  "uid1LogOutTime": "2018-03-06T02:31:31.568Z", 
+  "uid1response": {
+    "feedback": "The test went smooth", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T02:09:01.914Z", 
+  "uid2LogOutTime": "2018-03-06T02:26:09.941Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3558", 
+  "user2_id": "USR2736", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

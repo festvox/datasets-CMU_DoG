@@ -1,0 +1,378 @@
+{
+  "date": "2018-02-13T23:04:16.206Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What's the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:05:00.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:05:09.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:05:32.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steven Speilberg did an amazing job directing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:05:36.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:05:44.689Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. It's been a while though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:06:02.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The acting was amazing,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:06:10.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I man eating shark has always been a fear of mine.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:06:23.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. Anytime I sit in a boat my brain just starts playing the Jaws theme.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:07:03.161Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Didn't you think Roy Scheider did an amazing job as chief Brody?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:07:24.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, his acting was really believable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:07:59.355Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched any of the other Jaws movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:08:15.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh and the scene where the skinny dipping woman was pulled under, it is one of those never forget movie moments.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:08:42.371Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No not since the original.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:08:51.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that scene is definitely meant to be burned in a movie watcher's brain.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:09:29.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The funniest part is it was the most cheerful scary movie ever.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:10:09.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nAnd you should try watching Jaws 2. I'd argue that it's even better than the first movie, though it's a bit slow at the beginning.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:10:45.461Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And yeah, I was surprised at how upbeat it was for a movie about man eating sharks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:11:11.621Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love how real it is portrayed. I can totally see govn people lying to keep a beach open at the holiday.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:12:30.989Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "To say they caught the shark even though no remains were found in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:12:55.446Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, stuff like that happens all the time. They're people who'd say or do anything if it meant they could get more money.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:13:29.532Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I always felt bad for Brody's son Micheal in the movie, he was tortured by the events.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:14:18.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, if you ever get around to watching the sequels, you can really see how traumatized he is by everything that happened.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:15:07.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Major Larry was such a jerk.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:15:20.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to try them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:15:28.801Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will never understand the boat they took Orca to hunt the shark.  It never seemed adequate. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:16:16.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should absolutely watch Jaws 2, but Jaws 3 made me root for the sharks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:16:39.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I will never understand why Hopper went into that shark cage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:17:17.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly! That boat looked like it would split into 2  if a butterfly landed on it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:17:33.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I guess people like Hopper love the thrill, but I'd never be able to go into a rusty looking shark cage like that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:18:20.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still one of my favorite bad guy death seens, the scuba tank in the sharks mouth boom.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:18:31.555Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never, I rather never go swimming again then get into that cage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:18:59.183Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was really clever. If I was about to get eaten by a shark I wouldn't be able to think anything other than AAAAAAAH!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:19:44.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would have been in a total panic paddling back to Amity.  Wouldn't have cared if I saw the shark die I would be worried about others.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:20:25.438Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " HAHA AAAAAAHHHHHH is right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:20:36.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's good that he kept his cool. I'd probably die of a heart attack before the shark even opened its mouth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:21:39.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hooper was certainly the lucky dog though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:21:54.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:22:05.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was Chief Brody in the next movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:22:30.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is funny having my kids watch it, they look and say what awful affects, but for that time it was amazing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:23:59.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and honestly everyone in the town would probably be shark food if not for the Chief.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:24:40.747Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was Major Larry in the next one as well?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:25:13.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I'm pretty young, but I can still appreciate that the effects were good for its time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:25:39.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They critiqued it as too gruesome for any aged children back then, haha kids now would chuckle compared to what they see now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:26:47.167Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, he comes back for the sequel.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:26:49.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hard to believe it was created in 1975, didn't know it was done that long before I was born.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:27:55.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm surprised that kids today aren't scarred for life with some of the shows they somehow watch(probably behind their parents' backs).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:28:22.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ya know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:29:07.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it looks pretty good for a movie that's over 40 years old.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:29:27.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely, I have certainly seen worse.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:30:02.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Woody Allen has been killing the movie biz for a long time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:31:15.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and he's still going", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:32:40.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he played a character in Antz, but I haven't seen that movie since kindergarten, so my memory's a bit fuzzy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:34:05.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The directing was amazing, to say that some of the scariest parts where scenes that you could even see the shark is impressive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:34:18.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It really was! I love it when movies can scare you without having to resort to cheap jumpscares.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:35:06.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely just organic scares and thrills.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T23:35:39.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's been fun taking with you! But I gotta go get stuff done. Bye!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T23:37:17.922Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T23:04:16.206Z", 
+  "uid1LogOutTime": "2018-02-13T23:37:24.309Z", 
+  "uid1response": {
+    "feedback": "I couldn't see the document, but the other use brought me up to speed on what the movie was.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T23:04:16.234Z", 
+  "uid2LogOutTime": "2018-02-13T23:37:21.439Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4480", 
+  "user2_id": "USR4822", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

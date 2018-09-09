@@ -1,0 +1,318 @@
+{
+  "date": "2018-03-16T22:57:57.231Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how is it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T22:58:07.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! I'm great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:58:55.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how're you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:58:59.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing great! Ready to talk about movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T22:59:08.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh sure yeah, man!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:59:19.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love DC movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:59:25.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and I looooove Christopher Nolan movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:59:36.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here. Whats the movie we are talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T22:59:46.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's Batman Begins, the first in the Dark Knight Trilo\ngy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:00:10.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely liked it a lot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:00:27.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like how they brought up the whole history", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:00:38.468Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it your favorite Christopher Nolan movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:00:39.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would say Memento is my favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:00:49.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but Inception is also great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:00:56.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "as well as the Batman Trilogy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:01:02.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:01:05.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mine is definitely Interstellar, I'm a big Sci-Fi nerd haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:01:16.810Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you think this movie deserves a better rating than the one given to him by Rotten Tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:02:07.968Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whats the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:02:27.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I forgot about Interstellar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:02:32.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Amazing movie, loved the time travel and wormholes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:02:43.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no, I'm talking about Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:02:47.576Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's 84%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:02:52.304Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think 84% for Batman Begins is a fair rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:03:05.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was great, but not amazing. At times I thought it was too slow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:03:34.580Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Loved the story though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:03:39.889Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:04:03.816Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the origin story felt fresh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:04:14.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely, picked up the pace on the dark knight", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:05:38.919Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I loved Bruce's journey of self-discovery after he attempted to take revenge from Joe Chill", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:05:54.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was so thought-provoking", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:06:05.561Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah, very introspective aspects in there, did not feel like a run of the mill science fiction superhero movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:06:53.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yup, couldn't agree more. The dramatic aspects of the movie really hit home", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:07:49.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at time you'd forget you're watching a superhero movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:08:00.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hats down to Chris Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:08:09.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely one of the best directors of our time. He has the ability to do science fiction, historic movies, drama, etc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:10:16.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is very committed\n to every project", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:10:28.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and lemme just say, although Ras Al'Gul's plan was evil", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:10:38.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was brilliant", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:10:42.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "even the villains in Chris Nolan's world are amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:11:21.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hint hint: The Joker hahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:11:30.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The joker performance was out of this world, I mean, that guy nailed it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:12:57.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:13:08.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:13:13.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good luck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T23:13:15.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:13:23.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T23:13:24.209Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T22:57:57.231Z", 
+  "uid1LogOutTime": "2018-03-16T23:13:17.985Z", 
+  "uid1response": {
+    "feedback": "Thank you! Very interesting study", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T22:57:58.034Z", 
+  "uid2LogOutTime": "2018-03-16T23:13:28.099Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR59", 
+  "user2_id": "USR4568", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

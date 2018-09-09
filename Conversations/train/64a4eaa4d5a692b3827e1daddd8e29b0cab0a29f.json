@@ -1,0 +1,245 @@
+{
+  "date": "2018-03-28T01:52:01.544Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:52:32.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:52:38.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:53:03.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:53:04.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy stor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:53:38.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love a great movie. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:53:38.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is its genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:54:16.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "   It s a comedy animation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:54:55.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like that kind of move?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:55:22.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see. I like animated movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:55:29.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:55:43.345Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When was the movie released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:55:57.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you don't know, that's ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:56:46.560Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has Bernard realised vu Pixar and it was released in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:56:50.590Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry, for m'y mistakes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:57:39.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's fine. Pretty old movie, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:57:58.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My keyboard is french", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:58:03.424Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Whats the length of the movie? 2 hours? 90 minutes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:58:48.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I really dont know ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:59:34.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But its a long sequence", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:00:19.457Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yi encourage you to go watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:01:06.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. Thanks for the recommendation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:01:40.355Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it a good movie for the family?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:02:06.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:02:19.466Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You can watch it with all the family", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:02:52.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It  s a comedy animation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:03:15.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How many characters are in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:04:03.400Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are a lot of characters. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:04:29.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The main is rudy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:04:40.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the ohther are his toys", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:05:07.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the movie seem slow paced to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:05:38.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What does that mean slow paced?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:06:07.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean, does the movie's plot take time to get going.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:06:52.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nooo I dont think so, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:07:43.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, Ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:07:52.086Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T01:52:01.544Z", 
+  "uid1LogOutTime": "2018-03-28T02:07:59.420Z", 
+  "uid1response": {
+    "feedback": "Everything went fine. But the other user was a bit cryptic in their responses.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T01:52:01.693Z", 
+  "uid2LogOutTime": "2018-03-28T02:08:11.959Z", 
+  "uid2response": {
+    "feedback": "Great experience", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4504", 
+  "user2_id": "USR3683", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

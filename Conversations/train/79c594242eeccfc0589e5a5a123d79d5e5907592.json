@@ -1,0 +1,66 @@
+{
+  "date": "2018-02-08T23:29:51.958Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! I really enjoyed this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:30:22.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is anyone there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:31:00.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Yes I apologize!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:32:22.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too! It definitely kept me on the edge of my seat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:33:01.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will watch anything that has a very high Rotten Tomatoes score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:33:22.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know it's going to be good with a 97.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:33:32.477Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T23:29:51.958Z", 
+  "uid1LogOutTime": "2018-02-08T23:34:31.957Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:29:51.968Z", 
+  "uid2LogOutTime": "2018-02-08T23:31:32.614Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2086", 
+  "user2_id": "USR1580", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

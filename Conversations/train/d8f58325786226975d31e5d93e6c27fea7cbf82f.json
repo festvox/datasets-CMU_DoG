@@ -1,0 +1,337 @@
+{
+  "date": "2018-03-28T17:55:19.477Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:55:32.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we discussing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:55:46.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:56:00.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Home Alone.  Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:56:08.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! A classic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:56:15.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:56:24.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree!  I watch it every Christmas.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:56:26.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave it a score of 62%, I am shocked at that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:57:10.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh for real??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:57:23.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder what that was based on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:57:34.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess it doesn't count for nostalgia. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:57:42.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems like it's actually a good story though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:57:52.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and mccauley caulkin is talented", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:02.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it really is. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:58:05.401Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you know the part where he's watchiing the scary old gangster movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:20.866Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, he seems like one of those odd people that are very creative.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:58:21.715Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:58:29.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I just found out that's not a real movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:33.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:34.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they just made that clip specifically for home alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:41.826Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's not?  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:58:44.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:54.720Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "funny trivia thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:58:58.244Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's crazy!  But John Hughes was a genius filmmaker so I can see him doing that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:59:10.124Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "For sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:18.548Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I forgot that that was john hughes too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:25.137Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he's the breakfast club one right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:31.666Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "pretty in pink?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:35.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he did all of those.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:59:40.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sixteen candles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:41.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cult classics!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:59:46.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "#nostalgia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:47.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:59:51.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Home Alone 2 is cute too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:59:57.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was a winning combination of talent from the cast and crew!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:00:10.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Always lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:16.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I <3 Molly Ringwald", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:20.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people hate Home Alone 2, but I loved it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:00:22.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought it was good too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:29.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is a great actress, all the 80s comedies are great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:00:35.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Donald Trump has a cameo in Home ALone 2 too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:42.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:42.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So weird", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:00:48.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I saw that on twitter last Christmas.  Who would have thought, right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:00:58.901Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The height of DJT's film career LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:01:16.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LMAO!  It was all downhill from there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:01:28.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ooh... I think we're allowed to finish now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:01:29.279Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:01:35.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good convo, thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:01:36.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Home ALone is good\nYes, you too!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:01:42.800Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T17:55:19.477Z", 
+  "uid1LogOutTime": "2018-03-28T18:01:48.917Z", 
+  "uid1response": {
+    "feedback": "Great conversation!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T17:55:19.490Z", 
+  "uid2LogOutTime": "2018-03-28T18:01:45.793Z", 
+  "uid2response": {
+    "feedback": "We both had already seen home alone and could talk about it. I'd definitely watch it again.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1333", 
+  "user2_id": "USR4591", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

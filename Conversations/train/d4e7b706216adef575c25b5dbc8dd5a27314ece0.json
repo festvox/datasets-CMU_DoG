@@ -1,0 +1,450 @@
+{
+  "date": "2018-03-19T18:28:21.231Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there. how are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:28:54.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am doing great.  I hope you are, too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:29:04.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am thanks. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:20.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Guillermo del Toro's new movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:34.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:29:45.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The shape \nof water.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:48.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen that one yet.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:29:55.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Guillermo del Toro directed it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:58.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is worth watching.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:09.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got \nvery high ratings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:21.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Didn't that movie win the best movie oscar?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:30:29.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "92% rotten tomatoes/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:33.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what awards the movie won?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:30:49.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I don't.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:31:05.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:31:12.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do know the scritical response was positive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:31:16.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "critical, sorru", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:31:22.262Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry, lol typing badly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:31:30.535Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a fanta\nsy drama movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:31:42.920Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is okay.  I think it won best picture at the Oscars but not certain.  I didn't watch the Oscars this year.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:00.075Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It centers around this girl /lady named Elisa, she is a mute and a cleaner who works at a secret lab.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:32:14.087Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I think I remember hearing that.  It sounds interesting.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:31.384Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:45.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is this creature from south amaerica and she begins visitng himin secret and they forma close bond.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:33:09.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:33:12.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I loved it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:33:15.057Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the secret lab in the US or is it in South America?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:33:32.356Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the secret lab is in the us. creature was from south america.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:33:49.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a government runlab.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:34:05.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:34:13.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well sally struthers, octavie spencer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:34:27.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sally Struthers is in this movie?  I did not realize that.  I haven't seen her acting in awhile. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:34:47.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Micheal shannon, richard jenkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:34:50.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I only know her from this, she is very good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:35:05.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really love Octavia Spencer.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:35:13.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ph wait", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:35:14.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sally hawkins not struthers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:35:21.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ya octavia spencer is always fun to watch on screen,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:35:38.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay!  That is funny.  Sally Struthers played Gloria on All in the Family.  She would be pretty old now. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:35:55.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She plays her friend at work, zelda.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:35:58.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:36:04.740Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I CONFUSED THE TWO NAMES.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:36:20.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I had seen Octavia Spencer on the preview but it did not seem like a huge role.  Do you know if she gets a lot of screen time?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:36:48.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She gets \na decent amount.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:37:04.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would says a main char\nacter for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:37:14.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will have to see it.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:37:19.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know when the movie was released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:37:32.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is getting lots of praise.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:37:34.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2017", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:37:40.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:37:56.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Meta critic score is 87/100 and they are tough.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:38:20.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they are. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:38:27.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cinemascore of A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:38:29.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not familiar with Cinemascore.  Is that a website like Rotten Tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:39:00.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:39:10.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the movie still out at the theaters or is it available to stream?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:39:42.567Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have access to that information here.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:39:59.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:01.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is okay. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:40:08.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am sure you can look it up online easily.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:10.459Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else can you tell me about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:40:24.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is really worth a watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:29.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like what?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:45.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't want to ruin it for you..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:51.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will make it a point to watch it.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:40:52.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:40:59.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hope you enjoy it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:41:03.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice rest of your day.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:41:11.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You, too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:41:20.703Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:28:21.231Z", 
+  "uid1LogOutTime": "2018-03-19T18:41:29.169Z", 
+  "uid1response": {
+    "feedback": "The other user was easy to talk to.  There was some confusion about the actress Sally in the movie, but it was cleared up.  To be honest, I had already decided to see the movie prior to this chat as I had heard of it, but the other user did make a good case that it would be a good movie to watch.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:28:21.403Z", 
+  "uid2LogOutTime": "2018-03-19T18:41:22.470Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2862", 
+  "user2_id": "USR252", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

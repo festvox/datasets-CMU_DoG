@@ -1,0 +1,287 @@
+{
+  "date": "2018-03-22T15:21:03.765Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:21:10.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:21:28.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You read about a movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:21:44.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yep. Have you seen Iron Man?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:22:00.983Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, please tell me about it. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:22:16.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2008 film starring Robert Downey Jr.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:22:20.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. Who does he play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:22:32.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:23:06.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays Tony Stark, who is Iron Man.\n                                  ,  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:23:16.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "An industrialist genius inventor ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:23:26.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, ok.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:23:32.334Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So is Iron Man his alter ego?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:24:00.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:24:04.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He creates Iron Man as a means of fighting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:24:23.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in military endeavors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:24:30.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh,so it's a robot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:24:34.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of military endeavours? is it a war film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:25:42.028Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, it's a robot suit. It has been considered a type of military thriller.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:26:45.446Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But it's more of a comedic action film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:26:53.158Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, a robot suit? okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:27:02.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But it's a comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:27:13.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's a mixture", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:27:21.686Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know who else is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:28:19.836Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. Pretty much. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:28:59.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Terrence Howard is in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:29:11.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays a friend of Stark's and the liaison between Stark Industries and the USAF department of acquisitions, specifically weapons development.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:29:53.002Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jeff Bridges is also in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:30:02.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't heard of Terrence Howard, but I have heard of Jeff Bridges", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:30:21.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He plays Obadiah Stane, Stark's second in command, mentor and friend. He attempts to screw over Stark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:30:35.806Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, so he's the villain?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:30:53.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:31:40.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a classic superhero/super villain dynamic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:32:00.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me guess - is Stane trying to steal Stark's secrets?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:32:16.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:32:48.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reviews were pretty decent. Rotten Tomatoes gave it a 94%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:33:26.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metacritic 79/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:33:34.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and CinemaScore A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:33:43.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's not bad. I should take a look.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:33:51.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it was more for the comedy, or the action?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:34:20.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was more for the action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:36:31.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the comedy is a big part of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:36:38.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:36:47.430Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T15:21:03.765Z", 
+  "uid1LogOutTime": "2018-03-22T15:36:48.950Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T15:21:03.776Z", 
+  "uid2LogOutTime": "2018-03-22T15:36:54.636Z", 
+  "uid2response": {
+    "feedback": "It was a bit jilted conversation-wise. Mainly focused on the facts, but user tried to focus in on my interests", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR857", 
+  "user2_id": "USR2182", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

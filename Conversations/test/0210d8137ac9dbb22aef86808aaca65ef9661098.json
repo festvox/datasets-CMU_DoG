@@ -1,0 +1,102 @@
+{
+  "date": "2018-03-27T14:55:28.740Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This was a great movie, i really enjoyed iron man with robert downey jr", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:56:23.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes its a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:57:04.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i was really impressed with the CG and special effects", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:57:23.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, favreau did a good job. he didnt go for stylized comic frames.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:58:29.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:59:09.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't believe that rotten tomatoes gave a 7.7/10 i think it deserves a much higher score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:59:27.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes me too right. it deserves a higher score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:59:55.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love pepper potts acting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:00:26.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes she was great too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:00:45.822Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cant believe this movie came out in 2008 it was good enough even for todays age", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:01:05.018Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, marvel comic characters are bit futuristic i feel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:02:10.695Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the introduction of the movie on how we get to see tony stark become iron man, where he builds the suit ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:03:01.459Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T14:55:28.740Z", 
+  "uid1LogOutTime": "2018-03-27T15:03:11.423Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:55:28.754Z", 
+  "uid2LogOutTime": "2018-03-27T15:03:07.712Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2757", 
+  "user2_id": "USR66", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

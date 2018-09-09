@@ -1,0 +1,584 @@
+{
+  "date": "2018-02-05T21:26:58.491Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:28:02.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just saw it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:16.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:21.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I usually like stuff with Benedict Cumberpatch though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:28:50.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was such a thrilling movie. Based on the life of Alan Turing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:11.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keira Knightly slightly annoys me however.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:29:16.380Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cumberbach was really the highlight of the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:50.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Got good reviews, Rotten tomatoes rarely goes over 90% it seems.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:29:56.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is Alan Turing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:20.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "true. Metacritic gave them 73/100. Turing was a mathematician who was a cryptanalyst for the British during WWII against the Germans. He is famous for breaking the Enigma code.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:31:08.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He was outed as a spy by the police who were investigating a break in at his home.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:31:47.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely see it if you get a chance.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:32:30.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Dramas tend to kind of bore me usually, with many note-worthy exceptions. I like Comedies mostly or fantasy, Sci-fi. I will check it out though, all in all i just love movies!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:32:54.659Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds like an interesting fellow, will definetly give it a watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:33:49.812Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is really more of an espionage movie. It is pretty exciting. I guess there is some drama with his experiences in boarding school and studying with Morcom, his mentor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:26.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think you will enjoy it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:30.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morton Tyldum is a great director.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:57.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Andrew grant and that rag science news never gets it right, if he liked it i will probably hate it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:35:27.174Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The hollywood reporter seems to be as fond of Cumberpatch as i am.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:36:33.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is kind of technical. It goes pretty in depth about his machine to break the code. He has some breakthroughs when he realizes he can program it with words he already knows. You will probably enjoy that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:37:11.021Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cumberbach does a great job acting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:37:21.605Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "These storys based on true stories tend to always add so much stuff to keep it interesting that it kinda distorts history in my opinion.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:37:33.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The bit about getting married to Keira Knightley might be annoying for you if you are not partial to her acting. I might warn you about all that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:37:59.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is interesting since the movie is based on a play based on a book based on his life. I see your point there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:38:18.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would probably enjoy the technical aspects of the film, the good acting, and even the half made up story!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:38:54.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think also where it is a movie about a mathematician, it kind of helps to add in some plot elements. I think this is unusual though as his life was so interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:38:59.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is quite a bit of espionage involved as well. I suppose I am not spoiling it since it is history, but there is some Russian collusion involved.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:39:37.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If he marries Keira knightly i may be shouting at my T.V.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:39:45.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Big drama when Turing confronts the russians.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:39:50.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah you might have to fast forward through the lurid romance. It is not so bad though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:40:12.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is trite, absolutely, but the director does make it work here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:40:28.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "also, turns out he is gay!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:40:49.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so she gets what she deserves.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:40:58.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you might actualy like it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:41:14.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't really get that part, but who can understand the gays?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:41:40.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, that kinda of makes it more inviting to me, Keira Nightly must be sad to find that out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:41:42.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I think she was pretty upset. Like I said I didn't really understand all of that. I was mostly in it for the math. What an interesting, fascinating story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:42:14.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think Turing was gay for his mentor or something, but he dies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:43:03.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds a bit like Beautiful mind that was a great movie, too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:43:04.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tuberculosis.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:43:07.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I did love Beautiful mind. I read that that guy actually was working for the government.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:43:25.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Talk about changing the story!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:43:31.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Turing's story is pretty sad. He got bullied a lot at boarding school. Seems to have affected him a lot. Too bad he wasn't able to find love. Maybe he should have gone for somebody besides Kiera Knightley!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:44:19.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How come you dislike her so much?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:44:30.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it because you guys used to date?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:44:43.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mostly just for hogging that driftwood in Titanic ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:45:21.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah. I have never seen that one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:45:47.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I find her Wiry, trite, and egotistical. I only enjoy those qualities in myself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:46:10.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know there is that song by celine dion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:46:12.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha that is funny. I figured that but didn't want to say.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:46:32.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is kind of a walking plattitude. Kind of like Reese Witherspoon, but more indiana less texas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:47:09.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:47:12.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, its ok. Im not blind. However after looking at Keira Knightley for 2 hours i might be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:47:22.425Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still the story sounds like one of importance that should be told, ill have to tune in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:47:56.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyways she didn't ruin the movie. If anything, Turing's life ruins the movie. It's just sad he gets bullied and takes refuge in gay love. He could have just worked out, made some friends, and been happy. It is a very important story. Reminds me of the life of Charles Darwin, or Plato.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:48:32.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, I really like Reese, Not sure what that says about me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:48:42.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is funny but you don't like Kiera. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:49:23.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought Cumberbach made a great Turing, but it would have been funnier if they cast eminem.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:49:50.014Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fitness is very important. Im a big fan of Darwin so that makes me interested a bit more in the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:49:50.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, Darwin had a rough time on the beagle. He was the captain's special steward, which was a demanding job, if you know what I mean.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:50:26.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All of the Hollywood rags seemed to speak highly of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:51:20.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His theory of fitness was basically an analogy for his relationship to the captain and his station in life, and his feeling of evolution to a higher station in his own life. He was certainly an interesting fellow.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:51:30.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I seriously loved this Turing movie. You have to see it!!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:51:41.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont usually take anything the Hollywood reporter says to heart though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:51:53.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No they have their own problems. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:52:06.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And what do they know about science?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:52:14.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not since they gave The Big Lebowski such awful reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:52:24.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Turing is an important guy. I'd rather see a movie about Kurt Godel or Giordano Bruno.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:52:38.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or maybe a serious horror/drama about Galileo.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:52:53.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the Big Lebowski was a great film I didn't realize it had a poor critical reception.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:53:14.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I actually think I might write a script about the life of Galileo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:53:35.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Your right, because Scientifically The Big Lebowski is the best movie ever made. yet, magazines like empire and Variety pee'd on its rug.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:53:43.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "people would love that it would make them feel smart.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:53:44.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually, that makes sense.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:53:56.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am actually ordained as a Dudist Priest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:54:04.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You can do it online for free, and then you can legally marry people.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:54:18.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Go forth and Abide my son.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:54:20.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed. I shall Abide.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:54:31.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh i know, im also a member dude.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:54:42.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh nice. I knew you were coolio foolio.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:54:56.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there is a fun facebook page too, dudeism, check it out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:55:22.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is up with this study though? I feel we are being watched. Do you think we will be in a movie with Benjamin Cumberbach?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:55:24.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will for sure check it out on the myface.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:55:39.267Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think there should be parallel networks called myface and spacebook.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:55:55.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha i use that term Myface all the time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:56:06.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great minds think alike.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:56:15.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I once toyed with the idea of opening a coffee shop called dunkin buckstar's", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:56:26.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but yes, they say iron knows iron", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:56:36.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It said there would be three pages, yet we seem to be done.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:57:02.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyways though, it is pretty exciting to see Turing recalibrate that machine. You will enjoy that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:57:22.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you leave?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:58:14.334Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T21:26:58.491Z", 
+  "uid1LogOutTime": "2018-02-05T21:58:58.098Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:26:58.523Z", 
+  "uid2LogOutTime": "2018-02-05T21:57:22.869Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4702", 
+  "user2_id": "USR581", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

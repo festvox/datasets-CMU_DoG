@@ -1,0 +1,227 @@
+{
+  "date": "2018-03-20T02:45:19.152Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:46:17.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:46:28.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:46:39.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the task?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:46:57.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What\u2019s the name of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:47:47.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:47:59.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whose the lead actor or actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:48:41.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Denoy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:49:52.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting, would you say the movie is more of a comedy or serious?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:51:37.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the Movie is more serious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:52:25.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are there a lot of special FX?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:53:08.489Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not at all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:53:25.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What would you say is the main premise of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:55:41.493Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Don't know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:57:04.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Responding  too late", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:59:02.551Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is Iron Man a good comic book character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:59:02.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:59:12.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would recommend this movie, if so why?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:59:53.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would like to recommend the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:01:11.693Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not a special reason\n]", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:01:23.561Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen this movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:02:44.612Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not at all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:02:55.004Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think Robert Downy plays a good\n Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:04:07.399Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:04:48.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this Iron Man a new movie \nor an older movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:06:01.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Older movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:07:28.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you recommend this movie to be watched in theaters or at home?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:08:22.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would like to recommend this movie to watch in theaters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:09:23.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is the movies run time?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:10:44.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2 hours 10 miniutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:12:11.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That\u2019s about all the questions I have. How do we end this conversation?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:13:18.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting and helping,e decided on this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:13:54.077Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T02:45:19.152Z", 
+  "uid1LogOutTime": "2018-03-20T03:14:11.282Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T02:45:19.816Z", 
+  "uid2LogOutTime": "2018-03-20T03:14:01.264Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR790", 
+  "user2_id": "USR4152", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

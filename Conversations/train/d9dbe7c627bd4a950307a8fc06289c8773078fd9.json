@@ -1,0 +1,61 @@
+{
+  "date": "2018-03-22T15:35:44.798Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:38:20.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:38:38.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just finished reading the document about The Great Gatsby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:38:53.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh that sounds interesting. Did you enjoy the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:39:12.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, the story is very intriguing. The document is about the 2013 adaptation of the 1925 novel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T15:40:20.772Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T15:35:44.798Z", 
+  "uid1LogOutTime": "2018-03-22T15:40:10.142Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T15:35:44.819Z", 
+  "uid2LogOutTime": "2018-03-22T15:40:40.440Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR90", 
+  "user2_id": "USR2594", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

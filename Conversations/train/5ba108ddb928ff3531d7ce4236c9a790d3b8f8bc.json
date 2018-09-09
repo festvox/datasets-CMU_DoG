@@ -1,0 +1,236 @@
+{
+  "date": "2018-02-05T21:44:25.022Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:45:12.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, did you enjoy Wonder Woman? I love watching superhero movies :) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:45:17.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did. I think i was a great film. What did you think of the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:45:42.516Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They chose is very well. I think Gal Gadot was perfect as wonder \nwoman. How about you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:46:11.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think anyone else could have pulled of as well as Gal Gadot. What did you think of Chris Pine as Steve Trevor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:47:03.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! I think he really suited Diana as his love interest! Their visuals really suit each other.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:48:10.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see her on Batman v Superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:48:33.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not, but after this movie, I think I should go and watch it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:48:53.926Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the ratings are pretty agreeable. I think 92% is really good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:49:37.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the ratings are pretty good too. Although the average is too low for my taste.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:50:17.029Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed. The average needs to be above average. Do you remember the scene where Diana Prince receives the photo during World War I?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:51:49.434Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did. Great scene. Do you remember the name of the island Diana was raised in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:52:24.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Themyscira, right? Do you remember who Ares was unable to kill?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:53:44.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. Armes was unable to kill Zeus. Do you remember what the women in Themyscira called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:54:35.686Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it Amazonian warrior? I can't recall...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:55:35.244Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it is. ...is Wonder women from DC or Marvel comics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:56:08.752Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "DC comics! Do you remember who forbids Diana to train as a warrior? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:57:10.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it Hippolyta? I'm not sure. 4", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:58:02.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ignore the 4", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:58:13.275Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, that's right! Do you remember how Diana met Steve?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:58:36.975Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steves plane crashes off the Themyscirian cost. Do you remember what country invaded the island?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:00:03.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! Germany, right? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:00:27.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you remember who Sir Patrick revealed himself as? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:01:04.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he reveals himself as Ares. What does he tell Diana?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:01:40.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He gave humans ideas and inspirations and it is their decision to resort to violence. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:02:36.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you remember who becomes the \"godkiller\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:03:13.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Diana.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:03:40.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the name of the Laboratory Steve destroys?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:04:10.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's right. Maru's laboratory. I can't remember, but did Diana kill Maru or not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:04:45.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She spare him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:05:40.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "spares him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:05:44.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I  thought the saddest part was when Steve died...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:06:09.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was really sad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:06:38.526Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T21:44:25.022Z", 
+  "uid1LogOutTime": "2018-02-05T22:06:50.767Z", 
+  "uid1response": {
+    "feedback": "Great study. I had lots of fun", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:44:25.061Z", 
+  "uid2LogOutTime": "2018-02-05T22:06:46.971Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3946", 
+  "user2_id": "USR1594", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

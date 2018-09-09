@@ -1,0 +1,264 @@
+{
+  "date": "2018-03-01T05:50:06.580Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:50:48.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:50:56.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you like the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:51:09.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it, I watch it every time it comes on tv", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:51:30.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:51:38.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Never seen it on tv but watched it a lot in many of my classes in high school ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:52:00.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah one of my all time favorites ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:52:20.022Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you watch other movies involving sports? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:52:31.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They said the real player, Michael Oher didnt like how it affects his professional career", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:52:46.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do, do you like Remember the TItans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:52:58.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've never seen that movie before ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:53:09.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rudy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:53:24.716Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nope ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:53:42.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly sports movies aren't really my thing ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:53:51.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "another great film I recommend it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:53:54.339Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ahh maybe I'll add it to the list ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:54:08.373Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what kinds of movies do you watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:54:13.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mostly action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:54:20.869Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "spy movies are my favorite ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:54:25.131Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "300?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:54:34.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah that was a great movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:54:56.898Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "classics ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:55:11.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I assume you will see Mission Impossble", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:55:33.219Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yup every one of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:55:48.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you agree with the rating of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:55:49.210Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "weird how some of the ratings are near 50% ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:56:17.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was better than they give credit for", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:56:24.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but cinemascore gave them a A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:56:30.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you watch any other movies with lily collins? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:57:14.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When you read about some of the real life events compared to the movie there are some differences", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:57:32.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah definitely ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:57:46.155Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Movies over exaggerate things ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:58:04.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont think ive seen any others shes been in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:58:39.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but she was a good actress in this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:58:59.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "DId you see black panther", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:59:11.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:59:14.119Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nNeed to see it soon ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:59:18.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:59:36.043Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T05:50:06.580Z", 
+  "uid1LogOutTime": "2018-03-01T05:59:28.462Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T05:50:06.640Z", 
+  "uid2LogOutTime": "2018-03-01T06:00:57.508Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4416", 
+  "user2_id": "USR2195", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "date": "2018-03-27T02:06:06.249Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:06:55.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:06:59.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you finished reading yet\n'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:07:12.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:07:35.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:07:41.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:07:51.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who stared in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:07:59.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Angelina Jolie starred in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:08:18.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a recent release?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:08:20.626Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was released four years ago.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:08:38.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:08:48.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did this movie break up a marriage?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:09:19.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about a fairy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:09:27.528Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it does.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:09:48.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was she a bad \"person\" in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:09:49.710Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:10:24.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok I thought Mr. & Mrs Smith, then Maleficent .. but I think Im wrong", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:10:39.120Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "tell me more about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:10:52.424Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a story of a fall and then \nredemption.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:11:17.248Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that didnt help me LOL  any more information", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:11:52.861Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a story most people already know.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:12:44.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is it a grim fairy tale?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:13:16.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:13:20.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else  I'm scraping my memory", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:13:53.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Am I supposed to make you guess?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:14:08.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont know this is my first movie chat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:14:31.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "heheheh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:14:37.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was just thinking of questions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:14:43.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same here. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:14:48.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didnt get to read the storyline", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:14:57.409Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Your second guess was right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:14:59.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:15:29.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea Me!!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:15:39.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lucky guess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:15:42.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I havent seen this movie   ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:15:53.770Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:16:00.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should see it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:16:03.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:16:07.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I heard it was good but when it was in the theater I didnt have time to go and never think of it when I streaming movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:16:43.052Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I need to put it on my to watch list", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:16:56.398Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes and Metacritic both say it is average, but CinemaScore gives it an A.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:16:59.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I only trust reviews about 50% of the time'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:17:38.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I prefer word of mouth reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:17:49.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is basically sleeping beauty as told by the 'evil' queen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:18:00.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh like Wicked the Play", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:18:15.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so, yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:18:39.779Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:18:43.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:18:46.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its really good ... its about the wicked witches life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:19:05.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didnt read the book but heard good and bad about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:19:19.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Angelina Jolie does an excellent job as Maleficent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:19:38.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think movies from a different point of view are really good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:19:39.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:19:48.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did like her makeup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:19:56.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The whole look of the movie was striking and very memorable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:20:14.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great  now I want to watch it more than when I saw the commercials. No grandkids this weekend I will be watching Maleficent\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:21:11.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In the document it is listed as a superhero movie. In a way I agree, but it isn't like watching batman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:21:42.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am glad to hear that. I'm sure you will enjoy it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:22:04.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldn't think a fairy tale would be considered superhero either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:22:09.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "comic books I get ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:22:48.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they are super heros", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:22:53.156Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how do we know when this is over", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:23:56.467Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:24:13.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was wondering the same thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:24:25.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hahaha  I guess I can come up with more questions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:24:47.892Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who played opposite Angelina", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:25:13.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sharlto Co\npley.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:25:59.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this the one where one of her kids had a role in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:26:29.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:26:39.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope the trend of expanding upon classic fairy tales continues.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:27:19.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would too.  I'm getting tired of remakes of movies that came out before   Like Death Wish", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:28:00.250Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:28:09.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know technology can improve some graphics but when you know the story that doesnt always make it better", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:28:45.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh should be click on finish conversation at the bottom. We have completed the requested 15 questions.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:29:49.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel the same way. The story of Maleficent is familiar but they do so much to much to expamnd it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:30:01.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:30:12.507Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice night, and enjoy the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:30:31.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok  Nice chatting with you and for giving me something to watch this weekend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:30:36.107Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T02:06:06.249Z", 
+  "uid1LogOutTime": "2018-03-27T02:30:34.351Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T02:06:06.270Z", 
+  "uid2LogOutTime": "2018-03-27T02:30:40.668Z", 
+  "uid2response": {
+    "feedback": "I guessed the movie from the description the other person provided. I will definitely watch after the additional info given", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR726", 
+  "user2_id": "USR110", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

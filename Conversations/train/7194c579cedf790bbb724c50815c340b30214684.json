@@ -1,0 +1,78 @@
+{
+  "date": "2018-03-05T22:53:08.905Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:53:35.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:54:30.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you want to chat about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:54:45.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:54:55.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:55:05.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:55:27.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "na", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:56:06.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you OK?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:56:16.144Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T22:53:08.905Z", 
+  "uid1LogOutTime": "2018-03-05T22:56:27.812Z", 
+  "uid1response": {
+    "feedback": "the other person left the chat indicating that he/she does not want to talk about the movie?", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T22:53:08.945Z", 
+  "uid2LogOutTime": "2018-03-05T22:56:16.556Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR509", 
+  "user2_id": "USR2780", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

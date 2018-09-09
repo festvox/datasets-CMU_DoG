@@ -1,0 +1,151 @@
+{
+  "date": "2018-02-08T21:28:52.651Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:29:12.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm supposed to ask you about a movie. What's it's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:29:29.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:29:51.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "am i right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:30:01.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, what kind of movie is it? Adventure? Superhero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:30:22.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah it is an action film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:30:51.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:30:56.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "released in 2012", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:30:58.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any movie stars I'd recognize?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:31:45.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no idea really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:32:48.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like dramas?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:00.369Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you tell me anything about the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:33:05.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I like dramas sometimes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:33:30.846Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joss Whedon is a great director, do you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:59.720Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:34:03.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like some of Whedon's movies, but not others. It sort of depends on the film. I've liked some of the things he's done, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:34:29.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:35:00.502Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did he direct this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:35:13.522Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes ofcourse", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:35:27.704Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:35:34.181Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T21:28:52.651Z", 
+  "uid1LogOutTime": "2018-02-08T21:35:54.301Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:28:53.073Z", 
+  "uid2LogOutTime": "2018-02-08T21:36:14.243Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2514", 
+  "user2_id": "USR2934", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

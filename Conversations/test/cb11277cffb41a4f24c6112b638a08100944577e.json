@@ -1,0 +1,131 @@
+{
+  "date": "2018-02-09T20:23:52.624Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:24:02.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:24:09.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very good how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:24:18.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great.  It looks like we're chatting about Zootopia today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:24:32.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay ! great movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:24:48.926Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:24:57.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have to say, that movies about anthropomorphic animals are pretty clever.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:25:06.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Idris Elba plays the police chief?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:26:22.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's the same guy who plays Charles Miner on \"The Office\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:26:38.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No idea!  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:26:48.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:26:57.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I had no idea he was in the office.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:27:18.807Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Heh, the scene in which \"Nick\" takes \"Judy\" to the DMV", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:27:42.478Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hahah  yea that portion was very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:28:17.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I enjoyed  how the movies conveys a message that is both relatable to kids and adults", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:28:44.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it kept my attention", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:28:55.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also though it was very funny how the little bunny wants to join the police force.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:29:18.869Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:23:52.624Z", 
+  "uid1LogOutTime": "2018-02-09T20:30:09.635Z", 
+  "uid1response": {
+    "feedback": "The other user could respond better .", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:23:52.656Z", 
+  "uid2LogOutTime": "2018-02-09T20:27:55.176Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR662", 
+  "user2_id": "USR1935", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-01T01:13:14.148Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello I\u2019m not seeing what movie we\u2019re supposed to be talking about.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T01:14:09.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I'm here to answer that. Have you, by chance, seen the movie 'Catch Me if You Can'?  It came out in 2002.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:15:39.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leonardo DiCaprio.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T01:15:54.209Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T01:13:14.148Z", 
+  "uid1LogOutTime": "2018-03-01T01:16:20.278Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T01:13:14.297Z", 
+  "uid2LogOutTime": "2018-03-01T01:16:28.589Z", 
+  "uid2response": {
+    "feedback": "I had no document on which movie to discuss. The other user aborted the conversation.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2940", 
+  "user2_id": "USR2361", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2018-02-07T16:57:55.382Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:58:05.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there!  Have you seen the movie Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:58:35.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:59:22.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yaa i like that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:59:31.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who the director is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:59:48.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Christopher Nolan.  He did the Batman movies too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:04:24.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yaa sir i like batman and that movie very good story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:08:17.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "network problem so delay replay sir", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:08:51.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "dont misunderstand sir", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:09:28.986Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T16:57:55.382Z", 
+  "uid1LogOutTime": "2018-02-07T17:04:54.324Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:57:55.595Z", 
+  "uid2LogOutTime": "2018-02-07T17:12:13.570Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1144", 
+  "user2_id": "USR1540", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

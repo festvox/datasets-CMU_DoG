@@ -1,0 +1,102 @@
+{
+  "date": "2018-02-07T15:55:07.397Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:38.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:55:40.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you like the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:55:47.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:54.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:02.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:05.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah it is good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:12.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i would like to mentioned about the main characters\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:12.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like war films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:18.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:41.630Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like Christopher Nolan movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:32.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he is the director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:59.254Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T15:55:07.397Z", 
+  "uid1LogOutTime": "2018-02-07T16:00:47.765Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:55:07.499Z", 
+  "uid2LogOutTime": "2018-02-07T16:00:10.226Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2832", 
+  "user2_id": "USR3507", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

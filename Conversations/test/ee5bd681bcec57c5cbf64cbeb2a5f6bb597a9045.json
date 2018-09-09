@@ -1,0 +1,307 @@
+{
+  "date": "2018-02-16T20:04:21.167Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:04:46.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:05:10.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have the sheet so I'm guess you do :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:05:22.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have any movies to recommend?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:05:31.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do in fact! Have you heard about Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:05:48.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have. I heard it was good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:07:32.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who was in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:07:52.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a very interesting movie about dreams. It seems most people would agree that it's pretty good. It has a pretty high Rotten Tomatoes score of 86%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:08:14.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, and Tom Hardy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:08:43.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:10:23.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does Leo do a good job in this one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:10:33.511Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he does. He plays Dom Cobb, a professional thief who uses an experimental technology to enter the subconscious of a sleeping person in order to extract valuable information. However, the movie focuses on Cobb's mission to do something that most consider impossible, to plant an idea in someone else's mind.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:12:41.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that sounds intense!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:14:09.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's usually pretty good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:15:46.583Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the movie get good reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:15:58.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Generally speaking yes. Critics praised Leo's performance as a cocky hero that has a sad backstory. Though some people think that while the idea was good that it wasn't fully fleshed out at times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:17:50.669Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "However, most agree that it's a fun game of cat and mouse between the team of thieves and their target, a man named Maurice Fischer. You see, the man they're trying to influence has been trained to subconsciously defend himself against mental intruders. While Fischer isn't actually aware that his mind has been invaded his subconscious is and creates projections designed to defend itself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:20:04.668Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It definitely seems like a genre not everyone would like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:20:31.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It does have some high level concepts that may turn off someone looking for a more laid back movie going experience. Do you typically like your movies to be more short and sweet or do you enjoy films that make you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:21:54.690Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:28:23.594Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:30:53.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My computer froze", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:30:56.917Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I usually don't like this type of movie, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:08.959Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "To answer your question.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:16.377Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But it does sound interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:21.962Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year did the movie come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:53.736Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's okay. No problem haha! 2009 so it is a bit old by now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:32:27.127Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:33:20.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That makes me feel old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:34:21.223Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Speaking of time, one of the most interesting things about the Dream World in the film is the passage of time. Part of Cobb's process for entering dreams is to construct layers upon layers of dreams. The deeper you go down in the layers the less time passes in the real world.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:36:39.361Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh that's really interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:36:57.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For example, at the deepest layer of dreams, called Limbo, a few hours in the real world can last for 50 years in the Dream World.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:37:17.007Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's right, I remember the advertisements describing layered dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:37:20.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gotcha. That makes sense!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:37:32.779Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of the interesting things the movie asks is whether the reality we see in the film is actually real or not. I won't spoil it for you but some people think the entire movie itself could just be one big dream.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:39:52.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's really interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:40:40.007Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like movie's that take the real world and twist it into the realm of science fiction?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:40:42.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:40:51.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm more of a documentary kind of person.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:40:59.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like to stay very far into reality haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:41:08.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You prefer your reality nice and real then haha! Well that's okay. Not everyone likes things to be on the fantastic side. While the story may not be up your alley it may still be worth a watch just to see the visuals.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:41:55.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And with that I think we're done.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:42:08.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:42:12.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's been nice talking with you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:42:13.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:42:15.438Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T20:04:21.167Z", 
+  "uid1LogOutTime": "2018-02-16T20:42:20.795Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:04:21.203Z", 
+  "uid2LogOutTime": "2018-02-16T20:42:18.998Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3966", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "date": "2018-03-26T14:29:06.289Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:29:21.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:29:21.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good, how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:29:29.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing very well, thank you.  Shall we start?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:29:44.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:29:49.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what's the movie's name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:30:01.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The title of this movie is 'The Shape of Water'. Have you heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:30:23.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of it. When did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:30:36.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out quite recently, in 2017. Assuming you have not seen it? Or have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:31:09.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:31:21.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is very recent. How are the ratings for the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:31:45.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, I think you should! According to many critics, and specialized movie websites, it received very high ratings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:31:58.295Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see I see. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:32:05.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is a part of the cast?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:32:13.369Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In fact, Rotten Tomatoes gave this a 92%! The main cast is made up of Sally Hawkins, Michael Shannon, Octavia Spencer, and Michael Stuhlbarg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:32:44.137Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah i see! What genre is the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:32:57.835Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's in the Fantasy-Drama genre, something director Guillermo del Toro is known for", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:33:26.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah Guillermo del Toro is a good director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:33:40.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What happens in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:33:49.312Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie's about an orphaned child who was found in a river. As the movie progresses, some mysterious creatures appear, and the orphan child decides to befriend them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:35:12.727Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's very interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:35:26.899Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the creature dangerous?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:35:45.962Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hm, I think that may give a bit too much away!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:36:11.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Think Chernobyl ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:36:58.933Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there any other characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:36:59.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There's a radiation involved?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:09.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "More-so the Soviet Government aspect of the situation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:37:36.813Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah I see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:42.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What time period is this movie? Cold War?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:59.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There were other characters, but the main cast is where the majority of the roles are distributed, naturally.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:38:00.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:25.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This does occur during the Cold War", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:38:26.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in the 1960's", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:38:30.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So cold war tensions will be a theme", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:52.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was very interesting. Thanks for telling me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:05.065Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:29:06.290Z", 
+  "uid1LogOutTime": "2018-03-26T14:39:11.322Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:29:06.298Z", 
+  "uid2LogOutTime": "2018-03-26T14:39:08.088Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3117", 
+  "user2_id": "USR3483", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

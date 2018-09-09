@@ -1,0 +1,103 @@
+{
+  "date": "2018-04-02T15:30:12.446Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This was a funny movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:31:03.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it really was.  I loved Woody.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:31:20.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Woody was funny but I kind of started liking Buzz by the end of the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:31:49.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes Tim Allen did a really good job as Buzz Lightyear.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:32:28.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He really did, I could almost see their faces as I got more into the movie. I always wondered how they actually film these movies like this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:33:11.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure how it's done.  But the technique is awesome.  John Lasseter did a really great job for his first time being a director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:34:13.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I agree, but this movie is over 20 years old. The movies that are out today have great graphics, but I love the old versions the best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:13.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know I never realized that Don Rickles was the voice of Mr. Potato Head. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:37.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don Rickles was too funny as Mr. Potato Head.  I really loved the Rex.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:37:28.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Now the Rex I don't remember too well, but the actor Wallace Shawn, do you know him from other films? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:31.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre of movies do you generally like? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:40.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I don't know any other films with him.  I generally like horror.  I love animated films to watch with my children.  I love Toy Story.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:40:24.200Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T15:30:12.446Z", 
+  "uid1LogOutTime": "2018-04-02T15:39:50.795Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:30:12.619Z", 
+  "uid2LogOutTime": "2018-04-02T15:40:51.209Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR777", 
+  "user2_id": "USR855", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

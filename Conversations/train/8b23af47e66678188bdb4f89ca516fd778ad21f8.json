@@ -1,0 +1,288 @@
+{
+  "date": "2018-02-13T06:04:58.763Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:05:53.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello pal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:06:05.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. What kind of movies do you like? Have you seen Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:06:49.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do love movies with good story line and nice concepts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:07:24.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception????? I am not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:07:44.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leonardo DiCaprio in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:07:57.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "may if you jog my memory ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:07:59.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow, that must be big then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:08:20.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays a thief who cons people out of their secrets by hacking into their dreams while they are asleep.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:08:51.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's the genre of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:09:04.260Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:09:04.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's in the\n scientific genre.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:09:21.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "way back 2009? i am shocked i havent watched it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:09:37.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you mean science fiction?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:10:10.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who else starred in the movie asides Leonardo D?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:11:05.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it could fall into science fiction. But it is mostly scientific since the characters use science to sedate people into falling asleep.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:11:13.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joseph Gordon Levitt is in it also. Along with Ellen Page, and Tom Hardy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:11:46.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow, then it should be a movie to see for me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:12:52.900Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joseph plays the character named Arthur, who is a friend of Dom Cobb (Leo), and he helps Dom by managing and researching their missions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:12:57.675Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Together they are considered \"extractors\" who extract info from people while asleep.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:13:39.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some of the dream go haywire, as you can probably imagine.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:13:49.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They use experimental military technology to infiltrate the subconscious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:14:09.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how would you rate the movie on a scale of 1-10?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:14:11.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I saw it when it first came out, I would give it about an 8 or a 9. Rotten Tomatoes gives it an 8.1 out of 10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:14:47.134Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that means the movie must be similar to sherlock holmes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:14:49.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A bit less detective than Sherlock Holmes, but very mysterious like that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:15:36.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if rotten tomatoes could give it 8 maybe i need to go see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:15:40.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who directed the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:16:25.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, you should definitely see it. There are A LOT of plot twists that I don't want to reveal here. It's a great movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:16:27.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Christopher Nolan directed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:17:01.167Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "owh, i am excited already, may be i will see it soon when i am less busy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:17:10.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. And like you said, if Leonardo is in it, you know it's a great movie, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:18:05.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is the cinema rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:18:35.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like to see different ratings before committing to watching a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:18:59.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IMDB gave it 8.8 out of 10. So pretty similar to Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:19:43.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and i hope there is a bit of action there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:19:46.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, LOTS of action. You will love it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:19:56.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hope you have a good time watching the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:20:20.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Will talk to you later!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:20:30.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks a buch pal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:20:36.008Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T06:20:41.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T06:20:44.392Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T06:04:58.763Z", 
+  "uid1LogOutTime": "2018-02-13T06:20:48.344Z", 
+  "uid1response": {
+    "feedback": "The other user was good to talk to. He completed the whole conversation as instructed. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T06:04:58.953Z", 
+  "uid2LogOutTime": "2018-02-13T06:20:59.573Z", 
+  "uid2response": {
+    "feedback": "i did not have the document of the movie but the other user gave a comprehensive intro and brief about the movie and i think i might watch it soon.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2897", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

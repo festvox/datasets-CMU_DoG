@@ -1,0 +1,59 @@
+{
+  "date": "2018-03-02T19:48:44.163Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Fan of David Fincher's movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:49:29.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure I'm familiar with any of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:49:44.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ever seen Fight Club, with Brad Pitt?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:50:08.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, yes. I see Seven is also one of his movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:50:44.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That was a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:50:52.432Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T19:48:44.163Z", 
+  "uid1LogOutTime": "2018-03-02T19:51:07.594Z", 
+  "uid1response": {
+    "feedback": "The other use left after just two sentences", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T19:48:44.357Z", 
+  "uid2LogOutTime": "2018-03-02T19:50:23.474Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1662", 
+  "user2_id": "USR3329", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

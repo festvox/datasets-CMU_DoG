@@ -1,0 +1,70 @@
+{
+  "date": "2018-02-19T02:57:43.416Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:58:23.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just fine, and yourself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:58:38.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am doing fine as well, thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:58:55.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of Iron-Man's role in The Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T03:00:23.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually am not familiar. Can you tell me a bit about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T03:01:31.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bit*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T03:01:38.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers  is a Superhero film that was produced in 2012. It included many very familiar characters such as Iron Man, Captain America, the Hulk, Thor,  Black Widow, and Hawkeye.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T03:04:13.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow seems like an action packed movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T03:11:34.803Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T02:57:43.416Z", 
+  "uid1LogOutTime": "2018-02-19T03:25:52.894Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T02:57:43.537Z", 
+  "user1_id": "USR4451", 
+  "user2_id": "USR2864", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

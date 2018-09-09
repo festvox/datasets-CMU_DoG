@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-16T18:37:27.409Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:37:54.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:38:47.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch a movie called the Blind Side.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:39:07.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:39:15.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about this really poor disadvantaged kid who gets adopted by this couple and ends up becoming really good at college football.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:40:45.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that sounds good, what did you enjoy about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:41:17.224Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:37:27.409Z", 
+  "uid1LogOutTime": "2018-03-16T18:58:53.590Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:37:27.557Z", 
+  "user1_id": "USR4605", 
+  "user2_id": "USR1742", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

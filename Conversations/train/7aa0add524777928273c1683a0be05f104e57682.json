@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-09T18:09:32.142Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is a classic iconic movie that everyone should see at least once in their lifetime.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:10:45.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie is that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:11:01.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:11:06.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:11:21.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no I haven't what it is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:11:41.433Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-09T18:09:32.142Z", 
+  "uid1LogOutTime": "2018-02-09T18:12:01.809Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T18:09:32.526Z", 
+  "uid2LogOutTime": "2018-02-09T18:13:12.902Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2476", 
+  "user2_id": "USR3356", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2018-02-07T17:45:56.441Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hiii", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:46:49.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hai. the movie is about wonder women", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:47:01.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you saw the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:47:54.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i saw that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:55:40.830Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T17:45:56.441Z", 
+  "uid1LogOutTime": "2018-02-07T17:55:46.183Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:45:56.478Z", 
+  "uid2LogOutTime": "2018-02-07T17:54:31.196Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1984", 
+  "user2_id": "USR4035", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

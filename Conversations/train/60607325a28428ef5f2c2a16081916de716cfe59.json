@@ -1,0 +1,398 @@
+{
+  "date": "2018-03-22T05:31:14.087Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:32:02.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you just finish watching?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:32:25.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Toy Story! Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:32:58.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I just did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:33:09.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like Buzz or Woody the best?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:33:33.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Woody the best, because of Tom Hanks voice. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:34:13.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Buzz because of how great he thinks he is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:34:43.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think it is funny when the toys act like they are not real when people are around", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:35:22.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mr potato head is hilarious as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:35:45.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes and Don Rickles voice suits him!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:36:13.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:36:21.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is nice that they both belong to the same boy and end up friends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:36:50.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, a great\n children's film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:37:57.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The music by randy Newman is superb as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:38:10.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I completely agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:38:37.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I cant believe it was 1995 when the movie was made", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:39:06.323Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know, unreal! And Pixar's first produced movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:39:31.927Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "computer animation is what makes it great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:40:02.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like real life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:40:09.761Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Exactly! Did you like Rex or Slinky?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:40:36.839Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "rex", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:40:55.587Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too. I like how hes a little nervous all the time!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:41:35.489Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Woody's pull string adds humor to the movie i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:41:36.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it looks like it received a very good rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:41:55.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes 100% from rotten tomatoes. Do you always watch movies rated 100%?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:42:18.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sometimes. i think it was mean that woody tries to throw buzz behind the desk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:43:07.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so he will get left behind", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:43:14.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is mean. But Buzz did think he was a real space ranger and that was funny too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:43:48.039Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The army men just make the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:44:03.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, their use of baby monitors!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:44:27.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i was just about to say that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:44:37.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a remote controlled car wAS THE perfect get away car lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:45:20.493Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I bet the toys felt bad when they realized that Woody was really a good guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:45:49.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah! They really get people to understand what toys are about, dont they?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:46:08.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At least the remote controlled car got saved at the last minute too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:46:20.421Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes it is like they have a life of their own", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:46:41.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it was cool that buzz and woody werent rivals later on, but friends", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:46:47.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep and Andy never knew a thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:47:04.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope, who knew a move to a new house be so exciting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:47:21.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i bet they were scared of that puppy when it arrived", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:47:25.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "now buzz and woody both have something to be afraid of", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:47:52.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sid and Scud sound scary", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:48:23.507Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes they do ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:48:39.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i wouldnt want them as neighbours!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:48:59.129Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:49:05.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "pizza planet sounds fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:49:17.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the toys must have been scared in sids house", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:51:02.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes and the delivery truck ride too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:51:03.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah stuck in that crane game", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:51:16.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How old was Andy again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:51:36.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "six i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:51:46.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah yes thats right!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:51:56.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i wonder if molly new the toys came alive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:52:24.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think so...maybe they'll be another movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:53:12.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hope so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:53:19.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bo peep must have been cute as a shepherdess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:53:43.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too. Razzle dazzle technique with this movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:53:57.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, and funny Hamm piggy bank", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:54:15.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he really is hammin it up in the movie it sounds like lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T05:54:42.806Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah haha i thought it was a very funyn movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T05:55:08.009Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T05:31:14.087Z", 
+  "uid1LogOutTime": "2018-03-22T05:55:51.033Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T05:31:14.117Z", 
+  "uid2LogOutTime": "2018-03-22T05:55:41.211Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR994", 
+  "user2_id": "USR1035", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

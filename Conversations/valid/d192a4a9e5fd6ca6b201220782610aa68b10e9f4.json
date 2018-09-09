@@ -1,0 +1,39 @@
+{
+  "date": "2018-02-12T19:34:05.930Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, when was the last time you watched zootopia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:07.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi I don\u2019t know if ve ever watched the movie beforehand ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:40.269Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:34:05.930Z", 
+  "uid1LogOutTime": "2018-02-12T19:35:18.986Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:34:05.938Z", 
+  "uid2LogOutTime": "2018-02-12T19:36:45.156Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3438", 
+  "user2_id": "USR1153", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

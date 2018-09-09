@@ -1,0 +1,46 @@
+{
+  "date": "2018-01-26T19:34:16.432Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I can't believe John Wick has an 86% on Rotten Tomatoes. It seems like it should be lower. What do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:36:19.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, the movie doesn't seem to have much substance.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:37:47.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True. I'm personally not a Keanu Reaves fan. I'm not really a fan of Adrianne Palicki either. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:38:10.489Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T19:34:16.433Z", 
+  "uid1LogOutTime": "2018-01-26T19:50:26.822Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-01-26T19:34:16.455Z", 
+  "uid2LogOutTime": "2018-01-26T19:38:36.490Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR376", 
+  "user2_id": "USR680", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

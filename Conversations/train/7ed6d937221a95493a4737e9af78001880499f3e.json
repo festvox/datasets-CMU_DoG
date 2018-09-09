@@ -1,0 +1,212 @@
+{
+  "date": "2017-12-19T18:28:44.291Z", 
+  "docLinkIdx": 1, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:29:15.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:30:05.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:30:27.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:30:46.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:30:48.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:30:59.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I do like Keira Knightley so I would probably check it out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:31:15.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea she was great before, I haven't seen her recent movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:31:32.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't recognize any of the other characters from their name.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:32:16.294Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a war movie right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:32:38.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea I think it was a WW2 movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:33:00.328Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think I watched it because I'm tired of war movies haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:33:07.652Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I'm kind of over them too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:34:00.290Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You can only do so many Nazi movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:34:20.606Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did want to watch Dunkirk though ONLY because it was by Nolan", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:34:36.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Still haven't watched it yet though", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:34:42.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen that one either. I'm so bad with keeping up with movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:35:13.860Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know anything about Turing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:35:45.229Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not at all. But apparently he was gay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:36:09.486Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that the encryption machine has a name.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:36:14.283Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have heard of something called the Turing test", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:36:29.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it's used to check how good AI is", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:36:36.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh really? That sounds kind of interesting. Do you know how it works?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:37:13.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think if the robot can convince you that it is not a robot, it wins", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:37:30.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:38:41.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't decide if this movie would be worth watching or not", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:38:57.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:39:09.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldn't watch it even on Netflix", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:39:16.496Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha! Take that turing", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:39:36.418Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-19T18:28:44.291Z", 
+  "uid1LogOutTime": "2017-12-19T18:40:02.232Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T18:28:44.422Z", 
+  "uid2LogOutTime": "2017-12-19T18:40:21.468Z", 
+  "uid2response": {
+    "feedback": "Neither of us had watched the movie so it was a little strained.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2027", 
+  "user2_id": "USR922", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

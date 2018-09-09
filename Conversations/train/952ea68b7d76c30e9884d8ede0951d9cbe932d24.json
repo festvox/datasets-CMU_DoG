@@ -1,0 +1,84 @@
+{
+  "date": "2018-03-20T17:42:06.115Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:42:20.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:42:47.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:44:09.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:44:40.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, do you like sports movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:44:45.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, do you like sports movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:44:47.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:45:05.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:45:22.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what sport?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:46:03.581Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T17:42:06.115Z", 
+  "uid1LogOutTime": "2018-03-20T17:47:11.907Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:42:06.328Z", 
+  "uid2LogOutTime": "2018-03-20T17:47:40.623Z", 
+  "uid2response": {
+    "feedback": "User did not give me title of film", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3656", 
+  "user2_id": "USR4312", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2018-03-22T22:38:14.323Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:39:04.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:39:04.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, we said hello at the same time!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:39:34.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:40:44.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:40:46.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you agree the rating fro rotten tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:41:01.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:41:06.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a good enough score.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:41:38.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "rating of 88, is bit high, well in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:41:55.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:41:58.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think is too high for the quality of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:42:24.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think they deserve a lower score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:42:37.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah high 70s is what i expected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:42:53.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ever wondered how movie ratings are judged?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:43:13.640Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "some movies which deserve more get less sometimes :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:43:43.428Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "from critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:43:49.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, but rotten tomatoes also has an audience score, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:44:15.759Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so i always look out for user ratings rather than critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:44:24.319Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes they do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:44:28.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you think the key scenes truly depict what happened during vietnam war?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:45:29.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "More or less. I guess some of the scenes have been given a more dramatic flair.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:46:14.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "To make it more watchable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:46:27.122Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeap to garner more audience", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:46:44.420Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "agreed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:46:50.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what other movies directed by spielberg you like most?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:47:15.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i havent missed a film directed by him :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:47:29.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm a science fiction fan, so E.T. is kind of my favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:47:51.068Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:48:39.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How about you, what's your favorite?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:48:52.586Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you a fan of these historical political films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:49:26.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "jurassic park...one of the classics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:49:27.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's a good one too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:50:06.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not much but when a film depicts what happened back in history, i watch them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:50:22.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i kind of like exploring things, even if that's history :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:50:48.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So more of a fan of the historical than the political.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:50:57.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know if the\n watergate scandal related to this at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:52:00.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think so. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:52:59.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But kind of the same time, more or less, isn't it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:53:23.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this was kind  of included in the document...so confused", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:53:31.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeap durind Nixon's presidency", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:53:46.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you agree to all the critical responses on this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:54:43.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are kinda of divided.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:55:17.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The critics, I mean.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:55:29.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeap...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:55:46.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what does it take to be a critic?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:56:06.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interested in becoming one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:56:24.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not at all but just thinking how one can ever judge what the director has in his mind & portrays something :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:57:15.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyways...have a nice day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:58:09.381Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:58:11.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:58:17.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:58:19.130Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T22:38:14.323Z", 
+  "uid1LogOutTime": "2018-03-22T22:58:31.064Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T22:38:14.350Z", 
+  "uid2LogOutTime": "2018-03-22T22:58:24.089Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3040", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

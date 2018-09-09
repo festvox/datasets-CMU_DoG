@@ -1,0 +1,132 @@
+{
+  "date": "2018-03-05T17:19:19.886Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "how it going?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:19:34.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, im here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:19:53.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "looks like we are talkign about batman begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:20:06.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:20:35.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:20:41.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im doing well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:21:24.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and yes I do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:21:26.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:21:45.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is your screen showing the social network?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:22:23.341Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mine is showing batman begins.. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:22:29.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it before, and I really enjoyed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:23:23.300Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they gave one of us the wrong document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:23:50.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mine isn't showing anything.  only one of us gets a movie synopsis", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:23:53.873Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hmmmm normally it doesnt work that way. i have batman begins on my screen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:24:28.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok. well, the instuctions stated that only one of us would get a description of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:22.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and then we would talk about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:32.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so the user lest the chat?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:32:04.682Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:19:19.886Z", 
+  "uid1LogOutTime": "2018-03-05T17:32:10.188Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:19:19.904Z", 
+  "uid2LogOutTime": "2018-03-05T17:24:58.827Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2618", 
+  "user2_id": "USR4734", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

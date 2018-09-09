@@ -1,0 +1,65 @@
+{
+  "date": "2018-02-16T18:23:28.928Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:24:04.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is The Notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:24:18.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:25:39.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:25:43.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what the fuck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:26:12.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:26:17.581Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T18:23:28.928Z", 
+  "uid1LogOutTime": "2018-02-16T18:26:58.754Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T18:23:28.961Z", 
+  "uid2LogOutTime": "2018-02-16T18:26:40.686Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2789", 
+  "user2_id": "USR4747", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-15T21:00:45.981Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie seems exciting, what are your thoughts? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:05:26.614Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems a bit outlandish, I don't normally watch scientific movies. What made you approach this movie to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:06:48.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Honestly, I am not a big fan of scientific movies as well. I recognized the actor right away so it caught my attention. I like how critics claim DiCaprio as \"never been better.\" That made me want to watch it also. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:10:34.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I more or less just wanted to see Joseph Gordon-Levtit preform since he's a great supporting actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:12:01.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like any parts of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:12:43.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, indeed! I do like how the story line seems suspenseful. I enjoy suspense or movies that keep you guessing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:14:40.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did the rating bring you any concerns? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:14:55.605Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The ratings seemed fairly high so I came into it thinking the movie would be a real bluckbuster but it was lackluster for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:15:53.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did really enjoy the use of mazes in the story, cause the mind is like one big maze", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:16:21.848Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T21:00:45.982Z", 
+  "uid1LogOutTime": "2018-02-15T21:21:59.620Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-15T21:00:46.056Z", 
+  "user1_id": "USR1392", 
+  "user2_id": "USR2161", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

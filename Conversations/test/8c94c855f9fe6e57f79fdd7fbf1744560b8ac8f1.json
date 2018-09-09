@@ -1,0 +1,402 @@
+{
+  "date": "2018-03-20T01:29:46.305Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:33:04.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:33:22.191Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good how are you? what is the movie called?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:33:43.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not too bad. Thank you. \nThe movie for discussion today is Ironman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:34:08.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh sounds cool. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:34:22.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually enjoyed the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:34:28.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:34:40.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a film based on the Marvel Comics character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:35:10.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay, I think I've heard of it. Do you have any more info on the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:35:49.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It stars Robert Downey Jr, Terrance Howard, Jeff Bridges and Gwyneth Paltrow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:35:58.303Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it about though?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:36:26.083Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tony Stark (Roberts Downey Jr.) is a defense contractor ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:37:15.396Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is the CEO of Stark industries, industrialist, and and genius inventor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:37:55.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who do the others play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:37:57.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there a villain?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:38:14.074Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gwyneth  plays Pepper Potts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:38:36.811Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who does Jeff Bridges play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:38:58.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:40:50.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I apologize I had to reread a section...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:41:07.358Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jeff Bridges is the villain in this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:41:43.781Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no problem. How long does this go on for?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:41:49.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays the part of Obadiah Stane", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:42:07.497Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Stane was second-in-demand at Stark industries", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:42:34.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Second in command you mean?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:42:44.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol, yes you are correct.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:43:06.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how long this lasts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:43:36.793Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stane is Starks mentor and friend but then turns on Stark to overtake his business", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:44:52.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(I have received my second page and I believe it said there would be three pages)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:45:35.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahh thank you that is more of the plot. Is there a lot of action and are the special effects good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:45:50.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahh okay cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:46:06.930Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess we can move on to the second page", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:46:29.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is definitely an action movie with great effects", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:46:30.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:46:59.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark is in Afghanistan h", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:47:35.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it funny as well? Also when did it come out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:47:38.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he is there to demonstrate his new \"jericho\" missile", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:48:07.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was released in 2008", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:48:19.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. After Afghanistan where does the setting move?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:48:37.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After the demonstration the convoy he is with gets ambushed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:48:54.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that how he becomes iron man, or was he iron man before the accident", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:49:45.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark is injured and then is captured and held captive in a cave", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:50:39.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I take it he escapes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:50:56.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ironman comes after he is hit with shrapnel from one of his own missles\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:51:27.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then he goes after jeff Bridges character, is that who was behind his capture?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:52:19.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He has an electromagnet implanted into his chest to keep the shrsapnel from reaching his heart and killing him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:52:25.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When does he get his suit", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:53:22.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ten Rings is responsible for imprisioning his", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:54:34.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the majority of the movie take place in the U.S., Afghanistan or someplace else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:54:56.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a terrorist group that want the 'Jerico\" missile", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:55:06.766Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He makes a deal apparently with the leader of the terrorist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:56:15.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, this movie sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:56:43.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you get the third sheet yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:56:53.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "STark returns home after that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:56:55.801Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(not yet)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:57:04.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark learns that Stane has been trafficking weapons to criminals world-wide", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:58:35.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Man this was a lot longer than they said. I have to leave for work soon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:58:41.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he goes after stane to stop him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:59:49.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ten rings gather piece of a prototype suit he has and meets with Stane", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:00:17.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stane has a massive new suit reverse engineered", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:00:45.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is Ten Rings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:00:45.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ten Rings is the terrorist group responsible for imprisoning stark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:01:27.215Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T01:29:46.305Z", 
+  "uid1LogOutTime": "2018-03-20T02:01:36.065Z", 
+  "uid1response": {
+    "feedback": "Thank you", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T01:29:46.333Z", 
+  "uid2LogOutTime": "2018-03-20T02:00:56.892Z", 
+  "uid2response": {
+    "feedback": "The conversation went pretty smoothly. Some times it felt weird because the other person wasn't giving me good answers to my questions.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4438", 
+  "user2_id": "USR4048", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

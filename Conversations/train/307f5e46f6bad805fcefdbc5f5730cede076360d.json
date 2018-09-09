@@ -1,0 +1,117 @@
+{
+  "date": "2018-02-09T00:16:03.160Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! I'm interested in learning about the movie you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:17:15.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey User 2, have you seen the movie John Wick? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:17:26.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't, what type of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:17:45.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an Action movie, do you like action movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:18:14.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some of them can be pretty good! What actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:18:43.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves, Michael Nyvqist, Alfie Allen. They are less known than Keanu Reeves.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:20:07.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see! Is Reeves the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:20:30.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he is, can I tell you about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:20:49.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure, what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:21:03.869Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So Keanu Reeves plays John Wick. He is a retired assassin whose wife had just passed away. Her dying gift to him was a small puppy. One day Wick goes to the gas station in his hot rod mustang and these guys approach him to buy his car. He denies them which they get pretty upset. Long story short they come to his house at night and steal his car and kill the dog in front of him. The rest is about vengeance on the people who happen to be related to the mob. The fighting styles and shooting techniques are all very realistic. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:23:30.494Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They made a second one which is just as good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:23:45.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, that sounds pretty intense! Do you know what year this one was made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:24:30.054Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah it\u2019s a really good movie. The first one came out in 2014.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:25:07.739Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Wick 2 came out last year I believe ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:25:29.268Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice, I'm surprised I never heard of it. Do you know how the critics liked it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:25:52.203Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten tomatoes gave it an 86%. Do you want to hear some stats from other critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:26:55.998Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting, Rotten tomatoes is one of my go to for getting reviews. And yes, what are some of the other critics saying?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:27:47.656Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": true, 
+  "uid1LogInTime": "2018-02-09T00:16:03.160Z", 
+  "uid2LogInTime": "2018-02-09T00:16:10.910Z", 
+  "user1_id": "USR4543", 
+  "user2_id": "USR304", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

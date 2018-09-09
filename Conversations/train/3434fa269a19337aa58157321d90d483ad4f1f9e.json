@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-09T19:19:42.156Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So frozen was released in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:21:01.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a pretty good rotten tomatoes rating ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:22:05.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen was released in 2013 and released by Disney Pictures.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:23:14.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, it did not. It was the best animated musical Disney released.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:25:41.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kristen Bell played Anna's role really well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:26:43.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen is a great film, do you know that it was inspired by one of Hans Christian Andersen tales?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:28:44.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, you were right about the \"rotten tomatoes rating\". I looked it up and did see that they were dinged.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:32:17.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Animated films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:32:43.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about 3D animated film? those are my favorites.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:36:03.292Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T19:19:42.156Z", 
+  "uid1LogOutTime": "2018-02-09T19:37:06.431Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T19:19:42.215Z", 
+  "user1_id": "USR3785", 
+  "user2_id": "USR1513", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

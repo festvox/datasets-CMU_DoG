@@ -1,0 +1,55 @@
+{
+  "date": "2018-02-06T16:22:56.202Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:23:14.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:24:35.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:25:49.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good. How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:26:03.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:26:34.162Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-06T16:22:56.203Z", 
+  "uid1LogOutTime": "2018-02-06T16:25:09.486Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T16:22:56.561Z", 
+  "uid2LogOutTime": "2018-02-06T16:31:46.993Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2140", 
+  "user2_id": "USR3536", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

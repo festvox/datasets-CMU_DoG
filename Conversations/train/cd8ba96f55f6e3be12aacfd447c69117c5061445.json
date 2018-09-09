@@ -1,0 +1,73 @@
+{
+  "date": "2018-02-16T22:54:53.651Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T22:55:05.281Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:56:07.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what we are discussing today? Are we supposed to bring up a movie or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T22:56:55.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dundrik", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:57:19.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dundirk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:57:27.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im sorry bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T22:57:50.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T22:58:04.748Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T22:54:53.651Z", 
+  "uid1LogOutTime": "2018-02-16T22:58:15.629Z", 
+  "uid1response": {
+    "feedback": "The user started to talk, then mentioned Dunkirk and said bye to me and left! So I had no choice but to leave as well. ", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T22:54:53.682Z", 
+  "uid2LogOutTime": "2018-02-16T22:57:53.502Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2688", 
+  "user2_id": "USR1516", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

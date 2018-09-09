@@ -1,0 +1,47 @@
+{
+  "date": "2018-03-29T14:24:08.138Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Did you think Leonardo DiCaprio was good as Gatsby?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:25:18.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I thought he was a very good Gatsby, what about you? Did you like the other cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:22.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I liked Carey Mulligan as Daisy too. I didn't know her before this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:51.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "One critic \nsaid Joel Edgerton was the standout performance as Daisy's husband.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:30:25.034Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:24:08.138Z", 
+  "uid2LogInTime": "2018-03-29T14:24:08.140Z", 
+  "uid2LogOutTime": "2018-03-29T14:40:33.639Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2713", 
+  "user2_id": "USR542", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

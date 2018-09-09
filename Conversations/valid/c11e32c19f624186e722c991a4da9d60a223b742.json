@@ -1,0 +1,137 @@
+{
+  "date": "2018-03-21T08:09:21.985Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So, basic question first: Did you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:11:20.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not my cup of tea but i can see that it was well done", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:11:56.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see the first Monsters inc?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:12:19.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i did but it was only on tv", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:12:40.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you think the college experience shown was true to real college experience?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:13:21.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I ask because my son said it was pretty similar, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:13:35.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "way more beer drinking involved from what I remember.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:16:07.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I don't suppose they could put that in a kid's movie :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:16:28.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good point well made. I guess it did show the way we make friendships along the way. Some great voice overs though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:19:21.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. What about the frat house of misfits they ended up joining? I thought that was kind of sad and cool at the same time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:20:40.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good that the movie shows kids that there is always some where that you'll fit in, even if it's not where you think you want to be to start with and that once your there it can be a great place.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:24:27.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think about when it finally hit Sulley that he couldn't coast through college/life on his name and good looks? I think that sums up a lot of people when they get out of high school and hit the 'real world\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:25:27.643Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "At least he realized the fact, some people seem to go through life blaming others for their own failings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:28:37.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Absolutely agree there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:29:09.063Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you feel kind of sorry for Mike? I did, because he always wanted to be a scarer but in the end he had to give up on his dream. He was terrible at his dream, but I still felt kind of bad for him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:30:20.565Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess, be interested to know how many kids/adults actually take away something into their real lives from these movies rather than just seeing them as entertainment.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T08:33:39.645Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, as an adult I can see a lot of the more hidden messages but kids might not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:34:48.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "At least, not till they get older and then they're all, \"Hey, THAT'S what that meant!\" :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:35:44.182Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't remember any of the so-called great music by Randy Newman, do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T08:39:26.610Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T08:09:21.985Z", 
+  "uid1LogOutTime": "2018-03-21T08:44:31.117Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T08:09:22.027Z", 
+  "user1_id": "USR1176", 
+  "user2_id": "USR4729", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

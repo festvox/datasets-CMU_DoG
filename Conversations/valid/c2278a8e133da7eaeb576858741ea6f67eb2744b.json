@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-28T22:25:54.026Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:27:09.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Movie is The social Network.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:27:59.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:28:32.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network is a 2010 American biographical drama film directed by David Fincher and written by Aaron Sorkin. Adapted from Ben Mezrich's 2009 book The Accidental Billionaires: The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal, the film portrays the founding of social networking website Facebook and the resulting lawsuits. It stars Jesse Eisenberg as founder Mark Zuckerberg, along with Andrew Garfield as Eduardo Saverin, Justin Timberlake as Sean Parker, and Armie Hammer as Cameron and Tyler Winklevoss. Neither Zuckerberg nor any other Facebook staff were involved with the project, although Saverin was a consultant for Mezrich's book.\n The film was released in the United States by Columbia Pictures on October 1, 2010.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:29:05.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds interesting, have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:29:36.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:30:43.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No,\n I heard of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:31:03.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:31:20.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no, I haven't. sounds intense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:31:54.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays Mark?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:32:05.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "An\n actor is playing for him, but its suppose to be Mark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:33:58.426Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you think you would watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:34:53.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mark is the guy who invented Facebook, Maybe !!\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:35:44.943Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea, I like movies based on true stories. I'd probably watch it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:36:21.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:36:52.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you think the movie is pretty accurate about how everything happened?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:37:27.948Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. And the book is called (you can't make 500 million friends without making a few enemies). Ill probably  read that first.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:39:37.412Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well I might just have to go watch the movie. Facebook is cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T22:42:14.279Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "which movie did you choose ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T22:42:21.867Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T22:25:54.026Z", 
+  "uid1LogOutTime": "2018-02-28T22:43:16.132Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-28T22:25:54.177Z", 
+  "uid2LogOutTime": "2018-02-28T22:44:13.063Z", 
+  "uid2response": {
+    "feedback": "It was good,I wrote  most of the information.", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4767", 
+  "user2_id": "USR122", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

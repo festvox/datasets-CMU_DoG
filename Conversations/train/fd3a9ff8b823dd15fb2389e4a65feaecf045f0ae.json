@@ -1,0 +1,228 @@
+{
+  "date": "2018-02-07T21:45:31.398Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, do you have a good movie to tell me about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:46:06.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called The Imitation Game", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:46:28.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there any popular actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:46:59.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keira Knightley, Benedict Cumberbatch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:47:26.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also, Matthew Goode", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:47:33.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ok. What is the genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:47:57.322Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:14.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:25.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A cryptanalyst who decrypted German intelligence codes for the British Government during WW2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:49:23.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, sounds interesting. Is there much action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:50:16.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would say yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:39.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:50:47.287Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character is Alan Turing. He is played by \nb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:51:07.046Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Benedict Cumberbatch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:51:12.573Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why does he need to decrypt the codes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:51:34.230Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The British government needs to know the codes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:52:10.688Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So, he's basically a spy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:25.473Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, pretty much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:52:36.901Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How does he gain access?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:52:44.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He joined a cryptography team. The team was trying to decrypt a machine that the Nazis used to send coded messages", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:53:40.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. So, he has help to do this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:54:01.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, there were five other men on the team.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:54:25.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they have an idea what the codes are about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:54:36.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Germans reset the code each day, so it was difficult to determine. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:55:28.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I imagine. So, they encountered many obstacles along the way?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:55:54.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Many obstacles. The machine was ordered to be destroyed and the main character to be fired, but the others threatened to leave if he was fired.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:56:31.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, he wasn't fired then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:56:49.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, he was not fired.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:56:57.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were they finally successful?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:57:06.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, he had an epiphany, realizing he could program the machine to decode words that he already knew existed in certain messages. He recalibrated the machine to decode the messages", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:57:51.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds great. Thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:58:03.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you're welcome!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:58:12.582Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T21:45:31.398Z", 
+  "uid1LogOutTime": "2018-02-07T21:58:15.283Z", 
+  "uid1response": {
+    "feedback": "It sounded like a pretty good movie and I haven't seen it yet, so I think I will watch it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:45:31.399Z", 
+  "uid2LogOutTime": "2018-02-07T21:58:14.098Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4272", 
+  "user2_id": "USR4119", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-20T08:05:04.765Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T08:05:54.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:06:04.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i hope you know batman and superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:06:50.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:08:03.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THEY BOTH HAVE SUPERPOWERS TO SAVE PEOPLE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:10:06.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ON 2016 THEY BOTH ACTED COMBINE AND THAT MOVIE WAS HIT ON HOLLYWOOD \n  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:11:11.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THE NEXT \"MAN OF STEEL\" MOVIE IS A SIMILAR BUT THIS MOVIE IS CAST FOR THIS GEN PEOPLE MIND SET NOT OLDEN DAYS BATMAN OR SUPERMAN ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:12:59.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BOTH THE MOVIE DIRECTORS ARE HAVE EXCELLENT SKILL, AS YOU KNOW DETAILS MENTIONED ON DOC", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:15:07.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "SIR ARE YOU AVAIL TO CHAT WITH ME?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T08:15:37.702Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T08:05:04.765Z", 
+  "uid2LogInTime": "2018-02-20T08:05:05.009Z", 
+  "uid2LogOutTime": "2018-02-20T08:16:22.723Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2479", 
+  "user2_id": "USR1327", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

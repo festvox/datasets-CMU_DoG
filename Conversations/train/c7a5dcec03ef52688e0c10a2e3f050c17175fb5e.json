@@ -1,0 +1,153 @@
+{
+  "date": "2018-02-02T22:07:12.718Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I watched this movie, Frozen, the other day, with my daughter. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:07:47.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have heard of it though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:08:34.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did she like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:08:49.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes; it's an animated musical by Disney.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:09:03.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it about a little girl?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:09:21.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has two sisters in it as the main characters, Elsa and Anna.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:09:35.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I highly recommend it if you have any kids - especially girls.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:09:55.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I know it's very popular, but I couldn't remember what it was about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:10:03.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's based on a fairy tale called \"The Snow Queen\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:10:21.335Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh, so it's based on a book, I didn't know that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:10:40.054Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hans Christian Andersen fairy tale, I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:10:56.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it take place in the North , where it snows all the time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:11:51.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hm. I'm not sure it says where it takes place. It's called Frozen because Elsa has icy powers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:12:41.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh ok, so she can freeze people", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:13:12.495Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its so popular I should go see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:13:51.688Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She accidentally traps the kingdom in eternal winter. It's worth seeing at least once just so you know what it's all about.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:14:14.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok thank you for the information", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:14:28.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You're welcome. Hope you get to see it some time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:15:18.917Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am going to try .", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:15:56.416Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe they'll come out with a part two", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:16:22.397Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T22:07:12.718Z", 
+  "uid1LogOutTime": "2018-02-02T22:17:10.577Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T22:07:12.727Z", 
+  "uid2LogOutTime": "2018-02-02T22:17:03.803Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2422", 
+  "user2_id": "USR4514", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

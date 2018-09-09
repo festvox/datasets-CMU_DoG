@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-21T16:49:57.159Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi  I can't find the discussion pages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:50:45.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I think I am the only one who can seen the pages", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:51:06.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Shape of Water?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:51:17.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay but the other time we both saw them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:51:27.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is my first time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:51:41.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This document I have is about the movie The Shape of Water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:52:31.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Guillermo Del Toro movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:53:49.941Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:54:45.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:00:06.910Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T16:49:57.159Z", 
+  "uid1LogOutTime": "2018-03-21T17:00:20.225Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:49:57.199Z", 
+  "user1_id": "USR476", 
+  "user2_id": "USR424", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

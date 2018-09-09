@@ -1,0 +1,244 @@
+{
+  "date": "2018-03-06T19:20:14.572Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:20:35.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:21:42.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am ok, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:22:04.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Movie paragraphs are not showing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:22:48.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:22:55.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is the blindside", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:23:04.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont think they are suposed to show for you. I have them and am supposed to act as though ive seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:23:38.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I know, what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:23:41.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:23:46.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nI ironically have not seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:23:59.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the script telling you about the story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:24:38.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It gives a general overveiw and critics ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:25:03.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is an autobiagraphy about a football player", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:25:24.315Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me about the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:25:26.828Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its about michael oher who ended up with the baltimore ravens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:26:18.845Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character came from impoverished roots and was nutured by an elite family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:27:54.494Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes that is the main part of the plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:28:11.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What challenges did he face?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:28:42.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He was in many different foster homes his mother had drug addiction", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:29:28.202Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the story about him overcoming these challenges?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:30:18.436Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes \nhe had poor carreer aptitude, and was slow to learn football", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:32:14.590Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he needed the help of a tutor for his grades", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:32:54.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He did become a 1st round pick of the Baltimore Ravens.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:32:54.256Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he got the help he needed to succeed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:33:37.263Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hes i belive that is what happened", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:33:49.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How was his professional career?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:34:33.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im not really sure other than playing for baltimore ravens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:35:13.435Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe he was very good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:35:43.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:35:51.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was his adopted family like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:36:41.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the woman was an interior designer and wife of wealthy buisnessman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:37:23.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "her friends thought it may not be safe to have him living with them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:37:56.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he was introduce to high society.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:40:24.613Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i guesss that is one side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:40:44.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His future was shaped by her intervention.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:41:13.599Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T19:20:14.572Z", 
+  "uid1LogOutTime": "2018-03-06T19:40:56.683Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T19:20:14.573Z", 
+  "uid2LogOutTime": "2018-03-06T19:41:30.828Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1100", 
+  "user2_id": "USR4175", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

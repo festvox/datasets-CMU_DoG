@@ -1,0 +1,221 @@
+{
+  "date": "2018-03-06T16:36:34.645Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, what movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:36:50.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:37:31.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:37:51.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey, Mogan Freeman, Jennifer Aniston, Lisa Ann Walter, Philip Baker Hall", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:38:26.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are the main characters' names?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:38:55.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Nolan, God, Grace Connelly, Debbie Connelly, Jack Baylor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:39:29.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Who plays God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:40:43.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan Freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:41:01.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a comedy? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:41:09.231Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:41:14.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:41:56.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it is a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:42:16.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry, I meant\n PG, PG-13, etc. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:42:46.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry I need to correct my previous answer. The movie is rated PG-13", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:43:03.290Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What demographic is it marketed toward?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:43:57.216Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Viewers over 13 years of age ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:45:12.499Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year was it released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:46:07.988Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was released in 2003", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:46:30.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would it be appropriate for younger children?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:48:02.274Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Probably not appropriate for children under 13 years of age", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:49:02.988Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it follow a traditional movie plot structure?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:50:04.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, there is a problem, a solution is offered, the solution has unpredictable outcomes, it concludes with a happy ending.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:51:19.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:51:38.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "1 hour 41 minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:53:14.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How much money did it make in theaters? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:53:42.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "$484.6 million dollars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:54:31.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:54:51.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ASCAP Award Winner - Top Box Film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:57:33.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I meant to write Top Box Office Film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:58:08.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:58:16.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks I guess we are finished.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:59:18.035Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T16:36:34.645Z", 
+  "uid1LogOutTime": "2018-03-06T16:58:20.399Z", 
+  "uid1response": {
+    "feedback": "The user responded quickly and the conversation went smoothly. The other user was helpful in his/her responses. I would like to see the movie", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T16:36:35.031Z", 
+  "uid2LogOutTime": "2018-03-06T16:59:21.296Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2755", 
+  "user2_id": "USR4922", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

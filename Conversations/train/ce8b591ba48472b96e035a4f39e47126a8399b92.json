@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-06T15:03:14.039Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Haii", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:03:39.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T15:03:50.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where are u?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T15:04:45.150Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T15:03:14.039Z", 
+  "uid1LogOutTime": "2018-02-06T15:06:58.349Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T15:03:14.053Z", 
+  "uid2LogOutTime": "2018-02-06T15:04:38.722Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1717", 
+  "user2_id": "USR488", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

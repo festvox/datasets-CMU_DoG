@@ -1,0 +1,108 @@
+{
+  "date": "2018-02-13T18:51:23.970Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:52:16.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie are we talking about today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:52:51.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. How do you feel about dramas? I hear The Imitation Game is a great drama.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:53:27.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel okay about dramas.  I like to watch them with another person.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:54:06.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in the Imitation Game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:54:32.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This would be a good one for movie night, then! It\u2019s based on real historical events. Benedict Cumberbatch plays a British man who decrypts German intelligence codes during WWII.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:55:58.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kiera Knightly is also in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:56:24.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow, I think I saw the trailer for that awhile back.  Was he gay in that movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:56:31.206Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You\u2019ll have to watch it to find out the dirty details!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:56:57.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Details*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:57:15.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:57:20.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:57:51.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well it would be good to watch with your LGBT relatives or friends.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:58:04.221Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:51:23.970Z", 
+  "uid1LogOutTime": "2018-02-13T18:58:36.608Z", 
+  "uid1response": {
+    "feedback": "The other user left before 12 responses were made.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:51:23.982Z", 
+  "uid2LogOutTime": "2018-02-13T18:58:21.568Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2122", 
+  "user2_id": "USR848", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

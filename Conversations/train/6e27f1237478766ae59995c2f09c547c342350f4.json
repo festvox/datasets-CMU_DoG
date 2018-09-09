@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-21T15:56:19.347Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:56:44.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! I was wondering if you have ever seen the movie Ironman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:59:30.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! You there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:03:20.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Want to discuss Ironman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:11:17.059Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:56:19.347Z", 
+  "uid1LogOutTime": "2018-03-21T15:57:36.695Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:56:19.382Z", 
+  "uid2LogOutTime": "2018-03-21T16:12:38.551Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR206", 
+  "user2_id": "USR2922", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

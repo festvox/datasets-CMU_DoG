@@ -1,0 +1,89 @@
+{
+  "date": "2018-02-19T19:01:57.665Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Fair movie. Can't wait to see the next and when Superman will rise from the grave.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:03:53.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, agreed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:04:15.054Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The graphics were outstanding.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:04:40.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was not impressed with the person they picked for Wonder Woman. In my opinion could have done better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:05:09.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the graphics. Godd job.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:05:28.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was just thinking that. Good catch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:06:00.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I liked Wonder Woman, but not the new Batman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:06:34.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really didn't care for that Batman. The Wonder Women did fight well. That part impressed me. She held her own. I didn't like her as a actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:07:57.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Krpto monster was great. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:51.426Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Lex Luther story could have been better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:09:48.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Overall not a bad movie. I would watch it again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:10:20.586Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:01:57.665Z", 
+  "uid1LogOutTime": "2018-02-19T19:11:53.621Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:01:57.688Z", 
+  "user1_id": "USR4016", 
+  "user2_id": "USR1228", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

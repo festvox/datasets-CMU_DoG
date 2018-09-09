@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-05T22:34:05.864Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:34:44.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just saw a hilarious movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:35:02.863Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the movies name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:35:31.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mean Girls with Lindsay Lohan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:35:35.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's  cool what was it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:35:54.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like High School movies for some reason. And Lohan is great. Movie really rings true.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:36:29.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh ok, it's a movie about high school. What genre is it? Drama, comedy, horror?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:37:18.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a comedy. Tina Fey wrote the screenplay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:38:07.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh Lindsey Lohan is in the movie? I like the work shes done in her movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:38:25.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, she perfect for the role. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:39:15.830Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Really I didn't know Tina Fay wrote movies. that's kinda cool. So what is the movie about? like what is lohans role in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:39:43.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lohan is the new kid in school and encounters a clique: the mean girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:41:10.621Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh so do the MEAN GIRLS give her a problem the entire movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:41:36.202Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, they invitie her into their clique. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:42:08.121Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it work out for her joining the Clique?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:43:06.303Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Another girl get jeleous of this and uses Lohan to get revenge on one of the Mean Girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:43:29.711Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ahhh so it's like real life. very close to real highschool drama", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:44:02.642Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. I won't give you the ending, but its hilarious in a dark sort of way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:44:51.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok. is there any other famous people in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:45:17.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's also a great conversational flick. I like convo movies, though usually those are serious. Tina Fey should get credit I guess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:45:17.524Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't recognize anyone else. Amanda Seyfried is in it though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:46:01.584Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohh ok i know her. Is it a long movie like more than 2 hours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:46:19.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I foget. Time flew.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:46:48.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a kid-friendly movie or is there a lot of cursing and/or nudity.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:46:53.014Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. Kid friendly. it ends with the Prom, like all Teen movies. Not quite as climatic as Carrie tho", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:48:09.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its based on a non-fcition book, btw. A book about high school social cliques. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:49:34.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So Tina Fey should get a lot of credit for adapting it into a movie. That's very creative. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:50:13.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh wow really? I didn't know it was based off a book. on a scale of 1 to 10  10 being the best how would you rate this film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:50:35.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "8.5", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:50:48.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she should get more credit then she is given tina. wow, thats a good rating 8.5", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:51:08.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My favorite movies are teh Godfather and Basic Instinct, just for reference.. So, conversation-oriented plots are what I like I guess. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:52:12.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What movies do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:52:32.398Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, those movies are amazing as well. cinematic masterpieces. Well, this movie sounds really interesting. I think I might have the family sit down and watch this film. thank you so much for all the information on the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:53:11.044Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T22:34:05.864Z", 
+  "uid1LogOutTime": "2018-03-05T22:53:16.750Z", 
+  "uid1response": {
+    "feedback": "I will watch this movie because the other user gave a very good description of the film and what it's about. She/he made it sound interesting enough to where I want to go out and watch this film or rent it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T22:34:06.038Z", 
+  "uid2LogOutTime": "2018-03-05T22:52:47.966Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1157", 
+  "user2_id": "USR454", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

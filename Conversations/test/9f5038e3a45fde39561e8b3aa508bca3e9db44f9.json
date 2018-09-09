@@ -1,0 +1,39 @@
+{
+  "date": "2018-01-26T21:08:45.754Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I absolutely love Gal Gadot as an actress. She is beautiful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:09:25.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:09:33.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:10:13.459Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-01-26T21:08:45.754Z", 
+  "uid1LogOutTime": "2018-01-26T21:11:13.490Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-26T21:08:48.224Z", 
+  "user1_id": "USR3849", 
+  "user2_id": "USR1896", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2018-03-23T20:35:10.927Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Ever read the novel The Great Gatsby?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:35:43.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Many years ago. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:36:33.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watch any of the films including the new one ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:36:54.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. I liked the recent one with Leo. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:37:47.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:38:22.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely! There\u2019s an older movie but the recent one is a lot better ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:38:33.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you read the novel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:38:44.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah and the movie does the book justice!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:39:25.824Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BTW, a professor of literature argued not too long ago that Gatsby's secret was that he was \"passing\", ie he was a black man passing for a white one. Really. That would be an interesting take for a movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:40:46.057Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:41:13.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Now that you think about it... that\u2019s an excellent theory. Thank you for that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:41:35.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah interesting take. He offers some details as to why, focusing on racial steroetypes during the Jazz Age, iirc. You can google it easily, btw.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:44:58.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie was an easy watch. Not sure if critics liked it though, probably because the book sets a high standard. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:45:49.754Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cause in the film they sort of romanticize the ghetto where blacks people where almost glamorized. That sort adds to the theory ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:46:41.145Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah the critics gave it like a 50% rating ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T20:49:17.659Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gatsby's friend is named Buchanan. I wonder is that is a reference to President James Buchanan and the Dred Scott decision. Just speculation on my part. Not sure if the Prof said this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:54:23.277Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean Buchanan does hate Gatsby because he is \"new money\". So it makes sense. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T20:57:39.070Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "DiCaprio does a good job playing rich guys, which is kinda ironic since he started off in Titanic. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:02:24.592Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The settings (The Plaza and the North Shore of LI) help make the movie an easy watch, imo.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:05:15.169Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T20:35:10.927Z", 
+  "uid1LogOutTime": "2018-03-23T21:07:40.965Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-23T20:35:11.010Z", 
+  "user1_id": "USR454", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

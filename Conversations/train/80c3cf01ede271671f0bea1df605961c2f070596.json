@@ -1,0 +1,74 @@
+{
+  "date": "2017-12-19T17:02:05.397Z", 
+  "docLinkIdx": 7, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:02:31.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:02:38.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So the movie I have here is The Avengers from 2012.  I think you should see this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:03:05.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting. Is there anything you can tell me about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:04:01.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a 92% rating on Rotten Tomatoes, and it's a superhero movie based on the Marvel Comics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:04:55.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which superheros are in it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:05:16.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thor, The Hulk, Captain America, and Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:06:36.189Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-19T17:02:05.397Z", 
+  "uid1LogOutTime": "2017-12-19T17:06:01.623Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:02:05.426Z", 
+  "uid2LogOutTime": "2017-12-19T17:07:37.900Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4066", 
+  "user2_id": "USR4218", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

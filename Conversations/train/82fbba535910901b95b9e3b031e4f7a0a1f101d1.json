@@ -1,0 +1,103 @@
+{
+  "date": "2018-03-30T16:48:17.351Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Can you believe\n it toy story was made in 1995?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:49:02.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like such a long time ago. I'm impressed that it received\n such good critic reviews right away.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:49:41.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:50:00.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The cast seems to be quite famous. One wouldn't think that the first computer animated film and the first feature film by Pixar would garner such talent. What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:50:47.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Randy Newmans music in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:51:22.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an all star cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:51:36.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the music really added to the impressive animation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:52:12.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you give it a 9.5 or higher?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:52:54.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I certainly would. And it seems that critics agree given it's impressive ratings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:53:22.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did anyone win awards for their roles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:53:52.268Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:57:59.225Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think about toys coming alive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:58:57.385Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T16:48:17.352Z", 
+  "uid1LogOutTime": "2018-03-30T16:59:32.772Z", 
+  "uid1response": {
+    "feedback": "The other person left the chat after the second paragraph ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T16:48:17.379Z", 
+  "uid2LogOutTime": "2018-03-30T16:58:16.770Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4168", 
+  "user2_id": "USR1187", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

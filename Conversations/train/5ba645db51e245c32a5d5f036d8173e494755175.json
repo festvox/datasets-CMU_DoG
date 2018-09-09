@@ -1,0 +1,288 @@
+{
+  "date": "2018-02-17T16:02:14.707Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:02:42.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi have you seen How to Train Your Dragon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:03:21.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I never have.  Did you see it recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:03:42.790Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I watched it last night with my kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:04:22.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?  Did your kids like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:04:45.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a dreamworks animated film starring Jonah Hill, T.J. Miller, and Gerard Butler.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:05:05.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Jonah Hill.  Was it good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:05:31.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I loved it, and the kids loved the dragons, and the all the Ariel Battles.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:05:32.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are Ariel Battles?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:06:20.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oops aerial battles are battles that take place in the air. In the case of this movie. Dragons have fights in the air.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:07:34.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see.  Do you think this movie would be interesting for a date with my wife?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:08:03.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think if your wife likes Animated comedies then she will really like this one. Toothless (the main dragon) is adorable and my wife really loves him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:09:05.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it in theaters or can you watch it at home?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:09:48.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its usually on Netflix but It came out in 2010 so its no longer in Theatres.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:10:19.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there singing in the movie?  Or is it just talking?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:11:03.179Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its not a musical just a standard fantasy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:11:26.929Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And is it a comedy or a drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:11:40.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a comedy with some dramatic elements. Alot of father son relationship building.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:12:43.115Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting. Do you watch a lot of other animated comedies?  Do you think it was better than Cars or Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:13:17.442Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it was definitely better than Cars and I think it was better than Toy Story 2 and 3, but not better than Toy Story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:14:25.104Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, sounds like a very good movie.  Is it long or short?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:14:48.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its the perfect length for a childrens movie at just over 90 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:15:34.416Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which company produced the movie?  Dreamworks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:15:50.115Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea its probably Dreamworks best movie since the first Shrek Movie. Its all about VIkings on the Island of Berk in a world where dragons are real. The main character is Hiccup a young scrawy Viking son of the chief Viking Stoic the Vast. Hiccup ends up befriending a dragon and changing the way Vikings view dragons in their world.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:17:27.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, I liked shrek a lot.  What role did Jonah Hill play?  I like him a lot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:18:06.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is one of the first people to help Hiccup train dragons. A cocky kind of comic relief character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:19:29.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it sounds like you would highly recommend the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:20:38.919Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would absolutely. It is one of my favorite fantasy movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:21:48.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything you would say was bad about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:22:15.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just that is has a 98% on rotten Tomatoes and a CinemaScore of an A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:22:53.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds really good, not bad.  Right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:23:11.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea those are excellent scores.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:23:34.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, that sounds amazing.  What was the name of the movie again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:23:55.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How to Train Your Dragon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:24:07.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well that's pretty cool.  So it's on Netflix right now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:24:30.039Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I just checked, and I guess its not\ns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:25:44.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:25:47.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I'll find some other way to watch it.  And what is the rating? PG?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:26:06.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so but my 3 year old has watched it nightmare free.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:27:20.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, thank you for the recommendation.  I'll definitely check it out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:27:39.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:27:51.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:28:03.806Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-17T16:02:14.707Z", 
+  "uid1LogOutTime": "2018-02-17T16:28:06.162Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T16:02:14.783Z", 
+  "uid2LogOutTime": "2018-02-17T16:28:12.202Z", 
+  "uid2response": {
+    "feedback": "I did not get the document.  The other user responded relatively quickly and seemed to like the movie a lot!  Even though he didn't quite answer my questions perfectly.  Seems like a great movie that I want to watch!", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4783", 
+  "user2_id": "USR4289", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

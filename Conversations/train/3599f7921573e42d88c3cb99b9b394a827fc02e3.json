@@ -1,0 +1,58 @@
+{
+  "date": "2018-02-20T21:34:29.744Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:35:20.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:35:29.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Bruce Almighty yet?!?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:35:39.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen that movie, yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:35:52.973Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey is hysterical in that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:36:28.386Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T21:34:29.745Z", 
+  "uid1LogOutTime": "2018-02-20T21:36:37.802Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T21:34:29.753Z", 
+  "uid2LogOutTime": "2018-02-20T21:36:28.845Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR718", 
+  "user2_id": "USR891", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

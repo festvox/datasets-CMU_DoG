@@ -1,0 +1,362 @@
+{
+  "date": "2018-03-28T15:10:29.126Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:10:41.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI, Have you seen \"THe GREAT Gatsby\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:11:04.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I have seen it before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:18.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:24.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, how do you feel about the Rotten Tomatoes score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:11:43.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am actually surprised that the score is that low....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:59.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a pretty bad rating hahah. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:13.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:16.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did. Leonardo DiCaprio is one of my favorite actors. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:46.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah his acting in that movie was really great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:13:03.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also really liked Nick Carraway's character in the movie too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:13:18.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was Carey Mulligan's name in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:28.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Carey Mulligan played Daisy Buchanan in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:01.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Daisy Buchanan is married to Tom Buchanan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:28.612Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who did Joel Edgerton play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:14:46.055Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joel Edgerton played as Tom Buchanan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:07.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was the genre of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:25.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It says here that Nick Carraway was a World War 1 veteran as well. I don't think I knew that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:30.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film is a Romantic, Drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:35.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what year it came out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:39.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe it was 2013.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:53.122Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:57.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was directed by Baz Luhrmann", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:16:20.210Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't say I have ever heard of that director to be honest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:16:26.675Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you recall who told Tom about the love affair?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:16:38.728Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it Myrtle?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:17:41.853Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Myrtle?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:17:45.092Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it was actually Gatsby himself that told him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:10.665Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, at the plaza Gatsby told Tom about the affair.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:29.175Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom was accusing Gatsby of being a fraud essentially and saying he didn't go to Oxford.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:47.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes you are correct. Where did production take place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:19:02.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Production took place in Australia actually! I didn't know that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:44.775Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how much the film had for a budget?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:51.078Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it had a budget of 190 million.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:20:14.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know who killed Myrtle?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:20:38.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She gets struck by Gatsby's car.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:38.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it say who was driving the car?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:21:53.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe Daisy was in the car.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:01.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who receives treatment for alcoholism at the psychiatric hospital?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:00.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was actually nick Carraway", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:23:18.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't recall them mentioning that in the film for some reason.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:23:25.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't either. What war was Nick a part of?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:52.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was apart of World War 1", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:24:00.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And Gatsby was actually broke and created his fortune for himself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:24:36.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:53.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know if I asked but when was the film released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:25:38.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The film was released in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:25:58.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the Cinema Score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:26:43.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Cinema Score was a B", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:26:59.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the Metacritic Score was a 55 out of 100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:27:05.496Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we are done, no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:27:15.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We should be at this point tbh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:27:24.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good one!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:27:25.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:27:35.353Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T15:10:29.126Z", 
+  "uid1LogOutTime": "2018-03-28T15:27:38.639Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:10:29.167Z", 
+  "uid2LogOutTime": "2018-03-28T15:27:37.153Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3946", 
+  "user2_id": "USR4401", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

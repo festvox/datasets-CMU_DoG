@@ -1,0 +1,150 @@
+{
+  "date": "2018-04-02T15:46:31.048Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey I just watched Wolf on Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:47:21.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio is in it who is a great actor!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:47:44.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:48:05.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Margot Robbie is also in it who I think is an up incoming actress, this part really helped her career I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:48:27.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like leonardo as well but i think jonah hill role was quite boring ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:48:54.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a kind of dark comedy movie which aren't usually my favorite but they did a really good job with it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:49:15.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What made it boring to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:49:19.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Becuase he was a business man? Which I guess is out of his normal casting roles. It was different for him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:50:09.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he plays the same character every movie, i wonder if they act in real life of wall street like Leornado did ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:50:22.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He tends to play the same kind of character, I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:51:09.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "jonah hill is never the main character he is always somebody else baggage.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:51:20.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But he is a good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:51:27.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they consume a large amount of coke omg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:51:43.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah they really do. They made something I perceive as very boring (the business world) as a very chaotic and dramatic life.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:52:46.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and they made a lot of money but if that's thereal life of wall street i don't wanna be a part of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:53:52.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A key scene was when Jordan (DiCaprio) just got his job on Wall Street for Rothschild. He very quickly got into drugs from the beginning with this job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:54:28.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i only watch the movie because of Leonardo, and i did not know about all those drugs jeezzz", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:54:28.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Then he was fired, worked on Long Island with penny stocks and was actually able to make a lot of money that way which I guess showed how persuasive and energetic he was. Leo always seems to make great movies, but yeah I agree there were a lot of drugs from the very beginning.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:56:21.183Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That must be the businessman culture.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:56:35.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or atleast wallstreet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:56:48.066Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T15:46:31.048Z", 
+  "uid1LogOutTime": "2018-04-02T15:56:30.324Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:46:31.058Z", 
+  "uid2LogOutTime": "2018-04-02T15:58:05.452Z", 
+  "uid2response": {
+    "feedback": "My partner left before all the paragraphs were given to us and didn't really want to talk much about the movie.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1632", 
+  "user2_id": "USR1708", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

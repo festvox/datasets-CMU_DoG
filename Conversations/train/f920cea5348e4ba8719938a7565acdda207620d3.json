@@ -1,0 +1,100 @@
+{
+  "date": "2018-03-22T17:22:53.805Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:23:01.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I'm going to talk to you about Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:23:29.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool, ive seen it before", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:23:42.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you know this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:23:42.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah its been a while tho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:24:06.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:25:04.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nis an excellent child animation film with great acceptance from the public since it began", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:26:22.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool, it was very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:26:47.481Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is made with a computer and directed by John Lasseter,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:27:00.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "premiered in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:27:26.926Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh wow i did not know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:27:31.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was a long time ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:28:20.581Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you should try to keep the conversation going", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:29:37.456Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T17:22:53.805Z", 
+  "uid1LogOutTime": "2018-03-22T17:32:19.876Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:22:53.871Z", 
+  "user1_id": "USR4560", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

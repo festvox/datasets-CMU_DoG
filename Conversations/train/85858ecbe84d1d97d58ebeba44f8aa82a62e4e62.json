@@ -1,0 +1,70 @@
+{
+  "date": "2018-02-15T19:38:14.296Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:38:57.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "here i am", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:39:00.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:39:10.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im going talking whit you about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:39:15.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:39:21.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:39:23.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is that about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:39:38.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:40:39.065Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T19:38:14.296Z", 
+  "uid1LogOutTime": "2018-02-15T19:41:36.426Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-15T19:38:14.318Z", 
+  "user1_id": "USR1228", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

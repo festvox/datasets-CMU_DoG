@@ -1,0 +1,106 @@
+{
+  "date": "2018-01-30T00:15:07.305Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So what is the movie you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:15:59.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Frozen? You really should, RottenTomatoes gave it a 89% which is pretty impressive for them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:16:16.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it. 89 sounds pretty good. What is that score out of? 100?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:17:01.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it's a percentage. Did you know that it is inspired by the Hans Christian Andersen fairy tale \"The Snow Queen\"? That's pretty cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:17:58.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never heard that story. Is it like a direct adaptation or just sort of influenced by the story like other Disney movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:18:59.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure. My document just tells me \"inspired by\". I haven't read that story either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:19:29.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah gotcha. So who are the central characters in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:20:00.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nAnna the 18 yr old princess, Elsa the Snow Queen of Arendelle and Kristoff the iceman. They are voiced by Kristen Bell, Idina Menzel, and Jonathan Groff respectively.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:20:49.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And what is the central conflict?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:21:18.930Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A fearless princess sets off with the iceman to find her estranged sister whose icy powers have trapped the kingdom! Aah!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:22:22.209Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting, I would be interested in watching it again. Is it a musical?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:23:20.474Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great. Yes, it has good musical numbers. The critical response about Frozen said things like \"It's also just plain terrific bit of family entertainment.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:24:18.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello? Still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:29:26.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Please reply! I'm gonna abort conversation...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:30:29.620Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T00:15:07.305Z", 
+  "uid2LogInTime": "2018-01-30T00:15:07.576Z", 
+  "uid2LogOutTime": "2018-01-30T00:31:37.995Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR154", 
+  "user2_id": "USR3811", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2018-03-26T14:59:57.456Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:03:57.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Shape of Water yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:05:26.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A human falling in love with a humanoid amphibian creature. that's sounds intresting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:05:44.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is an intriguing concept.  I've read it is Guillermo del Torro's most stunningly successful work on film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:07:00.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was interesting that the heroine was a mute.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:09:55.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Elisa's performance?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:12:42.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Michael Stuhlbarg in the role of Soviet spy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:14:40.183Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T14:59:57.456Z", 
+  "uid1LogOutTime": "2018-03-26T15:15:49.272Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:59:57.739Z", 
+  "user1_id": "USR3168", 
+  "user2_id": "USR3518", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

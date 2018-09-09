@@ -1,0 +1,138 @@
+{
+  "date": "2018-02-15T22:07:34.659Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:09:10.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, whats up?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:10:04.268Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you ever seen mean girls?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:10:08.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "probably one of the most quotable movies on the face of the earth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:10:19.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "never", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:12:41.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHen did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:12:48.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:13:09.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its got lindsay lohan in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:14:23.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "rachel mcadams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:14:28.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "amanda Seyfried ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:14:40.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it came out in 2004", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:15:15.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a long movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:16:19.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "eh, not really average lenght i think about an hour and a half", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:17:59.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its about teen drama, but its pretty funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:18:18.183Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a comedy then? good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:19:26.843Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe I will watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:19:36.546Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you watch the movie more than once?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T22:20:16.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, ive seen it a thousand time. Most of my exes really liked it so i watched it a lot. especially when i was in highschool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T22:21:10.513Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T22:07:34.659Z", 
+  "uid1LogOutTime": "2018-02-15T22:37:06.605Z", 
+  "uid1response": {
+    "feedback": "the user left before i could finish the conversation", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T22:07:34.682Z", 
+  "uid2LogOutTime": "2018-02-15T22:32:44.004Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4734", 
+  "user2_id": "USR2340", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

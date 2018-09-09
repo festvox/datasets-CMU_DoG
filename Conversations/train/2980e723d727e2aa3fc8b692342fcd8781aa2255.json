@@ -1,0 +1,397 @@
+{
+  "date": "2018-03-21T15:37:28.349Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:37:33.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:37:45.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Monsters University", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:37:47.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool. I haven't seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:37:55.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:37:57.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it was awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:03.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a kids movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:07.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its animated", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:18.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gotcha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:20.464Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are the reviews like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:26.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The ratings are preetty high", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:28.559Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:33.560Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "average was 7/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:40.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "steve buscemi was in it. He has a pretty good voice for a monster", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:01.607Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also hellen miran was in it as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:15.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is the first time pixar made a prequel film. This movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:39.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know of Monsters Inc??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:58.665Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is a lot like that movie since this is the prequel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:12.061Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I suggest seeing it, definiately if you have children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:29.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:42:12.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": ";p", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:43:00.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": ":P!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:44:15.300Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hola?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:47:05.251Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you there? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:47:53.788Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:47:57.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My computer froze :(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:47:58.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So sorry about that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:48:01.628Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Itsall good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:48:02.726Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you heard of monsters INC?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:48:13.295Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have! I thought that was a pretty good kids movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:48:27.599Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not usually into animated films but it was actually decent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:48:43.914Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cool! This movie is the prequel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:48:49.793Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its the first prequel pixar ever made", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:48:55.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh really?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:49:55.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would recomend it fo shizzle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:49:59.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:50:00.508Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:50:03.410Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Helen miran is in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:50:19.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:50:58.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's a pretty good actress.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:51:05.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "also steve buscemi is in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:51:09.166Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He makes a good monster", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:51:12.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd definitely understand that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:51:35.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John goodman is in it too,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:51:49.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "his voice is classic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:51:52.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is he still alive?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:51:57.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:52:17.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea i saw him not so long ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:52:21.688Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "on tv", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:52:24.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh haha I thought you actually saw him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:53:53.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was like whaaaaa craaaazy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:10.578Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope i barely get out these days", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:14.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:16.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:22.001Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay so what else is cool about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:30.901Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To be honest this film seemed to slip through the cracks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:35.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i never saw comercials forit or anything", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:40.901Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, we're done. Have a good one!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:41.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was made in 2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:44.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You to!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:54:48.037Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T15:37:28.349Z", 
+  "uid1LogOutTime": "2018-03-21T15:54:49.422Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:37:28.401Z", 
+  "uid2LogOutTime": "2018-03-21T15:54:51.252Z", 
+  "uid2response": {
+    "feedback": "This was really successful. My partner did great!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1592", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

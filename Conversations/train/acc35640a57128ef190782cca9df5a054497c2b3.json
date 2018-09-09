@@ -1,0 +1,320 @@
+{
+  "date": "2018-02-19T19:44:32.906Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:44:39.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it? It was just on tv the other night", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:45:07.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Despicable Me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:45:36.973Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, many times. I love it. What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:45:50.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I've only seen it once.  But it was really good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:46:04.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carrell is awesome in it, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:46:23.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. The whole cast is great but the leading men, Carell, Segal, and Brand all nailed their roles. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:46:45.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you leave?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:47:20.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:47:23.143Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought you did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:47:26.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The story was good. I like the character development for Gru. To me it showed that sometimes people are 'bad' because they lack love in their life", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:48:00.306Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh, i am still here. i am surprised the rotten tomatoes score is not higher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:48:00.553Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you have kids?  did you see it with kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:48:26.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, me too. 81% doesn't seem to translate into 6.8 very well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:48:29.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "my kids loved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:48:31.029Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do, that is why I have seen it so many times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:48:36.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you see it in 3D?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:48:49.939Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, my kids don't seem to do well with 3D", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:49:05.877Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like how Gru bonded with the girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:49:25.382Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Didn't you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:49:29.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea. It made me happy to see him turn around and learn how to show affection and caring for them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:49:46.532Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree.  Like you said, it's nice when you see people who seem bad have good hearts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:50:05.354Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like the Minions a lot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:50:14.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The minions were cute. I like them better in the later movies where they have a bit more of their own personalities", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:50:32.673Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, I haven't seen any of the later ones", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:50:49.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I also am surprised the critics did not rate Despicable Me higher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:51:03.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe with the all star cast they expected more, but most characters did not have many lines", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:51:34.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you know that the directors of the movie were newbies?  That they never directed a major picture before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:51:48.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think of Vector?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:52:17.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pretty evil, huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:52:25.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that they were new directors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:52:32.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they were", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:52:38.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Vector was pretty much a stereotypical bad guy, I don't think he ever came around to being 'good' if i remember correctly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:52:58.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked when the girls tried to offer their piggy bank money to help!  Did you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:53:21.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that was very sweet of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:53:32.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the name of the guy with the lab coat who was Gru's friend?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:53:47.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "With glasses?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:53:51.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dr. Nefario ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:53:59.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was pretty cool too, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:54:13.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't really know Russell Brand, the voice who played him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:54:39.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He made a lot of the jokes work I think. When he messed up the cookie robots and made i htink it was disco or 'boogie' ones", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:55:00.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It didn't sound like him at all! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:55:07.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He has a heavy British accent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:55:17.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ha ha.  That was good stuff!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:55:34.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, glad we both liked it.  It was a great flick!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:55:55.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Thanks for the good chat. :) ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:56:04.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye now!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:56:10.326Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T19:44:32.906Z", 
+  "uid1LogOutTime": "2018-02-19T19:56:08.302Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:44:32.949Z", 
+  "uid2LogOutTime": "2018-02-19T19:56:16.459Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3743", 
+  "user2_id": "USR4289", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

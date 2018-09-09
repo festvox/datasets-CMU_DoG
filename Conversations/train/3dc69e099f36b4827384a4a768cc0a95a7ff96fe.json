@@ -1,0 +1,332 @@
+{
+  "date": "2018-03-22T16:07:03.522Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:07:16.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i AM GOOD AND YOU\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:07:25.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:07:36.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing great. How did you feel about Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:07:51.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it alot, I especially liked the effects, and you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:08:23.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was fantastic. Truth be told it's the only super hero movie i really enjoyed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:08:54.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey JR was made for the role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:09:13.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I especially liked Robert Downey Jr for the part- he really is what I thought Iron man would be like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:09:26.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He just has that sync with the Tony Stark Character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:09:29.684Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I agree. I also loved the Iron Man costume- Really well done.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:09:58.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I couldn't tell what was real and cgi on the costume. It was well done. I think the review scores were a bit too low. What did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:10:31.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "for a superhero movie I think its pretty high actually", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:10:59.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Really? I thought this deserved a solid 8 or 9. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:11:25.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I normally do not like superhero movies but felt this one had a balance of comedy and action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:11:29.267Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can agree with that an 8 seems more of a fitting rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:11:50.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah so you are like me. I think other super hero movies are a bit bland.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:11:53.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This one brought a lot of clever and subtle comedy to it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:12:17.307Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you think of the Story overall?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:12:37.879Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked it, I found it developed well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:12:53.220Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked how he changed and the character developed. What was your favorite part or parts of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:13:22.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree, I liked Tony's progression throughout the film. This arrogant guy that thinks he's untouchable only to get kidnapped. I think my favorite part of the film was when he built th suit and got away from the terrorists.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:14:03.025Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How about yourself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:14:07.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I was a little confused how he got the power for his heart, power circle thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:14:39.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wasnt sure how he was able to create that in that cell", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:14:57.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well he created the arch reactor while in captivity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:15:40.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ahhh right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:15:56.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it wasn't until he stabilized it that he used it to break out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:16:03.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they say that movie had a lot of easter eggs for future avenger movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:16:20.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like spoilers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:16:23.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, captain America's shield was a big one i actually missed the first time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:16:48.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i totally missed those parts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:17:08.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same here, it took a few watches to see everything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:17:22.778Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tony Starks reminds me of Elon Musk lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:17:22.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lmao he does!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:17:29.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "100% agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:17:35.652Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i bet he has some superhero type suit that no one knows about - yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:17:51.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "More than likely. The guy is always 10 steps ahead", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:18:11.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you like gweneth paltrow in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:18:24.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She was pretty good as Potts in my opinion. She grew on me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:18:41.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah at first I just saw her as bland", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:19:04.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but later on she was convincing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:19:18.996Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, once she got some good lines she was able to keep up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:19:22.543Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "almost as funny as Robert", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:19:35.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they worked well together.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:19:41.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "agreed - she held her own in the comedy dept.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:19:54.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah they are believable together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:20:03.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok I'm gonna head out. Thanks for the chat it was fun!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:20:14.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same here- take care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:20:21.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "See ya", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:20:24.894Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T16:07:03.522Z", 
+  "uid1LogOutTime": "2018-03-22T16:20:31.349Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T16:07:03.543Z", 
+  "uid2LogOutTime": "2018-03-22T16:20:27.587Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2542", 
+  "user2_id": "USR3319", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

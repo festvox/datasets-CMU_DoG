@@ -1,0 +1,55 @@
+{
+  "date": "2018-02-20T14:26:42.556Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T14:27:31.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there. Have you seen the movie The Blind Side? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T14:27:53.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I didn't. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T14:28:18.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Blind Side is a great film, in my opinion. It is a film written and directed by John Lee Hancock and it is actually based on a book. The storyline features Michael Oher who is an offensive lineman who was drafted by the Baltimore Ravens of the NFL. This movie follows Michael from his impoverished upbringing through his years in school and his adoption by Seand and Leigh Anne Tuohy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T14:30:58.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. Do you know where can I see this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T14:33:14.808Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-20T14:26:42.556Z", 
+  "uid1LogOutTime": "2018-02-20T14:34:14.674Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T14:26:42.659Z", 
+  "uid2LogOutTime": "2018-02-20T14:35:30.674Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1619", 
+  "user2_id": "USR86", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

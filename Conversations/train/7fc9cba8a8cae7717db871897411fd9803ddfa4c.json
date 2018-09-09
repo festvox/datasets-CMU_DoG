@@ -1,0 +1,128 @@
+{
+  "date": "2018-03-27T18:26:32.480Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What kind of movie is this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:27:24.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Black Comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:27:55.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:28:04.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have. I quote it often, actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:28:26.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your favorite quote from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:28:44.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie came out in 2013 with Leonardo Dicaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:28:52.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"Sell me this pen.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:29:06.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is is about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:29:21.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leo was even the producer as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:29:25.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about or what is the quote about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:29:51.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie about, sorry!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T18:30:01.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A man's career as a stock broker in NYC and the corruption and fraud", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:30:44.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How all of that led to his downfall.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:31:02.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Theres an FBI agent who tries to take him down, who is played by Patrick Denham", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:31:50.020Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Even M\natthew McConaghey is in the movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:32:10.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A few more cast members are Naomi Lapaglia, Kyle Chandler and Margot Robbie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T18:32:52.189Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T18:26:32.480Z", 
+  "uid1LogOutTime": "2018-03-27T18:30:42.660Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T18:26:32.540Z", 
+  "uid2LogOutTime": "2018-03-27T18:32:54.372Z", 
+  "uid2response": {
+    "feedback": "The other user left the conversation before I finished my 12 responses, I finished them anyway.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR235", 
+  "user2_id": "USR2226", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2018-02-20T18:31:00.519Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How great was the character \"big mike\" ? greatest role in the movie, his back story and how he is now? heart warming", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:32:02.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "some movies scenes kept me crying like a baby when he told his new mom he never had a bed before. saddest parts of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:33:19.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but in the end the movie taught viewers to stay strong in any situation and as long as you keep your head up you can achieve anything you put your mind too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:33:52.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can agree with that. I was not too impressed with the movie though. It only received a 69% on rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:33:54.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i personally dont go by viewer ratings myself. i like to see films in my own eyes rather then someones opinion ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:34:50.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with you. I was just using the critic score to back up my opinion that it was just an okay film. I did think that Quinton Aaron did a good job in his role. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:37:06.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i can agree with that. sandra played a strong role. i feel like it taught woman to stay strong even in tough enviroments", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:38:29.328Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can definitely agree with you there as well. I like that It was a rags to riches sort of storyline. It makes you feel as though anyone can succeed. You don't need to start of rich to join the NFL, just have talent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:40:39.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "as long a you have the talent and mind set to set goals for yourself you can do anything ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:41:12.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This film did a good job of portraying that. At the same time though, I'm not sure he would have made it all the way to the NFL without the support of Sandra Bullock's character. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:43:41.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i can agree with that. she really pushed the movie to the point where everyone wanted to watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:45:02.622Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of Tim McGraw's acting? I honestly didn't know he could act.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:46:52.051Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i thought he had a  good attitude with the role. didnt really show up much in the movie but it wasnt about him. i feel like he was always happy but they needed to have realistic roles of getting angry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:51:09.945Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T18:31:00.519Z", 
+  "uid1LogOutTime": "2018-02-20T18:51:11.582Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T18:31:00.596Z", 
+  "uid2LogOutTime": "2018-02-20T18:50:58.314Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1091", 
+  "user2_id": "USR1320", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-05T18:18:35.307Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:19:40.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Movie is the Blind Side. It is about a young impoverished boy who was saved by a family and saw his potential of becoming a feat football player.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:20:21.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved this movie....Sandra Bullock is one of the best", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:20:57.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the young man had it tough, but she made sure he succeeded", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:22:23.574Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T18:18:35.307Z", 
+  "uid1LogOutTime": "2018-03-05T18:23:21.540Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T18:18:35.361Z", 
+  "uid2LogOutTime": "2018-03-05T18:24:13.663Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4745", 
+  "user2_id": "USR1608", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "date": "2018-03-16T18:21:48.987Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:22:33.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:37.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We will be discussing despicable me\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:22:46.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:52.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not familiar with it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:22:58.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What actors are in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:23:09.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "okay. It came out in 2010\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:23:12.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, so it has been around for a while...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:23:21.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's an animation and it's pretty fnny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:23:26.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:23:28.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "gotcha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:23:31.410Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you care about ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:23:42.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I always check ratings before watching a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:23:57.887Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Specifically, IMDB", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:24:03.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and sometimes, Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:24:08.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "me too. I usually check rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:24:11.955Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My go-to rule: if it's below 7.0 on IMDB, I pretty much always pass", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:24:39.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so rotten tomatoes is 81% and metacritic score is 72/100\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:24:53.159Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no imdb score on here :/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:25:06.833Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems legit. I'm not really familiar with metacritic, but I've heard of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:25:17.975Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In my opinion it's a pretty good movie but i wouldn't watch it twice :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:25:43.000Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's about a villian and his little minions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:26:03.912Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sometimes I read reviews from critics too, but they tend to be all over the place. A. O. Scott is one of my favorites. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:26:18.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I never watch movies twice. Animated, seems like mostly kids movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:26:42.439Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or, humor for adults too (probably)?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:26:54.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And....this must be related to..isn't there a Minions movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:27:18.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well critics say it's a pretty good movie. It's for kids but adults like it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:18.253Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, great. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:27:26.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there is a minions movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:31.738Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now my only thought is, is it available to stream?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:27:41.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it should be.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:48.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think i saw it on netflix", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:54.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "(I have no idea what kind of info you have on this movie)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:27:57.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:27:58.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no info about streaming", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:15.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any info on the voice actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:28:25.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:32.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So The super villian - steve carell", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:46.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:28:49.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have no clue who that is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:52.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "perfect for comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:28:53.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:29:08.965Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "crap, I lost you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:29:14.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok, waiting 5 minutes to abandon chat!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:29:32.687Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:21:48.987Z", 
+  "uid1LogOutTime": "2018-03-16T18:28:55.531Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:21:49.033Z", 
+  "uid2LogOutTime": "2018-03-16T18:36:14.391Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR4511", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

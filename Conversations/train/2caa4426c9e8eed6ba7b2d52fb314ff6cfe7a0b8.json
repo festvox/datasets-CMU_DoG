@@ -1,0 +1,141 @@
+{
+  "date": "2018-02-05T19:37:40.084Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:38:15.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:39:51.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I am reading the document. One moment please", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:40:05.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, hi! I just finished reading. The movie is Jaws. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:41:17.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:41:25.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You are right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:41:39.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Right about what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:41:58.941Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it very good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:42:30.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:42:43.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah, ok. Good! I would like to watch it again soon. I love Steven Spielberg and thriller movies. I also like how there is some comedy in it as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:43:12.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The director is so good that most of the scariest parts are when we don't even see the shark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:44:35.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:45:01.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Jaws is a bit too gruesome for children, but good for adults. Do you watch it more than once?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:46:18.072Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:47:50.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think you probably have to answer more than just yes to get paid haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:48:18.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has great characters I believe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:48:41.139Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:49:46.376Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok, this isn't really a discussion and you are giving me nothing here, so I am aborting the conversation. have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:50:13.400Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T19:37:40.084Z", 
+  "uid1LogOutTime": "2018-02-05T19:50:26.339Z", 
+  "uid1response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T19:37:40.259Z", 
+  "uid2LogOutTime": "2018-02-05T19:51:00.247Z", 
+  "uid2response": {
+    "feedback": "Just cool", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4334", 
+  "user2_id": "USR1816", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

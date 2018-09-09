@@ -1,0 +1,89 @@
+{
+  "date": "2018-03-16T17:14:46.630Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:18.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:32.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:15.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like most superhero movies. They can be a lot of fun.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:34.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which superhero is this movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:53.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Then you should definitely watch Batman vs Superman, if you haven't already.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:13.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or watch it again ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:19.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard some really mixed reviews about it. Who are the lead actors again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:57.663Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ben Affleck plays\n Batman and Henry Cavill plays Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:27.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Amy Adams, Jesse Eisenberg and Diane Lane are also in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:45.409Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T17:14:46.631Z", 
+  "uid1LogOutTime": "2018-03-16T17:19:16.546Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:14:46.690Z", 
+  "uid2LogOutTime": "2018-03-16T17:19:27.996Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat. I didn't get to finish.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4209", 
+  "user2_id": "USR3281", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

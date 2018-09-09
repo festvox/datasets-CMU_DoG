@@ -1,0 +1,56 @@
+{
+  "date": "2018-02-28T17:58:46.999Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I din't see this movie, but I like some of the Batman movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:00.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me what you think about this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:41.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems a lot of people liked it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:17.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is anybody there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:28.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a lot of good reviews.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:20.190Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-28T17:58:46.999Z", 
+  "uid1LogOutTime": "2018-02-28T18:03:37.312Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:58:47.004Z", 
+  "uid2LogOutTime": "2018-02-28T18:08:19.980Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3671", 
+  "user2_id": "USR2491", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

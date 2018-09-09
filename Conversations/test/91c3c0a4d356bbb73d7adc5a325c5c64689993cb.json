@@ -1,0 +1,222 @@
+{
+  "date": "2018-02-12T19:01:51.289Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey! The movie we're gonna talk about is called 'The Imitation Game'.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:25.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Care to hear some details?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:40.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds exciting! Please divulge.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:56.497Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:16.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gladly! Well, the film is a Drama biopic directed by Morten Tyldum, and it is loosely based on the life of Alan Turing. It stars Benedict Cumberbatch as Alan Turing who decrypted German intelligence does for the British govern\nment in WW2. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:14.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm interesting. World War 2 sounds like a periodic action film. What is the genre of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:27.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The genre is drama, and it is a biopic because it details biographical information about Alan Turing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:06.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow. Must be quite fun. I have not heard of the director but I have heard of Benedict Cumberbatch. I like his films. What did you enjoy the most about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:07:29.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually, what I enjoyed most was Benedict Cumberbatch's performance. He was excellent!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:52.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some have said it was \"poignantly performed\"!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:23.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool. I like him too. Very good actor. I think there will be some Nazis in this film because you mentioned German intelligence. Any other famous actors in this one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:34.190Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it certainly involves Nazis. Other actors who you might know are Keira Knightley who plays Joan clarke, Matthew Goode as Hugh Alexander and Tom Goodman-Hill as Sgt. Staehl", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:48.007Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really like those actors and actresses you named. Sounds like a great cast. Is this a violent film? Or one I can watch with kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:08.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, certainly not violent. This is a war film, in a sense, but minimal violence as it deals with the portrayal of turing who was working as a cryptanalyst. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:55.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay. I like laughing when watching films. Does it have funny parts?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:47.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, frankly it is a bit sad at points as it involves the death of Turing's romantic interest. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:18.919Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh. That sounds tragic. Would you call Turing a hero in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:30.051Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, very much so. Turing was able to successfully decode German encrypted messages that allowed him to determine what the Germans were planning ahead of time. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:34.667Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting. Would you say the film is representative of the real world? Did all this really happen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:48.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, mostly, but as critic Andrew Grant of Science News put it \"... like so many other Hollywood biopics, it takes some major artistic license -- which is disappointing, because Turing's actual story is so compelling.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:01.051Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Alright. Is there a villain in the film? \nWho is the villain?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:24:43.059Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is no direct villain, just the Germans.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:26:20.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha. Are there any characters of color?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:26:42.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "None that I am aware of, no.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:31.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the film mention any government conspiracies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:27:50.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are conspiracies, yes. In fact, at one point Turing discovers that a member of his cryptography team is a Soviet spy. Now, the Soviets were on the side of the British, but Turing was alarmed to find this information out. You could call that a conspiracy in itself.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:30.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow. Very captivating. I like how you described the scene. What particular scene stands out from \"The Imitation Game\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:30:47.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My favorite scene has to be when Turing is able to finally crack the Enigma codes the Germans were using with his cryptographic machines. Very thrilling!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:31:57.092Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, sounds very nice. Does the film touch on major themes such as social equality?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:34:14.426Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not quite, but it does address Turing's homosexuality which is a current social topic of discussion. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:34:51.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. Thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:33.838Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:01:51.289Z", 
+  "uid1LogOutTime": "2018-02-12T19:36:24.691Z", 
+  "uid1response": {
+    "feedback": "I did not get to see a document but rather had a second user to tell me about the film. I really enjoyed the conversation and continued to chat until the user left the conversation (I responded 14 times, I hope this is fine). The description and the answers the user gave me were very exciting and made me want to watch the film. They answered every question I had, and the film sounds like one I would watch.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:01:51.349Z", 
+  "uid2LogOutTime": "2018-02-12T19:35:05.965Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1570", 
+  "user2_id": "USR4419", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

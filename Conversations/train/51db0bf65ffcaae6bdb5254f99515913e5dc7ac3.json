@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-29T16:50:51.893Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI... How's your day so far?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:51:21.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! It's going great. Sorry for some reason.. I wasn't allowed to chat for a second. Thanks for asking though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:52:51.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do think about the story line? I like back stories.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:54:44.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's good from what I can tell, the dark fantasy films usually from what I know have good back stories.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:55:34.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like that you can see a story from another point of view.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:56:34.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like angelina jolie as an actress?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:57:53.872Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T16:50:51.893Z", 
+  "uid1LogOutTime": "2018-03-29T16:59:06.020Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T16:50:51.944Z", 
+  "uid2LogOutTime": "2018-03-29T16:58:30.926Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3911", 
+  "user2_id": "USR1569", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

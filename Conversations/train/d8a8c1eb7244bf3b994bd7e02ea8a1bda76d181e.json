@@ -1,0 +1,89 @@
+{
+  "date": "2018-03-29T14:23:25.682Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:45.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:47.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "first off, I am a Marvel fan over DC so this is good lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:24:06.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i respect any man made out things harder than wood, so im pleased too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:24:51.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The ratings are pretty good also from all sources, A from CinemaScore, 79/100 from meta critic (which im not familiar with) and 94% on rotten tomatoes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:26:21.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "7.7 out of ten! and critics seem to like it. the cgi seemed to be a central theme. do you think it had a lot to do with the approval overall of the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:28:27.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so, it was very well produced, also had a nice cast of well known actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:29:16.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who couldnt love RDJ he's a legend as timeless as iron man himself! you cant cast terrance howard and gwenyth paltrow and not have a nice film. they might have been given a bit of an overly produced film but they really made it work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:32:11.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "judging by this person's review, they weren't impressed. \"a slightly depressed, going-through-the-motions feel to the entire show [...] Gwyneth\nPaltrow, widening her eyes and palpitating, can't do much with an antique role as Stark's\n\ngirl Friday, who loves him but can't say so; Terrence Howard, playing a military man who\nchases around after Stark, looks dispirited and taken for granted\"\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:46.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean as with all superhero movies, DV or Marvel, they are pretty much all the same, its har dto put a new spin on the good guy/bad guy thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:35:06.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:30.459Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:23:25.682Z", 
+  "uid1LogOutTime": "2018-03-29T14:44:32.707Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:23:25.696Z", 
+  "user1_id": "USR3213", 
+  "user2_id": "USR103", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

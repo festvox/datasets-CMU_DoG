@@ -1,0 +1,288 @@
+{
+  "date": "2018-03-01T20:09:16.854Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:09:49.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey how are you doing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:10:00.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good, thank you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:10:42.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:10:48.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, just watched mean girls and love it, great movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:11:29.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you looking for a new movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:11:36.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, what would you recommend?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:12:26.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd say Mean Girls, it's really funny, it's mostly about high school cliques and damaging effects they can have on girls.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:12:59.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But it's a comedy so it's not just all girly..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:13:05.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:14:53.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:14:58.715Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lindsay Lohan, Rachel McAdams, Lacey Chabert, Amanda Seyfried and Lizzy Caplan with directing done by Mark Waters/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:16:00.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So a few popular names.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:16:43.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:16:53.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did the critics rate it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:17:12.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah for sure, it's been rated 84% by Rotten Tomatoes, A- by CinemaScore and 66/100 by Meta Critic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:17:36.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is not bad.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:18:37.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you tell me more about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:18:58.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can, the movie is mostly about a new girl named Cady who meets her new classmates, they warn her to avoid the most popular one \"The plastics\" who are lead by Regina George and Gretchen Wieners, they invite her to lunch with them. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:20:43.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Her friends who warned against joining that group try to use her to hatch a revenge plan on the plastics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:20:58.978Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha love it, \"The plastics\"!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:21:45.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:22:01.384Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite part is for sure their name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:22:04.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do they get their revenge? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:22:28.809Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You'd love the burn book part of the movie, she spreads out the content all over the school which incites a huge brawl. Regina does this herself and even burns herself in the book to make it look genuine.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:22:43.370Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Burn book! That's hilarious!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:23:58.540Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She sounds like a mean girl.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:24:24.907Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The math teacher makes them all apologize to eachother, but Cady isn't having any of it, she continues to mock Regina who then storms out of the building and gets hit by a bus, breaking her spine. Pretty morbid twist.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:25:10.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What!!??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:30:15.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She gets hit by a bus!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:30:24.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't see that coming.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:30:33.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Evidently neither did she hahahaha, but yeah Cady lost all her friends after that and she soon returned to her old personality. She ends up joining a math club and wins the competition for her school.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:31:07.848Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that's sad. No friends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:31:38.478Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But that's what happens when you act fake.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:31:53.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And what ended up happening to the girl who got hit by the bus?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:32:28.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She stayed at the school and eventually ended up making up with Cady after Cady got elected Prom Queen, broke her tiara and distributed pieces of it out to everyone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:33:14.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, haha. I figured she would be dead.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:33:49.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did she get elected prom queen if no one liked her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:35:09.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For winning the math contest I believe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:36:04.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:36:58.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well it sounds like something I should watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:37:14.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:37:18.422Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T20:09:16.854Z", 
+  "uid1LogOutTime": "2018-03-01T20:37:39.877Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T20:09:16.865Z", 
+  "uid2LogOutTime": "2018-03-01T20:37:22.888Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1385", 
+  "user2_id": "USR3973", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

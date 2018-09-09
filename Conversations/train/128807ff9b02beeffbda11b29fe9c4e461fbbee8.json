@@ -1,0 +1,247 @@
+{
+  "date": "2018-02-28T20:13:18.187Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:13:37.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there, how are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:14:15.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm pretty good. Seems like you have the document this time. Do you have a movie you'd like to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:14:40.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So the movie is How to Train Your Dragon, have you seen this before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:15:22.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't but I've heard good things about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:15:53.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:16:03.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well let see, It came out in 2010 and was produced by Dreamworks, it is a fully animated show.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:16:49.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dreamworks huh? I do enjoy a lot of their movies. I assume from the title that it has something to do with dragons?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:17:39.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is set back in the Viking Days, and it has a teenage character named Hiccup, who finds a wounded dragon and befiends it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:18:44.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "befriends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:18:50.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh the old boy and his dog story but with a dragon huh? That sounds pretty interesting. Was it received pretty well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:20:06.572Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is a bit unique as it uses 3D animation , its a coming of age comedy, the same producers of Lilo and Stitch created it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:20:50.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seemed to do ok it got a 98% on rotten tomatoes, but an A in Cinema score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:21:30.418Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see! That sounds pretty good then.\n You said it was animated but do you know who provides the voices?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:21:46.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actually some well known names come to mind, like hiccup is played by Jay Baruchel. And Gerard Butler as the chief Viking, America Ferrera plays a friend of Hiccup. Hiccup is the main character of course.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:23:50.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's really cool. I'm sure they do a great job. I really like animated movies so I might have to check that one out sometime.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:24:58.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have actually seen it and I would recommend it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:25:46.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You mentioned that he befriends a dragon. Can you tell me anything more about that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:26:31.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sure, the Dragons name is Night fury. And the movie doesn't have much of a storyline, but it has battles between tamed and evil ones.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:28:40.707Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do youlike dragons?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:31:21.036Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see, that sounds pretty interesting though. I do! Dragons are usually the bad guys in a film so it might be cool to get a film with a good one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:31:40.947Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And vikings as well. It sounds like a very unique setting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:32:06.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "YES, The isle of Berk is their village, and they are afraid of the dragons because they steal their livestock, so when they come upon the dragons they usually kill them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:35:23.473Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh no! But I guess Hiccup finds out that not all dragons are bad in the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:35:54.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "See Hiccup is scrawny and cant fight because he is scrawny, so he makes things, apparatuses if you will.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:36:24.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but he isnt very good at it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:36:51.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, an awkward kid makes a friend of a dragon huh? That does sound very interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:38:04.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I usually like animated films that have a good main character so this might be right up my alley.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:39:01.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "SO during one of those attacks Hiccup shoots at a dragon, and believes he has shot it down. Finds it later, not dead, but damaged. Helpes the dragon fly again then finds out that thedragonsare being Bullied by a bigger one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:39:03.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see! I bet he works together with his new dragon friend to help them out then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:40:45.415Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So Hiccup and his friends decide they are going to help out Hiccups friendly Dragon and they all learn how to train awkward dragons and go off to fight the biggest Dragon which they call Red Death.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:41:13.910Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That does sound cool!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:41:32.813Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And it looks like we're done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:41:38.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's been nice talking with you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:41:45.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:41:49.856Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T20:13:18.187Z", 
+  "uid1LogOutTime": "2018-02-28T20:41:55.928Z", 
+  "uid1response": {
+    "feedback": "The other user did a good job of explaining the points of the movie and making me interested.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T20:13:18.265Z", 
+  "uid2LogOutTime": "2018-02-28T20:42:12.690Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3966", 
+  "user2_id": "USR82", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

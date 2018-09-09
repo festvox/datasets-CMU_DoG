@@ -1,0 +1,264 @@
+{
+  "date": "2018-01-26T19:00:35.671Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:01:00.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:01:10.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hang on, I got a lot of stuff to read, don't leave", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:01:26.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ohhh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:01:30.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm here to talk about the movie Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:02:18.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh great. Kinda going back a ways. lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:02:29.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes. it has a 97 percent score on RT", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:02:52.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie? I have but it's been about 30 years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:02:55.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have. Critics said it was a scary thriller that worked because it was populated with characters who evolved into human beings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:04:03.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Perhaps you have a question or ten I could answer. Easy questions, and then you can decide whether to watch it or no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:04:57.580Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The only thing I remember was the scene with the shark circling this boat and two men on the boat, then suddenly it like jumps on top.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:05:03.925Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the old man character, do you know? I know he's famous but I can't remember his name.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:05:28.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should also remeber the opening scene that takes place ata party on Amity Island, on the beach", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:05:45.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he was played by Robert Shaw", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:06:06.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would have to see it again. It's been so many years. Were there any young people who got famous from the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:06:13.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe Richardy Dryfuss went on to become a beloved star of screen after this role, and probably before it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:06:52.664Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yes I know him!  When did the movie come out? I know I was a child. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:07:11.223Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie came out in 1975,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:07:43.476Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would have been six!  Do you know who directed it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:08:10.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was directed by Stephen Speilberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:08:39.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow. He has done a lot. I wish I could think of more questions. lol There must have been some pretty girl. There's always a pretty girl. Know any actresses from the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:09:25.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lorrain grey was sheriff brody's wife. perhaps you'd like to know genera or key scenes from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:10:22.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes tell me about the first kill!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:10:52.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A young woman is violently pulled under the water. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:11:24.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were any children killed by the shark?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:11:57.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After a tiger shaerk is caught, the mayor pronounces the beaches safe once again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:12:59.567Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it was the wrong shark?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:13:18.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metacritic gives it 87 out of 100, no, I don't think it was the right shark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:13:58.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the rating? Was it rated R?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:14:36.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Robert Shaw was Quint", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:14:40.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have that on my sheet, so I'm not suposed to answer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:15:24.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jaws was based on a novel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:15:46.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohhh okay. I think it was. Surely back then it would be. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:15:50.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you want to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:15:51.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:15:52.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also, we're done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:15:57.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I would love to rewatch it! yesss!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:16:01.028Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "see ya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:16:12.813Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-26T19:00:35.671Z", 
+  "uid1LogOutTime": "2018-01-26T19:16:15.802Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-26T19:00:35.680Z", 
+  "uid2LogOutTime": "2018-01-26T19:16:06.517Z", 
+  "uid2response": {
+    "feedback": "I never saw the document so I can't answer the first part.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4049", 
+  "user2_id": "USR3297", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2018-03-21T16:15:07.300Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:15:18.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:16:20.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:16:58.363Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love all the parts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:17:20.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "my favorite Christmas movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:17:36.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too it's very funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:17:40.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's this the first part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:18:30.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "McAuley Caukin was a cute little kid", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:18:40.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "was being the word. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:19:43.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:20:26.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When he fought back with The two crooks Joe Pessi was hilarious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:21:57.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he's a great actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:22:30.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:22:44.205Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T16:15:07.300Z", 
+  "uid1LogOutTime": "2018-03-21T16:23:36.343Z", 
+  "uid1response": {
+    "feedback": "user 2 left the conversation before finishing the task", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:15:07.329Z", 
+  "uid2LogOutTime": "2018-03-21T16:23:05.385Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3379", 
+  "user2_id": "USR1224", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

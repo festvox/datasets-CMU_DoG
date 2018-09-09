@@ -1,0 +1,38 @@
+{
+  "date": "2018-03-19T23:27:14.735Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I thought Home Alone 2 was okay, but it seemed very improbable and difficult to believe for the most part.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:29:04.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. I don't understand how you can forget about your kid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:30:06.141Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-19T23:27:14.735Z", 
+  "uid1LogOutTime": "2018-03-19T23:31:27.172Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T23:27:14.765Z", 
+  "uid2LogOutTime": "2018-03-19T23:29:46.939Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1922", 
+  "user2_id": "USR4127", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

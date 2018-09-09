@@ -1,0 +1,82 @@
+{
+  "date": "2018-02-14T20:51:51.667Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I like the concept at the same time it makes you think of the ramifications of someone actually being able to infiltrate your mind. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:54:13.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just watched inception and I liked how they portrayed the extractors (Dicaprio's) team in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:54:23.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie does have an interesting plat ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:54:46.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:54:52.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought ellen page did a good job with the dream construction sequences", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:55:32.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so do you think he will accomplish his goal and of dissolving the company\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:56:00.283Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the love story has an added romanticism feature that will draw in spouses to the sci fi experience ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:57:29.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is definitely a love story in there that makes it more than just another sci fi movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:57:55.864Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T20:51:51.667Z", 
+  "uid1LogOutTime": "2018-02-14T20:58:21.664Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:51:51.701Z", 
+  "uid2LogOutTime": "2018-02-14T20:58:37.747Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3712", 
+  "user2_id": "USR1715", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

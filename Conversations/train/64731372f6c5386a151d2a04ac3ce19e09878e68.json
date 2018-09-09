@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-28T19:07:20.798Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I have seen it, it was not very good.  I think you have some bad information.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:08:42.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its mostly forced. The movie it self has a lot of flaws with the writing\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:09:12.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The acting seemed so forced as well. It really does no justice to the original stories in the comic universe.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:10:03.796Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T19:07:20.798Z", 
+  "uid1LogOutTime": "2018-02-28T19:10:18.681Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T19:07:26.641Z", 
+  "uid2LogOutTime": "2018-02-28T19:08:53.866Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR306", 
+  "user2_id": "USR3045", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2018-03-01T19:39:09.999Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:39:42.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! This movie is called The Blindside and has gotten a 69% on rotten tomatoes and when I saw it I would go see it again. The movie is about drama an offensive lineman, Michael Oher and was drafted by Baltimore and he had a rough upbringing so this is a chance of a life time and is based on his book. You should see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:46:55.319Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-01T19:39:09.999Z", 
+  "uid1LogOutTime": "2018-03-01T19:57:57.577Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:39:10.002Z", 
+  "uid2LogOutTime": "2018-03-01T20:03:18.790Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3030", 
+  "user2_id": "USR3973", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

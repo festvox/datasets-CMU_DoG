@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-06T15:30:17.956Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:38.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:44.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love me a good comedy, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:55.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do too! Bruce Almighty was hilarious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:09.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it was, he doesn't disappointed, I love his movies, including Dick and Jane and Truman Show!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:33.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also has quite a few other big name actors and actresses like Freeman and Aniston!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:42.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fun with Dick and Jane is one of his best in my opinion.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:52.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he is talented for sure, like to get into character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:40.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved his role in Bruce Almighty, though.   Morgan Freeman was excellent as usual,too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:34:04.908Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:30:17.956Z", 
+  "uid2LogInTime": "2018-03-06T15:30:18.151Z", 
+  "user1_id": "USR3213", 
+  "user2_id": "USR1844", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

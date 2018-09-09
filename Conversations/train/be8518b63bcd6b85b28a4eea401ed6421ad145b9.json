@@ -1,0 +1,222 @@
+{
+  "date": "2018-03-19T23:58:04.338Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:00:13.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there, the movie document I have is Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:01:09.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me more about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:01:50.730Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a good movie, it came out in 2008 and it stars Robert Downey Jr. as the titular character Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:02:34.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre is this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:03:04.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The genre for this particular movie is Superhero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:03:39.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it have a lot of action, or is more conversational?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:04:30.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has plenty of action with lots of visually appealing CGI. The Fight scenes are well done and intense.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:05:39.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there any other noteworthy actors/actresses in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:06:22.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it has Terrence Howard, Jeff Bridges, Gwenyth Paltrow and Shaun Toub", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:07:36.846Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What age ranges do you think would this movie be more suitable for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:08:25.172Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a movie for \"kids\" of all ages. From five year old to the fifty year old that is younger at heart. I would say it's suitable for any audience.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:10:02.859Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long does the movie run for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:10:31.448Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Two hours and six minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:12:11.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you describe the most memorable part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:14:28.767Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It would be when Tony Stark (Robert Downey Jr.) discovers that his weapons are used by a terrorist or bad people. And has the epiphany to take initiative to rid the world of evil. He becomes Iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:16:56.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds interesting. Thank you for your time and information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:17:50.964Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You are very welcome! :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:18:12.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "More questions about the movie... Is it a scary movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:20:25.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "(As in would the \"bad guys\" be considered scary to a young child?)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:21:26.763Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, it is not. Just a good and fun comic book/superhero movie. And no it would not be scary for a child, plenty of children have seen this movie and no issues have arisen.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:22:24.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's entertaining and lighthearted.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:23:22.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the name of Iron Man's company?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:24:00.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark Industries.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:25:02.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does Tony Stark have an assistant in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:26:09.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes her name is Pepper Potts (Gwenyth Paltrow)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:27:16.208Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Pepper Potts also a love interest of Tony Stark?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:28:08.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed they develop a relationship in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:29:00.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How strong is Tony Stark when in uniform as Iron Man?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:29:36.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is very powerful, it increases his strenght and durability and can take massive blows. It has a built in A.I and can shoot projectiles and can fly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:31:23.757Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you again for your time and information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:31:55.655Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T23:58:04.338Z", 
+  "uid1LogOutTime": "2018-03-20T00:32:00.528Z", 
+  "uid1response": {
+    "feedback": "User 2 has described the movie well enough for me to make a decision of wanting to see the movie for myself.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T23:58:04.396Z", 
+  "uid2LogOutTime": "2018-03-20T00:31:53.844Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1623", 
+  "user2_id": "USR1214", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

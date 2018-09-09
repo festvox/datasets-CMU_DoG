@@ -1,0 +1,142 @@
+{
+  "date": "2018-03-21T16:45:11.069Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you read the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:46:20.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hI... YES, I have read it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:47:09.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. Are you familiar with the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:47:26.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, vaguely. Although I didn't go see it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:47:46.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't either. I read the book in high school, but never got around to seeing the movie. Do you like Leonardo Dicaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:48:23.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to hate him.. haha for some strange reason.. but I don't actually. He seems like one of the few who qualifies as a bonafide movie star. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:49:31.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love him. He's one of my favorite actors. I think he is so talented. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:50:14.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Carey Mulligan is a great actress too. I like the cast so I would probably enjoy this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:50:36.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah i agree the little booger has some acting chops. He gets great roles continually- because he delivers the goods.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:50:49.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed. Do you check critic ratings before watching films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:51:19.907Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. Now I have heard her name, but wouldn't recognize her, I don't think.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:51:24.312Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I most want to see stuff I know ahead of time will be worth my time, and money. So ratings/reviews are important to me. I loathe the feeling of being stuck at a crummy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:52:20.329Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So it should be 85+ on Rotten Tomatoes :) or I can miss it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:52:45.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But yeah I assume you would see this because you love Leo- and I get that. I'll go to a lesser rated movie if there's a star I really like .. such as Salma Hayek or Johnny Depp.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:53:49.433Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen other Baz Luhrman movies? he has a very distinct style.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:54:46.096Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "*hums theme from Jeopardy* haha ;)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:56:43.794Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "okay gotta go.. you musta bailed.. hahah I showered, HONESt! :P", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:58:30.198Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hi sorry i had to take care of my daughter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:01:49.433Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T16:45:11.069Z", 
+  "uid1LogOutTime": "2018-03-21T16:58:33.811Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:45:11.072Z", 
+  "uid2LogOutTime": "2018-03-21T17:02:13.876Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1815", 
+  "user2_id": "USR2151", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

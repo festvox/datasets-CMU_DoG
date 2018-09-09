@@ -1,0 +1,39 @@
+{
+  "date": "2018-02-18T17:42:47.880Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie is \"the notebook\" You need to see it. The critics gave it good reviews. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T17:45:35.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Uh, no I haven't, what's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T17:49:13.990Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T17:42:47.880Z", 
+  "uid1LogOutTime": "2018-02-18T17:47:37.876Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-18T17:42:47.895Z", 
+  "uid2LogOutTime": "2018-02-18T17:49:35.162Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4697", 
+  "user2_id": "USR3080", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

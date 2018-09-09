@@ -1,0 +1,128 @@
+{
+  "date": "2018-03-06T16:11:40.516Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:11:46.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:11:53.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How is going?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:12:01.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie How to train your dragon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:12:02.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh no but i have heard quite much about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:12:24.637Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an animation movie i guess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:12:48.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is.....I saw it a few years ao", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:13:20.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:13:23.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a good animated fantasy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:13:51.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok, then it must be kind of great because the director is someone i know does good work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:14:06.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Chris sanders to be precise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:14:26.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess having such movie in 2010 would have made it probably one of the best of that time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:15:11.132Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was a bit different from the usual fairy tale movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:15:42.030Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is kind of crazy dragons would steal livestock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T16:16:44.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They use dragons to like domestic animals and train them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:17:10.935Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got pretty good reviews on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T16:17:49.314Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T16:11:40.516Z", 
+  "uid1LogOutTime": "2018-03-06T16:17:51.615Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T16:11:41.251Z", 
+  "uid2LogOutTime": "2018-03-06T16:17:40.888Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

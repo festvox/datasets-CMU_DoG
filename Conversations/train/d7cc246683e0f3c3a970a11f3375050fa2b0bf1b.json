@@ -1,0 +1,107 @@
+{
+  "date": "2018-04-02T15:28:53.908Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello how are you, what is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:29:21.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, Im great the movie is Maleficent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:29:49.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah well, well read about it. How is this movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:30:38.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is the main villain of the Disney version of the tale The Sleeping Beauty, the evil witch and fairy that appears in the adaptation of Walt Disney Sleeping Beauty of 1959.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:32:00.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, it demoishes sterotypes also ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:32:45.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I understand, this movie has some time. Maleficent is the antagonistic protagonist, that is, the heroine and villain at the same time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:33:30.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you here?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:34:14.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "she plays the villain then becomes the heroine ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:34:16.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is. Maleficent, was released on May 30, 2014.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:34:36.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the film is geren as a superhero film. with a twist of course ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:13.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "genre*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:24.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maleficent is a tall, thin, serious, gothic, terrifying witch, dressed in a long black dress, also adorned with purple tones in the form of flames of fire, with two black horns on her head and when she casts a spell she raises her hands in cross shape and while reciting his spell green flames come out around her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:35:56.445Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "maleficent is a powerful fairing living the moors, a magical forest realm ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:56.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she meets and falls in love with a human peasant boy named stefan, whose love for maleficent is overshawdowed ny his ambition", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:37.547Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T15:28:53.908Z", 
+  "uid1LogOutTime": "2018-04-02T15:44:06.096Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:28:53.933Z", 
+  "user1_id": "USR1462", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2017-12-19T17:01:19.699Z", 
+  "docLinkIdx": 6, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, have you seen John Wick? It's a pretty good action movie about hitmen. I'd recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:02:51.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:18:52.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's good", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:18:55.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the plot in the movie was actually really good and I had no issue with how it worked it was something that I thought really stood with me, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:19:44.772Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-19T17:01:19.699Z", 
+  "uid1LogOutTime": "2017-12-19T17:20:12.249Z", 
+  "uid1response": {
+    "feedback": "the user left the chat before I could say anything", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:01:19.909Z", 
+  "uid2LogOutTime": "2017-12-19T17:09:38.992Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1569", 
+  "user2_id": "USR937", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

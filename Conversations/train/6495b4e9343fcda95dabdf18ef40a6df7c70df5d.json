@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-21T19:11:59.225Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:12:16.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:12:21.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, man, have i", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:12:32.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely not for everyone, but I enjoyed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:12:55.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "RT gives it a 78, but in my mind it's a solid 83 or 84", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:13:18.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like to see stuff like this from Scorsesi rather than Huggo or other stuff he's done modernly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:14:46.710Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T19:11:59.225Z", 
+  "uid1LogOutTime": "2018-03-21T19:14:16.990Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T19:11:59.229Z", 
+  "uid2LogOutTime": "2018-03-21T19:15:01.946Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1950", 
+  "user2_id": "USR4049", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

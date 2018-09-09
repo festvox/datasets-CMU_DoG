@@ -1,0 +1,222 @@
+{
+  "date": "2018-02-09T21:09:01.767Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "`Hello, I am interested in seeing a movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:11:10.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch Zootopia, it's about an anthropomorphic bunny who is a police officer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:11:43.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting! Is it an animated movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:13:24.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is animated. Critics say that the animation is state of the art.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:15:02.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the main plot of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:15:36.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A bunny from a rural area follows her dream of becoming a police officer in a big city. She gets tricked by a con artist.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:16:39.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like it is full of action!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:17:51.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's fast paced and entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:18:29.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you say that it is directed towards an adult audience or children?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:19:57.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's geared toward kids since it's animated but adults will find it thoughtful and funny as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:21:14.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How does the con artist trick her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:22:22.352Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The con artist hustles her. He is a fox.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:23:18.646Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are there any other interesting villains?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:23:51.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, there is a crime boss named Mr. Big.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:24:52.897Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of animal is Mr. Big? Is he as big as his name implies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:26:23.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do not have that information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:27:14.399Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are the Fox and Mr. Big in league with one another?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:28:36.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The fox sees to be on the bunny's side against Mr. Big.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:29:44.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do the bunny and fox succeed in the end? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:24.465Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, there is a  complication, and the bunny upsets the fox. She quits her job.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:34:34.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen the movie yourself yet? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:36:01.065Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I have't seen it, but it sounds funny and smart. Do you like animated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:37:07.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I do. This sounds like a very good movie. I will be sure to go see it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:39:03.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great! An interesting part is a prey-supremacy conspiracy the bunny discovers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:40:04.039Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds like it could definitely disrupt the bunny's alliance with the fox. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:41:29.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it does create a problem where the fox is set up to harm the bunny. But the bunny saves them both.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:42:28.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who sets them up?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:43:21.037Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The corrupt new mayor who seized power, Bellwether.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:44:06.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like the bunny has a lot of bad guys to take down!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:44:52.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she faces many challenges! Do you like movies about animals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:45:39.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the conversation! I'm off to watch that movie right now! Have a good rest of your day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:46:24.144Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T21:09:01.767Z", 
+  "uid1LogOutTime": "2018-02-09T21:46:41.528Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T21:09:01.818Z", 
+  "uid2LogOutTime": "2018-02-09T21:46:27.356Z", 
+  "uid2response": {
+    "feedback": "I didn't see the document, but the other user did a good job of explaining the movie to me. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2332", 
+  "user2_id": "USR176", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

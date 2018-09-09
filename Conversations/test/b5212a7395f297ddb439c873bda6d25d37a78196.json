@@ -1,0 +1,144 @@
+{
+  "date": "2018-02-20T19:17:32.218Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:17:48.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the movie Despicable Me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:20:08.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a big Steve Carrel fan so I really liked it myself.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:55.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:21:59.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Steve Carrell too, he's funny!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:22:06.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He voices the main character. It's a 3d animated movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:23:18.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, I enjoy animated movies. 3D seems cool too. Was the movie well-received? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:24:12.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got pretty good reviews. It also had a few other pretty big named comedians in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:25:51.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice, who else that I might know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:27:18.284Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Russell Brand and Jason Segel are also voice actors. It's a", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:29:00.368Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cool! I like those guys, super funny. Can you tell me a bit more about the movie? What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:29:33.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actually it's a great movie for kids and adults. Main character Gru(Steve Carrel) plays a super villain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:31:37.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's the movie where the minions were first introducd.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:33:04.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whoa, so a villain movie that's good for kids? That's interesting! These guys are comedians -- is it a funny movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:33:07.269Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. It's funny and Gru is not your typical Supervillain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:34:15.498Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Awesome. Why's that? What makes him different?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:34:39.183Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He's downhearted because there is another Super who is outshining him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:35:51.474Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ooh, so a little competition, eh! I like that. Sounds fun! What was your favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:37:42.945Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he decides to  shrink the moon as the ultimate deed. But he has to have the shrinkray that his nenesis has. So while he's devising a plan some girlscouts show up to sell him cookies. He gets the idea he can use the girlscouts to get into the Fortress of the his Nemisis in order to steal the shrinkray and it just gets funnir from there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:42:05.681Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T19:17:32.218Z", 
+  "uid1LogOutTime": "2018-02-20T19:42:26.927Z", 
+  "uid1response": {
+    "feedback": "I've never seen the movie before but heard of it in passing. The user did a good job on filling me in on most details. I would say I'm quite likely to give it a shot. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:17:32.346Z", 
+  "uid2LogOutTime": "2018-02-20T19:42:17.695Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4419", 
+  "user2_id": "USR4022", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

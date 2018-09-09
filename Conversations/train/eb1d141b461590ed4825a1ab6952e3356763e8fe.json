@@ -1,0 +1,94 @@
+{
+  "date": "2018-03-20T02:40:16.653Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed the movie Home Alone.  To me its kind of a cult classic.  What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:42:37.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with the critics. To me a lot of the story line was based around things happening that were completely implausible for an 8 year old to be able to\n do on his own. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:43:49.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with that as well.  Even though the movie is funny, it does seem very implausible for a family to leave their child behind and not realize it and like you said for an 8 year old to be able to pull off some of those stunts really couldn't happen.  Are you a fan of John Hughes movies?  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:45:30.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly. How can parents travel all the way to the airport, board their plane, and fly to paris and not once realize they forgot their son?! I cant really say that Im familiar with any John Hughes movies other than Home Alone. I just realized Home Alone came out the year I was born, I cant believe its as old as I am!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T02:49:41.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I am a lot older than you.  I had already graduated high school when the movie came out.  I am a fan of John Hughes movies.  I am also a great fan of Joe Pesci and I will say I think he did a great job in this movie. His portrayal of the bumbling thief was great.  He is a great character actor.  Do you have a favorite character in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T02:54:03.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, Joe Pesci did a great job with his portrayal of that character. Took it from what couldve been something forgettable and boring and turned it into something that is most definitely a classic and will be talked about for ages to come. I also always loved the mom for some reason. I think it was how she was just such an airhead. Always just kind of like \"Uhh wait what?\" like she didnt know what was going on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:04:01.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with you that the Mom was a great character.  I am a little stumped right now as the assignment said I would get a new paragraph to discuss with you and I haven't received it.  So I will continue to discuss the document I have. Do you generally watch movies that have gotten a bad rating or review?  Or do you care about the reviews at all? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:11:11.941Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here. I was just wondering about that myself. Not too sure what to do haha. Generally speaking I tend to disagree completely with reviews. If they rate it badly, Ill probably love it. If they love it, I usually hate it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:16:41.082Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I still don't have a new document to discuss.  I don't know what to do.  If we abort we don't get paid but if the survey isn't working we still won't get paid because we will not have a code to put in.  I guess we can take turns talking a little more.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:20:53.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do agree with you that if a movie gets a good review, I will most likely not like it and if it has bad reviews then I will love it.  I do like the way Home Alone was made.  I think the director took a big risk making a child the star of the movie.  Macaulay Culkin really became a big star from this movie.  And I am sure this movie made a lot of money at the box office.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:24:41.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I am going to abort this conversation and let the requestor know that this hit didn't work correctly.  Thanks for your time.  I enjoyed the conversation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:27:02.052Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T02:40:16.653Z", 
+  "uid1LogOutTime": "2018-03-20T03:38:16.900Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T02:40:16.677Z", 
+  "uid2LogOutTime": "2018-03-20T03:31:12.273Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3589", 
+  "user2_id": "USR2507", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

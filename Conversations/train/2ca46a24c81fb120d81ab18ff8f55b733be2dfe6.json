@@ -1,0 +1,83 @@
+{
+  "date": "2018-02-13T19:02:47.850Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I liked Gal Gadot in the new wonder woman movie. what did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:04:01.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She was very wise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:04:26.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like the opening scenes showing the Amazons on Themyscira", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:05:17.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "having world war I as the backdrop was also interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:07:12.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Diana and the daughter of  Hippolyta were very sensitive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:09:23.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its like it was a war movie and a comic book hero movie at the same time!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:10:29.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really Diana was a worrior", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:10:43.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DC should really make more movies in the style of this one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:11:13.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I hope Patty Jenkins makes more movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:15:30.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:17.667Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:02:47.850Z", 
+  "uid1LogOutTime": "2018-02-13T19:21:03.006Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:02:48.317Z", 
+  "user1_id": "USR1715", 
+  "user2_id": "USR653", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

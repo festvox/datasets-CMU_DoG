@@ -1,0 +1,128 @@
+{
+  "date": "2018-03-22T03:50:42.605Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "\nyeH", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:50:54.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:50:57.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not yeh, hihi, my keyboard has funny actions when I type in here like the alphabet are reversed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:51:22.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anyhow, have you seen this movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:51:31.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I just saw Shape of Water. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:52:11.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it. What did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:53:24.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds pretty interesting, government experiment, humanoid amphibian creature, love... I have not seen this movie yet but introduction kinds of getting me to want to watch it, plus you loved it so probably a good movie overall", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:53:45.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has really good rating overall from critics and rotten tomatoes too wowo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:54:21.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you see it in theater?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:54:31.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I have to agree with the good ratings on this one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:54:40.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did! It was a good one to see on the big screen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:55:17.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sally Hawkins is especially good in it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:56:27.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so she plays the mute cleaner in the government secret lab, how fitting to have someone mute works in a secret lab, the plot thickens hihi. What makes this movie so good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T03:58:07.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has drama and romance and it is elegant and stunning. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T03:59:39.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha, why do I feel like I am talking to a girl", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:01:29.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it steamy too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T04:01:35.117Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T03:50:42.606Z", 
+  "uid1LogOutTime": "2018-03-22T04:02:27.753Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T03:50:42.790Z", 
+  "uid2LogOutTime": "2018-03-22T04:02:34.169Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3421", 
+  "user2_id": "USR609", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

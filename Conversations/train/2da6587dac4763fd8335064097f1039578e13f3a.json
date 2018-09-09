@@ -1,0 +1,83 @@
+{
+  "date": "2018-02-13T18:51:08.228Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:51:50.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:51:57.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:52:27.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not, can you tell me what it's about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:53:08.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers is a movie about a group of superheros based on Marvel Comics (Iron Man, Capt. America, The Hulk, Thor, Black Widow and Hawkeye). Are you familiar with any of these characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:55:19.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of a few, what is their objective?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:56:07.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nick Fury of a peacekeeping organization S.H.E.I.L.D. recruits the superheros to form a team to stop Thor's brother Loki from taking over the Earth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:58:13.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are they successful? o\nr is Loki?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:59:43.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this a kid friendly movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:09:05.467Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:51:08.228Z", 
+  "uid1LogOutTime": "2018-02-13T19:10:50.380Z", 
+  "uid1response": {
+    "feedback": "The other user was really slow at responding and eventually stopped responding all together.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:51:08.229Z", 
+  "uid2LogOutTime": "2018-02-13T19:10:46.755Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2808", 
+  "user2_id": "USR606", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

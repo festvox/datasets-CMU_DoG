@@ -1,0 +1,91 @@
+{
+  "date": "2018-02-20T21:06:19.065Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:07:18.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Did you recently speak to me about Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:08:39.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, this is my first time here. I would like to talk about Batman v Superman: Dawn of Justice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:09:23.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok sorry about that! I recently lost connection with another person.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:10:21.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is ok!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:10:35.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:10:52.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Now... what do you think about BvS? Would you recommend it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:11:00.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was ok by the way", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:11:22.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It depends on you. I would definitely recommend it if you like superheroe movies because as a whole it has a lot of weak spots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:12:03.206Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you say the pros outway the cons?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:12:46.639Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T21:06:19.065Z", 
+  "uid1LogOutTime": "2018-02-20T21:13:00.609Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T21:06:21.296Z", 
+  "uid2LogOutTime": "2018-02-20T21:12:52.387Z", 
+  "uid2response": {
+    "feedback": "It ended so suddenly ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1514", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2018-02-20T14:58:05.706Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T14:59:16.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.  \nWe're going to be talking about 'Batman Begins', have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T14:59:26.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen it. Who are the stars of the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:00:00.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a solid cast that includes Christian Bale, Michael Caine, Liam Neeson, Katie Homes, Gary Oldman, Rutger Hauer, and Morgan Freeman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:00:43.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:00:59.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a superhero movie.  It relaunches the Batman movie franchise.  Providing his origin, and an early adventure.  It is a good 'jumping on' point for the movie & comic book franchise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:01:58.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When was the movie released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:02:27.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2005.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:03:00.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main villain in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:03:39.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are two villains in this Batman movie.  One is Ra's al Ghul, the other is the Scarecrow.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:04:03.250Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting. How long does the movie last?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:04:31.499Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:05:11.146Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:06:10.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Where does the movie take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:06:33.132Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The fictional city of 'Gotham City', the home to Bruce Wayne/Batman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:06:53.450Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does Batman have any sidekicks in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:07:45.767Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sidekicks.  He has allies, or a supporting cast.  Most notably in Alfred Pennyworth (Michael Caine) and James Gordon (Gary Oldman).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:08:31.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does Batman/Bruce Wayne have a love interest in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:09:23.359Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know that I'd call it a love interest.  The character of Rachel Dawes (Katie Holmes) plays the female lead, and there's some romantic tension (suspense) there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:12:03.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gotcha. That sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:12:53.304Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a good movie, even if the superhero genre doesn't interest you.  If you have any interest in director Christopher Nolan's other movies, it is likely you'll enjoy this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:13:44.669Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow. I didn't know that Christopher Nolan was the director!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:14:06.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, from 'American Psycho' to the 'Batman' franchise (and beyond).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:14:32.490Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who plays Alfred in this film? I saw a lot of well known actors but none of them that strike me as Alfred(and he's a pretty key character).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:16:02.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That role is played by Michael Caine.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:16:17.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah ok. That makes sense.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:16:30.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really think I would enjoy this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:16:55.211Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a well (and impressively) cast movie, and the reactions to it show.  Well reviewed and rated.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:17:28.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have information on the rating it got on Rotten Tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:18:10.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know that is pretty random but its a pretty reliable site for ratings on movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:18:29.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes had it at 84%, the 'average' is listed as 7.7 (out of 10)\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:18:54.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still a pretty good score.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:19:35.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for all the info! I appreciate it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T15:19:50.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it also received a Metacritic score of 70/100, and a CenemaScore of 'A'.  No problem.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T15:20:06.136Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T14:58:05.706Z", 
+  "uid1LogOutTime": "2018-02-20T15:20:08.336Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T14:58:05.707Z", 
+  "uid2LogOutTime": "2018-02-20T15:20:01.994Z", 
+  "uid2response": {
+    "feedback": "I would watch because I got all the details of the cast, director, and plot. I also got some good information about the reviews the movie had. It was highly rated and I also like the superhero genre.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3406", 
+  "user2_id": "USR1613", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

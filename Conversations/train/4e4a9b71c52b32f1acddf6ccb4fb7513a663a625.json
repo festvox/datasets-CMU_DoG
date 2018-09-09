@@ -1,0 +1,81 @@
+{
+  "date": "2018-02-12T18:56:57.759Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:57:26.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:57:41.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm looking for a movie to watch. Any suggestions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:58:23.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie the Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:58:50.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not. What's that about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:59:25.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a great movie! It based on the Marvel comics superhero team consisting of The hulk, iron man, Captain america, thor and etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:13.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They form a team to defeat thors evil brother Loki from subjugating earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:44.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That seems like a good reason to form a team", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:36.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds like a good movie but I'm not convinced. Anything else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:08.354Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-12T18:56:57.759Z", 
+  "uid1LogOutTime": "2018-02-12T19:02:47.370Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-12T18:56:57.794Z", 
+  "uid2LogOutTime": "2018-02-12T19:02:03.799Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4232", 
+  "user2_id": "USR3933", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

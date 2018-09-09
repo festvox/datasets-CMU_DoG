@@ -1,0 +1,288 @@
+{
+  "date": "2018-03-26T16:23:02.127Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:23:17.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:23:23.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:23:30.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm great thanks. Just finished watching an awesome comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:23:42.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? Which comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:23:58.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called Home Alone, i don't know if you've seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:24:14.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:24:20.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it very much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:24:26.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it did receive a CinemaScore of A ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:24:40.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? That\u2019s great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:24:51.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But CinemaScore\u2019s reviews are never really that good in my opinion..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:25:06.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well its rotten tomatoes score was 62%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:25:29.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, yeah. RottenTomatoes is always very harsh with the reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:25:53.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which one do you think is more fair?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:26:02.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cinemascore\u2019s or RT\u2019s?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:26:14.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Personally i would have give in it an A like the cinemascore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:26:17.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:26:25.809Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I\u2019d give it a B really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:26:32.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Especially with such a good cast like Joe Pesci and Daniel Stern", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:26:36.824Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen any other films with them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:26:59.374Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah a few, but i think this one was special because Chris Columbus Directed it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:27:34.451Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, I didn\u2019t know that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:27:47.574Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That really is an interesting fact.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:27:55.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One of the most memorable scenes was when Kate discovers that Kevin is missing while on the plane.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:29:03.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:29:11.478Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mostly remember the pranks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:29:19.664Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The thing with the heated doorknob and so on.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:29:32.151Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i remember it, i also liked when she was travelling with a Polka band", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:29:58.161Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A polka band? Well, I don\u2019t really remember anything about a polka band.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:30:26.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was when a guy overheard the mother and he offered to take the mother with him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:30:54.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, it seems like I\u2019m gonna have to rewatch the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:31:16.652Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how long it is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:31:25.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely, but i do remember the pranks too, and especially the booby traps Kevin made.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:31:36.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:31:40.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie is very imaginative and innovative.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:32:02.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure how long it is, maybe you can check online about that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:32:04.881Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, I\u2019ll be sure to check later", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:32:17.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, would you recommend someone to watch this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:32:32.961Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea, I enjoyed it. even with all the characters that fill the plot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:32:56.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great chat. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:33:01.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:33:03.484Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:33:09.264Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T16:23:02.127Z", 
+  "uid1LogOutTime": "2018-03-26T16:33:05.181Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T16:23:02.227Z", 
+  "uid2LogOutTime": "2018-03-26T16:33:11.024Z", 
+  "uid2response": {
+    "feedback": "Chat was good ", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR773", 
+  "user2_id": "USR4572", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

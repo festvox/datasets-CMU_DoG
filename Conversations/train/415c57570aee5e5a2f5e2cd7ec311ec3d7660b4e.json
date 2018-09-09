@@ -1,0 +1,74 @@
+{
+  "date": "2018-02-18T23:57:55.664Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Janice is my favorite of TV ever whole movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T23:59:40.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Part*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T00:00:02.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Janice too, but Regina George is great too. Anything done by Tina Fey is going to be great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T00:00:26.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I it reminded me of the Heather's but without a the bomb", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T00:01:08.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never saw Heathers, Im going to have to check it out. I did not know this was based from a book.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T00:01:49.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it's about girl cliches and fitting in. I think mean girls did actually send a good message a out bullying as well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T00:02:52.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Girl Cliches can be harsh, and I think this does send a good message of that, It seems like the critics really liked it too, which seems rare for the teen movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T00:03:39.815Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T23:57:55.664Z", 
+  "uid1LogOutTime": "2018-02-19T00:03:29.365Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-18T23:57:55.756Z", 
+  "uid2LogOutTime": "2018-02-19T00:03:44.572Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4110", 
+  "user2_id": "USR2390", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

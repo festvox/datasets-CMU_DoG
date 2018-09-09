@@ -1,0 +1,155 @@
+{
+  "date": "2018-01-26T22:42:11.445Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How did you like the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:43:27.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:44:29.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:45:03.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the part when Officer Judy is back on the farm with her parents and she finds out what she has not been a person but a plant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:46:02.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:47:12.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the movie was great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:47:27.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What would you say your favorite part was?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:47:52.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was funny seeing Judy getting coned by the fox and his friend.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:49:21.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea that was a funny part and I liked how she had the recorder in her carrot pen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:50:04.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not suprised that i liked it, i generally like films by Rich moore.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:50:46.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That was the first time I had watched a movie by him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:51:29.870Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i thought he and Byron howard did a really great job!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:51:54.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They really did and there was deeper message in it as well. Not only was it a kids movie but it taught kids not to judge people by their appearances\n. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:52:49.182Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's always nice when a cartoon can be entertaining as well as teach valuable\n lessons.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:53:59.533Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it had a great lesson that was learned and a great movie overall. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T22:54:48.433Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love that the movie constantly asks characters to look past sterotypes, i wish that was osmething we could do in real life.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T22:57:55.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you still there? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:04:25.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:07:12.824Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite character was finnick, i though he was a pretty clever fox.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:10:51.700Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought Ginnifer Goodwin did a really good job as Judy though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:11:35.580Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello! are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:16:02.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello, can you respond so we can finish this task! thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T23:20:27.869Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T22:42:11.445Z", 
+  "uid1LogOutTime": "2018-01-26T23:28:46.362Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-01-26T22:42:11.563Z", 
+  "user1_id": "USR1511", 
+  "user2_id": "USR3205", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

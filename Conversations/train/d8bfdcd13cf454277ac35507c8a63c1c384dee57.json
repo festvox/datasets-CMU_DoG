@@ -1,0 +1,222 @@
+{
+  "date": "2018-02-14T19:59:41.426Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:22.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So you've never seen Frozen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:24.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I saw part of it but got bored and shut it off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:41.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You missed some great animation.  How far did you get in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:57.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think only a few minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:01:08.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:01:14.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely.  It was one of the better Disney movies in a while.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:32.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "better than Aladdin or the Lion King? I really liked Mulan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:01:53.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so.  Many would disagree, but the songs are better in Frozen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:17.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You liked it for the songs?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:27.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or the story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:31.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Both really.  I have to admit the songs got tired after hearing them all the time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:53.368Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:03:03.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Basically, a princess named Elsa has powers that allow her to create magic.  After her parents die, her sister Anna goes to look for her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:03:42.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Elsa runs away?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:10.963Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right, she basically runs away and creates a castle in the mountains.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:29.437Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She builds it from magic?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:40.891Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep, she basically can create frost and wind and anything cold with her fingertips.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:59.693Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it more for kids or grown ups?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:05:21.405Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Both, but kids will likely love it more.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:05:38.444Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:05:51.187Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Around 90 minutes, not too bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:04.891Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is is computer animated? I forgot..I like the older cartoon animations", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:30.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep, 100% computer \nanimated, not hand-drawn.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:06:41.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you say it is better than LIon King or Mulan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:09.584Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lion King for sure.  I didn't care for Mulan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:07:36.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there comedy in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:07:55.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yeah, not dirty at all, but many patches throughout.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:08:06.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any male figures in it or is it like a girl power movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:08:45.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are some male figures.  The best male character is Kristoff who ends up being a love interest in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:13.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How old is Elsa and Anna?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:33.497Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:59:41.426Z", 
+  "uid1LogOutTime": "2018-02-14T20:09:21.851Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:59:41.451Z", 
+  "uid2LogOutTime": "2018-02-14T20:15:35.713Z", 
+  "uid2response": {
+    "feedback": "there was no document available to read as stated", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2591", 
+  "user2_id": "USR912", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

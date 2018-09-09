@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-16T16:48:12.408Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:48:27.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:48:36.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:48:43.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:48:48.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:48:53.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't seen it. Is it any good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:49:17.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It did not get a good rating on Rotten Tomatoes. I liked it though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:49:24.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That happens a lot with Rotten Tomato", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:49:39.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:49:42.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jim Carrey and Jennifer Aniston", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:49:57.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah, they can both be good in the right movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:50:10.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:50:14.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about Jim Carr\ney becoming God", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:50:29.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's an interesting thought?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:50:40.790Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "er, no question mark needed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:50:46.373Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, interesting premise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:50:50.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What does he do as God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:50:56.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it came out in 2003. As God, he just deals with a bigger reality and learns to be more loving. The usual story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:51:20.354Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, the usual", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:51:36.430Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It came out in 2003", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:51:45.443Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was making a lot of movies around that time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:51:45.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, he was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:51:53.765Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What role did Jennifer Aniston have?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:52:02.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she played his wife", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:52:09.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did she believe that he was God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:52:21.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not at first, but she learn\ns as well. You know how it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:52:36.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was the funniest thing he did as God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:53:06.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't remember. I do remember that he got everyone's prayers as sort of a mental email and there were millions he had to answer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:53:33.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, I kind of remember that trailer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:53:51.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Something about him clearing out his inbox", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:54:00.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T16:54:03.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and then a million more emails showing up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T16:54:06.055Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T16:48:12.408Z", 
+  "uid1LogOutTime": "2018-03-16T16:54:09.652Z", 
+  "uid1response": {
+    "feedback": "Was an easy conversation", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T16:48:12.444Z", 
+  "uid2LogOutTime": "2018-03-16T16:54:05.880Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1359", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

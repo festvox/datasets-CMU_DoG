@@ -1,0 +1,93 @@
+{
+  "date": "2018-03-01T21:24:45.900Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:25:07.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could you tell me the title of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:25:52.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:26:18.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty is the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:26:35.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:26:40.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see. I heard a lot of good things about the film. Tell me a little about the film. Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:27:12.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey is the main character, Bruce.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:27:29.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He starts off as a reporter who is pretty ungrateful ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:28:02.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Aha. I like Jim Carrey. Funny guy! Imagine him being a reporter. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:28:31.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He complains to God about his problems. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:28:42.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay that sounds interesting. Why is he so ungrateful?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:29:35.633Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T21:24:45.900Z", 
+  "uid1LogOutTime": "2018-03-01T21:29:24.788Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:24:45.927Z", 
+  "uid2LogOutTime": "2018-03-01T21:30:11.480Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3668", 
+  "user2_id": "USR1533", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

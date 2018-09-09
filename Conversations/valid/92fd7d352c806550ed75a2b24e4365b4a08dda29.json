@@ -1,0 +1,117 @@
+{
+  "date": "2018-03-05T16:40:40.064Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:41:18.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. I am trying to figure out what movie to watch today.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:41:52.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any recommendations?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:42:07.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman v Superman: Dawn of Justice is pretty entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:42:40.868Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays Batman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:42:58.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ben Affleck is the latest actor to play batman in this one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:43:17.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about the actor who plays Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:43:40.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is played by Henry Cavill,   I had never heard of him before this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:44:08.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:44:30.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Zack Snyder was the director for this movie,  he did a good job.  The film was fun to watch. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:45:09.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the basis of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:45:32.489Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lex Luthor manipulates batman into try to defeat superman.  He uses him as a pawn to try and get rid of him once and for all. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:47:00.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know... Been Afleck as Batman?? Sounds weird.  Ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:47:47.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ben*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:47:53.851Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T16:40:40.064Z", 
+  "uid1LogOutTime": "2018-03-05T16:48:10.576Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:40:40.162Z", 
+  "uid2LogOutTime": "2018-03-05T16:48:00.541Z", 
+  "uid2response": {
+    "feedback": "Didn't learn much.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR578", 
+  "user2_id": "USR3061", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

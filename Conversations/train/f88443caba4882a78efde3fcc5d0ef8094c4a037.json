@@ -1,0 +1,92 @@
+{
+  "date": "2018-03-02T05:23:44.152Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Ah batman v superman. that was a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T05:24:13.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "waity I chose batman versus superman not despicable me. but despicable me was a good movie too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T05:24:57.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it's good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T05:25:06.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "steve carell's voice was kinda annoyign throughout though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T05:25:24.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very super", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T05:25:26.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T05:25:31.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you have to make a conversation. using more than just one word", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T05:25:50.022Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T05:26:07.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok i'm aborting this, so the cmu people can set up a new partner. stop doin\ng this hit if you can't follow directions. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T05:26:37.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good very super", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T05:27:38.711Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T05:23:44.152Z", 
+  "uid1LogOutTime": "2018-03-02T05:26:46.992Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-02T05:23:44.459Z", 
+  "uid2LogOutTime": "2018-03-02T05:29:12.921Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1400", 
+  "user2_id": "USR492", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

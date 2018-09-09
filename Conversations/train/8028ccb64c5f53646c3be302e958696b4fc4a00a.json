@@ -1,0 +1,174 @@
+{
+  "date": "2018-02-12T19:34:38.588Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:03.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sup!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:31.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you wanna build a snowman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:36.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello! The actor for Anna is Kristen Bell", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:38.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is correct!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:56.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Indina Mendel plays Elsa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:36:09.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is also correct!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:36:16.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like that Walt Disney was inspired by the previous fairy tale the snow queen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:36:38.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Frozen is the best animated musical to come out of disney according to critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:36:41.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:36:58.524Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's impressive that Eva Bella plays an 8 year old Elsa", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:17.667Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really enjoy that the fearless princess sets off to find her sister", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:19.615Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:27.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's sad that the king and queen isolate the sisters in the castle though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:55.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How cool would it be if they made a broadway musical out of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:38:04.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It would be so cool, because the songs are very nice since it's the best animated musical from disney", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:38:34.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah the same guy that worked on little mermaid worked on frozen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:39:09.468Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And the little mermaid is my favorite movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:39:19.580Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's not true, he died before this movie came out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:39:41.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it\u2019s sad that she got so scared to be crowned queen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:39:53.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it\u2019s also pretty funny that Anna immediately falls in love with the first guy she meets", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:40:28.421Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah that's sad, and it is funny that Anna falls in love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:40:43.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:40:56.645Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:34:38.588Z", 
+  "uid1LogOutTime": "2018-02-12T19:41:03.801Z", 
+  "uid1response": {
+    "feedback": "It seemed like the other person wasn\u2019t receiving all of my messages", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:34:38.637Z", 
+  "uid2LogOutTime": "2018-02-12T19:40:47.774Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1656", 
+  "user2_id": "USR1293", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

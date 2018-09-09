@@ -1,0 +1,85 @@
+{
+  "date": "2018-02-08T22:10:09.791Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you?  Did you like this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:56.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, you? I enjoyed this movie, although not enough to rewatch it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:11:26.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i'm good thanks!  oh really?  I've seen it a few times.  Did you think Lenoardo DiCaprio was a good actor in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:11:54.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DiCaprio was pretty good but I'm a bigger fan of Joseph Cordon Levitt. What did you think of his performance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:12:49.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought Joseph was really good as well.  I'm not normally fan of his, but he was outstanding in this film.  Tom Hardy really stole the show for me though.  He was hilarious and really cool.  What did you think of Tom Hardy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:13:43.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He had some very clever dialogue and I appreciate his delivery. It's more than I can say for Ellen Page, who I felt was a little flat for me. I thought she should have been more skeptical and resistant to the whole idea dreamscapes. What did you think of the concept?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:16:08.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's funny I was just about to say the same thing.  She seemed a little flast ot me as well.  I LOVED the concept of the film.  I know some people found it a bit ridiculous, but I loved how ambitious the concept and plot was.  Did you think Christoper Nolan did a good job directing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:17:59.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the directing was good but the movie was made by the visual effects of the dream world. I felt the plot itself was almost secondary to how well the movie looked.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:20:33.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's cool that you felt that way, but i felt the opposite.  I really loved the plot and yes the visual effects were great, but it added to the plot.  Did you think the movie overall was weird?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:21:53.456Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:10:09.791Z", 
+  "uid1LogOutTime": "2018-02-08T22:23:45.623Z", 
+  "uid1response": {
+    "feedback": "the conversation was going kind of smoothly but the person took a long time and then left after the 6th question", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:10:09.812Z", 
+  "uid2LogOutTime": "2018-02-08T22:23:24.006Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3706", 
+  "user2_id": "USR3079", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

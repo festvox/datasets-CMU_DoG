@@ -1,0 +1,336 @@
+{
+  "date": "2018-03-08T09:08:46.822Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:08:56.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:09:03.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am OK", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:10:33.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:10:46.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course who doesnt?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:10:55.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some people prefer books", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:11:12.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nah, that went out of style years ago lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:11:28.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your favorite movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:11:33.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seriously I enjoy both though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:11:37.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't judge man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:11:48.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like all kinds really, I think romance is boring though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:11:55.949Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like crime films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:12:15.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, those are great. Havent seen a good one in a while though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:12:37.235Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about a movie that celebrates scamming people that is directed by Steven Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:13:42.879Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lol seems interesting so far. Whats it called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:14:00.997Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Catch me if you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:14:13.071Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I've heard of that. Isn't Tom Hanks in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:14:27.694Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, but not his best work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:15:05.730Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You didn't like his performance or the movie as a whole?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:15:19.412Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But way better than that retard forest bump", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:15:19.884Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "His best was The Burbs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:15:49.752Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree on Forrest Gump. Wasn't a fan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:15:52.256Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh man the Burns was hilarious!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:16:02.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You have good taste my friend.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:16:10.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:16:17.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The best part about forest bump was when he got AIDS at the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:16:36.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It really made the whole thing worth while", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:16:58.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember him getting a disease at the end, but then again I really didn't pay attention to that movie at all. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:17:14.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was kind of boring.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:17:19.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hella boring,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:17:30.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was his role in Catch Me If You Can?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:17:38.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He some kind of scam artist?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:17:43.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is the scam artist best friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:18:05.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the\n actual scam artist played by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:18:39.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then he convinces the FBOi to go easy on frank the scam artist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:19:10.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "FBI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:19:14.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leonard's de caprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:19:33.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright, another respectable actor. This doesn't sound bad at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:19:53.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who you may remember from titanic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:19:53.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ugh Titanic..still trying to forget that movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:20:13.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not a fan of the lovey dovey stuff.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:20:24.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Catch me if you can also has Christopher walk-in who you may remember fromJoe Dirt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:20:42.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, nice. I like Walken.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:20:57.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is good in everything he does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:21:05.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, I actually remember him from Forrest Gump", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:21:30.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Irony.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:21:35.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Will you watch catch !e if you can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:21:55.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Weird", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:22:08.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll give it a look since you recommend it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T09:22:13.919Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T09:22:21.640Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-08T09:08:46.822Z", 
+  "uid1LogOutTime": "2018-03-08T09:22:33.702Z", 
+  "uid1response": {
+    "feedback": "Interesting conversation overall.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T09:08:47.052Z", 
+  "uid2LogOutTime": "2018-03-08T09:22:27.859Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR1739", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

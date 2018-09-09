@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-20T18:44:23.700Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:45:50.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, you should really check out this really great movie called toy story. Its got amazing actors like tom hanks and tim allen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:46:34.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a movie for kids, or families or adults?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:47:07.524Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did this movie come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:52:46.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it animated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:53:15.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what the rating is, is is G or PG?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:53:34.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it win lots of awards? Which ones?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:54:00.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it receive good reviews from Rotten Tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:54:41.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it part of a series?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:54:53.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there any prequels or sequels?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:55:02.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it in the theaters now, or something\n I'd have to get steaming?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:55:26.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was there a musical score to it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:56:34.466Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it controversial in any way?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:56:48.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was there any sex or violence?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:56:57.652Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T18:44:23.700Z", 
+  "uid1LogOutTime": "2018-03-20T18:46:49.591Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-20T18:44:23.734Z", 
+  "uid2LogOutTime": "2018-03-20T18:57:40.014Z", 
+  "uid2response": {
+    "feedback": "The other person only sent one message, so I know very little about the movie from them.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1574", 
+  "user2_id": "USR4441", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

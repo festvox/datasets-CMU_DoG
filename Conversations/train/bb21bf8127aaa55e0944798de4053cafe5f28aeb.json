@@ -1,0 +1,252 @@
+{
+  "date": "2018-02-07T15:55:19.384Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:34.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:55:37.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:55.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry, whats the movie called again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:05.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "la la land", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:19.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I havent seen it, how is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:34.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a musical", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:03.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who are the main actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:15.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan gosling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:26.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "emma stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:30.216Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I like them, do you know how long it is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:41.339Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:02.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:22.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling plays a jazz pianist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:52.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:04.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Emma Stone is an actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:07.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "they fall in love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:13.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't watched it yet. Getting info from the document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:35.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh I didn't get a document. Do you think its worth a watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:03.799Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It gets 92% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:24.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and 93/100 on metacritics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:36.192Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow thats really good, i think ill give it a try then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:43.935Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:03.681Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do u like musicals", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:08.802Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "depends on the subject, some of them are a little too much for me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:23.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i understand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:33.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:42.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it depends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:54.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this looks kinda interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:05.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like the main actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:11.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah ryan gosling is pretty good in his other stuff", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:25.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:31.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "emma stone too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:34.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Emma stone was really good in HotRod", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:36.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not hotrod, superbad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:03.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:19.371Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T15:55:19.384Z", 
+  "uid1LogOutTime": "2018-02-07T16:03:27.699Z", 
+  "uid1response": {
+    "feedback": "The user seemed to recommend the movie. He said the subject matter was interesting", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:55:19.567Z", 
+  "uid2LogOutTime": "2018-02-07T16:03:32.524Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1865", 
+  "user2_id": "USR4312", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

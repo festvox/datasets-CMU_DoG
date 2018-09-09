@@ -1,0 +1,178 @@
+{
+  "date": "2018-02-07T16:27:07.621Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:27:41.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:27:41.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You watch moive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:28:02.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "moive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:28:10.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:28:17.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:28:45.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "U like marvel movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:29:17.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:29:36.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:30:51.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which character\n do u like ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:32:09.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like Iron Man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:32:25.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good speech", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:32:30.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good actor ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:33:01.023Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:33:02.050Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:33:32.016Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he is a very good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:34:08.058Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You see both part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:35:09.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:35:34.089Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which part you like very much ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:37:59.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "second part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:38:52.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:39:05.916Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh..super ..i like also 2nd part.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:40:54.113Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:41:24.240Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i like another one character\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:52:20.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hai", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:05:55.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "than", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:14:52.821Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:27:07.621Z", 
+  "uid1LogOutTime": "2018-02-07T17:19:37.307Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:27:09.232Z", 
+  "user1_id": "USR4613", 
+  "user2_id": "USR197", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2018-03-27T16:23:54.284Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:24:54.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:25:11.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie being discussed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:25:20.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have, what about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:25:30.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not but I have heard it is good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:25:45.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I really liked it myself. It's pretty hilarious, but definitely not \"family friendly\" ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:26:04.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good actors in it and a good director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:26:27.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly. Jonah Hill at his absolute best", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:26:49.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about DiCaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:27:04.878Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he should've won the Oscar. Very likeable, but made you hate the character. Takes talent that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:27:53.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you see this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:28:16.184Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I saw it in theatres and proably a dozen times since. One of my favourites", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:28:31.467Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "NM it is the same movie ha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:28:43.812Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was there a lot of sex and drugs in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:29:05.418Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T16:23:54.285Z", 
+  "uid1LogOutTime": "2018-03-27T16:28:32.518Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-27T16:23:54.314Z", 
+  "uid2LogOutTime": "2018-03-27T16:30:57.462Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3165", 
+  "user2_id": "USR2628", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

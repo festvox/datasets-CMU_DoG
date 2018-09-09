@@ -1,0 +1,294 @@
+{
+  "date": "2018-02-12T18:58:31.072Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:59:21.730Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T18:59:45.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does this movie seem interesting to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T18:59:56.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sure does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:21.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:27.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has a 92% on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:30.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:34.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should see it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:00:40.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's an action film right? It seems so good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:00:48.068Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I bet there are all sorts of characters in it and funny ones too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:10.218Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ya it has Robert Downey Jr in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:17.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is a great actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:24.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:38.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot is pretty interesting,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:45.049Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ya once when it came out in 2012", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:50.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me a little about the plot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:56.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A lot of stuff about aliens and SHIELD, then the Avengers have to come together to save the planet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:17.733Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Typical Marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:23.266Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love stuff about aliens!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:30.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Marvel always seems to have alien stuff in their movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:02:40.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha Loki is a great one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:02:46.794Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he's the villan and he's Thor's brother, so there's a whole family dynamic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:05.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, so a good brother and a bad brother.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:14.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Like kane and abel.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:20.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha just like, but less stabbing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:33.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Still just as dramatic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:45.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some of the main scenes have Nike Shield, Samuel L Jackson, trying to get everyone together", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:05.483Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Samuel L Jackson is great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:18.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They find alien artifacts with weird energy signaturs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:24.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He always has a serious look.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:27.479Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds mysterious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:55.065Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He should do more romcoms. \nThen Toni Stark, Shield and the Avengers have to save the day.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:03.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, they are all great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:14.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's also a big wormhole between universes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:38.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OOH so that's how those different marvel characters meet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:51.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is pretty impressive CGI with the \naliens flying out of it into Earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:54.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aliens always add a good dimension to any movie .", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:11.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie sounds great. I want to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:29.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep, they have to come together, Hawkeye, the Hulk, Iron Man, Captain America", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:31.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for talking to me about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:38.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ya, it's good I hope you see it and like it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:40.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:47.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome, thanks for listening", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:47.969Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T18:58:31.072Z", 
+  "uid1LogOutTime": "2018-02-12T19:06:52.070Z", 
+  "uid1response": {
+    "feedback": "They were very good at persuading me to watch the movie. I have never seen it but I will want to find it now. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T18:58:31.201Z", 
+  "uid2LogOutTime": "2018-02-12T19:08:03.173Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2975", 
+  "user2_id": "USR1221", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

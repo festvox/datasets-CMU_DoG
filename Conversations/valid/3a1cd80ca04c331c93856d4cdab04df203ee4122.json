@@ -1,0 +1,66 @@
+{
+  "date": "2018-02-07T21:34:51.323Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I love sharks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:35:37.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was too gruesome for children but I loved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:36:56.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I almost felt like a rat given shock therapy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:37:15.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\noot emjkjjloog dmyllaer Ioot eM", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:37:47.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oops, sorry. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:37:59.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie, but it was gruesome for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:38:07.787Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:34:51.323Z", 
+  "uid1LogOutTime": "2018-02-07T21:38:39.242Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:34:51.571Z", 
+  "uid2LogOutTime": "2018-02-07T21:37:31.634Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4119", 
+  "user2_id": "USR1259", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

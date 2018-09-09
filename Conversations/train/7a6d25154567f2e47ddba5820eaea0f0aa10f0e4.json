@@ -1,0 +1,92 @@
+{
+  "date": "2018-02-17T01:20:13.830Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T01:21:04.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T01:21:15.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "seen any good movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T01:21:41.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I went and saw a movie called \"the imitation game\" it is based on true events, but I dont think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T01:24:22.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really the title sounds interesting.  why do you thing it is not based on true evnts??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T01:25:35.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looking at the reviews it seems like it takes liberties with the actual story that happened in history. It got mixed reviews, but what did it for me was hearing Andrew Grant a writer for Science News said that it really deviates from the actual true story. You know how Hollywood makes things more dramatic. I wouldnt go see it unless it is for the entertainment value. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T01:30:18.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok good to know what is the plot about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T01:31:00.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its based on a real life British cryptanalyst Alan Turing, who decrypted German intelligence codes during the World War 2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T01:32:43.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok what was your favortite part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T01:34:47.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't have a favorite part. I wouldn't recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T01:37:21.743Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-17T01:20:13.830Z", 
+  "uid1LogOutTime": "2018-02-17T01:37:36.602Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-17T01:20:13.872Z", 
+  "uid2LogOutTime": "2018-02-17T01:38:04.713Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2597", 
+  "user2_id": "USR3936", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

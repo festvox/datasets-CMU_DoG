@@ -1,0 +1,211 @@
+{
+  "date": "2018-03-20T16:12:52.172Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:13:10.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:13:13.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie before ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:13:24.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't, but I'm interested now. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:13:54.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i have seen this movie , its actually one of my favorite movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:14:11.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of this movie you're talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:14:21.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wolf of wallstreet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:14:34.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What can you tell me about the movie without giving too much away?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:00.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main star in the movie is leonardo dicaprio , its a comedy yet thrilling movie that will keep you laughing ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:15:37.772Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it more funny or more dramatic?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:15:53.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he does stock's in the movie and makes a very good living doing stocks , its more funny ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:16:13.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "some drama", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:16:15.262Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it good? Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:16:43.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its my favorite movie to be honest .. you need to see it ! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:17:16.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, that's quite a statement! Is it similar to any other movies you've ever seen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:17:55.248Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its similar to the movie blow ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:19:42.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting. What kind of stocks does he trade, or what exactly makes him the \"wolf of wall street?\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:19.266Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "rotten tomatoes rated 7.8 out of 10 thats pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:20:31.985Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Pretty good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:44.820Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else can you tell me about Leo Dicaprio's character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:20:56.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he trades really crappy stocks and tricks people to thinking that the stock will climb the ladder when in reality the stock is garbage hes basically scamming rich people ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:21:09.063Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "his character is very funny , hes a drug addict in the movie with lots of energy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:21:37.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, so he's basically running a scam? Does anything come of it? Does he go to jail or get caught?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:21:47.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont wanna ruin the movie for you but he does get in some trouble in the movie , police do get involved ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:23:23.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for that! I just want to know as much as I can without ruining it. Any other interesting characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:53.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jonah hill is in the movie ! hes basically leo's best friend in the movie and helps with the scams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:24:30.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, that's cool, he's a funny dude. Is this a true story or is it made up?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:25:23.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its a made up comedy !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:26:02.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very cool! Do you know if it won any awards?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:26:51.312Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T16:12:52.174Z", 
+  "uid1LogOutTime": "2018-03-20T16:28:00.893Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:12:52.185Z", 
+  "uid2LogOutTime": "2018-03-20T16:26:53.356Z", 
+  "uid2response": {
+    "feedback": "The other user sold it, I think I will watch the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1895", 
+  "user2_id": "USR1563", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

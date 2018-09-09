@@ -1,0 +1,71 @@
+{
+  "date": "2018-03-21T15:55:47.163Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:56:07.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi just saw the Wolf of Wall Street and it was an awesome movie. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:56:46.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes and i like it very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:57:20.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2013 best movie for me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:57:52.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio was amazing as Jordon Belfort.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:58:10.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which actor  performance did you like the best\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:58:19.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:59:52.736Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:55:47.163Z", 
+  "uid1LogOutTime": "2018-03-21T15:58:32.939Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:55:47.164Z", 
+  "uid2LogOutTime": "2018-03-21T16:10:22.270Z", 
+  "uid2response": {
+    "feedback": "VERY INTERESTING ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR806", 
+  "user2_id": "USR3489", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

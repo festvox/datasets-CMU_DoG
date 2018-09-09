@@ -1,0 +1,227 @@
+{
+  "date": "2018-03-27T15:54:04.157Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:54:28.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:54:37.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen home alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:55:11.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't hear about that movie. Can you tell me something about the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:55:48.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its about a kid left home alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:56:23.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting, who plays the kid?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:56:38.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mucaluay culkin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:56:59.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see, what is the movie's release year?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:57:51.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "1990", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:58:04.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what else would you like to know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:58:30.092Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't feel that old to me, but I am from the 90's. Incredible how fast time passes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:58:57.386Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:59:08.794Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure. Anything else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:00:41.756Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not even from Rotten tomatoes? Oh well. Well, could you tell me what should I take some time to watch the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:02:01.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its a good family movie, do you have kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:02:44.133Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, although I still live with my family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:03:41.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could you tell me your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:04:09.977Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a 62% of rotten tomatoes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:04:13.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It doesn't have a good rating, that makes think it is a regular movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:05:30.003Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Reviews are opinions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:06:02.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You might love it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:06:10.028Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know, with that rating the odds of actually being entertained or liking it are quite low to me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:07:12.868Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It has great actors like joe pesci", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:09:19.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see, well let's try this. Could you give a short review by you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:10:19.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I already did. It's a movie about a kid left home alone. I think it is a great movie! I recommend everyone see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:12:04.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is rather short man, what does the kid do while he is alone? Or why is even left alone in the first place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:13:17.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His family mistakenly left him behind.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:13:59.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "AND THEY CANT MAKE IT BACK", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:14:42.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:15:24.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, I personally don't see why I should see this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:15:50.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok fine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:16:02.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't you have anything else to tell me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:16:56.944Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T15:54:04.157Z", 
+  "uid1LogOutTime": "2018-03-27T16:17:27.706Z", 
+  "uid1response": {
+    "feedback": "The task did not give me a code until the task was expired.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:54:04.342Z", 
+  "uid2LogOutTime": "2018-03-27T16:17:36.817Z", 
+  "uid2response": {
+    "feedback": "I dind't get any document, which is fine because it is part of the experiment too but the other user dind't answer properly, I think he dind't even read the document well. His responses were vague and he wasn't able to impress or causing me curiosity to watch the film, and also he was rude at the end of the chat.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4840", 
+  "user2_id": "USR3412", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

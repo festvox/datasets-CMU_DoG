@@ -1,0 +1,247 @@
+{
+  "date": "2018-03-20T23:47:24.310Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:47:56.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:48:00.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me a little about the movie you read about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:48:20.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's called wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:48:41.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's a black comedy. From way back in 2013 they filmed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:48:56.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the movie rated ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:49:07.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "rt gave it 78 percent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:49:29.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it G rated, PG rated, PG 13 rated, R rated?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:50:01.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not on my sheet. \nLeonardo DiCaprio starred in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:50:17.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ooh I love him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:50:36.707Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh, who doesn't", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:50:52.825Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who else is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:51:10.462Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jonah hilll and margot robie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:51:43.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was written by terrance winter. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:52:18.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hmmm I don't think I know either one of them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:52:26.939Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "well, who knows anybody, really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:52:53.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was based on the memoir of jordon belforte", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:53:19.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a really cool dude", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:53:29.334Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he did some cool stuff to women", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:53:42.788Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and little people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:53:52.682Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you know anything about jordon belfort?  I don't think I have ever heard of him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:53:52.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he was the subject of a 2013 oscar winning film, Wolf of Wall Street. He was portrayed by Leonardo DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:54:29.791Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i am not sure what you mean about doing stuff to women and little people", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:55:00.977Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he lived a decadent lifestyle full of prostitutes and drugs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:55:23.113Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't really think that is cool stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:55:48.775Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he was investigated by the FBI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:55:48.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hopefully he was arrested", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:56:07.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he procured a job as a stokbroker in 1987 and then it all \ngoes on from there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:56:46.640Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was arrested by the FBI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:57:07.295Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "glad to hear it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:57:14.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "his friend informed on him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:57:22.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good deal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:57:28.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he recieved a reduced sentence and served nearly three years in minumum security", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:57:57.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not really that long", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T23:58:09.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then he made a living hosting sales technique sminars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T23:58:23.782Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T23:47:24.310Z", 
+  "uid1LogOutTime": "2018-03-20T23:58:43.656Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T23:47:24.331Z", 
+  "uid2LogOutTime": "2018-03-20T23:58:15.443Z", 
+  "uid2response": {
+    "feedback": "I don't really like movies about prostitutes and drugs.  I am more of a family movie type.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4049", 
+  "user2_id": "USR4751", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

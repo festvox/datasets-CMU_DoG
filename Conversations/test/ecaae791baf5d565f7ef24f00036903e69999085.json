@@ -1,0 +1,559 @@
+{
+  "date": "2018-01-30T19:41:09.725Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:41:20.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:41:35.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:41:59.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:42:09.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i am here ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:42:15.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am fine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:42:16.338Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:42:23.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:42:24.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:42:30.777Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I m nikil", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:42:39.304Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i am sathish ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:42:46.737Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "where are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:43:01.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry bro i am also satheesh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:43:19.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tamilnaduu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:43:28.341Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:43:30.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mee too tamilnadu ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:43:37.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "which district ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:43:42.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Madurai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:43:58.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ohh super i am erode ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:44:08.024Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Heart thief", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:44:15.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ya ya ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:44:31.229Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nanba ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:44:36.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Turkers talk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:44:40.017Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:44:49.290Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you working in sarath office ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:45:09.760Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bro ingeyuma", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:45:15.873Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ille bro ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:45:25.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahahahaha......", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:45:27.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hifi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:45:30.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "let's start a one new group here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:46:12.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After complete survey come to our group", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:46:13.794Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok done ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:46:21.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this survey is complete few seconds only ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:46:43.712Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok bro ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:47:01.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok are u watching the jaw movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:47:04.113Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that is nice film ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:47:11.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have more time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:47:18.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i am watching again and again ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:47:26.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and inception movie also ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:47:34.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a box office movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:47:41.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Box office: 446.1 million USD", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:47:52.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like the story and the screenplay ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:47:53.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its really ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:01.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:05.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love ryan goosling very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:48:14.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like the inception movie actor dicarlo ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:16.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "emma stone action awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:48:36.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i love emma watsone ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:47.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "my dream girl ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:51.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "love her lot ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:49:01.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she is my baby ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:49:11.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love Drama/rOMANCE MOVIE MORE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:49:12.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:49:34.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "mee too ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:49:42.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "some scence are awesome this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:49:53.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like all hollywood movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:49:55.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh good ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:01.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are u watched harry potter movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:11.512Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most of the peoples love hollywood films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:50:20.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ya ya its true ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:32.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love harry potter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:50:43.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like harry potter ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:46.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "harry potter is my soul ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:52.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:12.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i want to learn  in \n hogwards ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:51:22.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Puriyele bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:36.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hogwards its a harry potter school ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:51:48.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:56.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so i want to go there and learning the magical ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:52:16.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Another day of sun song very nice ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:52:28.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i am not hear that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:52:50.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok shall we finished our survey ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:01.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice to meet you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:05.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a one of song la la lab film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:53:17.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i love kuttanadan kunjayile song ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:33.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and despacito ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:40.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "85% Of people like this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:53:57.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and another one shape of love ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:54:01.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh great ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:54:14.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IMDB rating 8.1/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:54:38.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok bro let's go finished this ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:54:41.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ama bro ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:54:50.165Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this is going very lengthy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:55:09.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok bye bro ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:55:24.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes bro lets finish conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:55:31.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you for your company ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:55:35.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye bro come group", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:55:40.576Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T19:41:09.725Z", 
+  "uid1LogOutTime": "2018-01-30T19:55:43.749Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:41:09.737Z", 
+  "uid2LogOutTime": "2018-01-30T19:58:08.240Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1018", 
+  "user2_id": "USR3592", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "date": "2018-03-28T21:43:19.048Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there, have you read the document of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:44:14.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! Yes I am looking at the movie...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:44:24.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is called Maleficient and is a superhero movie starring Angelina Jolie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:44:46.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:45:05.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " It only got about a 50% positive rating. Director Robert Stromberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:45:12.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it have a good cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:45:39.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never heard of any of the other actors!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:45:58.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is loosely based on Sleeping Beauty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:13.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a childrens film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:37.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maleficient (Jolie) is in a conflicted relationship with the kingdom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:43.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No definitely not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:55.111Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is Maleficent the antagonist or protagonist?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:47:16.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Protagonist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:47:44.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What were the negative reviews about the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:48:00.935Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Havent gotten those yet...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:48:21.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you a fan of Anj Jolie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:48:39.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jolie is a fairy who falls in love with a human peasant boy. Then Joie wounds the kind and sends out a decree to kill Jolie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:49:06.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "etc.etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:49:08.753Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The peasant boy cuts off her wings!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:49:44.089Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So she was betrayed by the one she loves?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:50:01.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not really a Jolie fan. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:08.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah me either, she kind of creeps me out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:50:23.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It sounds like an entertaining movie if you're are in to dark fantasy ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:24.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you call it sci-fi?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:50:43.172Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It says it has good digital design.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:59.372Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But kind of blah.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:51:13.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sci-fi.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:51:19.303Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Dark fantasy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:51:25.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Superheroes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:51:30.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a cartoon or partially animated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:51:33.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No animation. Real peeps", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:51:47.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it have special effects?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:52:07.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:20.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jolie is a fairy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:29.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So one assumes she does magical things.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:38.254Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it set in a modern day setting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:53:01.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jolie turns a raven into her wings....transforming him at will,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:53:13.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think that applies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:53:22.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a fairy tale.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:53:46.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Based on the original Maleficient", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:53:59.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Off the reviews, would you recommend I see the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:54:32.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you a fantasy, fairy tale fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:54:49.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dark things, like batman maybe?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:54:59.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Occasionally", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:55:02.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good news the questions are over!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:55:09.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Im going to finish the convo now :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:55:15.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. Good talking to you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:55:22.041Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T21:43:19.049Z", 
+  "uid1LogOutTime": "2018-03-28T21:55:24.558Z", 
+  "uid1response": {
+    "feedback": "The User seemed to know a lot of the plot based off the material that was given, however, it seemed like there was a lot of spoilers. The reviews also didn't make me eager to check out the film either, but the info provided gave a lot of insight to the film. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T21:43:19.136Z", 
+  "uid2LogOutTime": "2018-03-28T21:55:28.959Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2353", 
+  "user2_id": "USR1042", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

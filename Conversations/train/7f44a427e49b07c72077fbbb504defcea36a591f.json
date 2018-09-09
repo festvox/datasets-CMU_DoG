@@ -1,0 +1,83 @@
+{
+  "date": "2018-04-02T16:18:44.710Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Well they did call the cops ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:19:18.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI THERE.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:19:26.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHO CALLED THE COPS?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:19:45.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But remember because of the weather/holidays they couldn't get through. Lines done and so on! The mom finally gets to talk to the cop tword the end but she calls and trys through the movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:20:35.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "TOY STORY IS A CUTE ANIMATED FILM ABOUT A WOODEN PULL STRING COWBOY WHO CAME TO LIFE ALONG WITH SOME OF HIS TOY-BOX FRIENDS.  ANDY IS THE YOUNG BOY WHOSE TOYS THEY ARE.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:21:23.851Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy story is an amazing movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:21:54.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2 very famous Actors do the voices as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:15.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BUZZ LIGHTYEAR WAS WOODY'S SIDEKICK, A SPECIAL RANGER ACTION FIGURE AND WOODY'S RIVAL.  HIS VOICE WAS DONE BY TIM ALLEN.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:33.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "MY SCREEN SHOWS YOU LEFT THE CHAT, ARE YOU NOW BACK?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:15.568Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T16:18:44.710Z", 
+  "uid1LogOutTime": "2018-04-02T16:22:40.656Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:18:44.801Z", 
+  "uid2LogOutTime": "2018-04-02T16:25:16.322Z", 
+  "uid2response": {
+    "feedback": "MY PARTNER LEFT THE CHAT AT VARIOUS TIMES AND WAS UNCOOPERATIVE", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR58", 
+  "user2_id": "USR3168", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

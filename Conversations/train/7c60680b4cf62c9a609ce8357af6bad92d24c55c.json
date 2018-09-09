@@ -1,0 +1,109 @@
+{
+  "date": "2018-03-05T17:33:08.591Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello How are you today? Have you seen Despicable Me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:34:20.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its Stars Steve Carell as the super villain named GRU.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:35:05.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " It was released in 2010 and scored a rotten tomatoes score of 81%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:36:09.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:36:50.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I m fine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:36:56.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I\n seen Despicable Me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:15.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jason Segel also plays as the villains achenemy named Vector. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:36.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it was released in 2010 and scored a rotten tomatoes score of 81%. I really enjoyed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:40.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My name Yolanda Lyles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:38:08.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is nice to meet you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:38:46.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " It was released by Illumination Entertainment. on July 9th 2010.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:39:34.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:45:25.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel very ha\nppy with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:45:45.825Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:33:08.591Z", 
+  "uid1LogOutTime": "2018-03-05T17:40:46.200Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:33:09.276Z", 
+  "uid2LogOutTime": "2018-03-05T17:46:50.682Z", 
+  "uid2response": {
+    "feedback": "I feel good", 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2437", 
+  "user2_id": "USR591", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

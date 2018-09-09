@@ -1,0 +1,163 @@
+{
+  "date": "2018-02-06T19:56:49.721Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Inception? If not, you should. It's complicated but very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:58:07.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio and Joseph Gordon Levitt are in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:58:25.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seeLeonardo DiCaprio and Joseph Gordon Levitt are in itn Inception? If not, you should. It's complicated but very good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:35.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They go into people's minds to steal information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:08.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:01:24.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Even Ellen Page is in it, and I love her.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:04.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i also love her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:03:19.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The people who go into other people's minds are called extractors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:31.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:01.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has an 86% on Rotten Tomatoes, so that's pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:24.841Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:58.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The first scene kind of explains how going in someone's mind works.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:12:42.785Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In a team, people have to set up \"kicks\" to wake each other up from sleeping (how they go into a mind, I guess). ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:13:13.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But some people have defenses in their subconsciousness, and the team gets attacked in one guy's mind.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:14:02.578Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If the guy dies will in another person's mind, he may get stuck in an infinite limbo where he forgets he's dreaming.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:15:02.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You're a very slow typist considering how exciting this movie is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:16:45.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If the guy dies will in another person's mind, he may get stuck in an infinite limbo where he forgets he's dreaming", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:16:53.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's very true. Do you have any questions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:17:21.912Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like scientific movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:18:04.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would love to tell you more about this movie, but you don't seem interested.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:21:57.343Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, I think I'm going to go, then. You should see Inception!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:22:44.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:24:51.559Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:56:49.721Z", 
+  "uid1LogOutTime": "2018-02-06T20:22:53.298Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:56:49.754Z", 
+  "uid2LogOutTime": "2018-02-06T20:24:54.466Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2378", 
+  "user2_id": "USR4439", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

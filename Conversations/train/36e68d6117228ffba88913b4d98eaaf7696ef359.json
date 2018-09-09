@@ -1,0 +1,233 @@
+{
+  "date": "2018-03-03T02:43:51.549Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:44:28.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would definitely recommended seeing Bruce Almighty. Jim Carey is hilarious in the slapstick scenes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:45:31.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:45:47.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan Freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:46:13.334Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a romantic part of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:47:08.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Basically Carey complains God (Morgan Freeman) is not doing his job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:47:26.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jennifer Anniston plays as Carey's love interest.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:47:57.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a rotten tomatoes score of 48%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:48:46.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a sequel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:49:04.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not noted in the document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:49:44.461Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When was the movie made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:50:30.925Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2003", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:50:44.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What happens after he complains about God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:51:32.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Carey is offered a chance to be Good, which is where the comedy really ensues.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:52:30.568Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "God*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:52:39.516Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this film appropriate for all ages?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:53:06.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The document does not state.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:53:50.006Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are their any other side plots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:54:15.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:54:26.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Carey competes with Steve Carrel for recognition from the news Network they work for which is hilarious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:55:36.222Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is his job at the news network?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:56:58.096Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One of my favorite scenes is when Carey uses his powers as God to humiliate Carrel on a live broadcast.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:57:46.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Carey is a television field reporter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:58:18.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any sad or dramatic parts to the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:58:41.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say the biggest drama is the competition between Carey and Carrel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:59:25.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is also sad when Carey and Anniston break up during the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:00:02.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How does the plot resolve?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:00:08.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have that part of the document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:02:51.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did the critics like this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:03:59.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metacritic was 46/100 and the Cinema score was A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:04:40.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what city does the film take place in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:06:14.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "New York", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:06:31.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for your answers. nice talking to you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:06:52.167Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-03T02:43:51.549Z", 
+  "uid1LogOutTime": "2018-03-03T03:06:55.487Z", 
+  "uid1response": {
+    "feedback": "Most of the answers made sense but sometimes they answered random information first and then answered my question in a second reply.  I have already seen this film, so that is why I will not watch it after the conversation. Otherwise, I might.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-03T02:43:51.640Z", 
+  "uid2LogOutTime": "2018-03-03T03:06:35.670Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2508", 
+  "user2_id": "USR31", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

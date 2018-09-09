@@ -1,0 +1,175 @@
+{
+  "date": "2018-03-23T16:32:25.999Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! What movie will we talk about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:32:44.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, we're talking about Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:33:24.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, great. Who is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:33:51.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Robert Downey Jr, Jon Favreau (who also directed), Gwyneth Paltrow\n and Terrance Howard.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:34:37.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. Do you have any information about the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:35:03.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's based off of the Marvel comic book hero, a master engineer who builds himself an exoskeleton suit. He then uses it to be a \"super hero\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:36:02.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what the reviews are like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:36:49.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's regarded as a good movie and well-liked by fans. Critics seem to like it as well, with a Metacritic score of 79/100. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:38:01.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a pretty good movie! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:38:42.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it yourself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:38:45.041Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen it. I think it's pretty good. And a good start of the whole giant Marvel franchise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:39:25.617Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I always heard that it was one of the better superhero movies out there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:40:54.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are two sequels, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:40:57.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, two sequels to the Iron Man series. And he's in the other Marvel movies as well. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:43:28.899Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In the new document I'm given, it describes the beginning of the movie. Tony Stark (Robert Downey Jr) is at a weapons demonstration when he gets ambushed and abducted. He's taken to a hideout in a cave of a terrorist group. A fellow captive who is a doctor saves his life by implanting an electro magnet into Stark's chest to keep shrapnel from killing him. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:43:39.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, and that is how he becomes a superhero?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:44:37.370Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea, that's \"Iron Man's\" origin story, how Tony gets the glowing circle on his chest, why he needs it the rest of his life. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:45:03.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What role does Jon Favreau play? I know he has been in some of his other movies he's directed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:46:22.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He's Tony's assistant and friend. It's not a major role. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:48:05.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cool, it sounds like an interesting movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:48:14.600Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I will have to check it out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:48:16.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thank you for your information, have a great day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:48:29.883Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:48:34.689Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hope you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:48:46.640Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T16:32:25.999Z", 
+  "uid1LogOutTime": "2018-03-23T16:49:26.509Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:32:26.002Z", 
+  "uid2LogOutTime": "2018-03-23T16:48:53.943Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4632", 
+  "user2_id": "USR1806", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

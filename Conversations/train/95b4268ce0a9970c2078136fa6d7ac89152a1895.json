@@ -1,0 +1,140 @@
+{
+  "date": "2018-02-14T00:49:28.340Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What did you think about frozen? I thought it was a great kids movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:50:29.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen was perfect for both adults and kids ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:50:45.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, my kids have watched it multiple times. Who is your favorite character? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:51:20.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very catchy songs and portrayed sisters well - my favorite character is elsa ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:52:02.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actually ollaf ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:52:08.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:52:31.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite was olaf, his charm and wit added alot of comedy to the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:52:40.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know it was based off of the original snow queen ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:52:59.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree - Both Olaf and the lumberjack in the movie made it great for the entire family ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:53:15.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and I did not know that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:53:21.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite scene ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:53:40.043Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Olaf melting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:53:49.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha that was funny, my favorite was when her sister came to find her in the ice castle. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:54:44.970Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh that was a really good one too ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:54:58.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think about the rating that rotten tomatoes gave of 89%? I thought it was fair", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:55:34.609Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think that was fair as well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:56:30.095Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Although this seemed to mark some cultural relevance and reaffirmation of Disney, a lot of people still do not agree with the idea of a disney princess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:58:14.754Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T00:49:28.340Z", 
+  "uid1LogOutTime": "2018-02-14T00:58:25.072Z", 
+  "uid1response": {
+    "feedback": "The conversation went well. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T00:49:28.455Z", 
+  "uid2LogOutTime": "2018-02-14T00:57:50.078Z", 
+  "uid2response": {
+    "feedback": "The other user left the room, I am not sure there was enough chat", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1966", 
+  "user2_id": "USR1650", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

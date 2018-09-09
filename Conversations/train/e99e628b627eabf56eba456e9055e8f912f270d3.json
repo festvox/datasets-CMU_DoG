@@ -1,0 +1,90 @@
+{
+  "date": "2018-04-02T16:25:31.625Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Wow, Shape of Water really is a deserving winner of best movie of the year! What do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:34.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it's a really interesting premise.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:13.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the love story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:41.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you ever expect movie about a woman falling in love with a male mermaid would win best picture? I liked the love story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:27:54.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's really surprising. What do you think about the portrayal of disability?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:03.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "To be honest I never even considered the aspect of disability.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:29:20.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the portrayal?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:30:04.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's easy for us to overlook if it doesn't affect us.  I think the representation in cinema is important. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:30:50.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's true. There isn't very good representation in modern cinema", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:31:16.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you usually like fantasy movies like this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:32:30.016Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T16:25:31.626Z", 
+  "uid1LogOutTime": "2018-04-02T16:32:45.503Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:25:31.974Z", 
+  "uid2LogOutTime": "2018-04-02T16:33:18.877Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3270", 
+  "user2_id": "USR4440", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

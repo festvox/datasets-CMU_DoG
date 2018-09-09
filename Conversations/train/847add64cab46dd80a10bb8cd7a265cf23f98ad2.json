@@ -1,0 +1,223 @@
+{
+  "date": "2018-03-02T20:24:29.507Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:25:04.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! What's the name of the movie we are to discuss?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:25:15.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:25:22.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting! I have never seen it. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:25:43.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really?! It's about Mark Zuckerberg and how he and others developed Facebook", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:26:21.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Justin Timberlake, Armie Hammer, and Andrew Garfield in it. It's SO good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:26:53.938Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh ok! Is it more of a drama type of film? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:26:57.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it's more drama, but there are definitely some funny moments", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:27:16.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How is Justin Timberlake's acting in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:27:17.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you consider it exciting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:27:33.895Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "His acting is pretty good! He's actually a really good one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:27:35.507Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah it's exciting. But supposedly it's not the truth of how Facebook started", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:28:16.297Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it centered more on his creation of Facebook or what happens after he created it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:28:22.404Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, it isn't the truth about how Facebook started? Why would someone want to watch that movie then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:28:40.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They say things are exaggerated, but that's in every movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:29:04.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Just simply exaggerated, not entirely false?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:29:27.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:29:33.164Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Overall would you consider it a MUST SEE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:29:41.404Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, just to see Armie Hammer play twins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:29:56.350Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What other movies have Armie Hammer been in? I don't think I have heard of him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:30:15.240Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was given a 96% on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:30:20.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is he also a good actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:30:23.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah he's a good actor, too. I can't remember off the top of my head of other movies he's been in, but he is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:30:53.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Could you tell me more about the plot of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:31:14.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or about the ending? Is it happy or sad?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:31:24.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's about how Mark developed Facebook over a breakup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:31:39.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it ends pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:31:52.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why did they breakup?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:32:09.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Doesn't say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:32:24.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there a lot of strong female actors in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:32:32.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for all of your input on the film!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:32:49.215Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T20:24:29.507Z", 
+  "uid1LogOutTime": "2018-03-02T20:32:51.177Z", 
+  "uid1response": {
+    "feedback": "I've already seen the movie, and was not the biggest fan of it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T20:24:29.648Z", 
+  "uid2LogOutTime": "2018-03-02T20:32:58.111Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1712", 
+  "user2_id": "USR1783", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

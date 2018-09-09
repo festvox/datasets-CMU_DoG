@@ -1,0 +1,287 @@
+{
+  "date": "2018-02-09T17:55:05.610Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:55:50.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:56.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Wonder Woman the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:10.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not yet, have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:23.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it was a pretty awesome movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:39.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it the one from 2017?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:00.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The 2015 one, the film tells the story of Princess Diana who grows up on the islad of Themyscira.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:58:35.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I don't know if I ever heard of that one. Is it that one where Diana is a zombie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:36.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:59:51.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is a pilot that crashes a plane on the island and Diana rescued him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:35.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Diana is such a sweet heart. Does it have a happy ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:57.879Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He tells her about the world war and she leaves her home to try to end the conflict.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:01:10.393Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is Diana, the Princess of Wales we are talking about, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:01:51.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wonder woman--an imortal amazon warriror who is crowned princess of themyscira. Her real name is Diana", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:03:17.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does immortal\n mean she can't eat pie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:03:54.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They set this one during world warI so it's like wonder woman is a war movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:30.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm, good question! lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:42.751Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "War, war never changes, how many pies are in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:05:11.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "0", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:05:37.205Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was thrilling!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:05:44.701Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Darn, I sure do like pies. Maybe I will watch it. Can I rent it at Blockbuster?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:06:04.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She wasn't meant to stop the war, but to love to fight the war. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:06:27.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure. We haven't had a Blockbuster here in years", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:06:46.110Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh sorry, I've been in a coma for some time. \nSo she's a fighter, not a lover?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:07:15.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's a great movie. Wonder Womans sister trains her for the war", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:07:20.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did Diana do before she was trained to fight? please say bake pies...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:08:29.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She arms herself with the godkiller sword and her armor before leaving with steve (the piolet) to go find and destroy Ares. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:08:36.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this movie available in 4D?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:09:18.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Doubtful!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:09:41.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good, those make my nose hurt.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:09:58.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She winds up sparing Maru and kills him. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:10:15.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How tall is Maru? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:10:57.251Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then she is reaffirmed into her new mission to fight on the world's behalf", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:11:10.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like pie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:12:25.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is average size", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:12:45.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so 3ft tall?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:13:01.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love like chocolate silk pie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:13:05.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Something like that! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:13:11.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you want to watch this movie with me, and eat pie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:13:31.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting with me. I'm going to end the conversation ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:13:39.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:13:46.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe! hit me up if your ever in IN =)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:13:51.358Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T17:55:05.610Z", 
+  "uid1LogOutTime": "2018-02-09T18:14:00.657Z", 
+  "uid1response": {
+    "feedback": "thank you!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:55:05.638Z", 
+  "uid2LogOutTime": "2018-02-09T18:14:04.735Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3668", 
+  "user2_id": "USR3778", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

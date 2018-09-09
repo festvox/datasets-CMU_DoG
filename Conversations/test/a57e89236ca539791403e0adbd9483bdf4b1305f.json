@@ -1,0 +1,228 @@
+{
+  "date": "2018-03-20T00:53:18.192Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:53:32.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!  What movie did you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:53:52.089Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have information about Iron Man.  Do you see it too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:54:14.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do not.  I've never seen it before.  What genre is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:54:51.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a super hero movie.  How do feel about that genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:55:19.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like some super hero movies.  \nDoes it have a lot of action?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:55:58.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critics seem to think so.  Audiences give it a good score, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:57:37.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds intriguing.  What studio released it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:58:28.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Robert Downey Jr.  Any opinion on him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:58:32.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It a Marvel Studios release.  In fact, it's the first of their giant \"cinematic universe\" of connecting films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:59:25.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked him in Chaplin.  It was a Charlie Chaplin biopic.  He was  great in Natural Born Killers as well.  Who else stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:00:41.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Gwyneth Paltrow, Jeff Bridges, and Terrance Howard", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:01:16.864Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like all of them.  Does it stay true to the comic books?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:01:56.430Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about a guy who inherits a weapons company from his father and gets injured by terrorists using his own weapons.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:04:03.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who plays the guy who inherits the weapons company?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:05:28.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr.  The Iron Man character is his way of surviving his injuries and also fighting back", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:06:49.311Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the villian of the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:08:30.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure.  It does say that Jeff Bridges becomes a business enemy, but that doesn't mean he's evil.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:09:48.451Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does Gwyneth Paltrow play his love interest?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:11:10.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He's probably the villain.  It\n says he builds his own version of the Iron Man suit.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:11:13.128Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He must be the villain then.  How many Iron Movies are there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:12:38.923Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She starts as his personal assistant.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:12:40.393Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "doesn't say how many.  have you seen any of the other marvel films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:14:03.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've only seen Guardians of the Galaxy, which was pretty good.  I may have to give Iron Man a shot.  Who was the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:15:37.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jon Favreau", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:16:23.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just got some new info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:16:57.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you get some new info on? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:18:20.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie.  a new scene description.  a showdown between the two business leaders.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:19:55.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this the finale of the movie?  What happens?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:20:51.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it sounds like the finale, so i don't want to spoil it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:21:29.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's fair.  What's your favorite part of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:24:16.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we're done.  thanks for chatting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:24:40.451Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T00:53:18.192Z", 
+  "uid1LogOutTime": "2018-03-20T01:24:43.261Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T00:53:18.233Z", 
+  "uid2LogOutTime": "2018-03-20T01:25:44.938Z", 
+  "uid2response": {
+    "feedback": "The movie sounds interesting, and I love a lot of the actors in it.  ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3552", 
+  "user2_id": "USR4832", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-06T23:41:54.324Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T23:42:19.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T23:43:37.822Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the movie about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T23:44:26.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I read about is The Blind Side. It is about a family in Tennessee that adopts a teenager named Michael to play football. It got moderately good reviews with an average of 6.1/10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T23:46:03.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh wow that sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T23:46:43.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I would recommend watching it in the future", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T23:47:42.461Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T23:41:54.324Z", 
+  "uid1LogOutTime": "2018-03-06T23:53:21.093Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T23:41:54.342Z", 
+  "uid2LogOutTime": "2018-03-06T23:48:49.590Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3310", 
+  "user2_id": "USR1852", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

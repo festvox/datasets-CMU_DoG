@@ -1,0 +1,218 @@
+{
+  "date": "2018-02-19T01:37:21.480Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, did you enjoy the movie \"The Avengers\"? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:38:09.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did! Did you enjoy the movie \"The Avengers\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:38:35.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I did! It got excellent reviews. I particularly enjoyed Mark Ruffalo's performance. Who was your favourite actor in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:39:04.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good to hear! Robert Downey Jr.'s performance was particularly enjoyable for me. I also liked Mark Ruffalo in the movie, though I am not sure what the paper means by him being a \"revelation\". Do you know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:40:59.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the reviewer is referring to his swift change of mood, for example how he demonstrated that he was both \"calm\" and \"ready to become a volcano.\" Did you also enjoy Ruffalo's acting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:41:49.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That makes more sense now! I did enjoy Ruffalo's acting. Did you enjoy or notice Robert Downey Jr.'s acting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:43:31.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did! I agree that he has a good grasp of \"self-irony.\" I agreed that the film was witty overall and he definitely contributed. Do you generally enjoy superhero films? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:44:13.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do enjoy superhero films more than others. I enjoyed this movie in particular and Joss Whedon's witty take on the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:45:30.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I found it very entertaining. Have you seen the previous five films in the Marvel Cinematic Universe? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:46:19.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen most of them, but not all. Have you seen all of the previous films leading up to \"The Avengers\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:47:35.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have! What did you think of the plot of the film? I was really shocked by the scene where Clint Barton was forced to help Loki escape. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:48:51.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I found the entirety of the film to be engaging, though yes, the scene where Clint Barton was enslaved by Loki's scepter to be a real turning point. I think the rating given by Rotten Tomatoes was very accurate. Do you agree with the Rotten Tomatoes'\n rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:50:50.911Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do! The critical reviews were good and I found the film to be engaging and witty. Also I like movies with a large ensemble cast.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:51:47.050Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\ni", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:51:57.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the Chitauri?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:53:19.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't always like movies with a large ensemble cast, but \"The Avengers\" was enough to change my opinion.  The Chitauri were an extraterrestrial race, but I do not think they were anything special.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:54:35.142Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is pretty scary that they were trying to obtain such a powerful object. Why don't you like films with ensemble casts? Do you find them too crowded?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:55:58.350Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree. I find that sometimes films with ensemble casts don't always have the best writing and tend to depend more on the amount of characters. Quantity over quality, if you will. I did not find that to be the case with \"The Avengers\" however.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:57:52.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, Joss Whedon wrote very funny dialogue. That kept the movie from being too formulaic. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:58:40.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I found the humor to be witty and entertaining myself. What did you think of the character Loki?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:00:02.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was wrong to possess the SHIELD agents. He caused a lot of harm and he seemed to be very self-absorbed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:01:46.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. I did not enjoy the part where he killed Agent Coulson, though it did inspire the Avengers to work together.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:02:45.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's true. I did not enjoy watching the Avengers fight each other. I found Agent Romanoff's fight with Agent Barton to be rather upsetting since they seem to be friends otherwise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:03:28.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was glad to see at the end that they seemed to be suggesting the Avengers might return for a sequel. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:05:09.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There were a few upsetting parts of the film, though that did add to the quality of it. Tony Stark falling out of the sky was upsetting for me, especially after the battle.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:05:39.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was very relieved to see that he was saved by the Hulk!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:05:50.192Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "An example of the team working well together. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:05:58.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Agreed, especially after the Hulk's transformation on the Helicarrier.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:06:56.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes that was very worrying. I also was worried he might get hurt when he fell to the ground after attacking the jet. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T02:07:17.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The scene of the battle was very worrying, many things were happening at once.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T02:08:02.507Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T01:37:21.480Z", 
+  "uid1LogOutTime": "2018-02-19T02:08:11.927Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T01:37:21.564Z", 
+  "uid2LogOutTime": "2018-02-19T02:08:15.005Z", 
+  "uid2response": {
+    "feedback": "Though my finger entered too early on one message, the conversation was smooth and easy.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR750", 
+  "user2_id": "USR2699", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

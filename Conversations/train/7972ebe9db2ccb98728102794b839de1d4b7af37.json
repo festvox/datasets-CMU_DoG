@@ -1,0 +1,84 @@
+{
+  "date": "2018-03-21T17:43:32.153Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:45:43.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:45:54.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you see a document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:45:59.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this Genre of movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:46:19.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have a document, I believe you have to relay the information to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:46:35.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this Genre of movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:46:51.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this Genre of movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:46:56.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know what the genre is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:47:26.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you provide me some information about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:49:44.644Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T17:43:32.153Z", 
+  "uid1LogOutTime": "2018-03-21T18:02:06.580Z", 
+  "uid1response": {
+    "feedback": "The other user didn't provide any information- I didn't have any information to pull from and they just kept repeating the same thing over and over. ", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T17:43:32.158Z", 
+  "uid2LogOutTime": "2018-03-21T17:54:52.086Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1198", 
+  "user2_id": "USR1204", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

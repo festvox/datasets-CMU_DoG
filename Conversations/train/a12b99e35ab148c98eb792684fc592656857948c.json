@@ -1,0 +1,65 @@
+{
+  "date": "2018-03-27T22:49:24.919Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you have the fact sheet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:49:40.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:49:57.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:50:33.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which one ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:51:06.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this is kinda gay, so im gonna jack off instead. bye bot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T22:51:10.401Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How much in box office>", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T22:51:16.135Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T22:49:24.919Z", 
+  "uid1LogOutTime": "2018-03-27T22:51:55.405Z", 
+  "uid1response": {
+    "feedback": "He was very negative and said bad stuff during the convo", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T22:49:24.930Z", 
+  "uid2LogOutTime": "2018-03-27T22:51:12.185Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3644", 
+  "user2_id": "USR2974", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

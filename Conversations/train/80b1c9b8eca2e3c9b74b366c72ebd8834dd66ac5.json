@@ -1,0 +1,97 @@
+{
+  "date": "2017-12-01T22:52:38.734Z", 
+  "docLinkIdx": 7, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:54:47.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T22:55:02.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen \"The Avengers\" movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:55:18.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen the movie before. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T22:55:51.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a great cast in my opinion\n according to the document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T22:56:27.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it? I personally, LOVE the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:56:28.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It does. RDJ, Chris Evans, Mark Ruffalo Chris Hemsworth, ScarJo and Renner all do a great job in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:57:02.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I really liked the movie as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T22:57:27.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a big Joss Whedon fan so I figured this movie was BOUND to be good. :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:58:36.713Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I didn't realize though who Loki was until I read this document, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T22:58:37.197Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Like I said, the movie was great but I didn't like the way they used Loki.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T22:59:29.433Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-01T22:52:38.734Z", 
+  "uid1LogOutTime": "2017-12-01T23:01:39.683Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2017-12-01T22:52:38.735Z", 
+  "uid2LogOutTime": "2017-12-01T23:01:57.367Z", 
+  "uid2response": {
+    "feedback": "He left. He wasn't much into the discussion to begin with. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1554", 
+  "user2_id": "USR362", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

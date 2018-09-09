@@ -1,0 +1,165 @@
+{
+  "date": "2018-02-09T21:23:50.389Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you everseen the movie Inception?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:27:04.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:27:29.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a really trippy movie with Leonardo Dicaprio. They are basically in a dream world where they  can bend reality", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:29:04.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. Who else is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:29:20.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has ellen page and tom hardy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:29:54.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its one of those movies that are must watch, where you to see to believe it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:30:33.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds different than most things I've seen. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:30:47.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is hard to understan at first, but the more I watch it, the more i love it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:30:51.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You've seen it multiple times? You like it that much? Is it a drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:31:15.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "more like an action drama, but it is epic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:31:52.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ive seen it like 6 times i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:32:31.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds like it. Do you know who the director is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:32:34.848Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:32:55.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I like his movies a lot. Was a huge fan of the Batman franchise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:33:33.578Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Batman, I am a huge fan!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:33:50.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome! I look forward to checking it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:34:40.262Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you love his movies, ull love this one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:34:42.978Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I hope you like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:35:19.194Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm sure I will!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:44.420Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "His movies are always different than other things I've seen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:35:55.005Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, real mind trips", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:36:26.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen his other movies? He just did Dunkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:37:48.856Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T21:23:50.389Z", 
+  "uid1LogOutTime": "2018-02-09T21:44:59.750Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T21:23:50.401Z", 
+  "uid2LogOutTime": "2018-02-09T21:46:45.622Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2911", 
+  "user2_id": "USR2080", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

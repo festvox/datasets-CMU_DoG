@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-16T17:14:24.208Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How romantic did you find The Notebook? It's definitely a movie that has been talked about in most regards because of it's strong romantic ties. Did you think Ryan Gosling extended his range? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:17:35.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " I beleive his performance is excellent. And yes, I found this movie very romantic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:18:19.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What\u00b4s your opinion about Rachel McAdams acting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:18:54.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She's stunningly beautiful, I found that she had more charisma in the movie than Ryan Gosling did. What's your favorite scene? Mine is the swamp scene where it starts raining. Did you like the theme of it being in the 1940's?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:20:10.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorite Scene is that one two! it was remarkable!. I did like the 1940\u00b4s  ambience. It added more romantic to the hole story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:22:08.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you find ussefull the fact that the story was tell on the present days?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:22:57.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I enjoyed that it shifted back and forth from the time they met through the time they spent at the nursing home. Are you surprised that it didn't get better reviews from the critic websites like Rotten Tomatoes? For a movie that's talked about a lot I'm kind  of surprised by that. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:24:11.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me too. I don\u00b4t get it! for me the notebook is much better movie from all points of views. But who can understand critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:25:38.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you gotten the new document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:27:28.383Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T17:14:24.209Z", 
+  "uid1LogOutTime": "2018-02-16T17:32:28.663Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T17:14:24.253Z", 
+  "user1_id": "USR3945", 
+  "user2_id": "USR2912", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

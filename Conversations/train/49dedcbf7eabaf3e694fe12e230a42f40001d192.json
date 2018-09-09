@@ -1,0 +1,140 @@
+{
+  "date": "2018-03-02T20:02:33.813Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I loved this movie. What did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:03:08.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was funny, but slightly spiritual", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:03:45.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess it's one of those movies that critics will pan as bad, but a casual observer will enjoy very much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:03:51.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Jim Carrey's performance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:04:29.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carey usually thrives very well in the physical type of humor. This movie fits his style very well. What did you think of Morgan Freeman's performance?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:04:52.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan Freeman Is an exceptional actor,and the role of God, fit him perfectly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:05:25.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the scene when he makes the other anchor act crazy? Steve Carrell killed that scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:06:09.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought that was comedic genius!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:07:03.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think that Jim Carrey did a good job playing God?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:08:13.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Jim Carey played the role well in the sense he was a human being playing God. He captured that child like elation followed by the heavy burden that must be carried. I feel he had that serious undertone that many people will question if they can do it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:09:50.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you feel Jennifer Aniston was a good role as his wife?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:10:24.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, her and Jim Carrey make an excellent team onscreen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:11:23.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But the fact that he had feelings for his coworker kind of offsets the romance part of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:12:10.032Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you feel this movie was trying to teach a lesson?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:12:10.089Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I do. God, as an all powerful being has a lot on his hands, and most people don't know the amount of work that is involved", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:13:03.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But Bruce Nolan got to experience that for himself and actually realize that it's a lot of work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:13:33.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How was Steve Carrell's performance in the mpvie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:14:39.706Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:14:41.846Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T20:02:33.813Z", 
+  "uid1LogOutTime": "2018-03-02T20:34:24.792Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T20:02:33.943Z", 
+  "uid2LogOutTime": "2018-03-02T20:30:10.328Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2557", 
+  "user2_id": "USR3532", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

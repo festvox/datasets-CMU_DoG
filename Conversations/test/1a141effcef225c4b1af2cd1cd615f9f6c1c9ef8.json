@@ -1,0 +1,270 @@
+{
+  "date": "2018-01-29T22:49:19.958Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:49:33.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:49:41.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:49:49.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm well and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:49:58.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im doing fine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:04.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie \"Jaws\"?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:13.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:20.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:24.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Directed by Steven Spielberg?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:25.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an American thriller film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:35.426Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who is starring in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:44.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a story about a white shark who begins attacking beach-goers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:58.667Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Roy Sheider and Robert Shaw star in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:51:14.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how long is the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:51:27.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure, but I do know that it came out in 1975", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:52:10.929Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know about the ratings of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:52:22.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no i do not know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:52:46.627Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It actually did really well. It scored an average of about 8.5 out of 10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:53:13.216Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you heard of the rating site Rotten Tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:53:23.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes i have heard of it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:53:48.116Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i go on it a lot to check reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:53:53.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's great, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:00.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "For this film, Rotten Tomatoes gave a 97% rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:17.744Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:54.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not that I know of, but I'm sure it was at least nominated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:14.616Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The problem at the time was that many thought it was too gruesome for children to watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:32.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:07.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that makes sense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:11.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what another criticism was?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:57:11.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was rated r?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:15.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nwhat was it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:18.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That it made it difficult for anyone to have sympathy for the shark's victims.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:57:36.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure what it was rated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:58:03.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what the name of the boat in the movie was?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:58:22.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that is strange ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:00:04.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what was the name of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:00:09.438Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Orca.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:18.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for chatting with me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:23.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:00:25.449Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T22:49:19.958Z", 
+  "uid1LogOutTime": "2018-01-29T23:00:27.543Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T22:49:20.014Z", 
+  "uid2LogOutTime": "2018-01-29T23:00:29.823Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1941", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

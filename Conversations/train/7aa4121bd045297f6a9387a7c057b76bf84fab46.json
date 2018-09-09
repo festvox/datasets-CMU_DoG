@@ -1,0 +1,83 @@
+{
+  "date": "2018-03-17T02:17:20.943Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T02:17:48.771Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you read about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T02:18:52.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I did, but I'm not sure I like Ben Affleck as Superman. What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T02:19:27.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well in the movie, Ben Affleck is Batman while Henry Cavilln is Superman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T02:21:56.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ha ha...sorry, that was a typo. I knew he was Batman and typed Superman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T02:22:27.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was really surprised that the movie had such poor critical ratings. I don't usually pay much attention to critics but it is very low for a Superman/Batman movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T02:23:20.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, it is surprising it recieved \npoor ratings. However, in my opinion the movie was enjoyable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T02:25:10.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie as well but I was such a fan of Christian Bale's Dark Knight, it was a hard adjustment for me. I'll get used to it, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-17T02:26:11.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It can be difficult to adjust to similar movies done by different directors, but with Batman and Superman being such a widespread comic in the DC universe I don't think they'll stop making new ones anytime soon.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T02:28:47.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Dawn of justice is the first live action film to feature both Batman and Superman together? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-17T02:33:50.787Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-17T02:17:20.943Z", 
+  "uid1LogOutTime": "2018-03-17T02:35:07.483Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-17T02:17:22.372Z", 
+  "user1_id": "USR2825", 
+  "user2_id": "USR4562", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2018-02-05T22:42:29.744Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:42:41.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:43:08.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen is the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:43:15.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay cool. Thank you. Have you ever seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:43:27.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen it twice. I wasn't going to until I saw the raving reviews from everyone, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:44:12.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got an 89 on Rotten Tomatoes and has an A+ on Cinema Score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:44:41.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, I know what you mean. I didn't care to see it and only saw it once it started to air on TV. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:45:01.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's okay but not anything spectacular. How'd you like it/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:45:21.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:45:22.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was good. I didn't expect to like a kids movie, but it was the best family film I'd seen in years.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:46:11.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah definitely better than any of the other kids movies coming out around that time. Do you have kids? I have a couple but only one boy who was a baby when it came out, so I missed out on the hype.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:47:16.981Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I don't. Has your boy seen it since then? I think he'd love the snowman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:48:41.663Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes he watched it on the Disney channel and he does like the snowman and the other characters too. But not that much!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:50:20.486Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T22:42:29.744Z", 
+  "uid1LogOutTime": "2018-02-05T22:49:04.953Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T22:42:29.809Z", 
+  "uid2LogOutTime": "2018-02-05T22:50:44.215Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1124", 
+  "user2_id": "USR915", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

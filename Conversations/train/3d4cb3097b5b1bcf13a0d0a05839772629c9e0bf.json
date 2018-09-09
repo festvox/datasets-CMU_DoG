@@ -1,0 +1,65 @@
+{
+  "date": "2018-03-29T16:25:33.262Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:25:48.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:26:06.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you have the document also? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:26:11.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen wolf of wall street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:26:12.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:26:16.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "looks like you left the chat. correct?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:27:29.139Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T16:25:33.262Z", 
+  "uid1LogOutTime": "2018-03-29T16:32:41.098Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T16:25:33.292Z", 
+  "uid2LogOutTime": "2018-03-29T16:26:30.649Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3494", 
+  "user2_id": "USR4553", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

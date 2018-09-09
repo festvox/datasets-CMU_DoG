@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-08T21:47:18.493Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:35.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:47:58.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie shoud I be watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:48:12.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:27.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats that about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:48:52.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an animation film about an officer that is a rabbit played by Ginnifer Goodwin.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:49:59.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I like her....is it safe for all ages to see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:08.458Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it got high averages from Rotten Tomatoes and IMBD.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:54.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "og thats really nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:52:20.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know if it has won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:52:27.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The poor rabbit can't catch a break because her boss keeps her on parking duty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:52:48.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She gets conned by a red fox and gets in a bit of trouble.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:54:03.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "awww that does sound pretty interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:54:28.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what kind of music is in this film? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:54:42.595Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The bad guy in the movie, his name is Otterton the otter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:54:52.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:55:21.369Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What kind of animla is Ottert?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:55:28.077Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "An otter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:07.770Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hahaha of of couse!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:56:23.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:56:33.042Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I have it's a very cute and funny movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:57:08.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know if it is available for streaming anywhere?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:57:29.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Judy goes on wild chases with bad guys that turn savage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:57:43.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohhh savage", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:58:04.694Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this sounds like a must see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:58:09.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toxic flowers are to blame for the savage animals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:58:27.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toxus flowers? this sounds intense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:58:53.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It gets pretty intense especially when Judy and her con artist turned friend Nick find the ancedote in the lab.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:59:59.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure its ok for kids like a 2 year old?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:00:12.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would think maybe a little older because the savage animals might scare a toddler.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:00:53.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahah cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:01:16.961Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will try to see this ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:01:20.742Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks so muc for the help", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:01:27.561Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:47:18.493Z", 
+  "uid1LogOutTime": "2018-02-08T22:01:29.750Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:47:18.536Z", 
+  "uid2LogOutTime": "2018-02-08T22:01:42.359Z", 
+  "uid2response": {
+    "feedback": "Liked the conversation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2055", 
+  "user2_id": "USR4861", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2018-02-06T22:00:32.266Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:02:17.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey dod you see the movie when if cqme ouf?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:05:41.338Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:05:59.247Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T22:00:32.266Z", 
+  "uid1LogOutTime": "2018-02-06T22:06:39.554Z", 
+  "uid1response": {
+    "feedback": "The user 2 leff after 3 mins. I canf continue ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T22:00:32.343Z", 
+  "uid2LogOutTime": "2018-02-06T22:03:28.084Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1413", 
+  "user2_id": "USR2049", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

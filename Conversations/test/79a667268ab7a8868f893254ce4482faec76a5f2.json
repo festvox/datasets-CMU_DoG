@@ -1,0 +1,118 @@
+{
+  "date": "2018-03-07T15:47:58.830Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:48:52.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:49:04.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:49:30.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network. Have you ever seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:49:58.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:20.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:47.089Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It Stars Jesse Eisenberg as Mark Zuckerberg who started facebook.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:52.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:59.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:09.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I saw too, and I like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:35.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:02.175Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it also had Justin Timberlake as Sean Parker ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:52:06.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like computers and building websites and that movies really got me more interested in it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:52:40.291Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was Directed by David Fincher, but Im not sure if I have seen anything else directed by him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:13.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what did you like about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:40.216Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was movie of the year when it came out to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:56:27.424Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T15:47:58.830Z", 
+  "uid2LogInTime": "2018-03-07T15:47:58.868Z", 
+  "uid2LogOutTime": "2018-03-07T15:59:50.857Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2219", 
+  "user2_id": "USR3356", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

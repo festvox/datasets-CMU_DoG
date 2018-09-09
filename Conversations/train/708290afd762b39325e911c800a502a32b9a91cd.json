@@ -1,0 +1,286 @@
+{
+  "date": "2017-12-01T20:53:55.601Z", 
+  "docLinkIdx": 5, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:54:06.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:54:34.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:55:04.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is inception. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:55:06.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:55:12.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very nice movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:55:21.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good story telling", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:55:30.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The rating from rotten tomatoes is 86%", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:06.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "8.1/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:15.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:56:16.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IMDB 8.8/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:19.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "my rating is 9 out of 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:56:31.666Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So I am supposed to persuade you to watch it..", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:56:58.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:02.434Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but you have already watched it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:09.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I tried to watch it a couple of times. The first time it did not hold my attention. perhaps because there was too much going on around me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:37.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i already watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:57:38.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Then I saw it on tv I believe and it just fascinated me!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:57:57.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For some reason I did not get to finish it again", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:58:09.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I only watched half of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:58:16.580Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T20:58:49.295Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So back to the task, I suppose..the main actor is Leonardo DiCaprio..he's a well known actor, another reason to watch this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T20:59:26.522Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes i know", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:00:03.363Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "(i'm just following instructions to convince you)", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:00:19.350Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:00:46.546Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In the movie, a dying dreamer goes into Limbo..and a dreamer might forget they are in a dream", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:01:29.585Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Dom Cobb (Leonardio DiCaprio) reactivates a totem, which is an object that dreamers use to distinguish dreams from reality, to remind the dreamer that it's not real", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:02:30.089Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " dreamer might forget they are in a dream", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:02:49.069Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's funny because the dreamer Cobb was trying to wake up committed suicide and framed him for a murder charge", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:04:17.211Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He had to leave his children behind as he had to flee the US", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:04:28.591Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that seems very tough!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:04:41.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:05:47.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess Cobb did kind of feel guilty about Mal's death", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:06:15.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He struggled to make peace with it", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:06:24.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which is an object that dreamers use to distinguish dreams from reality, to remind the dreamer that it's not real", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:07:03.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and that object, the totem, looked like a spinning top that would keep spinning", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:08:03.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "spinning top would keep", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:08:24.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At the end it seems Cobb did tests to prove he was in the real world", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:09:00.813Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But even though he knew the correct results he ignored them", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:09:11.615Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "leave his children behind as he had to flee the US", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:09:31.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:10:12.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It says user 2 has left the chat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:10:34.408Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-01T20:53:55.601Z", 
+  "uid1LogOutTime": "2017-12-01T21:10:37.897Z", 
+  "uid1response": {
+    "feedback": "The user seemed to respond to me at first but after that just copied and pasted what I wrote. Then they left. It was kind of weird.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T20:53:55.713Z", 
+  "uid2LogOutTime": "2017-12-01T21:09:34.362Z", 
+  "uid2response": {
+    "feedback": "thank you ", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4380", 
+  "user2_id": "USR4532", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

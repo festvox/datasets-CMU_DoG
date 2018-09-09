@@ -1,0 +1,38 @@
+{
+  "date": "2018-03-26T17:31:21.440Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Toy story is a great movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:32:24.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:35:19.908Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-26T17:31:21.440Z", 
+  "uid1LogOutTime": "2018-03-26T17:33:39.767Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T17:31:21.551Z", 
+  "uid2LogOutTime": "2018-03-26T17:36:52.748Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR574", 
+  "user2_id": "USR3683", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

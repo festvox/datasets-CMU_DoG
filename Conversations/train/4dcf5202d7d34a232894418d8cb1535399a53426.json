@@ -1,0 +1,209 @@
+{
+  "date": "2018-03-20T00:33:03.885Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:33:57.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, there is a great movie about a pull string cowboy with razzle-dazzle techniques and an unusual look.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:34:59.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie sounds familiar as well as interesting. What is the title of this movie because I am interested in watching it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:36:21.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Toy Story. T\nhere is a space ranger action figure, he plays woody's rival, who later becomes his best friend. It's a work of genius. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:36:39.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me more about what makes it \"a work of a genius\" ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:37:32.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has the purity, the ecstatic freedom of imagination, that's the hallmark of the greatest children's films. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:37:50.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the main plot about because I am pretty interested in watching this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:38:52.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It focuses on the relationship between Woody, an old-fashioned pullstring cowboy doll, and Buzz Lightyear, and astronaut action figure, as they compete for the affections of Andy, their owner", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:40:45.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know any of the sound actors in the movie? Additionally, is Andy also a toy and in what ways does Andy own said toys?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:42:29.674Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Characters are voiced by Tim Allen and Tom Hanks. I'm not sure about Andy's status, but his family is preparing to move during the film. The screenplay was written by Joss Whedon and Joel Cohen. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:45:21.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This sounds really great. Is this a show you watched when you were a child? Would you recommend this to my children.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:46:29.119Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems great! Other toys include Bo Peep, Mr. Potato Head, Rex the Dinosaur, and Hamm the Piggy Bank", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:46:55.503Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:48:27.309Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. And the Rotten Tomatoes score is 100%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:49:21.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great, it really does sound like it is a great movie. Have they made sequels to this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:51:22.209Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe you can check online but this film got people to understand what toys are about.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:52:33.478Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How did the film tell you what toys are about? As in, what do you think toys are about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:53:39.885Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When buzz impresses Andy, Woody feels left out. Woody attempts to trap Buzz, but knocks him out of a window. Interestingly, Buzz thinks he's a real space ranger and Woody tries to convince him otherwise.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:54:51.405Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds action-packed. Do you think children give their toys personalities like we give our pets personalities?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:56:07.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure, but in this movie Woody fears Andy will choose Buzz over him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:57:09.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why does he have to pick one toy or the other?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:57:40.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its all just out of jealousy. The other toys want to exact revenge on Woody, but then Andy takes him to Pizza Planet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T00:58:52.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tell me something unique about the movie that you have not told me yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T00:59:29.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Buzz gets left behind while trying to rescue Woody when the neighbor Sid's dog chases them. Woody tries rescuing him with Andy's RC car, but the other toys, thinking Woody eliminated RC as well toss him off the truck.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:01:26.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you feel when you watch this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:01:35.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a work of genius! When the toys see Woody, Buzz, and RC together the other toys realize their mistake, and try to help them get back aboard. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:03:22.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That great, but what feelings does this movie illicit when you watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:03:56.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Woody ignites a rocket after RC's batteries become depleted. They soar into the air. Buzz opens his wings and they land safely! It has the kind of spring-loaded allusive prankishness that, at times, will tickle adults even more than it does kids.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T01:05:23.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When you watched this movie as a child, which character in the movie did\n you most relate with? Why? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T01:05:40.727Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T00:33:03.885Z", 
+  "uid1LogOutTime": "2018-03-20T01:05:58.792Z", 
+  "uid1response": {
+    "feedback": "I would watch the movie, however, the user was not really able to express their feelings towards the movie and I was interested in how they related to said movie. I began to suspect that I was talking to an AI because when asked questions regarding how they felt, the responses were odd and not that of a human. ", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T00:33:03.896Z", 
+  "uid2LogOutTime": "2018-03-20T01:05:25.407Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4329", 
+  "user2_id": "USR3756", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

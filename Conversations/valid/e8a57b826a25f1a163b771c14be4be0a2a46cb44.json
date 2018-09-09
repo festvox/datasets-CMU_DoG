@@ -1,0 +1,314 @@
+{
+  "date": "2018-02-28T17:49:27.767Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:49:59.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so excited about this movie!  I love Lindsay Lohan!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:50:11.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:50:15.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rachel McAdams is great too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:50:46.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great!  This movie was very prolific.  It says alot about status and popularity and it's importance in our culture.  This movie nailed it! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:00.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes Rachel is!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:05.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the comedy elements in the movie as well. It was also a very smart movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:41.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is absolutely iconic. I want to read the book it is partly based on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:55.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Rachel McAdams is like the villain in the movie, and then our main character sort of becomes just like her. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:52:28.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't realize Tina Fey was a writer,  Wow, great job. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:14.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you can really see how talented Tina Fey is as a screenwriter in this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:53:20.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:28.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its rated a 6.9, should be an 8 atleast ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:54:06.415Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't believe this movie came out in 2004. Its still very relevant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:11.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Document didn't change so lets continue to discuss it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:54:43.919Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My document changed...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:56.695Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay, lets discuss yours.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:55:07.621Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Whats the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:55:10.620Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's still Mean Girls but they added a small summary to the top.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:55:47.925Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Gotcha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:55:53.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Janis and Damien add complexity to the movie.  They are like the opposers to the social norms.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:24.200Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Janis and Damian were my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:29.560Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about the selection of Cady?  How do you feel about that?  Why her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:04.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't imagine anyone besides Lindsay Lohan as Cady.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:51.275Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why did the plastics choose her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:03.992Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I feel like she was easy to manipulate because she had been homeschooled and wasn't used to the social setting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:34.344Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I find it interesting that Regina drives this whole issue with the burn book to turn everyone against her own social group. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:42.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh good point!  Makes sense!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:50.105Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the queen bee phenomenon is real.  People are very much followers. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:59:52.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't think Regina ever considered the Plastics as real friends. They were just her entourage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:02.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah I see. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:11.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think when Cady takes blame for the burn book her character becomes relatable again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:49.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that she joined the math league. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:53.871Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe so. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:12.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She was finally being true to herself \nwhen she joined the mathletes instead of just trying to fit in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:02.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is true.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:44.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She also stays true to herself by breaking her tiara when she is elected Spring Queen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:55.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cady still ends up with Aaron which is predictable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:56.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes everything worked out perfectly for her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:04:26.294Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think about that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:28.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Isn't that predictable though?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:39.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes but it is a teen movie so I expected it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:29.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, yeah.  Lol!  You got to have the cinderella ending. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:47.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, so end of document it says...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:57.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's been great discussing Mean Girls!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:24.556Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes!  Thanks for the discussion!  Enjoyed it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:37.036Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:49:27.767Z", 
+  "uid1LogOutTime": "2018-02-28T18:06:47.564Z", 
+  "uid1response": {
+    "feedback": "Excellent discussion!  I learned a lot from the user about the thought behind disney movies.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:49:27.785Z", 
+  "uid2LogOutTime": "2018-02-28T18:06:44.655Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1896", 
+  "user2_id": "USR2899", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

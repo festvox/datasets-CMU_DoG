@@ -1,0 +1,79 @@
+{
+  "date": "2018-03-21T15:44:28.974Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The wolf of wall street is such a great movie. Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:45:38.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't. Is it scary?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:45:52.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No its a Black Comedy or Dark Comedy but to be honest I found it hilarious but not so dark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:46:49.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays the main part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:47:41.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio plays the main character Jordon Belfort. You won\u2019t believe it but this movie is based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:48:47.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ooh I like Leo, and true stories! What is it about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:50:16.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It recounts the story of Belfort as a fast talking stockbroker in New York city and the firm he created called Stratton\nOakmont. The firm was engaged in corruption and fraudulent activities on Wall Street.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:52:30.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long ago \ndid it happen? In real life I mean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:53:27.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie was made in 2013 and the actual incident happened in the 90\u2019s I think.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:54:34.963Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-21T15:44:28.974Z", 
+  "uid1LogOutTime": "2018-03-21T15:58:39.397Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:44:28.997Z", 
+  "uid2LogOutTime": "2018-03-21T15:54:57.424Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR559", 
+  "user2_id": "USR806", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

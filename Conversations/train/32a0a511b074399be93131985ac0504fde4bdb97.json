@@ -1,0 +1,259 @@
+{
+  "date": "2018-02-19T18:55:09.969Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:55:28.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:55:36.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Today we will be talking about the movie \"Mean Girls\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:55:57.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:56:02.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I've never seen it what is it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:56:23.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy movie about a girl who was homeschooled all her life and starts going to school for the first time in a public high school.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:57:06.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:57:18.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lindsay Lohan is the main character. It also includes Rachel McAdams, Lacey Chabert, Amanda Seyfried & Lizzy Caplan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:58:19.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like Rachel McAdams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:58:53.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too, she is a great actress!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:08.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:59:17.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also, Amy Poehler is in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:46.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen Mean Girls! :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:59:59.640Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that was pretty funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:00:32.832Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a funny movie, but my favorite thing about it is how it shows how insane high school cliques can be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:00:47.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, that's for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:01:11.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tina Fey is also in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:01:13.801Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:01:35.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They are all in Mean Girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:01:47.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She plays a high school teacher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:01:59.918Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you ever seen Me and girls?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:02:20.510Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have not, what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:02:39.039Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is the movie you mentioned at the beginning.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:03:13.139Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, my bad, I meant to put \"Mean Girls\" lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:03:40.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HA! Okay! So would you recommend the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:04:39.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would if you like comedies and dramas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:05:15.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One interesting thing I found about the movie is how the main character changes so much based upon those she is socializing with. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:05:26.409Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it something a guy would like? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:05:58.490Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most likely, although it does seem more like a \"\nchick flick\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:06:29.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's okay, I'll just enjoy watching Rachel McAdams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:07:03.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when did you see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:07:55.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:08:08.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't even remember, I was like 13", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:08:29.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so about 10 years ago?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:08:37.208Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How time flies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:52.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely! It was nice talking to you, have a great day! :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:09:01.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:09:11.691Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T18:55:09.969Z", 
+  "uid1LogOutTime": "2018-02-19T19:09:16.645Z", 
+  "uid1response": {
+    "feedback": "Great communication with the other user", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:55:10.011Z", 
+  "uid2LogOutTime": "2018-02-19T19:09:03.026Z", 
+  "uid2response": {
+    "feedback": "Thank you for the opportunity to participate in this study!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4148", 
+  "user2_id": "USR48", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

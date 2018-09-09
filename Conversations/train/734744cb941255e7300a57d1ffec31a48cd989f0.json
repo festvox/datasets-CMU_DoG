@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-22T23:56:18.041Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T23:56:24.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "H\ni! How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T23:58:58.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would like to talk to you about the movie the Great Gatsby. It's a great film staring Leonardo DiCaprio, Tobey Maguire, and Carey Mulligan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T00:00:15.676Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T00:00:25.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T00:02:21.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i heard of it but never have watched", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T00:02:28.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you breifyl talk to me what's about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T00:02:33.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's based off of a novel by F. Scott Fitzgerald. It is about the life of fictional millionaire Jay Gatsby and his encounters with his neighbor in the roaring 20's.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T00:04:01.695Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T23:56:18.041Z", 
+  "uid2LogInTime": "2018-03-22T23:56:18.087Z", 
+  "uid2LogOutTime": "2018-03-23T00:40:48.134Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR4115", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

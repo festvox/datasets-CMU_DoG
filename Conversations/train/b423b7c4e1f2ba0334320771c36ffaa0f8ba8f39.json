@@ -1,0 +1,127 @@
+{
+  "date": "2018-01-30T19:49:21.711Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:49:56.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:50:01.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:52.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this move?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:02.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:06.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:51:17.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:51:38.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick with Keanu Reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:40.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:51:59.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:52:04.310Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about an ex-hitman who needs to return to his criminal past and fight with Russians", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:52:55.467Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:25.630Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't know that it was so highly rated by Rotten Tomatoes: 86% and average 6.9/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:54:06.914Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow it seems very interesting and it has high ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:54:49.551Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:55:05.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is full of action and love Keanu Reeves in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:55:26.072Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:49:21.711Z", 
+  "uid1LogOutTime": "2018-01-30T19:56:16.839Z", 
+  "uid1response": {
+    "feedback": "The other user seemed like they knew what they were talking about when it came to the movie and answered all of my questions about it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:49:21.842Z", 
+  "uid2LogOutTime": "2018-01-30T19:56:12.692Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR416", 
+  "user2_id": "USR3256", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2018-01-29T22:54:02.763Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie has all the great actors!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:41.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the mix of all the classic heroes and Thor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:22.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THE TALK VERY NICE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:55:31.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:54.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THE MARVELS IS A2012 AMERICAN FILM BASED", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:12.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Chris Hemsworth is excellent in action movies and so is Scarlet Johnason", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:56:35.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on Marvels comics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:56:57.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never thought it would be entertaining for adult but it actually is\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:25.677Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-29T22:54:02.763Z", 
+  "uid1LogOutTime": "2018-01-29T22:57:46.668Z", 
+  "uid1response": {
+    "feedback": "", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T22:54:02.985Z", 
+  "uid2LogOutTime": "2018-01-29T22:57:23.140Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4835", 
+  "user2_id": "USR2686", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

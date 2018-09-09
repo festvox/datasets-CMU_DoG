@@ -1,0 +1,270 @@
+{
+  "date": "2018-02-06T19:56:54.307Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, the movie is The Avengers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:31.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a superhero drama.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:55.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you enjoy superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:58:18.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the lead character male or female?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:58:30.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do not enjoy Super hero movies, Do you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:58:48.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe the main characters are male. There does not seem to be a single protagonist.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:59:10.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It involves various superheros. Some are women but I think the males get more screentime.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:59:27.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where does this movie take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:32.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this movie geared towards children or adults ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:00:13.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It takes place in America. It involves a team of superheros trying to stop Loki from subjugating the Earth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:15.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it take place in modern ties or in the future ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:00:49.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure but it may appeal to children since there's quite a bit of humor to offset the action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:59.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this movie a comedy ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:01:43.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not too sure. There do seem to be physicists experimenting on unusual forms of energy unlike anything in the present day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:01:52.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's primarily Drama and a superhero movie but there are humorous one liners delivered by superheros like Iron Man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:25.353Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like documentaries. Do you think I would enjoy this movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:02:51.424Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm I don't think this has a lot in similar with documentaries. The primary draw of this movie seems to be its action scenes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:03:35.459Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My Son enjoys video games. Do you think it he would enjoy it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:04:08.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is the age rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:04:32.468Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think he might enjoy it depending on what kind of games he enjoys. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:36.496Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It does not say ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:43.251Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does the movie appear to be high quality?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:05:22.506Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "According to critical response it seems to have met with a positive reception. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:05:54.115Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten tomatoes gives it a 92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:05.685Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "CinemaScore gives it an A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:15.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the movie a cartoon or are there real actors and actresses?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:20.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are real actors and actresses", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:06:30.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Although there are aliens, wormholes, and so on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:01.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know when this movie was made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:07:30.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was released in 2012", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:46.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems to take place in New York City", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:54.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it is available on Netflix ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:08:17.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not really sure but I imagine a movie this highly rated likely will be available.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:08:47.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are many famous actors such as Robert Downey Jr, Mark Ruffalo\n and Chris Evans.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:09:23.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think I would be familiar with many of the actors/actresses in this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:24.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, I see :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:34.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Scarlett Johansson also acts in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:09:43.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else you would like to know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:10:27.372Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I think I have made a decision as to whether r not I would enjoy watching this movie. Thank you :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:11:11.548Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T19:56:54.308Z", 
+  "uid1LogOutTime": "2018-02-06T20:11:40.392Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:56:54.350Z", 
+  "uid2LogOutTime": "2018-02-06T20:11:32.761Z", 
+  "uid2response": {
+    "feedback": "Based on the description of this movie, I would not be interested in watching it. I enjoy documentaries.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3483", 
+  "user2_id": "USR2270", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

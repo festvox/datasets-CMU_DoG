@@ -1,0 +1,90 @@
+{
+  "date": "2018-03-06T02:20:08.218Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:20:19.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! I just watched the movie \"Bruce Almighty\" Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:20:32.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, is it good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:20:52.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was a very enjoyable light hearted comedy. Jim Carrey's performance was amazing!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:21:27.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Shut up noob", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:22:06.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nThis turk is trash", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:22:14.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're a bot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:22:17.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You take too long to type", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:22:21.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought Morgan Freeman gave a really good performance\n in it as well. He's one of my favorite actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T02:22:52.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "???? nigga", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T02:23:04.809Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T02:20:08.218Z", 
+  "uid1LogOutTime": "2018-03-06T02:23:39.915Z", 
+  "uid1response": {
+    "feedback": "The other user called me a bot and cursed at me.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T02:20:08.287Z", 
+  "uid2LogOutTime": "2018-03-06T02:23:06.311Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR155", 
+  "user2_id": "USR1961", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

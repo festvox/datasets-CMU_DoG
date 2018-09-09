@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-01T21:20:57.637Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:21:34.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:22:03.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:22:04.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:22:09.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:22:19.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked it. I like movies that are based on a true story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:22:27.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's my favorite kind of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:22:46.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also really liked the actors and actresses they chose for the characters. Good choices.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:23:32.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.  I like Sandra Bullock and the others as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:23:51.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a little surprised at the rating. I wouldn't typically watch a movie with a low rating like that from Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:24:23.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I rarely pay attention to critics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:25:30.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like to go by word of mouth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:25:37.239Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's probably smart", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:25:42.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think almost any movie Sandra Bullock is in is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:26:30.626Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T21:20:57.637Z", 
+  "uid1LogOutTime": "2018-03-01T21:26:45.942Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:20:57.647Z", 
+  "uid2LogOutTime": "2018-03-01T21:27:23.456Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR586", 
+  "user2_id": "USR2089", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

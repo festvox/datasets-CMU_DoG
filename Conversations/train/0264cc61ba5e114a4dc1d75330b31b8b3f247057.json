@@ -1,0 +1,48 @@
+{
+  "date": "2018-02-09T00:38:53.536Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Wonder woman was awesome, and was a hast introduction to the character. Well it was her first full length movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:43:06.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think using love to fight war is the same old thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:43:39.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The woman leaving her home to be with the man is the same old thing that always happens in movies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:48:48.103Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T00:38:53.536Z", 
+  "uid1LogOutTime": "2018-02-09T00:48:54.162Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T00:38:53.630Z", 
+  "uid2LogOutTime": "2018-02-09T00:44:03.619Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4505", 
+  "user2_id": "USR4554", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

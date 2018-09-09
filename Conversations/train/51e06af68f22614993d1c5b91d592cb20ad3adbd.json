@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-30T04:43:18.568Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. What movie have you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T04:45:34.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The shape of water", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:45:57.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What can you tell me about that movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T04:46:32.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very interesting movie about a mute custodian working at top secret gov. Laboratory", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:47:05.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its directed by Guillermo del Toro", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:48:15.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sound like something you'd want to see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:48:46.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:49:36.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know nothing about it at all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T04:51:12.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the fantasy/ drama genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T04:51:14.121Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T04:43:18.568Z", 
+  "uid1LogOutTime": "2018-03-30T04:51:30.192Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-30T04:43:18.604Z", 
+  "user1_id": "USR1627", 
+  "user2_id": "USR3424", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

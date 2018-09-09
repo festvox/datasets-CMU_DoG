@@ -1,0 +1,234 @@
+{
+  "date": "2018-03-27T16:46:14.526Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:46:22.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:46:51.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:47:26.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the wolf of wall street is on the menu today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:47:41.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am interested in seeing it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:47:55.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:48:04.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a dramatization of a NYC stockbroker's career", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:48:46.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are the reviews for it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:49:10.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they are varied. rotten tomatoes are 7,8/10. Metacritic 75/100, and cinemascore C.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:49:57.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting. Who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:50:15.970Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was directed by Martin Scorcese", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:50:48.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow! He is one of my favorite directors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:51:02.371Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's really good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:51:27.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this movie suitable for kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:51:59.172Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not at all. apart from dubious morals, it has a lot of nude scenes and drug consumption.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:52:50.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see, that is not good for kids at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:53:20.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "on the other hand, kids are probably not very interested in films about the stockmarket", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:53:59.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year was this movie released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:54:32.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's from 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:54:44.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not too old I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:54:55.810Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So it is based on a true story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:55:21.809Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's based on the memories of Jordan Belfort. I'm not sure if they are true or not, but it's supposed to be somewhat biographical.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:56:13.404Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it does sound like an interesting film by a good director, but reception seems mixed as you indicated. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:57:13.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's entertaining and funny, but it leaves you with mixed feelings depending on your moral compass", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:58:11.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I guess it is how much you can stomach in terms of personal preferences.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:58:44.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:59:22.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leo di Caprio pays Belfort, the central character ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:59:55.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He's a great actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:00:07.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then Jonah Hill has his partner", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:00:07.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "one of his best performances", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:00:18.965Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:00:25.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! I'll put it on my watch list. Thanks for the help.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:00:30.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "pleasure talking with you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:00:41.717Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T16:46:14.527Z", 
+  "uid1LogOutTime": "2018-03-27T17:00:44.878Z", 
+  "uid1response": {
+    "feedback": "The other person was engaging and attempted to answer every question I had.", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T16:46:14.548Z", 
+  "uid2LogOutTime": "2018-03-27T17:00:44.900Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1126", 
+  "user2_id": "USR2913", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

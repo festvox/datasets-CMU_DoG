@@ -1,0 +1,337 @@
+{
+  "date": "2018-03-30T19:20:31.478Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:20:36.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:22:23.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:22:53.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Home Alone?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:23:13.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If not, it is a movie to watch in your life time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:23:22.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "especially around Christmas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:23:29.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:24:26.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love that movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:24:31.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw it when I was younger", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:24:35.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:24:37.565Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah it came on in 1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:24:47.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:24:52.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that makes me feel old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:24:57.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:25:31.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wasn't even born then...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:25:36.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:25:41.970Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel even older now lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:26:04.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Chris Columbus directed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:26:10.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's essentially a John Hughes movie though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:26:54.140Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:27:02.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WHat was that little boys name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:27:08.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:27:10.025Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he wrote and produced it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:27:22.570Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:28:33.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh damn that actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:28:52.167Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was his name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:28:54.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Macaulay Culkin was the main character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:29:38.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he played Kevin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:29:45.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "smart little fella", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:30:14.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "haha omgod that's familiar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:30:55.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember him now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:30:58.832Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he put all the traps up right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:31:03.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was him ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:31:19.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "trying to get rid of the burglars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:31:39.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because he got left, wait for it...Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:32:01.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HAHAHA", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:33:40.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how they did forget him!?!?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:33:44.119Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nthat's crazy!!!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:33:46.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HOW!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:33:49.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "everyone was so rushed since they overslept on the day they were supposed to leave", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:34:19.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then Kevin thinks he wished them away", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:34:47.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha oh yeah he didn't want them there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:00.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He's a pretty smart kid though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:05.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "for being able to take care of himself like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:11.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would have been scared!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:18.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I couldn't imagine doing that at that age", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:35:19.293Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very resourceful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:35:28.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, very", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:31.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I need to watch it again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:35:35.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always watch it every Christmas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:35:45.957Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T19:20:31.478Z", 
+  "uid1LogOutTime": "2018-03-30T19:35:56.470Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T19:20:31.617Z", 
+  "uid2LogOutTime": "2018-03-30T19:35:48.088Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3761", 
+  "user2_id": "USR3281", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

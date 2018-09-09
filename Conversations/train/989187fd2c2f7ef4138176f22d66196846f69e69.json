@@ -1,0 +1,92 @@
+{
+  "date": "2018-03-20T03:16:09.430Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hugh Jackman is the only actor I recognize", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:17:28.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Dakota Goyo is a name I recognize and I wonder if Olga Fonda is a child of Jane Fonda.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:18:29.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019m not sure. It\u2019s cool that it was filmed in MI - I love my home state", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:19:14.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw that they filmed it in MI.  Cool!  I come from the generations who watched \"Twilight Zone\" so am interested in the history of who this was based on a story and the adapted to an episode of TZ. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:22:04.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah! I didn\u2019t realize the history behind the film ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:22:52.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dreamworks Pictures makes some real good films. I have seen a number of their works.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:23:02.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They are a great production company!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T03:23:53.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, they are! I am amazed at the way the film industry can combine the robotics with the humans and the animatronics.  They have advanced so far due to computers and imagination.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:25:28.363Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Am I alone on this now?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:26:28.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies that are science fiction? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T03:28:10.853Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T03:16:09.430Z", 
+  "uid1LogOutTime": "2018-03-20T03:30:12.391Z", 
+  "uid1response": {
+    "feedback": "User 2 left the conversation after we chatted for about 3-4 times each. I am still here wanting to carry on.  The other user was active until he/she wasn't!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T03:16:09.451Z", 
+  "uid2LogOutTime": "2018-03-20T03:24:30.738Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1172", 
+  "user2_id": "USR143", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "date": "2018-03-16T18:24:57.251Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Dude ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:25:36.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:26:28.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:26:28.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you told me you would review a movie with me the last time we talked ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:24.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so you have my full attention ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:39.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bring it on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:27:45.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen batman vs superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:28:07.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:26.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:28:34.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but I almost saw the trailer sometimes back", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:28:45.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe because i don't fancy them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:29:15.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what's up with the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:29:40.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Haven't you heard that it is a great movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:29:42.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I hear that too often", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:30:01.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess it is a Sci-Fi genre right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:30:24.001Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:31:02.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so what genre does it belong?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:31:39.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's more of a fantasy, you should go see it it, it is action packed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:32:15.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WHAT IS THE GENRE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:32:34.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "fantasy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:33:02.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "remind me the director's name please, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:33:38.768Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a particular reason you have not seen it yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:33:51.105Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No not any", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:34:41.154Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can you give me a run down of the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:34:41.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "why? Why didn't the tr\nailer interest you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:36:08.943Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:24:57.251Z", 
+  "uid1LogOutTime": "2018-03-16T18:35:54.804Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:24:58.111Z", 
+  "uid2LogOutTime": "2018-03-16T18:37:42.528Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3998", 
+  "user2_id": "USR4840", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

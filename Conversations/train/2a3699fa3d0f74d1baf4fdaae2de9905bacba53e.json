@@ -1,0 +1,95 @@
+{
+  "date": "2018-02-07T15:59:30.840Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai am vanitha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:52.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:58.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you watch inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:08.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hmm yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:21.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah do you like scfi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:32.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "am like very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:47.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:01.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:19.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think of the cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:26.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:52.486Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "felling good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:45.464Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T15:59:30.840Z", 
+  "uid1LogOutTime": "2018-02-07T16:03:59.847Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:59:31.136Z", 
+  "uid2LogOutTime": "2018-02-07T16:14:53.363Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3843", 
+  "user2_id": "USR3100", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

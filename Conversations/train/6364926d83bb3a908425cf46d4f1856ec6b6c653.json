@@ -1,0 +1,38 @@
+{
+  "date": "2018-02-19T18:56:48.643Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:57:12.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!  This movie really good a good score from Rotten Tomatoes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:57:42.513Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-19T18:56:48.644Z", 
+  "uid1LogOutTime": "2018-02-19T18:57:47.501Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:56:48.653Z", 
+  "uid2LogOutTime": "2018-02-19T18:59:30.878Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4854", 
+  "user2_id": "USR46", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

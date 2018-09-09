@@ -1,0 +1,112 @@
+{
+  "date": "2018-02-16T15:08:42.106Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HEY", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:09:13.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YOU THERE?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:09:33.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:09:42.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "INCEPTION LOOKS LIKE A GOOD MOVIE.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:10:01.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It does.  Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:10:14.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES IT IS A VERY GOOD MOVIE. SO CONFUSING THOUGH!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:10:32.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, it was very confusing.  The fact that they have to go into people's subconscious and what is real and isn't was hard to keep straight.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:11:24.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES IT WAS. TOO MUCH GOING ON.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:11:56.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WOULD YOU SEE IT AGAIN?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:12:12.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like one of those movies you actually should see a couple times so you can keep track of what is actually going on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:12:43.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "RIGHT SAME. I THINK THAT WAY AS WELL.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:13:05.567Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got an 8.1/10 on Rotten Tomatoes...I wonder if it would have been higher if it wasn't as confusing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:13:31.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "PROBABLY SO. I LIKE A LITTLE BIT OF MYSTERY SO I DID LOVE IT BUT JUST THE ENDING MADE ME", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:15:45.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "IT MADE ME FRUSTRATED", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:15:58.147Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The back and forth between are they in a dream, and the fact that the character themselves could get stuck in the dream and forget, that would be a scary scenario to be in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:16:38.535Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T15:08:42.106Z", 
+  "uid1LogOutTime": "2018-02-16T15:18:44.007Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T15:08:42.106Z", 
+  "uid2LogOutTime": "2018-02-16T15:20:14.977Z", 
+  "user1_id": "USR1747", 
+  "user2_id": "USR1383", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

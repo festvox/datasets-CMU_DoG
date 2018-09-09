@@ -1,0 +1,97 @@
+{
+  "date": "2018-03-22T14:36:49.421Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:37:24.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:37:27.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Shape of Water recently won an Oscar, have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:37:52.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you read about a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:38:08.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you read about a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:38:10.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, here is some info: It has an average of 8.4/10 on Rotten Tomatoes and it falls under the classification Fantasy/Drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:39:08.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:39:53.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, is your connection good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:40:16.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you confirm you received my messages?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:40:53.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:41:28.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "User2 are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:42:27.952Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T14:36:49.421Z", 
+  "uid1LogOutTime": "2018-03-22T14:42:37.068Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:36:49.432Z", 
+  "uid2LogOutTime": "2018-03-22T14:42:44.373Z", 
+  "uid2response": {
+    "feedback": "The other user did not seem to be able to read my texts. I kept interacting but they did not respond to me and also seemed on a delay. I tried for a while and they finally left the conversation.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1017", 
+  "user2_id": "USR1215", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

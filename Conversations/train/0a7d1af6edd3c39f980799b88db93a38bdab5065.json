@@ -1,0 +1,126 @@
+{
+  "date": "2018-03-27T02:53:20.022Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there,  do you typically watch movies with similar ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:58:38.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry. had troubl;e finding where to type.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T02:59:40.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No problem!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T02:59:51.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am a lover of movies, so generally do not base my movie watching on other peoples reviews, but on whether or not it looks interesting to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:00:13.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, I have the same views.  It seems as if they casted pretty well for this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T03:01:06.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this is one of those that i had mixed feelings about going into because sleeping beauty is actually my favorite disney princess.. and Maleficent is my favorite disney villain.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:01:09.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i did not like Elle Fanning as Aurora actually. i thought she was too... i don't know the word.. smiley and airy and flighty.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:02:06.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i actually loved Angelina Jolie as Maleficent... and i generally do not like Angelina Jolie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:02:39.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh very interesting!  I think Angelina played her role pretty accordingly. I wonder if they'll make a second movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T03:02:48.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the other casting i thought was pretty good. especially the king. made the perfect villain you didnt know you would hate until you hated him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:03:38.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a sequel would be interesting b\nut i dont know where they would take it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:04:10.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "um... hello/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:05:55.952Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where did you go?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:06:34.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think i would have liked the movie more if someone other than elle fanning had played aurora. but that is my biased opinion ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:07:43.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i wish my partner had stayed... would have been a good conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:09:19.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T03:09:22.582Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T02:53:20.022Z", 
+  "uid1LogOutTime": "2018-03-27T03:09:25.103Z", 
+  "uid1response": {
+    "feedback": "the other user left the conversation in the middle of it.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T02:53:20.089Z", 
+  "uid2LogOutTime": "2018-03-27T03:03:10.406Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4143", 
+  "user2_id": "USR2471", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

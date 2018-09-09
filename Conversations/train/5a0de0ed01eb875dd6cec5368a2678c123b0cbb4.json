@@ -1,0 +1,425 @@
+{
+  "date": "2018-02-12T19:41:09.550Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:41:50.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of the movie is John Wick.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:42:37.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:42:58.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:43:00.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It\u2019s an action thriller from 2014  that I really enjoyed ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:43:10.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i heard of it but haven't seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:43:25.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:43:32.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It received a 6.9 out of 10 on the rotten tomatoes scale", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:43:50.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:44:00.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:44:22.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:45:26.617Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is an ex hit man who returns To the criminal underworld after 5he death of his wife. It\u2019s actually a very good movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:45:40.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh that sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:46:02.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you know if it's on netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:46:47.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The cinema score is a b", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:46:53.654Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don\u2019t see that the information says that it is on Netflix ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:47:37.819Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "fair enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:47:53.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not really sure what else to ask about, is there anything else in there you think I should know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:48:16.583Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you heard of the director chad stahleski? Sorry I\u2019m new to this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:48:51.343Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah me too no worries!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:49:03.247Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No I haven't heard of him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:49:11.834Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Movies aren't really my area lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:49:30.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this one sounds interesting though!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:49:37.486Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well let me tell you a new section just popped up regarding scenes..give me just a second to read over it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:50:03.996Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:50:09.660Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So apparently John wick was a bad ass assasin who wants to retire so that he can marry his wife helen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:52:01.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:52:34.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is a part of a huge crime syndicates, and the main guy doesn\u2019t want John to retire so he assigns him an impossible task.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:52:47.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:53:04.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "whats the task?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:54:00.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John was able to complete the impossible tasks so the main bad guy sends a female assasin to kill him by the name of Ms. Perkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:54:19.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds intense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:55:05.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John doesn\u2019t get killed but stops the female assasin.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:55:27.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha so intense ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:55:39.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how does his wife die?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:56:05.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I\u2019m trying to figure that out, let me read a bit more lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:56:59.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:57:27.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have nothing on this end so don't know how much info they are giving you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:57:40.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It doesn\u2019t go into much detail about how his wife died, but apparently he found a dog after her death, that became his best friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:58:29.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "aww!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:58:37.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nI\u2019m sorry I\u2019m horrible at this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:58:44.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you're doing great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:59:54.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So the poor guy John wicks wife dies, then he gets this dog, and the crime lord or whatever organization that he is apart of kills the dog!! To piss him off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:59:59.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry there's not much I can do to help from this end", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:00:05.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow poor guy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:00:17.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well you are being patient thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:00:29.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no worries", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:01:03.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie is definitely action packed with a decent rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:02:03.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it sounds pretty interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:02:29.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If you like fast paced , violent movies..this one is for you haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:02:40.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "might watch it if it's on netflix or amazon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:02:44.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did actually l8ke it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:02:59.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know what it's rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:03:10.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like age appropriateness?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:03:22.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Based on the information that they gave me, it doesn\u2019t have a rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:04:08.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I\u2019d say 17 and above", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:04:19.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "fair enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:04:19.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:04:26.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So I\u2019ll keeo just giving you persuasive details until, I guess we\u2019ve communicated enough", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:05:22.742Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how do they determine that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:05:37.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't remember what it said in the instructions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:05:47.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We\u2019ve come this far, I guess I\u2019d better keep talking lol. I thought they said 12 exchanges each..and I\u2019m pretty sure we\u2019ve done that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:06:07.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I don\u2019t see a code..do you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:06:22.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe we should hit the finish convo lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:06:52.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T20:07:16.975Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:41:09.550Z", 
+  "uid1LogOutTime": "2018-02-12T20:07:36.405Z", 
+  "uid1response": {
+    "feedback": "movie sounded interesting\ncan't comment on the document because I couldn't see it", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:41:09.618Z", 
+  "uid2LogOutTime": "2018-02-12T20:07:05.584Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR695", 
+  "user2_id": "USR1153", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

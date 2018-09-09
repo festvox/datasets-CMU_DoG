@@ -1,0 +1,59 @@
+{
+  "date": "2018-02-28T17:42:26.317Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:44:02.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "as a young couple who fall in love in the 1940s.  Their story is narrated from the present", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:45:13.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:46:21.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:46:36.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ok, I have seen bits and pieces of this film. I am not really into romantic movies, being a guy and all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:47:20.500Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T17:42:26.317Z", 
+  "uid1LogOutTime": "2018-02-28T17:49:29.559Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:42:26.334Z", 
+  "uid2LogOutTime": "2018-02-28T17:49:36.270Z", 
+  "uid2response": {
+    "feedback": "The other user only responded to me twice, and then left suddenly. I was not given enough information on the movie in order to base my decision.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4900", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

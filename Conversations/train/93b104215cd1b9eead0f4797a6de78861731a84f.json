@@ -1,0 +1,142 @@
+{
+  "date": "2018-03-03T01:53:40.975Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey guys how are y\u2019all", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T01:54:15.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi,  did you see a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:54:19.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or read about one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:54:38.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen this movie but it\u2019s been years ago I do remember being very funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T01:54:49.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:54:59.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did it feature Jason Momoa shirtless?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:55:48.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could you maybe type a littel faster?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:56:31.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or stop being a bot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:56:42.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to see a movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:57:06.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I could watch one waiting for this bot to do something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:57:21.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was dunny?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:57:41.730Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:57:44.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What keywords will trigger the bot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:57:59.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesus fuck, why am I wasting my time?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:58:17.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm tired of surveys that abuse me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:58:31.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not get the other user in the chat room", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T01:59:10.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"Still acting normally\"?  He's stopped responding!  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:00:00.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, oh, what was the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:00:25.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:01:05.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fuck.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:01:37.851Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-03T01:53:40.975Z", 
+  "uid1LogOutTime": "2018-03-03T02:01:41.140Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-03T01:53:41.797Z", 
+  "user1_id": "USR1034", 
+  "user2_id": "USR2214", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

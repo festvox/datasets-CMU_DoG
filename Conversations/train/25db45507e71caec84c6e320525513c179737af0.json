@@ -1,0 +1,128 @@
+{
+  "date": "2018-03-26T22:20:34.260Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:21:01.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, give me a minute...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:21:14.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok, I am here...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:21:31.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know movie The Post?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:21:46.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it'\ns historical political thriller...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:23:16.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like such films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:23:23.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have to watch it again... I love Maryl Streep...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:24:21.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T22:25:35.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:25:45.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:25:59.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Post?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:06.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not 'there' ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:31.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:26:36.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hellooo!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:28:21.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like movies of historical, political genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:29:16.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like films produced by Steven \nSpielberg?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:30:53.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like Tom Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:32:33.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or Meryl Streep?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T22:32:51.699Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-26T22:20:34.260Z", 
+  "uid1LogOutTime": "2018-03-26T22:34:44.636Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T22:20:34.523Z", 
+  "user1_id": "USR4823", 
+  "user2_id": "USR631", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

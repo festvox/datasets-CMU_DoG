@@ -1,0 +1,168 @@
+{
+  "date": "2018-03-19T22:51:20.028Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:51:39.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What? What movie are you talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:52:07.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not familiar with Hugh Jackman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:52:36.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. The movie is The wolf of Wall Street.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:52:41.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:53:10.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it and I liked it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:53:37.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What audience is it recommended for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:54:06.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm, I like fighting robots I guess. But there are no robots in The wolf of wall street.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:54:24.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have no idea what that means", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:54:39.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a stockbrocker in New York City.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:54:45.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why are you talking about fighting robots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:54:48.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have no idea for what audience it is recommnded.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:55:22.107Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it violent?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:55:32.234Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am here. There is no mention of blood. But the trading is aggressive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:56:22.262Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why do you keep talking about robots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:57:10.396Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics say it is epic in size.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:57:11.141Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought there was no robots in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:57:18.842Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who are these robots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:57:36.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is not mention of any robots in the movie summary.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:58:08.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you keep talking about robots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:58:25.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Let me tell you about one scene so you can understand the movie better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:58:38.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:58:46.641Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Three friends found a company for stock trading. And they begin to set up a method for scamming others.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:59:21.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is the Wolf of Wall street.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:59:38.776Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T22:51:20.028Z", 
+  "uid1LogOutTime": "2018-03-19T22:59:19.394Z", 
+  "uid1response": {
+    "feedback": "They seemed to be talking about two separate movies and it was very confusing.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T22:51:20.094Z", 
+  "user1_id": "USR1515", 
+  "user2_id": "USR2357", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

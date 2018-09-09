@@ -1,0 +1,86 @@
+{
+  "date": "2018-03-21T16:48:41.977Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hii", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:48:58.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:49:42.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you? What movie would you comment on today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:50:15.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is the 2008 film Iron Man which is the first film in the Marvel Cinematic Universe (MCU).", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:52:34.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is he the type that comes out in the avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:53:40.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, yes the Iron Man character does appear in and is one of the Avengers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:55:11.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "aaaah, but I have not seen the individual ironman movies, and how was this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:56:43.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "However the original 2008 Iron Man film is great. The character is played by Robert Downey Jr. and in the film he a genius inventor and tech guru who builds a exoskeleton suit that can do amazing things. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:57:16.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ultimately like most super hero type films, there is a villain. Iron man gets betrayed by his friend and second in command at his company. The second in command is payed by Jeff Bridges who goes by the name of Obadiah Stane. Obadiah eventually builds a giant exosuit to fight against Iron Man and thus you have a battle on your hands. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:02:07.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film was given great reviews. \nRotten Tomatoes had it at 94% ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:03:08.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you are into special effects, this one will keep you well entertained.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:04:27.326Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-21T16:48:41.977Z", 
+  "uid1LogOutTime": "2018-03-21T17:09:47.110Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:48:42.257Z", 
+  "user1_id": "USR2845", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

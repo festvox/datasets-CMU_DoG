@@ -1,0 +1,89 @@
+{
+  "date": "2018-02-18T01:38:02.672Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. I am planning on going to the movies. I hear that How to Train you dragon has a good rotten tomatoes score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:39:11.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it looks super exciting based on our world view being wrong. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:39:54.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I bet Craig Ferguson is great as the voice of Gobber the Belch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:40:42.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. The director Chris Sanders made great use of the voice talent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:42:03.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, there are so many aerial battles between the tamed and evil dragons. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:42:39.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not to mention the insightful script.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:43:11.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the computer-animation is even in American 3D. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:43:41.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes the 3D is breathtaking with spatial and emotional possibilities. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:45:11.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is loosely based on a British book series, named Cressida Cowell. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:46:16.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems like a waste of a funny book. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:46:47.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a thrilling action-adventure. Are you aware of any key scenes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:47:50.524Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T01:38:02.672Z", 
+  "uid1LogOutTime": "2018-02-18T01:53:16.306Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-18T01:38:02.704Z", 
+  "user1_id": "USR2231", 
+  "user2_id": "USR4575", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

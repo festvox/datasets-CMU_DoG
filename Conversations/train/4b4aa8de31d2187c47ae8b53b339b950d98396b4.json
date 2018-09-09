@@ -1,0 +1,124 @@
+{
+  "date": "2018-03-30T00:58:59.725Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.  How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T00:59:12.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good, you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:59:31.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:00:16.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like comedies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:00:20.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:00:46.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "home alone is pretty good too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:00:51.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is a cult classic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:01:01.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It says the documents are supposed to change", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:01:47.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:02:33.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I mean that it is a staple on tv every Christmas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:02:51.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It really is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:03:42.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There was a sequel too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:03:59.339Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there it goes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:04:04.538Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what changed in the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:04:28.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "we need to take 3 turns discussing this for it to change", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:06:20.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:11:35.429Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-30T00:58:59.725Z", 
+  "uid1LogOutTime": "2018-03-30T01:07:45.426Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-30T00:58:59.852Z", 
+  "uid2LogOutTime": "2018-03-30T01:11:52.074Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4318", 
+  "user2_id": "USR3", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

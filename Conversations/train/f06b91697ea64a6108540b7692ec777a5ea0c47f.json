@@ -1,0 +1,41 @@
+{
+  "date": "2018-02-08T00:10:31.082Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, are you going to tell me about a movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T00:11:21.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's a movie called Dunkirk, from Director Christopher Nolan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T00:13:01.190Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T00:10:31.082Z", 
+  "uid1LogOutTime": "2018-02-08T00:14:01.983Z", 
+  "uid1response": {
+    "feedback": "The other user left before I was able to converse with them.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T00:10:31.101Z", 
+  "uid2LogOutTime": "2018-02-08T00:12:55.038Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR355", 
+  "user2_id": "USR4096", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

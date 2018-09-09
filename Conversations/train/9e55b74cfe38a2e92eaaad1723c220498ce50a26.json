@@ -1,0 +1,204 @@
+{
+  "date": "2018-01-26T18:55:18.355Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:55:43.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:55:54.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, have you ever seen Jaws?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:56:15.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I havent! Is it any good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:56:24.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you are into horror movies, I guess you would enjoy it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:56:49.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like horror movies. What makes it a scary movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:57:05.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It makes you want to stay away from the ocean.  It's about a shark that kills people.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:57:45.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, that does sound scary. I do not like a lot of gore. Is it a very bloody movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:58:13.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not really.  It's made in the 70s so it doesn't get as bloody as movies do now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:58:46.473Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh i see! That sounds very interesting. Do you know where it takes place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:59:24.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's on a fictional island called Amity Island.  It's supposed to be located in the New England area.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:00:05.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is very cool! Is it well made? or is it a B-Movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:01:40.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It did really well at the box office and is considered a classic horror movie.  I wouldn't consider it a B-Movie.  Plus, it was directed by Spielberg!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:02:18.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow, it must certainly be worth seeing then! What was it about Jaws that you liked the most?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:02:45.517Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen from start to ending it myself, I just hear good things about it.  I always channel surf and watch bits and pieces. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:03:35.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. I often hear good things about it too but I never knew really what it was about or why it was so great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:04:17.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I usually check Rotten Tomatoes for scores of movies.  This one has a 97% rate so it must be pretty good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:04:55.106Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "With such a high rating and an acclaimed director, im sure its great. I am just confused - if its about a shark who kills in the water, why not just stay out of the water?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:05:39.754Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it was more a government thing.  The Mayor tried to convince the public that the waters were safe.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:06:42.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, I see! Thats fascinating! A little mystery and greed type story-line playing along side of the horrors of the ocean. That make it much more interesting to me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:07:50.037Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I agree.  I wonder if it's on Netflix.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:08:06.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Im sure it is - they seem to have everything these days. I wonder what it would have been like to see it on a big screen!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:08:41.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was great talking to you!  I think this is the end of the 12 turns!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:09:18.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, you too. Thank you for the info! :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:09:32.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:09:48.208Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will certainly look into Jaws! Sounds great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:10:05.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:10:38.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:11:29.071Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-26T18:55:18.355Z", 
+  "uid1LogOutTime": "2018-01-26T19:11:31.341Z", 
+  "uid1response": {
+    "feedback": "Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-26T18:55:18.369Z", 
+  "uid2LogOutTime": "2018-01-26T19:11:34.611Z", 
+  "uid2response": {
+    "feedback": "The film sounded interesting. It was a horror movie with a very acclaimed director. The story sounded somewhat basic but has an underlying story of political misconduct and other interesting bits. It was Jaws, and I think they made it sound very interesting to watch. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1333", 
+  "user2_id": "USR2052", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

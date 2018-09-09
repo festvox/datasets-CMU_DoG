@@ -1,0 +1,100 @@
+{
+  "date": "2018-01-29T23:23:30.198Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Jaws might very well be the best shark attack movie in history.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:24:23.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, it was ahead of it's time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:24:37.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the other Jaws movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:24:58.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Spielberg did a great job building up the suspense.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:25:10.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember liking the one where they were at Sea World", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:25:26.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it kept wondering what was going to happen next.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:25:33.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think it is suitable for kids? i watched it when i was like 6 years old.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:26:25.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's too violent for kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:26:39.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think it should be rated R?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:27:04.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Didn't stop my parents from letting me watching it. lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:27:04.843Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "definately should be rated r", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:27:16.423Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why do most scary movies that involve water\n involve someone going skinny dipping?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:27:51.232Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-29T23:23:30.198Z", 
+  "uid1LogOutTime": "2018-01-29T23:27:30.265Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:23:30.249Z", 
+  "uid2LogOutTime": "2018-01-29T23:32:56.578Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR680", 
+  "user2_id": "USR4458", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

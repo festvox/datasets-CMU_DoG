@@ -1,0 +1,284 @@
+{
+  "date": "2018-03-21T20:36:24.246Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:36:29.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:36:31.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watched this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:36:58.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, im good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:37:32.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:37:36.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is iron man, have you seen this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:37:48.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah i have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:38:13.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great movie with a great actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:38:17.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love tony stark lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:38:21.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nice, and i agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:38:27.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he is perfect for the role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:38:32.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why do you like ironman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:39:12.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because he is cool, and a lot of fun to be around", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:39:30.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:39:35.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "definetly action part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:39:42.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's packed with action and intense music", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:39:52.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that is true, the movies keep getting better too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:40:09.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah hopefully fourth one comes out soon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:40:23.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i wonder, but i do know infinity wars is coming out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:40:42.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah april 21st", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:40:59.435Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can't wait to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:41:04.118Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who's your favorite superhero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:41:10.178Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "agreed and that movie is gonna be awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:41:16.878Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "my favorite is deadpool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:41:23.055Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:41:25.944Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "mine is ironman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:41:38.159Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was my favorite since childhood", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:41:45.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice, cant go wrong with him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:41:50.225Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "marvel is just great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:42:06.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah much better than dc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:42:20.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol so true, dc cant make a movie to save their life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:42:33.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they need to step up their game", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:43:02.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "only movie i watched was wonderwoman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:43:15.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just because there was gal gadot <3", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:43:19.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! she is so hot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:43:29.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "only good thing about dc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:43:44.908Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:44:00.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well i had fun talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:44:08.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "alright great talk, cya", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:44:15.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hopefully we can get paid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:44:16.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:44:17.260Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T20:36:24.246Z", 
+  "uid1LogOutTime": "2018-03-21T20:44:18.944Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T20:36:24.297Z", 
+  "uid2LogOutTime": "2018-03-21T20:44:20.847Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR4560", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

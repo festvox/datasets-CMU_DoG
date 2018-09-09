@@ -1,0 +1,38 @@
+{
+  "date": "2018-03-07T16:58:15.922Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what did you think of Big Mike?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:59:20.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was okay. I really liked Sandra Bullock's role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:59:49.524Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T16:58:15.922Z", 
+  "uid1LogOutTime": "2018-03-07T17:00:21.419Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:58:17.241Z", 
+  "uid2LogOutTime": "2018-03-07T16:59:27.332Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4028", 
+  "user2_id": "USR1582", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

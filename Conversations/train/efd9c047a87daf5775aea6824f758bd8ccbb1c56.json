@@ -1,0 +1,230 @@
+{
+  "date": "2018-03-05T16:34:16.758Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:34:22.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:34:38.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:34:54.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have. Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:35:06.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I liked it. I thought Jim Carrey and Morgan Freeman were great in it. What did you think about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:35:44.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was a great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:36:06.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you find it to be funny?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:36:29.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Jim Carrey was great in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:36:43.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:36:58.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like Jennifer Aniston in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:37:16.500Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "LOL to be honest I barely remembered she was in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:37:36.581Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess she wasn't too memorable then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:37:52.395Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That or my memory isn't very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:38:51.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got a really low score on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:39:06.061Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I am actually surprised by the low score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:26.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too. That is way too low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:39:36.274Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "CinemaScore gave it an A which I think is fair.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:50.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree with that one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:40:04.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like the story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:40:50.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I liked the story. I generally like movies that have a life lesson.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:41:39.568Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too. They are more fun to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:42:00.087Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I nearly forgot Steve Carell is in that movie too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:42:43.403Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought he was in part 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:42:58.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is in part 1 too, he was the news anchor who got the promotion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:43:52.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I see. I remember now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:44:16.720Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think of the Metacritic score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:46:04.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it is way too low as well. I wonder why people gave the movie such a low score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:46:39.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too. I don't mind though. I know it was a good film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:47:09.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't realize it \ncame out in 2003. That seems so long ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:47:58.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea, I agree. I wonder if the scores are newer?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:48:00.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:48:07.893Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea 2003 seems so long ago, I feel old.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:48:31.202Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T16:34:16.758Z", 
+  "uid1LogOutTime": "2018-03-05T16:48:39.488Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:34:16.782Z", 
+  "uid2LogOutTime": "2018-03-05T16:48:34.619Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR885", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

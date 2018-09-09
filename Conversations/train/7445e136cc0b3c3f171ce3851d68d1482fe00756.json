@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-08T00:05:50.043Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:06:03.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the film, \"how to train your dragon\"?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T00:06:33.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I have seen the movie.. It's a 2010 animation 3d computer-animated action-fantasy film produced by DreamWorks Animation and distributed by Paramount Pictures.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T00:08:27.062Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-08T00:05:50.043Z", 
+  "uid1LogOutTime": "2018-03-08T00:06:38.687Z", 
+  "uid1response": {
+    "feedback": "User 2 left the conversation before I could respond.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T00:05:50.292Z", 
+  "uid2LogOutTime": "2018-03-08T00:11:48.474Z", 
+  "uid2response": {
+    "feedback": "the notebook, how to train a dragon, batman vs. superman, wonderwoman", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1538", 
+  "user2_id": "USR4359", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

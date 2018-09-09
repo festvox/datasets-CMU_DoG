@@ -1,0 +1,40 @@
+{
+  "date": "2018-02-09T20:24:12.344Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I have not seen this movie. It looks worthwhile.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:26:24.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, Rotten Tomatoes gives it  8.6/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:27:51.973Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:24:12.344Z", 
+  "uid1LogOutTime": "2018-02-09T20:26:54.844Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:24:12.362Z", 
+  "uid2LogOutTime": "2018-02-09T20:35:44.492Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR747", 
+  "user2_id": "USR3020", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-27T10:00:29.486Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "It's interesting to see a mute character in a movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:02:10.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there? Still reading the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:03:34.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is, particularly in one which has received such a wide release. Do you generally watch movies which have received good reviews like this one\n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T10:03:44.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I'm a bit wary when it's a raving review, sometimes movies get too much of a \"hype\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:04:36.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I go to the movies once a week, so generally I get to see most major releases.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:05:10.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:05:41.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel that critical response is a good way to judge whether a movie is worth seeing, particularly since there are so many released \nthese days", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T10:06:26.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you also find it interesting that the main characters were all marginalised in some way? (e.g. a mute, a closeted gay man and a black woman)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T10:07:20.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting point. It was definitely a specific \"pick\" of character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:08:48.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a movie that you would find yourself watching again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T10:09:50.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe if I'd decide to watch some more of the director's movies, but then I know only one more of his works, \"Pan's Labyrinth\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:10:49.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you feel that the period setting of the movie helped make the story more engaging? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T10:11:48.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Cold War era setting definitely added to the tense feeling of the set. It's kind of sad to see that we're yet again entering some sort of \"Cold War\" phase with recent political events, do you agree?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:13:26.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The scene described with the creature captured from a South American river reminds me of one of the old horror movies about a swamp creature.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T10:15:46.921Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T10:00:29.486Z", 
+  "uid1LogOutTime": "2018-03-27T10:17:59.135Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T10:00:29.538Z", 
+  "uid2LogOutTime": "2018-03-27T10:14:53.081Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1705", 
+  "user2_id": "USR4071", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

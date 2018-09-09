@@ -1,0 +1,95 @@
+{
+  "date": "2018-03-16T18:33:05.099Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:33:37.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BATMAN bEGINS", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:34:55.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:35:19.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as 'Batman'. But it doesn't stay quiet for long.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:36:36.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting! Who plays Batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:37:25.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:37:56.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you seem the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:38:09.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:40:44.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:47:17.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:53:07.252Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:18:24.765Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:33:05.099Z", 
+  "uid1LogOutTime": "2018-03-16T18:54:49.295Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:33:05.204Z", 
+  "uid2LogOutTime": "2018-03-16T19:18:26.362Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2151", 
+  "user2_id": "USR4713", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

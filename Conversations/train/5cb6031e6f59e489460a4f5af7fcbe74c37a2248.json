@@ -1,0 +1,68 @@
+{
+  "date": "2018-02-12T19:09:22.643Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Heya!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:18.510Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the 2013 movie Frozen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:11:46.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Aye, it's fantastic! I love the single.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:56.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you read Andersen's original?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:23.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, Frozen has some of the best music. No, I have not read the original.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:47.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Neither have I, but I'm quite curious to see what Disney changed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:02.130Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:09:22.643Z", 
+  "uid1LogOutTime": "2018-02-12T19:13:32.649Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:09:22.785Z", 
+  "uid2LogOutTime": "2018-02-12T19:13:20.565Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1748", 
+  "user2_id": "USR4327", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2018-03-23T01:31:41.216Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:31:45.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:31:49.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing great! And you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:32:04.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie received a 51% on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:32:32.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was directed by Robert Stromberg.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:33:21.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T01:33:31.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:36:21.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have but i do not remember that well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:36:32.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how did the story go again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T01:36:36.348Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T01:31:41.217Z", 
+  "uid1LogOutTime": "2018-03-23T01:45:26.349Z", 
+  "uid1response": {
+    "feedback": "the user left without before replying", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T01:31:41.396Z", 
+  "uid2LogOutTime": "2018-03-23T01:34:50.310Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR4179", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

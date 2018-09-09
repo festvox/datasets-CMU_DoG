@@ -1,0 +1,130 @@
+{
+  "date": "2018-02-16T17:51:08.068Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:51:28.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello what movie did you get to talk about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:51:50.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think we could Talk about John Wick. IT is a great movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:52:13.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay what can you tell me about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:52:30.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Keanu Reeves, as a man named John Wick. He used to be a hot man. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:52:58.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:53:00.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Neo-noir films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:53:16.118Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hot or hit applies to Keanu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:53:22.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have been known to watch a few", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:53:47.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes. It follows his life after he left being a hit man, and the returned to the criminal underbelly. He had some sad times, like losing his wife. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:54:17.920Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I see.  It oes sound like a movie I would like ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:55:10.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell me more about the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:55:54.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How does he lose his wife?  Is it because of his job as hitman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:56:46.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie available on netflix?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:58:21.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where did you see it?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:59:17.023Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was more to do with the Russian Mob", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:00:10.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:00:26.010Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T17:51:08.068Z", 
+  "uid1LogOutTime": "2018-02-16T18:00:25.540Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T17:51:08.107Z", 
+  "uid2LogOutTime": "2018-02-16T18:00:49.057Z", 
+  "uid2response": {
+    "feedback": "The user is taking too long in between responses to me.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2183", 
+  "user2_id": "USR424", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

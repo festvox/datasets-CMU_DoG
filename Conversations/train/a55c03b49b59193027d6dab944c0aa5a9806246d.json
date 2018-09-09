@@ -1,0 +1,129 @@
+{
+  "date": "2018-02-13T18:32:49.529Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:08.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:33:14.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen this movie yet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:26.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:33:45.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have a document up for John Wick.  do you have it too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:16.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. You're supposed to try and convince me of watching the movie using the document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:35:27.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ah.  whoops.  i did this task once before, but it had different instructions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:35:51.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No worries. So what's interesting about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:36:17.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's one of those stories about a former hitman who's forced back into the \"game\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:12.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "reviews are good, if that matters to you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:05.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "86% on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:23.534Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sometimes reviews matter to me, especially if they are about a movie of a genre I don't like.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:38:50.066Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how do you feel about the hitman genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:39:11.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't really care for action movies and I even less for hitman action movies,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:40:07.703Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this one has a unique angle, it seems.  the hitman is out to avenge the death of his puppy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:42:36.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:46:45.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok.  i'm going to assume you signed off or something and am using the \"abort\" button.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:52:02.438Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-13T18:32:49.529Z", 
+  "uid1LogOutTime": "2018-02-13T18:52:18.455Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:32:49.579Z", 
+  "uid2LogOutTime": "2018-02-13T19:59:11.929Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3552", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

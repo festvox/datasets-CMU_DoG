@@ -1,0 +1,336 @@
+{
+  "date": "2018-03-22T00:24:10.386Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:25:34.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:27:01.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing good. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:28:10.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:28:16.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A classic you have got to guess. It has a real hot shower scene.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:28:56.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ahh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:29:42.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "there are a lot of movies with hot shower scenes ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:29:54.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's from the early 90s", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:30:08.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that could be difficult ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:30:15.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a guy in the shower with a recording playing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:30:32.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmmm... does he have blonde hair?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:31:12.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And is it a romance movie? Or just an accidental steamy shower scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:31:56.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's definitely got a three stooges vibe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:32:26.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Uhh definitely a shame I've actually never watched the three stooges ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:33:43.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well you aren't missing much :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:34:57.746Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What genre is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:35:23.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'll help you out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:35:28.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:36:10.546Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's a comedy with a child actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:36:52.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "home alone? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:36:59.754Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ding! It opens with his family preparing to spend Christmas in Paris.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:37:26.288Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A surprise to me is that the director is Chris Columbus. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:38:09.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love the movie, but I'm with the director. It's such a classic do you know of any other movies that Chris Columbus directed? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:38:57.116Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. Home alone 2... etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:39:42.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome. I love all of them but I don't remember the last one that well only the first one. Not too sure why that is ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:40:57.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was this movie your favorite out of the bunch? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:41:05.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I couldn't tell you my favorite. I think no. 1 has a cameo ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:42:55.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I could tell you some of the plot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:44:07.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me start over.. Kevin is left behind and his family doesn't realize he is missing until they arrive in Paris.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:45:23.379Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats funny ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:46:18.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are delayed for 2 days and stay at a relatives upon which she meets a guy in a traveling polka band who offers to drive them back.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:46:48.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I somewhat remember that part but it's been so long ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:47:38.266Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "at what point did they break into the house while the parents were gone? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:47:50.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's part three", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:48:09.211Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they didn't break in part 1? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:48:53.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kevin rigs the house with traps and Harry and marv suffer injuries and Kevin calls the cops while fleeing the house.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:48:57.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm I guess I completely forget what mainly happens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:49:00.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The paint cans, the thumb tacks, the heated door knob", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:49:52.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha too funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:49:57.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahahaha yes it was so funny one of the best movies for it's time definitely ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:50:47.884Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's been a great time thanks for the details on the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:52:16.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Everyone watched this in the 90s", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:52:16.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yeah even my late grandma ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:52:40.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she loved it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:52:41.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you remember where Trump Cameos?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:53:22.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so but I actually didn't know who Trump was back then ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:53:51.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was way too young to care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:53:55.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Totally cool. I hope there's more movies like that while I'm still kickin'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:54:39.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely and I hope you'll be kickin' for awhile ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:55:03.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks. It's down the hall, to your left", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:55:43.149Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T00:24:10.386Z", 
+  "uid1LogOutTime": "2018-03-22T00:56:24.445Z", 
+  "uid1response": {
+    "feedback": "Note that the movie in question is a classic and I've already seen it multiple times. However the other person did sell the movie quite well and if I haven't seen it I would have most definitely checked it out. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T00:24:10.400Z", 
+  "uid2LogOutTime": "2018-03-22T00:55:50.427Z", 
+  "uid2response": {
+    "feedback": "Reading the script was new to me. Definitely a good use of my time.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1744", 
+  "user2_id": "USR789", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

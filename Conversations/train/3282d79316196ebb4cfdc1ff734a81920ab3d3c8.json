@@ -1,0 +1,223 @@
+{
+  "date": "2018-03-05T18:04:37.604Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:05:10.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!  Sorry, I was just reading the document!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:05:24.068Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Batman Begins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:05:31.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool! Take your time!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:06:22.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I honestly can't remember if I have seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:06:39.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays batman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:06:47.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bale - it's the Batman origin story, so he's initially credited as Bruce Wayne.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:07:19.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. Who was the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:07:56.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan - do you typically like his work?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:08:31.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:09:23.251Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome! This one got really good Rotten Tomatoes/Metacritic/etc. scores, too, so chances are good you'd like it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:10:18.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I usually agree with Rotten Tomatometers! Haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:11:05.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you know who did the score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:11:13.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't, actually, but the cast looks really great - on top of Christian Bale, it's got Michael Caine, Liam Neeson, and Katie Holmes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:12:31.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome. \nWho does Liam Neeson play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:13:16.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ra's al Gul, one of the villiains.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:14:00.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow. That sounds great! And Katie Holmes\n is??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:14:51.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rachel Dawes - not actually sure who that is!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:16:05.119Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What year was it released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:16:29.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, hang on - Rachel Dawes is Bruce Wayne's childhood friend, now an assistant DA.  :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:16:52.249Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was released in 2005.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:16:58.318Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did it win any academy awards?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:18:30.807Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not seeing that information, but Christian Bale was praised by critics for playing Bruce Wayne with \"both the menace and the with that he showed in his brilliant turn in American Psycho,\" so it sounds like the acting was excellent!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:20:02.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is a great actor. Is Batman Marvel or D.C.? I can never remember...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:21:29.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's D.C.!  Do you tend to like the DC superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:22:27.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure. Who else is in the D.C. universe? Remind me. Haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:23:21.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, gosh, I don't remember either - it takes place in Gotham City, if that helps jog your memory!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:24:34.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's cool. How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:25:18.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure - you can probably look it up online, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:26:24.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:26:48.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are some intense scenes, though, like when young Bruce Wayne sees his parents killed in front of him, so I bet it's worth watching!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:27:05.171Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T18:04:37.604Z", 
+  "uid1LogOutTime": "2018-03-05T18:27:09.243Z", 
+  "uid1response": {
+    "feedback": "There was some useful information missing from the document, like how long the movie was.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T18:04:37.670Z", 
+  "uid2LogOutTime": "2018-03-05T18:26:50.794Z", 
+  "uid2response": {
+    "feedback": "Everything went well, and I was convinced to see the comic book movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4525", 
+  "user2_id": "USR4755", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

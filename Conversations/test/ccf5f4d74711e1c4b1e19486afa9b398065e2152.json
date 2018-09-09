@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-20T17:57:51.380Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "We're going to talk about the Great Gatsby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:58:10.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen this one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:59:13.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what year it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:59:51.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2013.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:00:08.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the star of the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:00:57.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio plays Jay Gatsby.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:01:49.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who does Tobey Maguire play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:02:08.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nick Carraway.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:02:33.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about Carey Mulligan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:02:47.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Daisy Buchanan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:03:02.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did you like the scene Carraway and Gatesby talk in the hospital? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:06:05.014Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think about the critics? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:07:41.889Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about the budget?  That seems like a lot of money.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:08:00.040Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio usually makes the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:08:41.716Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T17:57:51.380Z", 
+  "uid1LogOutTime": "2018-03-20T18:09:04.439Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:57:51.487Z", 
+  "uid2LogOutTime": "2018-03-20T18:04:13.594Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3777", 
+  "user2_id": "USR2653", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

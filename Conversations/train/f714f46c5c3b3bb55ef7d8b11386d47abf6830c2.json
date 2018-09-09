@@ -1,0 +1,62 @@
+{
+  "date": "2018-03-07T04:10:52.368Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:11:37.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:11:40.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you read the paragraph?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:12:03.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T04:12:25.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T04:12:51.120Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T04:10:52.368Z", 
+  "uid1LogOutTime": "2018-03-07T04:13:18.794Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T04:10:52.401Z", 
+  "uid2LogOutTime": "2018-03-07T04:13:30.405Z", 
+  "uid2response": {
+    "feedback": "I asked about the movie and user 2 randomly left the conversation. I never learned about the movie and the conversation was cut short.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2684", 
+  "user2_id": "USR417", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

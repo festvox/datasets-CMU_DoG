@@ -1,0 +1,269 @@
+{
+  "date": "2018-03-02T23:10:52.877Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello , how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:11:16.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello i'm fine and you ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:11:35.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im ok ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:11:42.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so we you are going to tell me about a movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:11:59.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do u like jim carrey ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:11:59.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:12:10.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i really like the movie bruce almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:12:25.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:12:30.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i don't know it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:12:42.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what does i ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:12:45.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "huh?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:12:54.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what does it talks about ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:13:02.706Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he is the main charcter in that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:13:16.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "aha ,and what is the sort of this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:13:35.270Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that movie is very funny ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:13:35.707Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:13:36.644Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what ??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:13:43.397Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's a comedy one \n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:13:47.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do u know english ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:13:49.718Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what do you think ? am i writing in chinese ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:14:14.583Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well it didnt make sense what u were writing before ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:14:38.002Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "may be ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:14:45.738Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i am asking about the kind of the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:14:54.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kind of the movie ??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:15:05.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes comedy or action or drama ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:15:14.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is comedy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:15:22.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "type of movie u mean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:15:36.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or genre ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:15:42.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes indeed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:15:48.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok so u have to talk about it too ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:16:10.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually i didn't watch it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:16:33.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but i watched many movies for jim carry ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:16:47.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but u have the script in the screen ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:16:48.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so read it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:16:51.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think i have an error as nothing is in my screen ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:17:30.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm really .. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:17:50.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think i will \nabort the task", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:18:03.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well we suppose to talk about it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:18:05.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T23:18:16.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T23:18:19.000Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T23:10:52.877Z", 
+  "uid1LogOutTime": "2018-03-02T23:24:01.077Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-02T23:10:52.992Z", 
+  "uid2LogOutTime": "2018-03-02T23:18:28.080Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4383", 
+  "user2_id": "USR3228", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

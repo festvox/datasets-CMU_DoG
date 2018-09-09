@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-28T21:24:27.009Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:24:48.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Let's chat!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:25:19.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:26:32.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Wolf of Wall Street directed by Martin Scorsese?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:26:57.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't watch that movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:28:10.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:28:29.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's worth a watch. It's a black comedy starring Leonardo DiCaprio and Jonah Hill about a stockbroker's firm engaged in rampant corruption and fraud on Wall Street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:29:14.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sound's interesting. What is the rating of this movie in Rotten Tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:29:53.689Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, I'd recommend it. Rotten tomatoes only gave it 78%, but it's still a passing score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:30:24.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, its not a bad rating at all. What year does this movie released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:31:44.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was released in 2013. I common criticism is that it glorifies the behavior in the film, but if that's the type of thing you could find comedy in, you would enjoy it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:32:33.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds great! Aside from Leonardo DiCaprio. Who are the other casts of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:33:42.127Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You have Margot Robbie who looked stunning in the move. You also have a Matthew McConaughey, Rob Riener, Kyle Chandler and Jon Favreau. Solid cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:35:22.215Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, solid casts indeed. What is your favorite part of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:36:06.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It takes place in 1987 and is based the memoir of Jordan Belfort, so the story is loosely true. I enjoyed watching how quickly everything changed once they made a small fortune.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:37:25.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think it is based in real life event?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:37:55.157Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some of it is. Especially the beginning where Jordan Belfast starts a small boiler room broker firm in Long Island specializing in penny stocks, that eventually makes a small fortune.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:38:55.347Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think DiCaprio did a great job in acting his role as Jordan Belfort\n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:41:05.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "DiCaprio definitely had the face and character for the type of Wall Street stockbroker who ends up getting in some trouble with the law. He was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:42:04.296Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds good. What is the genre of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:42:37.740Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's technically a black comedy. There's definitely some drama and thrill, in it as well as their is an FBI investigation and money laundering schemes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:43:29.046Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, I love comedy movies. Maybe I will like this one. Tell me about the ending of this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:44:22.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well DiCaprio's character ends making a move that couldn't be ignored by the FBI and hides money in his in-laws oversees account. Can you guess where it ends up going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:46:00.626Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe he got jailed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:23.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Am I correct?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:46:34.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sort of! His in-laws turn him on when they get caught on something unrelated. Then DiCaprio actually becomes an informant and agrees to gather evidence on his colleagues.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:47:11.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the director of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:48:25.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Martin Scorsese.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:49:06.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually Leo did up jail because he told his colleagues he was an informant", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:49:26.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So you were reight", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:49:31.397Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:49:33.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the business of Jordan Belfort in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:50:35.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is founder of a brokerage firm that operates basic pump and dump scams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T21:52:08.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T21:52:58.076Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T21:24:27.009Z", 
+  "uid1LogOutTime": "2018-03-28T21:52:51.610Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T21:24:27.264Z", 
+  "uid2LogOutTime": "2018-03-28T21:53:00.092Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3194", 
+  "user2_id": "USR3667", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

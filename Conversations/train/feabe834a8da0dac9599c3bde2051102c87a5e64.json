@@ -1,0 +1,139 @@
+{
+  "date": "2018-03-06T19:36:26.371Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:37:07.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie Catch me if you can was directed by Steven Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:37:34.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love his movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:37:53.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES HE HAS MADE SOME GOD ONES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:38:03.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really think this movie deserves a good rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:38:23.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHEN THE FBI GETS ITS HANDS DIRTY", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:38:28.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "On Rotten Tomatoes it received a score of 96%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:38:39.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "141 MINS AN LOT OF PLOT SHEME", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:39:19.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This film included Leonardo Dicaprio and Tom Hanks some of the best actors.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:39:28.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "https://www.youtube.com/watch?v=xas1UyTiVUw YOUTUBE LINK", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:41:04.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo played as Frank Abagnale a bad actor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:41:36.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And the film received an -A on Cinemascore. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:42:05.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ENDS LIKE AN WINDED TOROISE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:42:18.686Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In scene 1, teenaged Frank lives in New York and he runs away and begins to scam his way out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:43:35.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK THE YOUTUBE TRAILER IS BETTER THAN THE FILM", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:44:04.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He was able to steal over $2.8 million. Do you think this is too far fetched?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:44:10.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think film shows some possibilities. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:44:42.203Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't like the fact that Frank was actually a teenage. They should've made him a bit older. Seems kind of unreal. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:47:45.780Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T19:36:26.371Z", 
+  "uid1LogOutTime": "2018-03-06T19:46:45.161Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T19:36:26.559Z", 
+  "uid2LogOutTime": "2018-03-06T19:48:16.343Z", 
+  "uid2response": {
+    "feedback": "User 2 left in the middle of the conversation. I didn't know what else to do but to finish the conversation. ", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2496", 
+  "user2_id": "USR4179", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

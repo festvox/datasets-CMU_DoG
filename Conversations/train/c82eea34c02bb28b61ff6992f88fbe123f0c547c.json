@@ -1,0 +1,88 @@
+{
+  "date": "2017-12-01T14:52:00.626Z", 
+  "docLinkIdx": 7, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T14:52:24.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T14:52:51.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T15:00:18.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked Robert Downey Jr.s performance", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T15:01:24.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me to", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T15:03:29.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mark Ruffalo was awesome as Banner.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T15:04:55.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T15:08:05.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see that Rotten Tomatoes scored it 92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T15:11:42.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The reality stone in the movie is red", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T15:16:41.751Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you mean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T15:17:35.267Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-01T14:52:00.626Z", 
+  "uid1LogOutTime": "2017-12-01T15:18:13.122Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2017-12-01T14:52:00.845Z", 
+  "uid2LogOutTime": "2017-12-01T15:18:11.905Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1335", 
+  "user2_id": "USR409", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

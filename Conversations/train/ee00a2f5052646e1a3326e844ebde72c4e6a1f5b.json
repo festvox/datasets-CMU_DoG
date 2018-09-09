@@ -1,0 +1,169 @@
+{
+  "date": "2018-02-05T16:33:48.443Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a thriller movie, it is rather scary. Woody Allen is one of the actors. It involves a giant man-eating white shark that attack beach goers.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:36:22.591Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would encourage you to watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:37:13.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws is presumed gruesome for children.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:37:42.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a fictional movie and I greatly recommend it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:38:34.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie seems like a frightening experience", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:39:17.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The beach goers were on a remote island named Amity Island", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:39:45.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A lot of electricity was involved in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:40:14.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a good movie i did enjoyed ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:40:52.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws can give you an upset stomach if you are not strong when watching it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:41:03.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes I loved watching it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:41:14.781Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I plan to watch it again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:41:32.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i feel it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:42:10.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wish I was one of the actors in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:42:33.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:43:18.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws was directed by Steven Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:43:53.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes he is great directer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:44:42.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes. What part of the movie you like the most?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:47:45.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like all part of the movie especially the \nclimax", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:50:07.084Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats awesome ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:55:43.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the white shark is looking very realistic and terrible", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:59:49.171Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very scary and looks real mean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:02:32.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T17:03:28.326Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love thriller movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T17:03:53.203Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T16:33:48.443Z", 
+  "uid1LogOutTime": "2018-02-05T17:04:12.828Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T16:33:48.640Z", 
+  "uid2LogOutTime": "2018-02-05T17:04:44.075Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3832", 
+  "user2_id": "USR2485", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "date": "2017-12-01T05:44:25.496Z", 
+  "docLinkIdx": 6, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you seen John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:45:15.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not.  What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:45:33.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves plays an ex-hitman that comes out of retirement.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:46:22.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is tons of action and it is very unique in the way that it is shot and edited. It's kind of hard to explain.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:46:54.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting.  I haven't seen a lot of films with Keanu.  Do you know why he comes out of retirement?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:47:22.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He has a score to settle with a Russian crime syndicate. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:48:02.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They killed his puppy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:48:26.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His puppy?!  That's awful!  Darn Russians!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:49:06.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a violent film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:49:40.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very but its mostly hand-to-hand karate style fights but there are a lot of people that get shot. I don't remember if it was over the top but I don't think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:50:49.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you typically like movies like that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:51:27.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Probably not.  I love action films, but I'm not big on violence or puppies being killed.  Plus, the last Keanu film I enjoyed was Speed, and that was over 20 years ago!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:52:29.855Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Though I did enjoy the film Keanu, but that was a comedy about a kitten named after the actor.  ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:52:56.230Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ha, they don't show the puppy in this and I have seen that and its great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:53:12.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who else stars in John Wick?  Any female characters in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:53:35.072Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, Adrianne Palicki plays a female contract killer, and Alfie Allen (GoT) plays a bad guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:54:37.248Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Reeves is pretty funny in it, it definitely has humor element thrown in and it is well done. They trash a lot of SUVs", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:55:24.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They also steal his car, I'm pretty sure it was a 70 Chevelle so he is a bit bitter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:56:51.487Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't picture Alfie Allen as a villain, but I do like Adrianne Palicki.  She was great in Agents of Shield, and she's in Orville right now.  She can hold her own against Keanu.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:57:12.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Men and their cars. Hee hee.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:57:27.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long ago was the movie released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:58:32.396Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, and of course he has to kill his way through 5 floors of baddies to get to the end boss. It was released in 2014.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T05:59:03.997Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Five floors of fighting?!  Does he have anyone on his side?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T05:59:58.259Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He does have some support, but he is pretty much a one man wrecking crew. I  would say border lining on superhero level", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:00:56.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One man wrecking crew...interesting.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:01:52.104Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Didn't this movie have a sequel released recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:02:08.582Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know about that. I do know that the first one set itself up for a franchise I think so I wouldn't be surprised.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:03:18.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Everything seems to be a franchise lately, or a reboot, but if the story and universe is good, I won't complain about a sequel.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:03:58.189Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know that I enjoyed it and would watch a sequel for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:05:14.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do like watching hand-to-hand style combat if it is done well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:05:56.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Keanu has lots of experience with that from the Matrix films, that's for sure!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:06:16.158Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, and this film reminds me of the Matrix but in a different universe and John Wick is definitely not Nemo", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:07:33.830Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you happen to remember the rating?  I wonder if it's too violent to have my teenage nephews watch it with me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:07:52.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know for sure, but I would guess R.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:08:16.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright, nice talking with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:08:42.598Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-01T05:44:25.497Z", 
+  "uid1LogOutTime": "2017-12-01T06:08:51.346Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T05:44:25.550Z", 
+  "uid2LogOutTime": "2017-12-01T06:08:58.781Z", 
+  "uid2response": {
+    "feedback": "The user was fantastic for only going off the info given to them.  I'm not a big Keanu fan, so I'm passing on this one.  Plus, it sounds like they don't have many female characters. \n Boo!  And they killed his puppy.  :(", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4487", 
+  "user2_id": "USR2739", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

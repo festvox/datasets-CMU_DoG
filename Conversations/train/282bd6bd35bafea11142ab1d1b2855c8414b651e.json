@@ -1,0 +1,103 @@
+{
+  "date": "2018-03-21T15:38:43.748Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:37.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:39:43.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're fan of cartoons ? ;)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:54.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cartoons? yeah they're alright ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:40:22.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i prefer anime tho", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:40:26.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lol, I watched Toy Story with my kids when they were little - have You seen this movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:40:51.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah i have seen it it's pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:41:17.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked what Tom Hanks did, giving his voice to Woody, don't You think ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:40.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah he's perfect for woody but it's been a while since i've seen it i really want to watch it again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:42:23.693Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I get that, I really liked that movie... I mean there was such freedom in it- You could just let Your imagination fly ! ;)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:43:05.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol what do you mean by freedom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:43:36.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I mean there was no right or wrong in seeing what is going on... You just absorbed it like poetry !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:44:17.112Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:38:43.748Z", 
+  "uid1LogOutTime": "2018-03-21T15:44:26.900Z", 
+  "uid1response": {
+    "feedback": "I was following the document when the other user just left - he seemed not understanding what I'm saying and decided not to wait for explanation...", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:38:43.820Z", 
+  "uid2LogOutTime": "2018-03-21T15:43:42.175Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2499", 
+  "user2_id": "USR3868", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

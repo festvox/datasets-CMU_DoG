@@ -1,0 +1,80 @@
+{
+  "date": "2018-03-26T15:38:30.819Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie before? I really enjoyed it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:39:50.458Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is a great movie and Robert Downey Jr. did a great job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:40:12.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I thought the same! RDJ is one of my favorite actors. I thought Gwyneth Paltrow wasn't as good, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:40:51.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like comic book movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:41:15.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I generally do, although some of the newer Marvel movies have been not as good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:41:45.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the director of this film Jon Favreau.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:42:19.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not familiar with Jon Favreau.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:42:49.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is a good director and I think he handled this movie well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:43:09.306Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T15:38:30.820Z", 
+  "uid1LogOutTime": "2018-03-26T15:43:47.819Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T15:38:31.378Z", 
+  "uid2LogOutTime": "2018-03-26T15:46:55.164Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1774", 
+  "user2_id": "USR1440", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

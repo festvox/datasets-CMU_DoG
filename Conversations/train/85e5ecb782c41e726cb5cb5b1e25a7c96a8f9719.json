@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-30T15:32:32.451Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:32:43.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:33:09.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good! What movie do we have today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:33:17.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone, have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:33:27.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow. A long, long time ago. I forgot a lot about it though. :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:33:39.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is such a great movie, I can't believe it was only rated a 63/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:34:20.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "To each their own I guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:34:26.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember it stars Macaulay Culkin (had to look up that spelling), but I don't remember the name of the two burgers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:34:39.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The actors, rather.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:34:44.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie is my childhood, I watched it so many times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:34:49.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joe Pesci played the short guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:35:00.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "burgers, wow. Burglars*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:35:17.064Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And Daniel Stern played the taller guy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:35:20.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What! How did I not know that it was Joe Pesci.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:35:30.232Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What year did it come out? I'm guessing ... mid 90s?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:35:48.385Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, exactly 1990", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:36:08.241Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha, wow. Coming right out of the 80s.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:36:17.320Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It has that feeling, too. Of a sort-of 80s movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:36:30.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The best part in the first was him running around the house all excited after his family left to the airport.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:36:45.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah! Wow. I really should watch this again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:36:56.985Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember seeing clips of it later and realizing how horribly dead the two burglars would be if even one of those \"traps\" got them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:37:14.939Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, the paint buckets to the face on the stairs.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:37:38.647Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who directed it, if you have that info?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:37:43.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Chris Columbus, not familiar off the top of my head", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:02.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hm... that rings a bell, but I don't remember what else he did.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:11.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "... beyond the famous explorer, of course :P", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:38:25.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It would not be a movie to make now with everyone and society, leaving their child home is child abuse.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:38:43.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I hadn't thought of that. A lot of moves from the late 70s to the mid 90s would never be made now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:39:09.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it's a shame, but not much we can do except enjoy and chose which ones to watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:35.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have any of the plot info? Anything that seems surprising or something that you forgot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:39:44.459Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot that his mom was played by Catherine O' Hara, the crazy woman from Beetlejuice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:21.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:52.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a great day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:40:54.155Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T15:32:32.451Z", 
+  "uid1LogOutTime": "2018-03-30T15:40:57.342Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:32:32.455Z", 
+  "uid2LogOutTime": "2018-03-30T15:40:58.571Z", 
+  "uid2response": {
+    "feedback": "Forgot how much I enjoyed this movie, and the conversation went great.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1391", 
+  "user2_id": "USR4493", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

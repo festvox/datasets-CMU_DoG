@@ -1,0 +1,324 @@
+{
+  "date": "2018-01-30T01:41:27.097Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you? Have you seen any good movies recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:42:40.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me the name of any good movie you have seen recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:43:41.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:43:46.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I just watched La La Land", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:44:11.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:44:15.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't. Is it any good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:44:35.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I don't know how you feel about romantic comedies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:45:05.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm usually not a huge fan but it seemed very genuine ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:45:30.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like them. What's this one about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:45:42.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also just visually beautiful\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:45:48.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In what sense? Where does it take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:46:06.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a actress and a musician.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:46:25.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they meet and fall in love in LA while pursing their dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:46:54.184Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds like something I would watch. Than you for the recommendation!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:47:43.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it has a bunch of great scenes where the two don't quite connect ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:48:44.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like one where the girl, Mia hears the boy,  Sebastian playing the piano\n in a bar but he brushes her off ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:49:16.762Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How do they fall in love then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:49:34.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well they meet for a second time at a party and Seb is in a 80's cover band. They have this chemistry that is ignored and they go on with their lives for a while", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:52:01.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Then they slowly start falling for each other over the course of a few dates", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:52:23.695Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Emma Stone and Ryan Gosling play the leads", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:52:47.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wasn't sure about those two to start out with, they just didn't seem like they'd be good together\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:53:23.914Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are there any other famous actors beside Emma and Ryan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:53:36.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Legend has a small role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:54:13.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does he get to sing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:55:52.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A bit. He has a duet with Emma. He also sings a song or two by himself ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:56:51.240Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do Emma and Ryan sing well in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:57:23.483Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They weren't the best signers I've ever heard but it wasn't like Le Mes bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:58:03.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sebastian character is sort of annoying. I mean he's into jazz and is suppose to be this great musician\n, but is a compete snob about it.  Def not a likable character even towards the end really ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T01:58:26.755Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about Emma's character, is she likable?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T01:59:15.216Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is. I enjoy this section where she attempts to do a women show and I was caught up in the emotions during this scene. She's such a great actress that the execution\n is so believable it sounds like a story of a friend of a friend ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:01:05.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "During this time, Seb feels so out of sorts. the band he's in is finding success in pop music but because he's such a jazz pureist, he wants to quit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:02:35.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do they make it in the end, both as a couple and in their respective careers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:02:45.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He doesn't because he loves Mia so much he wants to make her proud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:02:55.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sadly no. they drift away as their careers go in different directions. He misses an important play and she moves back home", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:03:52.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it ends a bit sadly then. But I guess that's how real life goes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:04:54.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's a big \"wrong place wrong time\" kind of ending, which sucks because you really start to root for them. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:05:00.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I really liked the ending, while it wasn't perfect, it was real", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:05:19.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Something you don't get with movies most of the time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:05:35.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:05:42.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of the things I wasn't a fan of was the fact that \nMia  didn't really have any development. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:06:45.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In what sense?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:07:00.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Career wise or personal like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:07:14.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "More personal really. She lacked depth. She was just an actress who tried and failed many times then found success\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:07:36.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But we weren't shown how she found the *thing* that helped her grow and become a better actress", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:08:18.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I might have to watch it to see what you mean. I think failing and trying again shows real depth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:08:52.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie just jumped forward passed that. Seb didn't have much growth either. He stayed a jazz snob", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:08:54.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Thank you. Bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T02:09:14.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think you should. it's an enjoyable watch that makes you think. Bye!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T02:09:39.176Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T01:41:27.097Z", 
+  "uid1LogOutTime": "2018-01-30T02:09:48.143Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T01:41:28.209Z", 
+  "uid2LogOutTime": "2018-01-30T02:09:33.058Z", 
+  "uid2response": {
+    "feedback": "I did not get the document. \nI thought the explanations were very good. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1812", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

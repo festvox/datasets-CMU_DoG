@@ -1,0 +1,326 @@
+{
+  "date": "2017-11-27T20:38:32.195Z", 
+  "docLinkIdx": 5, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:39:01.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you-- let's talk about Inception.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:39:14.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception is highly rated across multiple platforms!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:39:15.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I have heard a little about that movie and I am very interested in seeing it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:39:39.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a lot of action and excitement in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:40:09.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a wonderful sci-fi movies with an average rating of 8.1/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:40:11.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A ton of excitement, including characters weaving through different levels and worlds", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:40:39.518Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "each faster and more exciting than th elast!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:40:47.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds really cool. Could you tell me some of the people that star in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:40:59.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leo DiCaprio-- and he's great in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:41:20.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure who else is in it though", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:41:33.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really enjoyed some of his other movies. Is this movie set in present time, or the future, or past?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:41:50.885Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe in the future", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:42:06.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's a lot of futuristic science", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:42:19.994Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So like a sci-fi futuristic movie, that is one of my favorite kinds. Do you happen to know if there is any sort of space travel or does the movie take place on earth or somewhere else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:43:07.559Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It sort of takes place in dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:43:58.356Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and alternate realities", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:44:08.083Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The characters have difficulty distinguishing between dreams and real life", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:44:22.783Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So like in Dicaprio's dreams or someone else's?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:44:27.903Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Multiple people", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:45:02.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "People can get into each other's dreams ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:45:09.548Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounding more and more interesting. Is there any horror elements or gore? I really do not like those in the movies I watch. Since they are in dreams, I am afraid there might be like nightmare scenes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:46:04.535Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't believe so", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:46:52.849Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There's certainly some death, but I don't believe it's gorey", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:47:04.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So are they trying to save someone or something by entering these dreams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:47:23.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Time is also distorted when entering the dream world", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:47:26.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe the main character enters the dreamworld to be with his family? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:48:02.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'm not too sure to be honest", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:48:06.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Distorted how, like is it longer compared to the real world or shorter?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:48:30.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yup, several hours in the real world can be decades in the dream worlds", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:49:22.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "as you get into dreams within dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:49:35.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is his family trapped in a dream or something?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:49:51.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think they're dead", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:50:58.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'm not fully sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:51:00.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So like he is going into a dream to be with them because they are dead?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:51:17.402Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:51:37.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds pretty sad but interesting. So do you know how they enter the dreams, is it a machine of some kind?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:52:17.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they take some kind of drug", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:52:54.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and can keep doing it over and over within dreams like a russian nesting doll", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:53:23.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well that does make more sense. So they can go like multiple levels into a dream, like the dream of someone in the dream?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:53:45.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like they're dreaming in their dream", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:54:22.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds like it could get pretty confusing after a while So if you are in the dream of someone in the dream does time slow down like times two?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:54:53.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "unsure", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:55:01.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but yes, very confusing", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:55:03.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the majority of the movie in these dream settings then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:55:27.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i believe so", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:55:32.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so yeah, go see it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:56:03.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well that does sound like a movie I would like, I am going to have to get the bluray and watch it now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:56:10.244Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-11-27T20:38:32.195Z", 
+  "uid1LogOutTime": "2017-11-27T20:56:21.479Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-11-27T20:38:32.198Z", 
+  "uid2LogOutTime": "2017-11-27T20:56:27.457Z", 
+  "uid2response": {
+    "feedback": "The other user gave a well written description of what they knew about the movie and gave me a very good idea about what it was about. I will go watch the movie based on their recommendation.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4780", 
+  "user2_id": "USR557", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "date": "2018-02-09T17:45:56.585Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie is forzen.  You should watch it as it gets great critical reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:47:01.460Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like an interesting movie what genre is it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:47:24.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is comedy, adventure, animation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:47:44.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it appropriate for kids?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:48:23.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is. Its a animated musical fantasy film by Walt Disney.  Walt Disney never makes animation inappropriate for children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:49:36.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes OK it's a Disney movie.  Who is the bag guy in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:05.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bad guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:26.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also where does the film take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:28.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Technically its the heros estranged sister. Her icy powers have inadvertently trapped the kingdom in eternal winter. I believe the siters name is Anna", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:53:48.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK is there any side kicks in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:25.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film takes place in a kingdom that is experiencing an eternal winter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:26.976Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see that sounds like it can be pretty daunting.  As I don't like Winter haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:57.120Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The side kicks are Krisktoff an iceman who is accompanied by a reindeer named sven.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:59.229Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why does she have powers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:54.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I believe she was born with the powers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:50.320Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T17:45:56.585Z", 
+  "uid1LogOutTime": "2018-02-09T17:57:09.011Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:45:56.624Z", 
+  "uid2LogOutTime": "2018-02-09T17:55:58.897Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4825", 
+  "user2_id": "USR3980", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

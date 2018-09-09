@@ -1,0 +1,241 @@
+{
+  "date": "2018-03-28T15:10:32.430Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:10:44.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:11:38.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!  The movie we're talking about is Home Alone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:11:39.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alright. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:02.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a boy who is left behind when his family goes on vacation.  Some robbers try to break in and he has to deal with them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:49.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh no Poor kid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:12:59.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this movie entertaining to both kids and adults", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:13:27.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It doesn't seem like a very good movie, the scores are all pretty low and the critics have a lot of negative things to say about it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:13:41.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Huh interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:14:15.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did they say why they didn't like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:14:33.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They said it was kind of flat and sort of gimmicky.  Some of the humor is supposed to be good though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:02.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see. What does the kid do when the burglars break in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:20.417Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of the critics says that there are a bunch of sadistic booby traps that seem kind of implausible.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:58.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm sadistic booby traps. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:16:58.192Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the kids name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:17:03.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "His name is Kevin, and apparently the kid gets left behind because the family overslept on the day of their flight and had to rush to the airport.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:17:40.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wonder how any family forgets one of their kids haha. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:18:04.044Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do they realize they forgot him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:18:21.226Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well there was a power outage that reset all the clocks, so that made them have to rush and not notice he was missing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:58.498Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How many kids do they have?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:19:23.908Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well there's Kevin, the youngest, and his older brother Buzz, who he gets in a fight with.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:52.694Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does Kevin reunite with his family eventually?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:20:20.909Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure.  The mom finds out he's missing on the plane to Paris, and then has to fly back part of the way and then hitchhike back home.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:21:11.435Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does Kevin get rid of the robbers eventually?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:35.879Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure, I just know that Kevin's traps for them are pretty nasty.  One of the critics said it was a \"Festival of adult bashing\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:23:01.572Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it mention anything about the amount of money the movie made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:28.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope, but it only has a 62% on rotten tomatoes so I would assume it didn't do very well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:24:24.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it mention if there are any sequels made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:25:02.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't see anything about a sequel. The movie came out in 1990 so it's pretty old now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:26:19.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What actors are a part of the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:26:55.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The cast is Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, and Roberts Blossom.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:27:42.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Those are some good actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:28:00.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which ones play the robbers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:28:12.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The robbers are Joe Pesci and Daniel Stern, and their character names are Harry and Marv.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:28:49.369Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T15:10:32.430Z", 
+  "uid1LogOutTime": "2018-03-28T15:29:03.466Z", 
+  "uid1response": {
+    "feedback": "It sounds like an interesting movie based on what the user said. It makes me wonder what happens eventually in the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:10:32.431Z", 
+  "uid2LogOutTime": "2018-03-28T15:29:13.243Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3483", 
+  "user2_id": "USR2502", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

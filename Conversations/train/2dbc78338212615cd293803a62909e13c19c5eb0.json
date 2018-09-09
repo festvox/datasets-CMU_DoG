@@ -1,0 +1,242 @@
+{
+  "date": "2018-03-16T17:14:52.981Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:16.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:19.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:31.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:35.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never saw it, I\u2019m not really into that type of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:53.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What type do you prefer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:59.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:06.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Eh I'm not a fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:15.883Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has some great actors ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:17.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha. It's animated!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:24.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I just saw that!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:37.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they're voice actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:51.133Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Still good tho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:55.518Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I tried watching this with my son before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:55.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And he didn't like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:01.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No I believe he did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:14.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:18.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't have kids", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:21.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I just wasn\u2019t paying much attention to it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:28.499Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it's more of a kids' movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:38.079Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nice of you to watch with him though!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:55.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it 3-d", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:55.622Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:12.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh..that might be interesting to see in theater", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:28.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I honestly just go for the popcorn haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:38.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe I will try to watch it again with him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:46.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure give it a shot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:53.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why not?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:54.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too! I love the popcorn!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:57.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My waistline doesn't ;)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:08.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The plots sounds good and it got pretty ok reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:20.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah good rotten tomatoes score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:30.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It\u2019s the butter for me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:32.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:47.946Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T17:14:52.981Z", 
+  "uid1LogOutTime": "2018-03-16T17:20:00.050Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:14:53.143Z", 
+  "uid2LogOutTime": "2018-03-16T17:19:37.887Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2104", 
+  "user2_id": "USR1618", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

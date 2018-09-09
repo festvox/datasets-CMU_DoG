@@ -1,0 +1,126 @@
+{
+  "date": "2018-03-23T18:12:49.519Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:12:55.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are u", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:12:57.581Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wut?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:13:21.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'm good and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:13:22.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "um good lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:13:29.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell me what movie u like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:13:37.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is the wolf of wall street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:13:39.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the summary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:13:54.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Apparently it is a 2013 American black comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:14:30.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who's playing in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:14:44.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was directed by Martin Scorsese and written by Terence Winter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:14:59.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:15:06.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like him>", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:15:13.140Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jonah hill and margo Robbie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:15:17.028Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do i keep going? I am not sure ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:15:52.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "if i will still get the credit for this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:16:00.948Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T18:12:49.519Z", 
+  "uid1LogOutTime": "2018-03-23T18:15:15.462Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-23T18:12:49.589Z", 
+  "uid2LogOutTime": "2018-03-23T18:16:18.968Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR4271", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

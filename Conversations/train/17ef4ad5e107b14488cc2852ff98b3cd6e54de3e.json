@@ -1,0 +1,223 @@
+{
+  "date": "2018-02-16T12:47:27.141Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Anyone there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:48:03.206Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:48:09.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a drama,superhero movie starring big actors like Robert Downey jr. as Iron Man and Chris Evans as Captain America", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:48:46.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it the Avengers? I love Marvel Comics!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:48:59.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is, the 2012 Avengers made by Marvel Comics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:49:15.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd definitely watch that again. Who's your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:49:37.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Nick Fury, the director of S.H.I.E.L.D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:50:01.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I  love how he manages to assemble the superheroes and defeat the villain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:50:20.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Unique choice! I think my favorite is Iron Man. I love Tony Stark's bad boy attitude and Robert Downey is awesome.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:50:41.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:50:58.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch movies based on ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:51:12.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sometimes I do - it depends. I go to Rotten Tomatoes a lot, but if I've already made up my mind to see a movie, I just do. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:51:37.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Like if it's a Stars Wars movie, I will always see it, no matter what the critics say.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:52:11.579Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie has 92% on Rotten Tomatoes and a metacritic score of 69/100. Do you agree with these scores?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:52:17.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I definitely do. It's very well made, and that Metacritic score is pretty good considering MC scores are usually skewed lower.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:52:58.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of the key scenes in the movie is when Loki shows his desire for destruction by making a deal with the Chitauri.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:53:51.554Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed. I like Loki as a character; he's three-dimensional, not just a cookie-cutter villain. I'm also happy with how they've developed Thor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:54:25.626Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This deal is made on the promise that he will give them the Tesseract, one of the most poweful energy sources.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:54:49.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not as powerful as the Infinity Gauntlet, though! That's going to be killer in this next film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:55:18.965Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I also liked the scene when the Avengers become divided of their different opinions on how to deal with the imminent threat. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:56:21.388Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's the coolest part about the team - they're all human, and they all butt heads, just like humans do. It makes them relatable and down to earth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:56:50.632Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it gives the the opportunity to show their acting skills. Do you agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:56:58.996Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely do. I also think it gives each actor a chance to really dig down into their character's motivations.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:57:20.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When you watch the movie, note that Loki character is build in a way in which for him, simply defeating the Avengers will never be enough.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:58:20.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well he is the god of trickery in a sense, so he's always going to want something more.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T12:58:42.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were you excited when Stark's suit ran out of power?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T12:59:58.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked that part, because it made me believe he was gone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:00:26.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's always a nice point of tension because his reactor keeps him alive, too. That's why I loved the first Iron Man movie so much, too. His situation is precarious, and you forget that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:00:49.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also, there was a scene I didn't really enjoy. It was when the Hulk beat Loki so easily. It seemed a bit unrealistic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:01:44.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I agree. I mean Hulk is incredibly strong, but Loki is a GOD! It shouldn't be one sided.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T13:02:13.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But in general, the whole movie was awesome and I think the ending was the best. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T13:02:31.671Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T12:47:27.141Z", 
+  "uid1LogOutTime": "2018-02-16T13:02:28.876Z", 
+  "uid1response": {
+    "feedback": "The conversation was engaging, and we ended up talking about scenes we liked from the movie. It seems that we're both Marvel fans, judging from the specifics given, and the conversation actually made me want to watch the movie again right now.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T12:47:27.252Z", 
+  "uid2LogOutTime": "2018-02-16T13:02:41.220Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2000", 
+  "user2_id": "USR2805", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

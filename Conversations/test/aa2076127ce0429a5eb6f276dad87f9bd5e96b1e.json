@@ -1,0 +1,290 @@
+{
+  "date": "2018-02-12T19:11:06.193Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:17.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you seen The Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:11:43.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a 2012 American superhero film based on the comic book of the same name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:11:57.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:04.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:06.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the cast of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:15.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what actor is your favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:22.459Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:24.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Robert Downey Jr as Tony Stark / Iron Man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:58.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is a great actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:07.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked him as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:12.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mark Ruffalo was also good as Hulk.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:13:16.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, he was, I wasnt so sure at the beggining but then watching him act ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:37.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "my perspective changed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:42.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see that the movie has great ratings", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:54.100Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. It seems people generally agreed that it was a good movie. It got a 92% on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:03.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah and a Cinema Score of A+ ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:26.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that seems pretty good as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:30.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the beginning when Loki encounter the Other, the leader of an extraterrestrial race. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:36.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "His also a great actor, I liked Thor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:17.893Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what about critic responses", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:28.690Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was cool when a wormhole was activated so Loki could reach Earth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:30.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you agree with them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:33.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It seems like some critics liked it. It goes a 69/100 Metacritic score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:46.944Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I dont really agree with that score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:02.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Avengers deserve a higher rating for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:13.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked the scene where Fury uses Coulson's death as an inspiration for the rest of the team. I though it was a pretty clever move", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:51.802Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was a cool move.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:17:10.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is truly a badass, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:17:28.646Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he doesnt need powers to be cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:17:34.849Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was interesting when the possessed agents attacked the Helicarrier. I can't believe they were able to disable one of its engines. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:17:46.648Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah that was crazy and it only took Hawk Eye one of the heroes without powers to do all that damage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:26.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't believe Loki was not satisfied just defeating people, he needed to overpower them publicly to validate himself. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:57.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, its crazy, I also liked the scene when Starks suit runs out of power", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:23.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the scene after when Rogers, STark, Romanoff, Barton, and Thor rally in defense of New York City at the wormhole. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:30.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The battle against Chitauri was cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:39.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it was, great special effects and fighting scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:05.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the message at the end ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:12.305Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "by Nick Fury about the return of the Avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:20.348Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes that was a nice thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:31.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is confident that they will return when they are needed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:42.195Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is good to know. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:45.780Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:11:06.193Z", 
+  "uid1LogOutTime": "2018-02-12T19:21:49.019Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:11:06.390Z", 
+  "uid2LogOutTime": "2018-02-12T19:21:57.655Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR561", 
+  "user2_id": "USR960", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

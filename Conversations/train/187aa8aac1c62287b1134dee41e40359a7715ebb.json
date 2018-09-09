@@ -1,0 +1,124 @@
+{
+  "date": "2018-03-19T18:23:25.792Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:24:03.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:24:07.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:12.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:15.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:37.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like movies about drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:24:54.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i like movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:25:17.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie we will discussed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:25:36.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the great gatsby", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:25:47.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies with hig ratings?/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:25:56.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:26:07.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "try watching", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:27:20.437Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:29:50.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " which movie would be discussed today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:05.661Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:10.095Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " i am waiting>", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:30:16.765Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:23:25.792Z", 
+  "uid1LogOutTime": "2018-03-19T18:27:36.092Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:23:25.956Z", 
+  "uid2LogOutTime": "2018-03-19T18:32:13.431Z", 
+  "uid2response": {
+    "feedback": "the user left after short conversation", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4105", 
+  "user2_id": "USR3642", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

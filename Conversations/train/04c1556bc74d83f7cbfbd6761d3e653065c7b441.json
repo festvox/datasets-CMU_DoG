@@ -1,0 +1,112 @@
+{
+  "date": "2018-03-06T03:21:39.686Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Do you like superhero films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:21:57.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do.  I really like DC Comic chracters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:22:38.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I prefer DC as well. The last DC film I saw was Batman Begins. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:23:10.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I loved it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:23:32.808Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think most everyone loved it. It has a great rating on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:23:54.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bales is awesome as Batman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:24:31.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was! And I love Michael Caine as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:24:48.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite character in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:24:54.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a tough call. I really like what they did with Liam Neeson's character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:25:20.112Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, Christopher Nolan made some great decisions as director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:26:28.867Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He did! I especially liked the scene with the bats in the cave. It was very creepy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:27:02.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what was your favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:29:07.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the scene with the Scarecrow.  He is one of my favorite villians.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T03:29:58.100Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wasn't a fan of Katie Holmes though. She seemed extraneous to the story, in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T03:32:07.967Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T03:21:39.686Z", 
+  "uid1LogOutTime": "2018-03-06T03:33:19.477Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-06T03:21:39.827Z", 
+  "uid2LogOutTime": "2018-03-06T03:30:04.005Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2533", 
+  "user2_id": "USR599", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

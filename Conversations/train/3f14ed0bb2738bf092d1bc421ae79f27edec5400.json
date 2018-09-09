@@ -1,0 +1,284 @@
+{
+  "date": "2018-03-28T19:53:19.961Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:53:34.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:54:00.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing great. What did you think of Home Alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:54:16.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:54:18.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like the casting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:54:59.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great choice in actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:55:05.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:55:10.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it was a very underrated movie. I think the critic scores given were very low.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:55:47.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I personally would of gave the film a 8/10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:56:04.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems the critics had a lot of negative things to say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:56:08.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:56:30.357Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, a bit too much negativity and what's worse I don't understand the logic behind the complaints", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:56:35.652Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would rate the movie around a seven as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:56:42.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did you like the overall story of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:56:58.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel like a child being left behind on a vacation seems unrealistic ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:57:35.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "However the film was really funny once you get past that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:57:52.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:58:33.700Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can agree with that. Forgetting your kid does seem a bit far fetched...well atleast for that length of time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:58:38.549Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought it was decent overall, a lot of learning lessons come to light at the end of the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:59:06.397Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was a pretty wholesome film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T19:59:13.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's a feel good movie altogether, I would agee", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T19:59:44.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you think of the cast? Any standout performances?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:00:09.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think Kate did a great job portraying a desperate mom trying to reunite with her son.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:01:09.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joe Pesci was also great, an iconic performance I would say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:01:45.683Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What was your favorite part of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:01:55.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, she played the mom role fairly well, it was believable and immersive. Joe was actually over performing in my opinion and Daniel Stem was just hilarious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:02:31.532Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'd say my favorite part of the movie was then end personally.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:02:46.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that the film focused on everything the character's learned throughout the film to be better people moving forward.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:03:21.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it seems you valued the lessons learned over the actual proceeding events of the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:04:34.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about the ending did you like best?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:05:00.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I think the values was important, don't get me wrong the event throughout the film was hilarious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:05:22.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In terms of the ending, I'd say parent's learning not to neglect their kids, the kids not bullying eachother, etc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:06:14.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't believe how low the ratings were, the movie has everything you want: hilarious scenes, family bonding, and overall great screenwriting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:06:15.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I don't understand what exactly was so bad about the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:06:42.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if they were expecting realistic scenarios or what.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:06:59.200Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, all important life lessons. I am sure everyone checks for their children before leaving to the airport post-Home Alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:07:20.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol I would hope so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:07:39.866Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems the critics were especially harsh towards the director ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:07:48.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but it hasn't stopped him from making more installments of the movie which is good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:08:23.491Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for chatting with me. It was fun!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T20:08:32.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a great rest of your day!\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T20:08:44.023Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T19:53:19.961Z", 
+  "uid1LogOutTime": "2018-03-28T20:08:52.491Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T19:53:19.975Z", 
+  "uid2LogOutTime": "2018-03-28T20:08:46.637Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR2487", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2018-03-02T03:35:21.754Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:36:27.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:36:56.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know of any good movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:37:23.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you into watching American romantic dramas?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:37:31.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure, why not? What is the name of a good one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:38:10.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This film stars ryan Gosling and Rachel McAdams, are you familiar with them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:38:41.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I am. It is an older film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:39:09.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2004, Would you consider that an old film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:39:43.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not new, but not an older one. What is the film about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:40:08.446Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A young couple who fall in love in teh 1940's.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:40:43.226Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds like it could be interesting. Have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:41:14.154Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This story is narrated from the present day by an elderly many telling the tale to a fellow nursing home resident. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:42:19.085Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think this is a sad romantic movie? I forget the name, but I think I have read the book...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:43:20.892Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is the Notebook", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:43:47.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, yes. That is the name. Are there other famous actors in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:44:18.705Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sure! Joan Allen plays the part of Anne Hamilton and James Marsden plays Lon Hammond, Jr. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:45:07.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wonder if this movie has won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:46:16.214Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not certain that it has. I do know Rotten Tomatoes gave it an average rating of 5/7/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:48:52.067Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That seems pretty good. Is it a very long movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:49:37.070Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think it is a very long movie, but I'm not certain of the exact time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:51:21.202Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen the movie? Or if you have not, do you think you would enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:52:01.706Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else should I know about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:54:26.920Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T03:35:21.755Z", 
+  "uid1LogOutTime": "2018-03-02T03:54:33.037Z", 
+  "uid1response": {
+    "feedback": "The discussion was going well, but then the other user left the discussion. They did give me good information about the actors in the movie and the reviews of the movie, as well as some of the plot points.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T03:35:21.964Z", 
+  "uid2LogOutTime": "2018-03-02T03:52:31.828Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3789", 
+  "user2_id": "USR2407", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

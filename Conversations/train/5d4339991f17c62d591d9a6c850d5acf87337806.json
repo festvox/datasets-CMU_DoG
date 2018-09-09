@@ -1,0 +1,69 @@
+{
+  "date": "2018-02-05T19:06:09.614Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "fine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:06:47.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:07:38.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know how to complete this study.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:08:10.160Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you left the chat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:10:45.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Please ans my question.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:11:04.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am waiting for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:11:14.693Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T19:06:09.615Z", 
+  "uid1LogOutTime": "2018-02-05T19:07:11.384Z", 
+  "uid1response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T19:06:09.629Z", 
+  "uid2LogOutTime": "2018-02-05T19:11:38.454Z", 
+  "uid2response": {
+    "feedback": "cool study.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1444", 
+  "user2_id": "USR4061", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

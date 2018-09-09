@@ -1,0 +1,84 @@
+{
+  "date": "2018-02-19T21:35:18.209Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:35:46.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:39:18.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is The Blind Side. It's about a boy from a rough upbringing that is adopted by a couple played by Tim McGraw & Sandra Bullock. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T21:41:57.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is The Blind Side. It's about a boy from a rough upbringing that is adopted by a couple played by Tim McGraw & Sandra Bullock. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T21:42:01.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would you recommend it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:42:23.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is The Blind Side. It's about a boy from a rough upbringing that is adopted by a couple played by Tim McGraw & Sandra Bullock. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T21:42:31.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "has it won any awards?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:42:40.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what genre is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:44:19.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T21:47:03.542Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T21:35:18.209Z", 
+  "uid1LogOutTime": "2018-02-19T21:47:53.912Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T21:35:18.247Z", 
+  "uid2LogOutTime": "2018-02-19T21:48:03.471Z", 
+  "uid2response": {
+    "feedback": "i got the same thing copy and pasted as an answer more than twice.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1026", 
+  "user2_id": "USR3281", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

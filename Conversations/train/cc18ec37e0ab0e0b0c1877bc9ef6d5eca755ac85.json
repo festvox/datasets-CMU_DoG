@@ -1,0 +1,45 @@
+{
+  "date": "2018-03-01T02:14:23.894Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:14:36.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:14:51.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is the blind side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:15:38.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it got a 69% on RT", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:15:47.702Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-01T02:14:23.894Z", 
+  "uid1LogOutTime": "2018-03-01T02:16:07.126Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T02:14:23.975Z", 
+  "user1_id": "USR2986", 
+  "user2_id": "USR708", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

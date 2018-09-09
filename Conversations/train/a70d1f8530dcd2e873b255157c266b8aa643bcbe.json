@@ -1,0 +1,239 @@
+{
+  "date": "2018-01-29T23:09:39.273Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:09:51.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the movie John Wick. It's great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:11:05.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:12:27.937Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You really should! It stars Keanu Reeves. He's such a great action star, don't you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:13:04.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's a great actor for sure. Have you seen Thor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:13:32.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not yet. I missed it in the theater but I can't wait until it comes out on DVD.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:14:03.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That should be very soon. They've been playing the first one a lot on cable. That's a great movie too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:14:51.896Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed it. Loki is just stellar. What is that actors name? Tom something....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:15:32.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's crazy because that's my first time ever seeing him in a movie. I'm not familiar with him at all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:16:02.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't even know his first name..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:16:23.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tom Middle-something-or-other. He recently played Hank Williams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:16:45.128Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What other movies have you seen recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:16:50.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Aren't we supposed to be talking about specific movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:17:28.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Got it. Sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:17:52.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:18:08.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I got John Wick, and to be honest I didn't really like it. Kinda dumb.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:18:43.140Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmmm...I don't really watch movies like that. I did see Jumanji though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:19:18.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jack Black happens to be one of my favs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:19:33.458Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is hilarious. I wondered about that movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:19:54.138Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I really like the original with Robin Williams, so I was a little skeptical.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:20:15.993Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was good, not great though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:20:17.300Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yeah, that one was good too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:20:33.833Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll have to check it out. That was an Amazon movie wasnt' it...the new one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:20:44.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:20:56.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so. So I'll be able to stream it soon enough.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:21:17.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If you want to get a good laugh. That's definitely the movie to watch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:21:19.135Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:21:28.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. How was The Rock in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:21:43.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was good. As usual though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:22:00.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No doubt! My daughter has watch Moanna about a million times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:22:46.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She calls it Maui. Ha!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:22:58.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can only imagine. So she loves it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:23:05.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never to young to like Duane Johnson I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:23:25.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right, I would agree..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:24:29.559Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:09:39.273Z", 
+  "uid1LogOutTime": "2018-01-29T23:23:28.578Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:09:39.286Z", 
+  "uid2LogOutTime": "2018-01-29T23:24:36.740Z", 
+  "uid2response": {
+    "feedback": "It was a cool chat.", 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4390", 
+  "user2_id": "USR2260", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

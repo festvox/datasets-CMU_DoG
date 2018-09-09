@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-16T17:16:53.758Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I did not see this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:32.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Neither did I.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:41.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do not like romantic movies. I think if you seen one you seen them all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:48.497Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T17:16:53.758Z", 
+  "uid1LogOutTime": "2018-03-16T17:20:28.935Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:16:53.763Z", 
+  "uid2LogOutTime": "2018-03-16T18:03:50.525Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1876", 
+  "user2_id": "USR1925", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "date": "2018-01-30T19:31:43.981Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "If you haven't seen Jaws, you should. It's a movie about a great white shark attacking people in a resort town.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:34:04.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that does sound interesting, Who plays the main characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:34:39.151Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also, do you know how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:34:51.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Roy Schneider is the main character, Chief Martin Brody. Robert Shaw, Richard Dreyfuss, and Lorraine Gary are also in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:35:32.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know exactly how long it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:36:06.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How would you rate the movie itself, 1-10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:36:28.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Most people would rate it an 8 or 9, and I agree with that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:36:58.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thank you for the information, I think I will check it out!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:37:34.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you have any kids, you probably don't want to let them watch it. It's kind of gory.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:39:15.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I will definitely keep that in mind, do you know when the movie came out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:41:14.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "1975. It's based on a 1974 novel.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:42:20.124Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there any other important information about the movie that I should know about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:43:14.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The opening scene is pretty cool. A woman gets attacked at a beach party, and the chief of police says its a shark attack, but the mayor tells everyone it was a boating accident so that tourists don't leave. Then a professional shark hunter shows up. Very exciting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:45:04.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds like my type of movie. Again, thank you for the information.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:47:48.946Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No problem. I think it has a 97% on Rotten Tomatoes, so most everyone likes it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:48:39.974Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there anything else we have to cover, or how do we finish this conversation?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:49:39.655Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, I'd love to tell you about the next scene, since I keep learning new information about the movie. There's another big death at the beach's fourth of july celebration.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:50:55.767Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay, what are some of the other big scenes in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:51:57.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does the shark hunter eventually capture or kill the shark?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T19:53:32.432Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, apparently they catch a tiger shark and the mayor says the beaches are safe. Some people think it's the wrong shark, especially when they find a sunken ship with a big shark tooth. But the fourth of July plans go on anyway, and someone dies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:53:53.582Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sure yet. But I know they hire him after the mayor's son goes into shock.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T19:54:36.726Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T19:31:43.981Z", 
+  "uid1LogOutTime": "2018-01-30T19:56:39.706Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T19:31:44.069Z", 
+  "uid2LogOutTime": "2018-01-30T19:56:48.974Z", 
+  "uid2response": {
+    "feedback": "Told too much detail on what happens during the movie, I prefer not to know some of the major details before watching an actual movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2378", 
+  "user2_id": "USR308", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

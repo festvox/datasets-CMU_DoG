@@ -1,0 +1,80 @@
+{
+  "date": "2018-03-16T18:59:17.646Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:59:37.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:00:14.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your initial opinion on the movie? Without going into depth? Do you like it or not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:00:36.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Overall, I like the movie.  It has some high-profile actors.  What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:01:04.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think a good movie needs high-profile actors? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:01:38.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or rather, does a movie need high-profile actors to be good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:01:48.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed it, one of my favored comic book adaptations", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:02:02.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not necessarily, but I think that can help.  An actor doesn't become high-profile unless they are really good at what they do.  What do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:02:35.385Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:59:17.646Z", 
+  "uid1LogOutTime": "2018-03-16T19:03:27.053Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:59:17.671Z", 
+  "uid2LogOutTime": "2018-03-16T19:02:31.524Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1073", 
+  "user2_id": "USR4565", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

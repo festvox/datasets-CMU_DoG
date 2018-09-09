@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-07T16:19:03.214Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:19:26.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:19:57.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia have u see this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:28.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:21:40.274Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:19:03.214Z", 
+  "uid1LogOutTime": "2018-02-07T16:20:48.505Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:19:03.489Z", 
+  "uid2LogOutTime": "2018-02-07T16:22:47.946Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2629", 
+  "user2_id": "USR3351", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

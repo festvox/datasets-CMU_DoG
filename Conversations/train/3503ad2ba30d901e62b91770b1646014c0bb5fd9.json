@@ -1,0 +1,246 @@
+{
+  "date": "2018-03-27T14:27:13.848Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:27:29.719Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I hope you are well. May I ask the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:28:29.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hope all is good with you! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:28:37.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And yes, the name of the movie is The Great Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:28:45.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The remake from 2013. Have you heard of that movie or seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:28:55.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! No, I haven't seen the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:29:26.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:29:40.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "One of the main characters in the movie is named Jay Gatsby and is played by Leonardo DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:30:06.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film also features Tobey Maguire who plays Nick Carraway, Gatsby's friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:30:25.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thanks for that information. I love Leonardo DiCaprio! I am not familiar with Tobey Maguire though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:31:33.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the genre of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:31:35.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The genre of the movie is a Romantic, Drama!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:31:52.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was also directed by Baz Luhrmann, which I haven't heard of before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:32:06.331Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lovely!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:32:38.210Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was this a popular movie\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:33:03.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm actually surprised by the reviews of the film, it received a 48% on Rotten Tomatoes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:33:10.985Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And even a 55/100 on Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:33:17.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh no, it must've not been that good then, haha. I'm still interested in seeing it though. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:06.405Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:09.467Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought it was really good! It is really visually intriguing as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:34:35.060Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I will take your word for it then! What did you love most about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:35:12.804Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The plot is about Nick Carraway moving next door to Jay Gatsby and the love interest that springs up between Gatsby and Daisy Buchanan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:32.158Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am a sap for most romantic movies to be honest hahaha and this is the perfect story for it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:58.208Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are Daisy and Nick related in anyway?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:58.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes they actually are! Daisy is Nick's cousin! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:33.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL! I'll have to check out more romance movies because of your suggestions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:37:33.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Daisy is married to a man named Tom Buchanan, who happens to be an incredibly wealthy man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:38:24.789Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, okay. I was wondering how Jay found Daisy. It's so convenient\n to fall in love with your best friends cousin, LOL.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:38:36.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does Daisy end up falling in love with Jay?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:38:54.339Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HAHA incredibly convenient. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:39:02.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And yes, Daisy does end up falling in love with Jay...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:39:13.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but it is a much more.....tragic....story hahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:39:23.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, sounds like a pretty interesting movie then.\n\nWhat's tragic about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:39:36.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That Gatsby is murdered at the end of the film by a man who's wife was murdered by Daisy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:40:18.296Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Spoiler alert", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:40:21.133Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T14:27:13.848Z", 
+  "uid1LogOutTime": "2018-03-27T14:41:21.675Z", 
+  "uid1response": {
+    "feedback": "I accidentally pressed finish conversation instead of pressing enter to reply to my partner. Tragic. :( I hope they know that they did a great job. They gave a great description of the movie, but I'm not interested in romance movies so I won't be watching it. It was kind of hard to think of questions to ask.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:27:13.874Z", 
+  "uid2LogOutTime": "2018-03-27T14:41:38.652Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1027", 
+  "user2_id": "USR4401", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

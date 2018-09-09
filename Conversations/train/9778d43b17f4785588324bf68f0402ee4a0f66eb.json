@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-09T20:30:26.309Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you watched this movie/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:30:44.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never watched this movie but it looks interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:31:52.008Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the story of The Imitation Game, about code decryption during World War II is interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:34:45.977Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-09T20:30:26.310Z", 
+  "uid1LogOutTime": "2018-02-09T20:32:37.966Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:30:26.363Z", 
+  "uid2LogOutTime": "2018-02-09T20:43:14.952Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR1282", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2018-03-19T18:30:55.839Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:31:12.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am interested to learn about the movie that you have read about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:31:42.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:02.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi the movie is Real steel starring hugh jackman and Dakota Goyo, have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:32:21.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:32.082Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it an action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:32:37.946Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:30:55.839Z", 
+  "uid1LogOutTime": "2018-03-19T18:33:26.021Z", 
+  "uid1response": {
+    "feedback": "User left the chat at the beginning", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:30:55.845Z", 
+  "uid2LogOutTime": "2018-03-19T18:33:19.925Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4119", 
+  "user2_id": "USR3063", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2018-03-27T23:09:52.151Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, do you think this movie deserved a 92% Rotten Tomatoes score? That seems awfully high.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:11:21.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's hard to say, They are usually my go to website for reviews but its rare you see a score in the 90% area.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:12:05.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have noticed that too! I love Octavia Spencer in anything she does. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:12:41.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know much of her work but I am a big fan of Guillermo Del Toro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:13:23.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and it seems the critics had alot to say on this film as well !", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:13:43.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll have to check out his other films. I am impressed that a movie about a humanoid amphibian creature could be described as \"elegant and mesmerizing\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:14:31.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that is quite the compliment indeed, \nI have yet to see the it but i definitely plan too.\nare you a fan of drama films?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T23:16:03.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really love drama films, but I try to stay away from fantasy. I liked this one, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:16:45.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The acting by Michael Shannon and Octavia Spencer was impressive.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T23:18:23.180Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T23:09:52.151Z", 
+  "uid1LogOutTime": "2018-03-27T23:19:22.972Z", 
+  "uid1response": {
+    "feedback": "I don't understand this, because I haven't watched the movie, but I had to tell you that I liked it (or if I didn't) so I told you that I liked it. But also, the other person left the chat, so I guess I'm finishing the conversation?", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T23:09:52.152Z", 
+  "uid2LogOutTime": "2018-03-27T23:19:05.379Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2360", 
+  "user2_id": "USR4778", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

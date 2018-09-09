@@ -1,0 +1,72 @@
+{
+  "date": "2018-03-02T21:27:25.588Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:49.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:36.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:30:04.947Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:31:59.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:32:01.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:32:15.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:32:38.119Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T21:27:25.588Z", 
+  "uid1LogOutTime": "2018-03-02T21:32:22.762Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-02T21:27:25.657Z", 
+  "uid2LogOutTime": "2018-03-02T21:32:55.447Z", 
+  "uid2response": {
+    "feedback": "other user was non responsiver for first four minutes then just made one reply and left!", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR803", 
+  "user2_id": "USR581", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

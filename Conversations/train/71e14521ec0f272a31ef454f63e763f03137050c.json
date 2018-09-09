@@ -1,0 +1,65 @@
+{
+  "date": "2018-02-20T18:19:43.480Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I liked Morgan Freeman in the role as God.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:21:24.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Truly is one of Jim Carey's best films.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:22:11.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. Why do you think it wasn't rated very well on Rotten Tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:23:43.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel like although Carey did superb on his slapstick scenes, the audience just did not like the overused 'news anchor' treacle. I'm surprised that Cinemascore graded it an A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:28:57.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Now that you mention it, that aspect of the critical analysis might've been accurate. I think audiences usually expect pure comedy from Jim Carrey. I actually think he's an underrated dramatic actor-- what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:31:04.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, with the likes of actors such as Jennifer Aniston, Morgan Freeman and Lisa Ann Walters;  it is safe to say that audience members perhaps expected a lot more of a cinematic experience with such grade A actors. About him being underrated, i do feel that it is for a fault not of his own. Writers and film directors sometimes selfishly record scenes without thinking of possible backlash to the actors they hire.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:38:39.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True, sometimes directors and writers want to appeal to a lower common denominator of viewer. So you felt that the cast was strong? I wasn't too big of a fan of Jennifer Anniston in this. I don't think she has much range as an actress, but she does always come across as likable. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:41:53.571Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T18:19:43.480Z", 
+  "uid1LogOutTime": "2018-02-20T18:47:19.074Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T18:19:43.494Z", 
+  "user1_id": "USR1603", 
+  "user2_id": "USR493", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

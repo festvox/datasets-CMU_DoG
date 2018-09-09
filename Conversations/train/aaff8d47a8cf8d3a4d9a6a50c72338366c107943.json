@@ -1,0 +1,168 @@
+{
+  "date": "2018-03-28T16:54:50.230Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:55:43.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "just fine :) you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:55:50.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i have ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:55:52.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you read the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:56:02.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not too bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:56:04.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:56:25.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i have and ive seen this movie i own it on vudu", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:56:33.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:56:50.418Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its about a small time stock brocker who starts out selling penny stocks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:57:41.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it a comedy? or a drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:58:06.915Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "both", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:58:13.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its classified as dark comedy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:58:29.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "dark comedies are my favorite :). does it have any big-named actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:58:44.908Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah leo DiCaprio jonah hill,marggot robie\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:59:19.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh. the wolf of wall street. haha. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:59:31.614Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:59:57.021Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh because i have iron man up on my screen what did you have ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:00:22.821Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i love that movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:00:33.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i didnt get a document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:00:54.446Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "im confused by this task. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:02:11.086Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i think we're just supposed to be chatting about the movie in the document you received.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:02:23.959Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you know what year the movie came out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:03:36.049Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did it win any awards?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:04:00.979Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "im trying to think of things that would be in your \"document\" to ask you about.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:04:18.474Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T16:54:50.230Z", 
+  "uid2LogInTime": "2018-03-28T16:54:50.236Z", 
+  "uid2LogOutTime": "2018-03-28T17:04:55.196Z", 
+  "uid2response": {
+    "feedback": "i believe the movie he had was wolf of wall street- i did not get any documents to converse with him about. he stopped responding towards the end. all the info i got was the big actors, and what genre the movie was. ", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR274", 
+  "user2_id": "USR4541", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

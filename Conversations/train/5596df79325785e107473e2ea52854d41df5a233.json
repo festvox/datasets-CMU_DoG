@@ -1,0 +1,120 @@
+{
+  "date": "2018-02-09T20:33:09.443Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:33:25.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they are good. What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:34:42.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Aren't we discussing \"Jaws\"? I see the description of \"Jaws\" on my screen. I think the actors are great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:35:42.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Steven Spielberg's movies, do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:36:09.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, Jaws is the topic. One thing I notice is that the main characters are mostly men, the only woman plays the role of a wife. I like his earlier work more than the recent stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:37:26.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:38:08.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws has high ratings on review sites, yes I agree with them it is a great film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:38:44.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:38:52.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They say this movie is really scary and even though i agree that this movie is great I don't think it's scary. I prefer different type of scary movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:39:54.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe it is more creepy than scary. I don't really like scary movies, but I do like Jaws. But it made me not want to swim in the ocean for a while after I saw it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:41:17.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some critics said Jaws is too scary for children, what do you think of that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:41:48.900Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. Too much blood. I would definitely not let my child watch it until he is old enough\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:43:10.347Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wonder how old would be old enough. Maybe it depends on the child. I don't remember what rating Jaws had -- or did they even have ratings in 1975?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:44:59.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hi, are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:47:47.334Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T20:33:09.443Z", 
+  "uid1LogOutTime": "2018-02-09T20:43:12.654Z", 
+  "uid1response": {
+    "feedback": "I enjoyed chatting with the other user", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:33:09.729Z", 
+  "uid2LogOutTime": "2018-02-09T20:48:15.655Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR2331", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

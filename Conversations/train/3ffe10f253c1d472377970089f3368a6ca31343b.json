@@ -1,0 +1,317 @@
+{
+  "date": "2018-03-27T17:42:46.301Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:43:10.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:43:27.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie are we discussing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:43:47.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:44:06.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:44:36.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I'm going to talk to you about iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:45:15.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok that sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:45:26.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this is a movie of genre super heroes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:45:46.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so they have special powers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:46:07.687Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has been widely seen around the world and had good acceptance from the public", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:46:17.132Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok who are the stars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:46:41.391Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Iron Man (titled Iron Man: iron man in Spanish America) is a superhero movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:47:44.576Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know that you haven't answered any of my questions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:48:14.746Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are the actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:48:20.842Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey Jr. como Tony Stark / Iron Man:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:48:51.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Robert Downey Jr", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:49:10.170Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "has a broad cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:49:17.347Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The film was directed by Jon Favreau, with a screenplay by Stan Lee, Hawk Ostby, Art Marcum and Matt Holloway.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:49:32.855Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are there special effects?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:49:40.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "certainly in many scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:50:03.841Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "has it won any wards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:50:27.797Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "awards sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:50:33.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if it is a long list of recognitions for example", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:51:57.075Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oscar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:52:28.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "of better visual effects and better sound editing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:52:41.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:52:50.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who is the bad guy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:53:19.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The American Film Institute cataloged it as one of the ten best films of that year 2018", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:53:19.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did not know that it might be worth seeing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:53:37.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:54:35.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:54:43.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is excellent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:54:55.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what was your favoriate part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:54:57.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:55:03.487Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when fatigue makes you rave", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:55:28.747Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did justice prevvail in the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:55:37.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "of course as in all movies of this type", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:56:04.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is very nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:56:14.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:56:35.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:56:37.603Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who isthebad guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:56:51.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "still with me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:57:45.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the partner of the company", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:58:22.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:58:36.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't understand that that means \"the partner of the company\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:58:54.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've replied 15 times so I'm going to end the chat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:59:36.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:59:46.006Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T17:42:46.301Z", 
+  "uid1LogOutTime": "2018-03-27T17:59:45.231Z", 
+  "uid1response": {
+    "feedback": "There was little information given and this is not really my type of movie.  The conversation was difficult. ", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T17:42:46.445Z", 
+  "uid2LogOutTime": "2018-03-27T17:59:47.627Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2953", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

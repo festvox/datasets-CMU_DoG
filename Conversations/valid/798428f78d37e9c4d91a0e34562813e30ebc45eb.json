@@ -1,0 +1,90 @@
+{
+  "date": "2018-02-05T21:20:27.267Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I don't know what the film is, no document here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:21:22.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is Jaws", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:21:29.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool. At least I have seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:21:47.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:21:53.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh way liked. I was living on the jersey shore opposite Lon Island that year. Sharks everywhere", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:22:35.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats great, it was a little scary but a great watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:23:07.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "spielberg is a great director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:23:23.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the only thing more irritating than sharks are jelly fish. Spielberg is a verifiable genius in his field", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:24:04.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, don't go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:24:33.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wehat to do now? Hmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:25:16.700Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:20:27.267Z", 
+  "uid1LogOutTime": "2018-02-05T21:24:07.632Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:20:27.318Z", 
+  "uid2LogOutTime": "2018-02-05T21:25:44.247Z", 
+  "uid2response": {
+    "feedback": "What's up. User left chat. Is this a really bad hit that I suffer rejection because hit is poorly constructed. There do seem to be people that would harm others without thinking. Is that the case here.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4269", 
+  "user2_id": "USR1376", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

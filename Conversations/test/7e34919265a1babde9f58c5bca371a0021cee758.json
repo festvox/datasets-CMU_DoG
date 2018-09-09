@@ -1,0 +1,294 @@
+{
+  "date": "2018-03-19T18:57:47.810Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you ever seen the Movie Home Alone? If not, it's a classic you must see. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:59:11.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not, what's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:59:21.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kevin, played by Macaulay Culkin, accidentally gets left at home when the rest of his family foes to Paris on vacation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:00:16.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was during Christmas.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:00:33.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A couple of robbers try to break into his house and he fights back. Like sets up booby-traps to catch them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:01:18.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a tragedy or a comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:02:01.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was directed by Chris Columbus. Joe Pesci played Harry. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:02:07.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was definitely a comedy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:02:16.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 1990. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:02:27.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember it was such a popular movie when I was a kid. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:02:41.242Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it's kind of a family movie then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:03:16.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, it's a great family movie. Any age will enjoy it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:03:35.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it G or PG?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:04:05.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it was PG. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:04:43.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catherine O'Hara played Kevin's mom. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:05:19.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Paris on Christmas is pretty crazy. Do you know where they live?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:05:23.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They lived outside of Chicago. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:06:11.582Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There was a storm that caused the power to go out the night before they were leaving to go on vacation so it messed up their alarm clocks. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:06:51.312Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So they almost missed their flight I'm guessing. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:07:10.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And ended up leaving the kid at home.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:07:21.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, in the rush of getting up (they overslept) the left him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:07:50.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are the robbers scary?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:08:19.305Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Kevin was made at his siblings and cousins and made a wish they'd disappear. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:25.530Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So he got what he was asking for sort of. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:35.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It wasn't until halfway through the flight that his mom realized he was missing. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:08:51.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And then she had trouble getting a flight back. Everything was booked.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:09:39.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was just a funny cute movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:11:35.645Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know if this movie did well at the box office?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:11:46.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It did so so. I don't know why it didn't do better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:12:02.600Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten Tomatoe scored it 62%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:12:10.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Alright. Does the main character change at all, like for better or worse?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:12:43.602Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's been so long since I've seen it it's hard to remember, but I think he probably regrets wishing his family were gone once they were. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:14:13.533Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm sure he was scared when the people tried to break in. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:14:21.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, sounds scary for a little kid!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:15:33.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who would you say was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:15:45.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely Macaulay Culkin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:16:43.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The robbers are pretty funny too, especially when they keep getting caught in Kevin's traps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:17:11.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just a couple more questions.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:17:38.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The cops end up coming and arresting them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:17:41.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:17:44.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any notable music in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:17:49.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kevin is sad when his family still isn't home for Christmas, but then he hears his mom.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:17.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember about the music. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:29.103Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:57:47.810Z", 
+  "uid1LogOutTime": "2018-03-19T19:18:31.092Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:57:47.828Z", 
+  "uid2LogOutTime": "2018-03-19T19:18:50.264Z", 
+  "uid2response": {
+    "feedback": "It seems like a nice, funny family movie.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR628", 
+  "user2_id": "USR1323", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

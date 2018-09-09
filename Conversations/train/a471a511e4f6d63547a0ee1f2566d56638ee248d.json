@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-13T18:33:07.416Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:33:44.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:33:54.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you read something about a movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:34:35.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:35:50.561Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:33:07.416Z", 
+  "uid1LogOutTime": "2018-02-13T18:34:27.075Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:33:07.441Z", 
+  "uid2LogOutTime": "2018-02-13T18:47:37.692Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2247", 
+  "user2_id": "USR4829", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2018-02-20T18:49:01.050Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey. What movie are we going to be talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:49:42.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure, I can't see the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:50:32.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha, awesome. I can't either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:50:43.658Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-20T18:49:01.050Z", 
+  "uid1LogOutTime": "2018-02-20T18:51:02.602Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T18:49:01.050Z", 
+  "uid2LogOutTime": "2018-02-20T18:51:20.876Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3292", 
+  "user2_id": "USR4493", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

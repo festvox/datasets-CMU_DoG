@@ -1,0 +1,259 @@
+{
+  "date": "2018-03-23T21:45:27.273Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:45:32.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:47:13.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019m here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:47:29.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you watch this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:47:43.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I\u2019ve never seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:48:01.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw it once.. it was pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:48:18.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:48:23.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dont understand why its considered black comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:48:28.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that another term for dark humor? lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:48:40.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Matthew mcconaughey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:49:05.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Haha. It could be dark humor ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:49:34.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you recommend this movie to your friends?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:50:21.394Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought the acting was great. I have followed Jordan Belfort in the past.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:50:28.938Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Im not sure.. its not everyone's brand of humor or subjectmatter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:50:42.470Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a dry humor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:51:10.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its like watching a trainwreck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:51:31.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not sure that I agree with the 78% rating it got though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:51:56.795Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm, I haven\u2019t seen that movie either. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:52:07.302Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But then again, I dont put too much stock into RT. To each's own.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:52:07.540Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How is DiCaprio in the movie, I like him too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:52:54.333Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I might see it again if I were to catch it on TV though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:52:56.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was really convincing as usual", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:53:02.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Margot Robbie was super attractive in this as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:53:16.270Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen other DiCaprio movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:53:59.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. Titanic and catch me if you can are the first two that come to mind", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:54:41.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The first two I think of are Inception and Revenant. Maybe because it was more recent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:55:16.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Im sure there are others that I\u2019ve seen ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:55:17.030Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He hasn't too many bad films though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:55:33.993Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know I have seen some Martin Scorsese films too but can't think of them off the top of my head.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:55:56.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He appears to be a pretty good actor. He\u2019s able to play different roles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:56:15.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:56:24.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like movies of a certain genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:56:38.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Comedy, drama, action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:57:01.339Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:57:06.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like thrillers, horror, sci-fi the most", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:57:24.621Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, I love thrillers. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T21:57:56.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have a favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T21:58:12.293Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T21:45:27.273Z", 
+  "uid1LogOutTime": "2018-03-23T21:58:15.456Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T21:45:27.327Z", 
+  "uid2LogOutTime": "2018-03-23T21:58:22.992Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2688", 
+  "user2_id": "USR88", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

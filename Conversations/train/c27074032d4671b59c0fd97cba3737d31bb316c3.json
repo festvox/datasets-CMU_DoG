@@ -1,0 +1,129 @@
+{
+  "date": "2018-02-05T15:47:50.988Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hii", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:30.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you.  Have you seen the movie La La Land yet?  It almost won best movie's oscar until the mis reading on the card. Still it was quite an unusual movie in that it was a musical", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:06.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well,i not yet watched that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:53.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is that movie look like so interesting ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:05.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think its something to see. It stars Ryan Gosling and Emma Stone who actually have been in a few movies together.  It is somewhat a cultural event in that it got a lot of buzz when released. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:34.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow,really great.emma stone actually played a role in that.that means this will look so good ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:51:25.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it had amazing ratings.  She was actually an aspiring actress in the movie so that is realistic.  She meets Gosling's character who is a jazz pianist.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:52:26.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow,so nice to hear this.and when this movie is released ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:24.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was released in 2016.  It is called La La Land since it is set in Los angeles", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:53:48.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie concept? adventure or romace", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:54:38.329Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a romance between the two characters in that she is an actress and he is a jazz player who wants to save jazz clubs because they are fading ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:55:19.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "than this movie want to be watched with our love one.than only it will gives a perfect meaning to the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:39.641Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. I think its worth it to see it.  Like I said although it was in 2016 it is timely even today. You do not see a lot of adult type musicals out. They are all animated for kids.  It even has some comedy and tension.  When Gosling as his character Sebastian wants to play jazz improvisation songs, his boss tells him to stick to christmas songs.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:58:26.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its not all happy and sappy though. In fact after that restaurant scene when he wants to play jazz he gets fired. Stone's character is in the club but he really pays her no attention and they do not meet for months later", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:01:50.740Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:03:26.011Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "we need minimum discussions for credit here ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:04:04.084Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T15:47:50.988Z", 
+  "uid1LogOutTime": "2018-02-05T16:04:36.785Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:47:51.238Z", 
+  "uid2LogOutTime": "2018-02-05T15:58:18.639Z", 
+  "uid2response": {
+    "feedback": "really great", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2778", 
+  "user2_id": "USR20", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

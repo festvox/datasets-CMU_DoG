@@ -1,0 +1,63 @@
+{
+  "date": "2018-02-17T20:53:13.437Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Let's get started.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T20:53:54.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen the movie John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T20:54:45.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, with that actor who was in the Matrix flicks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T20:55:12.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that's the one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T20:55:46.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T20:55:58.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was his best film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T20:56:07.122Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-17T20:53:13.437Z", 
+  "uid1LogOutTime": "2018-02-17T20:56:22.840Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-17T20:53:13.441Z", 
+  "uid2LogOutTime": "2018-02-17T20:57:23.800Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2087", 
+  "user2_id": "USR3195", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

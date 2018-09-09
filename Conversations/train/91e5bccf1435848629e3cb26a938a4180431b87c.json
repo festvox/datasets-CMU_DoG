@@ -1,0 +1,262 @@
+{
+  "date": "2018-02-16T14:30:40.754Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:31:13.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:31:17.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:31:27.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I do!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:31:31.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:31:39.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should definitely check out John Wick! Have you heard anything about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:31:47.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do too! :) ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:31:54.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! I know I've heard about it but never actually seen it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:32:04.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is great in it! He plays an ex hitman who comes back from retirement after the death of his wife. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:32:34.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There are alot of really great action sequences in it! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:33:03.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh ok ok that sounds good, I'm aware that Keanu Reeves is the main actor on it but no idea whats the plot of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:34:01.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what year is this movie based like on the present, or more futuristic?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:34:17.761Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was made in 2014. Definitely not futuristic. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:34:54.982Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Basically he comes back from retirement to seek vengeance after his vintage car was stolen and his puppy was killed. :( ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:35:38.315Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah well I mean within the movie, when and wheredoes the story take place?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:35:59.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh ok ok what kind of Vintage Car was it are you able to recognize it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:36:20.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's set in the present in New York", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:36:21.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh ok ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:36:26.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So from who is he seeking vengance, who are the bad guys?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:36:54.218Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I believe it was a Mustang", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:36:54.772Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They're Russian mob", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:37:14.430Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh ok, well he must have a hard time going against the Russian Mob. What about the dog what kind of dog was it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:37:52.886Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was pretty much the best assassin and had quite the reputation. I'm not sure the breed, I just know it was a puppy that was a final gift \nfrom his deceased wife.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:39:02.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok ok well I guess I'll have to watch it then! I've seen advertised the sequels of this movie, part 2 and I've heard there is going to be even a part 3, do you know someth\ning about that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:40:22.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've heard that it is a series, but don't really know anything about the other movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:40:56.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But, I'd definitely see them if they're anything like the first movie! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:41:11.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice you are really selling it! So do you know if this story is based in a written novel?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:42:47.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that! But, I love to read so I will definitely look into it! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:43:24.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was asking you about it! Is the movie based on a novel or not :) But just noticed you're not sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:44:32.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, sorry! I misunderstood. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:44:57.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It would make a great book though since it has such a complex story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:45:12.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So I just did a little reasearch and it is not based on a novel it's just created out of the movie's directors & team.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:45:52.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! Do you research reviews and ratings before watching movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:46:24.211Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not always just sometimes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:47:15.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, this one got an 86% on Rotten Tomatoes! I think that's pretty great since they tend to be a little on the critical side.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:47:46.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think you'll watch John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:48:01.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ye\ns for sure!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T14:48:12.078Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome! It was great chatting with you! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T14:48:25.751Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T14:30:40.754Z", 
+  "uid1LogOutTime": "2018-02-16T14:48:28.521Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T14:30:40.831Z", 
+  "uid2LogOutTime": "2018-02-16T14:48:32.746Z", 
+  "uid2response": {
+    "feedback": "I've always wanted to watch this movie but never had the chance!", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1181", 
+  "user2_id": "USR1346", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

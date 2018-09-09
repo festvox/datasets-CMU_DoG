@@ -1,0 +1,78 @@
+{
+  "date": "2018-02-09T18:18:53.412Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?  I'd like to tell you about a fabulous movie directed by Christopher Nolan called \"Inception\".  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:19:42.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I'm fine thanks.  Tell me all about it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:20:09.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie was released in 2009 and stars Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, and Tom Hardy.  It's a story about \"extractors\", who try to infiltrate the subconscious of certain victims in order to get information from them.  This is the so called \"inception\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:20:54.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like science fiction, kind of.  I am a big fan of the cast, honestly, and it sounds very interesting.  Has it gotten good reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:21:56.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "While it's traditionally considered a sci fi movie, it has elements of a love story that can intrigue those who aren't huge sci fi fans, so perhaps that would interest you as well.  It's really a complex and unique plot that is sure to intrigue the viewer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:22:00.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the reviews were fantastic!  IT has 86% on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:22:14.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds fantastic.  I would definitely be interested in seeing this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:22:29.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "as well as scoring 8.8/10 on imdb, which is rpety impressive because those people are pretty harsh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:22:38.165Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T18:18:53.412Z", 
+  "uid1LogOutTime": "2018-02-09T18:23:36.371Z", 
+  "uid1response": {
+    "feedback": "This person appears to have abandoned the conversation midway through the task.", 
+    "response": [
+      1, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T18:18:53.469Z", 
+  "uid2LogOutTime": "2018-02-09T18:22:35.163Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2221", 
+  "user2_id": "USR730", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

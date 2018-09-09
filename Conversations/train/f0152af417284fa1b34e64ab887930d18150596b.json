@@ -1,0 +1,221 @@
+{
+  "date": "2018-03-02T21:15:25.200Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there, what's the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:16:03.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!   Have you seen the movie \"The Blind Side\" before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:16:16.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard of the name but never watched it. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:16:44.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a movie about an American football player who was adopted by a family in his community.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:17:34.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the football player playing in the NFL?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:18:16.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd recommend you see it sometime, Sandra Bullock does a really good job in her role as Leigh Anne Touhy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:18:31.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's in highschool during the movie, but he goes on to play in the NFL ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:18:50.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's based on a true story, Michael Oher is the football player", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:19:17.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is there a reason why she chooses to adopt him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:19:18.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what other characters play a role in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:19:54.432Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He had a rough upbringing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:20:08.584Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tim MCGraw plays the father Sean, he does a good job as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:20:29.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do the reviews say about the movie? Is it well received?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:21:21.076Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was pretty well received with Rotton Tomatoes giving it 69%  and Metacritic rating 53/100.  CinemaScare gives it an A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:22:10.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mostly based on Sandra Bullocks performance, critics really liked her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:22:26.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is reassuring to hear ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:23:06.700Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "when was this movie released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:23:20.253Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Back in 2009, though it still seems very current", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:23:45.099Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what genre this movie belongs to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:24:27.283Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It would be considered a sports biographical drama since it is based on Michael Ohres true story.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:25:05.339Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's particularly interesting as Sandra Bullock is a memember of a fairly affluent white family, and Michael grew up running away from foster care homes all of his life until he meets the Tuohy family.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:26:02.959Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "where does the movie take place? like what city is it in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:26:10.989Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is in Memphis, Tennessee", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:26:21.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah, so the movie deals with themes of race and wealth inequality?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:26:38.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, very much so.  There is a scene where Sandra Bullock's white wealthy friends ask her if she is concerned about having a large black man in the house with her young daughter.  Sandra becomes quite upset that her friends would think that way.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:27:40.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie sounds interesting. I might give it a watch whenever I have free time ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:27:57.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for providing these details ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:28:09.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd recommend it, one of the better sports movies out there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:28:10.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Even if you don't like football, it's a good story about the human spirit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:28:59.555Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the power of family.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T21:29:24.662Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I agree. There must be a lot of character development I'm assuming", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T21:29:30.450Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T21:15:25.200Z", 
+  "uid1LogOutTime": "2018-03-02T21:29:42.444Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T21:15:25.210Z", 
+  "uid2LogOutTime": "2018-03-02T21:29:36.728Z", 
+  "uid2response": {
+    "feedback": "The user provided me a lot of details about the movie and allowed me to make an educated decision about whether to watch it or not.", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4070", 
+  "user2_id": "USR1478", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

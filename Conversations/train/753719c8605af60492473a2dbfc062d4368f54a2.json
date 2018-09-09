@@ -1,0 +1,223 @@
+{
+  "date": "2018-02-16T04:16:32.078Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, what movie will we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:18:39.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the notebook with ryan gosling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:19:03.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I've heard of that but never saw it.  What do you know about it?  I may want to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:19:54.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a romantic story set in the 1940s,between young lovers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:22:31.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:23:09.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "rachel mcadams as the romantic interest  and joan allen and james marsden", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:24:30.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:25:41.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am not sure about that but i can say that the movie is engaging", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:26:59.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats okay, is it a Romantic Drama or Comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:28:25.331Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a romantic drama , adapted based on a novel of the same title", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:29:52.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know when the movie came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:31:02.327Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in 2004 by director nick cassavetes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:32:34.363Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What studio made it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:32:56.728Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not sure but you may check online,it has a 52% rotten tomatoes score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:36:25.579Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know if it won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:37:28.971Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i did not know any but the movie is well acted and it has a good material, some touching scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:39:37.679Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it have a sad ending?  I hate sad endings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:40:57.846Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i did not want to spoil anything , but sure you will not  be disapointed, it was delightful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:42:57.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so you would recommend it then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:44:20.501Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes definitely i would reccomend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:45:17.377Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nice, are there any other movies that it is similar to?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:45:55.894Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i cant think of any ,so far this is the one for me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:47:19.487Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is the acting good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:49:15.582Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gosling and  specially Mcadams give all star performance, left the audience with touching scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:51:51.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know of any other Mcadams has been in?  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:53:27.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry do you know any other movies Mcadams has been in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T04:55:06.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry i am not familiar with any film mcadams has been in so far.by the way the notebook is in the top of the summer movies on the time it was release", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T04:58:53.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it sounds like it is a really good movie.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:00:20.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do  you know where I can watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T05:01:28.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well the it is about an 17 year old  heiress, after seeing her on a carnival, they have a summer love affair.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:03:53.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you can rent or buy the dvd. well thank you have a nice day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T05:04:36.807Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T04:16:32.078Z", 
+  "uid1LogOutTime": "2018-02-16T05:04:15.403Z", 
+  "uid1response": {
+    "feedback": "Most of my questions were answered well about the movie so I would probably see it based on the answers given.  My last question wasn't answered and the last answer the other person gave didn't have anything to do with my question.  I asked where I could see the movie and they told me what it was about instead with no mention of my question.  I wonder if it was a real person I was talking to.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T04:16:32.292Z", 
+  "uid2LogOutTime": "2018-02-16T05:04:42.439Z", 
+  "uid2response": {
+    "feedback": "thank you", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4160", 
+  "user2_id": "USR1354", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2018-02-02T19:52:43.778Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is a movie about a war ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:53:32.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love christopher nolan movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:53:48.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:54:07.648Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T19:52:43.778Z", 
+  "uid1LogOutTime": "2018-02-02T19:53:48.438Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:52:43.784Z", 
+  "uid2LogOutTime": "2018-02-02T19:54:10.971Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat right away", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2558", 
+  "user2_id": "USR4783", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

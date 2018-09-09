@@ -1,0 +1,69 @@
+{
+  "date": "2018-02-16T17:44:08.586Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:44:48.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am well. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:44:59.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good.  We are here to discuss Zootopia, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:45:09.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My document did not load, so unfortunately I just have what you say to go off of. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:45:39.641Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay.  Have you seen the movie Zootopia?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:45:51.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not. What can you tell me about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:46:09.422Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T17:44:08.586Z", 
+  "uid1LogOutTime": "2018-02-16T18:09:46.314Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T17:44:08.608Z", 
+  "uid2LogOutTime": "2018-02-16T17:51:21.358Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR791", 
+  "user2_id": "USR612", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

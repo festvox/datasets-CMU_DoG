@@ -1,0 +1,90 @@
+{
+  "date": "2018-03-21T15:37:02.903Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:38:22.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:38.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cant believe this movie didnt get a better review", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:38:55.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:39:06.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "MOnsters University", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:18.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome!  what was your favorite part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:39:41.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved when they just got to college.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:51.463Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was hillarious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:39:55.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T15:41:38.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That was mine as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T15:45:00.032Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T15:37:02.903Z", 
+  "uid1LogOutTime": "2018-03-21T15:43:03.147Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-21T15:37:02.918Z", 
+  "uid2LogOutTime": "2018-03-21T15:45:06.477Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR412", 
+  "user2_id": "USR2966", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

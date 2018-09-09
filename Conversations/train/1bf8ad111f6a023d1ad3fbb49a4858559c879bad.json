@@ -1,0 +1,72 @@
+{
+  "date": "2018-03-05T18:41:56.735Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:42:08.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "see any good movies lately?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:42:14.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:43:39.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! Not really, I just Batman vs. Superman. The 27% Rotten Tomatoes score is fitting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:43:51.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, i havent seen that one, tell me more", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:44:13.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why was it so bad?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:45:00.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, it's the sequel to Man of Steel. There's a lot of meaningless action and not much else.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:46:09.352Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T18:41:56.735Z", 
+  "uid1LogOutTime": "2018-03-05T18:46:24.849Z", 
+  "uid1response": {
+    "feedback": "User 2 abandoned the chat after I didn't respond for 1 minute.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T18:41:56.744Z", 
+  "uid2LogOutTime": "2018-03-05T18:46:08.623Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR943", 
+  "user2_id": "USR4869", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2018-02-21T15:14:55.764Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:15:32.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:15:42.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Superman description was very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:16:06.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which superman movie was it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T15:16:28.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dawn of justice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T15:17:05.932Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-02-21T15:14:55.764Z", 
+  "uid2LogInTime": "2018-02-21T15:14:56.298Z", 
+  "user1_id": "USR3355", 
+  "user2_id": "USR4630", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-06T17:51:18.250Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:51:41.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:52:03.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie Mean Girls, made in 2004, has an 84% score on Rotten Tomatoes.com.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:52:43.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Many people would say it is a good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:52:57.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats a fairly good rating. What is Mean Girls about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:53:03.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is based on a self-help book written in 2002 about high school cliques and how they damage young girls.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:53:41.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I see. That is interesting. Who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:54:12.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie stars Lindsay Lohan as Cady and Rachel McAdams as Regina.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:54:37.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very nice movie stars for that time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:55:10.543Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lizzy Caplan, Amanda Seyfried, and Lacey Chabert also appear in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:55:38.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh cool. Is the movie long?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:56:10.368Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film has a runtime typical of movies made in 2004.  In 2012, Rotten Tomatoes placed the movie in the Top 50 Greatest Teen Comedies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:57:40.270Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Top 50... That is great! Can you tell me anything else about this flick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:58:34.759Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rachel McAdams, as Regina, leads the most popular clique in school, \"The Plastics\".  When they take an interest in Cady, her new acquaintance Janis decides to use Cady as a tool for revenge against the clique for a past slight.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:59:33.933Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Plastics? That is a strange name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:01:03.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Indeed.  Rolling Stone called the movie, screenwritten by Tina Fey, \"comic gold\".  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:01:32.615Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Comic gold does not go unnoticed. I am surely interested now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:02:52.678Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What makes a fun facet is the fact that Cady has been homeschooled by her zoologist parent while living in Africa for the last 12 years, so she is very out of place in this new group.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:04:04.719Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Zoologists in Africa... This sounds like it could be a movie in its own!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:04:48.521Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Exactly.  Cady is caught up in a brawl with the other girls resulting in a math teacher being implicated as a drug dealer.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:05:52.345Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh man, It just keeps getting better and better. I am curious how this plays out now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:06:16.718Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The principal has to round up the girls for a confrontation and confession that has far reaching consequences.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:06:46.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are the consequences really bad?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:10:12.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As a result, Regina's next choice will affect her and the others deeply.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:10:31.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Deeply huh... She doesnt kill them does she?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:11:07.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Regina's new boyfriend becomes connected to Cady at a social event, leading Cady to act in a way that draws Regina's anger.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:12:07.852Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does Regina kill someone then? Is it her boyfriend or cady?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:14:40.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Regina's actions only bring tragedy to herself, but are very shocking for the others in the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:15:29.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Shocking huh? Gasp. This is getting good. I cannot wait to watch this!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:16:28.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ultimately, a truce is reached between Cady and the Plastics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:16:34.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie boasts a Cinemascore rating of A-.  Lots of people found this movie a fun watch.  Hope you enjoy.  If you are ready, I think we can submit the conversation now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:18:53.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you very much. I will watch this soon.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:19:33.085Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T17:51:18.250Z", 
+  "uid1LogOutTime": "2018-03-06T18:19:40.003Z", 
+  "uid1response": {
+    "feedback": "Based on the other users rating descriptions and overall description of the movie I am highly interested in seeing this flick. Thank you.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T17:51:18.451Z", 
+  "uid2LogOutTime": "2018-03-06T18:19:46.170Z", 
+  "uid2response": {
+    "feedback": "Thank you.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3758", 
+  "user2_id": "USR4382", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

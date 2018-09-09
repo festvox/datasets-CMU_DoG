@@ -1,0 +1,176 @@
+{
+  "date": "2018-03-29T20:30:50.353Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:31:01.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:31:13.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:31:26.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "let's talk about the \"iron man\" today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:31:31.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:31:46.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a Super Hero movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:32:03.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds good. Is there an age restriction on the movie>", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:32:23.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:32:25.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't tell but i don't think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:33:25.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was made in 2008", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:33:43.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie stars Robert Downey ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:34:17.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it an animated movie or is it with real actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:34:18.306Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is not an animation, let me run you through the cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:35:11.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool. was it rated well on Imdb/ rotten tomato", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:36:10.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey, Terrence Howard, Jeff Bridges, Shaun Toub and Gwyneth Paltrow all starred in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:36:15.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's a pretty good cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:36:29.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, It gets a 94% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:36:50.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Average of 7.7/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:37:07.110Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "great. do you know how long the movie is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:37:21.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "79/100 from metacritic ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:37:24.061Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "impressive scores.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T20:37:47.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't really know the run time but I guess it should be a typical run time for an average movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:38:51.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was directed by Jon Favreau", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:39:03.967Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "downey got wounded on a test rocket propelled grenade", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:40:09.445Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he also got captured and imprisoned in a cave by a terrorist group", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:41:14.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "His abductors offered to release him in exchange for him building for them a Jericho Missile", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T20:42:51.381Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-29T20:30:50.353Z", 
+  "uid2LogInTime": "2018-03-29T20:30:50.415Z", 
+  "uid2LogOutTime": "2018-03-29T20:43:48.667Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1742", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

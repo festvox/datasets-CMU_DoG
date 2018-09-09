@@ -1,0 +1,229 @@
+{
+  "date": "2018-04-02T15:36:15.653Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:39.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is Maleficent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:02.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool what year did that movie come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:13.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2014. I did not see this movie, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:49.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre of movie is it? Like a drama or fantasy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:39:13.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It appears to be kind of a fantasy movie loosely based on Snow White.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:39:57.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh that sounds cool. Who plays the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:40:29.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Angelina Jolie is the main star. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:41:28.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She's a great actress. Are there any other big name stars in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:42:04.769Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't recognize any of the other stars, but I don't follow stars that much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:42:47.819Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nSharito Copley, Elle Fanning, Sam Riley", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:43:35.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What are the reviews like? Mostly positive or negative?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:43:59.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It seems to have gotten mixed reviews. The Rotten Tomatoes score was 51%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:44:34.143Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, that's about average. Are there any key scenes that people are talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:45:23.262Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I can't find anything in particular, but maybe it is when Malificent kills the king.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:46:35.828Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow that seems like a huge twist!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:47:16.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are there any really negative reviews from any critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:48:00.388Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It seems Maleficent is actually a fairy living in area near humans.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:48:15.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow that sounds pretty interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:48:30.790Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "While the king is dying, he offers his kingdom to whoever kills Malef\nicent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:49:23.182Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like a very interesting plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:50:10.024Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you planning to watch this movie in the future?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:50:56.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, one guy drugs Maleficent and cuts off her wings which is lethal to fairies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:51:04.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh that's terrible!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:51:25.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I might watch it with my daughter.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:51:43.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Based on the information you provided, I actually feel like I want to see this movie now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:52:08.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maleficent gets her revenge in the end. It seems she actually becomes a dark character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:52:54.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow that sounds intriguing! \nAre there any other interesting facts about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:53:19.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Evidently the movie is bit violent for this type of movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:54:07.824Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:54:53.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are graphic scenarios evidently -- like you might see in a horror movie. I'm not sure how they actually play out on the screen.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:56:00.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, I'm done. Nice talking with you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:56:47.353Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T15:36:15.653Z", 
+  "uid1LogOutTime": "2018-04-02T15:57:25.729Z", 
+  "uid1response": {
+    "feedback": "This movie actually sounds like something I'd want to see based on what user 2 informed me", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:36:15.687Z", 
+  "uid2LogOutTime": "2018-04-02T15:56:53.337Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4671", 
+  "user2_id": "USR3671", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

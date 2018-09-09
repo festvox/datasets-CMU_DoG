@@ -1,0 +1,216 @@
+{
+  "date": "2018-03-05T17:12:09.456Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:12:22.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there, feeling a good movie to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:12:40.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lol sure, any movie you would like to recommend?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:13:01.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You a fan of Tom Hanks or Leo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:13:13.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:13:14.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I am especially Tom Hanks, one of the best lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:13:25.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catch me if you can, have you watch that movie before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:13:44.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ohh that I havent watched before, when was that released again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:14:06.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was back in 2002, not one of Spielbergs biggest movie but its a watchable one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:14:32.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see, tell me more about it, might watch it later tonight.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:14:48.209Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sure, its about a biographical crime film from Spielberg based on Frank Abagnale, a con artist if you will.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:15:31.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting, I dont know anything about the guy though lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:15:45.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Frank Abagnale successfully performed cons worth millions of dollars posing as a Pan American World Airways pilot, A Georgia doctor and a Louisiana prosecutor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:16:39.995Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting, so is he played by Tom Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:17:03.809Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Frank is played by Leo.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:17:19.183Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ahh gotcha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:17:28.459Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Hanks plays the part as Carl Hanratty.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:17:55.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:18:18.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Whats the review or the rating of the movie again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:18:33.347Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "average score of 7.9/10 and a Rotten Tomatoes score of 96%.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:19:02.522Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Impressive, well its Spielberg lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:19:17.484Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pretty much a guy who always delivers, one of the greats of our time lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:19:38.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right right haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:19:45.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any important scene that would make me want to watch the movie? no spoilers lol\n.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:20:08.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well the last part of the movie, I wont give you the details but it is a pretty satisfying scene wherein it covers some speculations you might have while you watch the movie, its pretty good really.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:20:59.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:21:10.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love movies that makes you think.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:21:20.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it simple covers the important factors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:21:38.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Factors meaning plotholes???", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:24:32.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hahahaha you got me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:24:40.216Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T17:12:09.456Z", 
+  "uid1LogOutTime": "2018-03-05T17:24:42.591Z", 
+  "uid1response": {
+    "feedback": "Thank you!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:12:09.460Z", 
+  "uid2LogOutTime": "2018-03-05T17:24:45.925Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1672", 
+  "user2_id": "USR4306", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

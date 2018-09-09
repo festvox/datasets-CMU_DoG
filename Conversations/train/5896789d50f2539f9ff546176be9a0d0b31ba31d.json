@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-26T17:45:39.575Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I think Toy Story set the trend for animated movies of it's kind, with new technology and famous actors. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:48:43.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I think you could say so. It was definitely a first for toys to be depicted in such a way, and it had big name actors like Tom Hanks and Tim Allen. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:49:24.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I loved how they bring them to life; it's fun and very well made. It's a movie that can be seen by both adults and children. I was still a kid when it came out and still enjoy it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:53:15.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was going to say that two of the critics mention that Toy Story successfully brought the characters to life and this made the movie so successful. Do you think the voice actors and animation contributed to the believability of toys being alive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:54:59.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely, both Tim Allen's and Tom Hanks' acting skills are everything. Personally, I cannot think of other actors that would have done such a great voicing job. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:01:24.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the rivalry between the two characters voiced by Allen and Hanks is believable as well, as well as the friendship they develop out of that rivalry.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:03:43.968Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You can totally relate to their feelings even though they're toys. Do you generally watch these\n types of movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:06:07.531Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I enjoy watching animated movies in my free time, especially ones with comedic value.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:07:12.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do I, especially with everything that's happening in the world, it's nice to have movies like Toy Story that will let you forget and have a good time. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:19:06.233Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-26T17:45:39.575Z", 
+  "uid2LogInTime": "2018-03-26T17:45:39.606Z", 
+  "uid2LogOutTime": "2018-03-26T18:48:19.581Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR178", 
+  "user2_id": "USR3046", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

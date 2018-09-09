@@ -1,0 +1,246 @@
+{
+  "date": "2018-02-16T19:19:17.303Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you seen The Avengers, the marvel comics movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:20:32.516Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:22:03.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a team of superheroes called The Avengers, and the film has the same title.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:22:33.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting. Who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:23:11.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a great cast, including Rober Downey Junior and Scarlet Johansson.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:23:46.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like those actors. What character does Scarlet Johanson play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:24:37.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She plays one of the superheroes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:25:10.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:26:04.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film was directed by Joss Whedon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:26:26.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have heard of him. Did he write the screenplay too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:27:52.959Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, he did.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:28:10.407Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's cool. \nDid Joss Whedon produce this movie too, or does it have different producers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:29:58.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was produced by Walt Disney Studios Motion Pictures.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:30:57.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Disney does some good movies. What about the music in this movie. Does it have good music?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:32:06.309Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know much about the movie score.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:33:20.816Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. What other movies has Joss Whedon made?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:34:24.279Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I couldn't really say about that either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:35:47.485Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the hulk character, played by Mark Ruffalo, is very entertaining in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:36:34.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there anything really inter\nesting about this movie that might make me want to see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:37:01.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do like the hulk too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:37:39.115Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Critics say it is witty and sophistocated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:37:49.790Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's not as formulaic as you might expect from a superhero movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:38:24.976Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good. I like superhero movies that are not typical.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:39:13.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The plot centers around the God Loki and his plan to take over the Earth. He has a powerful artifact called the tesseract.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:40:10.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that's interesting. There's a God in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:41:06.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Thor is another god that appears in the movie as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:41:34.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok I see. Is Thor Loki's father?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:42:43.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't believe so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:42:59.279Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Loki is Thor's brother.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:43:34.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok, that sounds familiar. And what is the tesseract? What does it do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:44:14.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a mysterious artifact that the villains are using to open a wormhole into another dimension that bring forth an army to subjugate the Earth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:45:24.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, this movie sounds awesome. I'm definitely going to see it now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:46:19.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I would look for it on blu-ray, as it was released in 2012.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:46:46.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok I will. Thanks for the information!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T19:47:50.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T19:48:04.301Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T19:19:17.303Z", 
+  "uid1LogOutTime": "2018-02-16T19:48:10.361Z", 
+  "uid1response": {
+    "feedback": "I didn't have a document to reference, but the other user was active and very informative. The last half of the conversation really made me want to see it, because the user did a good job of explaining the most exciting parts of the plot.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T19:19:17.342Z", 
+  "uid2LogOutTime": "2018-02-16T19:48:17.906Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4387", 
+  "user2_id": "USR5", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "date": "2018-03-05T21:50:19.685Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:50:33.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:51:30.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:51:44.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:51:49.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think about Despicable Me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:52:07.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that considering it got an 81% on Rotten Tomato it must be a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:52:31.868Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:52:35.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like computer-animated comedy films like Despicable Me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:54:23.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe not \"great\" exactly, but a good family flick. One of the reviews said that \"it's no first rank CGI cartoon.\" But another \"Despicable Me can't help but be likable,\" so it sounds better than average to me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:54:33.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They aren't what I typically go for in a film, but I'm open minded. I do like to idea of a villain being the protagonist in a film, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:55:16.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You rarely see that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:55:32.135Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah I agree. following around a villain as the main character is a really interesting new spin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:56:02.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about you, do you like CGI/Pixar-style movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:56:22.579Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do, I think they require a lot of hard work and ingenuity and that makes me appreciate CGI/Pixar-style movies. You know that they really care about the quality of the production.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:57:34.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree in any way with the ratings of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:58:34.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's quite true. The plot is looking more and more interesting and amusing, like it suggests a supervillain has to deal with ll of the mundane annoyances that anybody does at their job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:58:34.972Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I would agree with them, yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:59:13.053Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was the actor that voice acted the supervillain Gru?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:00:17.755Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steve Carell, I think.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:00:33.030Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh right! I can't believe Jason Segel was in this movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:01:09.757Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't recognize Jason Segel, but I know who Russell Brand and Steve Carell are. That's a good sign already.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:01:39.864Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The name sounds familiar, I just can't remember what I saw him in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:02:01.624Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "right, who were the three girls that Gru has to deal with throughout the entire movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:02:31.259Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Margo, Edith, and Agnes were their names, but I forgot where he encountered them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:03:45.575Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you happen to know who directed the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:04:08.848Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah of course. It was Pierre Coffin and Chris Renaud. They are some great directors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:04:30.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I recognize Chris Renaud, but cannot recall if I've seen Pierre Coffin do any other films.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:05:22.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you remember when Vector gets trapped in the moon as it begins to expand and sends him into orbit? That was so hilarious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:05:44.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Something like that could be portrayed as quite dark, but they made it funny!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:07:07.406Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's amusing to me how shrinking the moon accomplishes no real purpose other than proving something to another supervillain", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:07:46.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the idea of there being a \"Bank of Evil\" that supervillains have to go to in order to get loans for their nefarious schemes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:08:37.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that is so amusing. I still can't believe that Gru got away with stealing the shrink ray from Vector. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:10:16.014Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, of course he did. He's the \"hero\" of the story lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:10:40.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who is the president of that \"Bank of Evil\" again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:11:51.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not good at character names in movies lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:11:59.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mr. Perkins. I'm usually not either, but I just couldn't forget him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:12:27.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think of the girls giving Gru the money from their piggy bank so he could keep paying his Minions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:13:05.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it made my eyes tear up when I saw them be so selfless like that and want to help Gru.Just like one of the critics said, the movie was \"fun, with teary bits\" and I defintely felt those teary bits hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:14:02.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how did you feel when Vector kidnapped the kids", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:14:24.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, totally. I don't cry much, but that moment just choked me up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:14:31.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was in COMPLETE tears", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:14:43.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My first thought was how Vector shows what a real villain is, compared to Gru who is ultimately a nice guy (even if he is technically a villain)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:15:32.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Vector\n was just plain cruel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:16:32.251Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. who animated the movie do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:17:04.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was an entire animation studio, Mac Guff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:17:41.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who did the main theme song?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:18:02.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh! That was Pharrell! He is one of my favrorite musicians", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:19:42.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the message of it, and the irony of it being in a movie about \"bad guys\" is amusing to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:20:16.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I think I can say that overall I liked this movie and I would recommend it to anyone looking for a fun, lighthearted time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:21:05.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. how old is this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:21:29.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "By now, it's 8 years old. Wow, time really flies o.o", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:22:00.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hey, I had a good time talking with you. I'll end the conversation in a sec if that's cool with you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:23:37.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats fine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:24:15.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great talking to you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:24:21.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are we done?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:24:27.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I think we covered everything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:24:50.874Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a good one!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T22:24:58.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a greate one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T22:25:02.866Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T21:50:19.685Z", 
+  "uid1LogOutTime": "2018-03-05T22:25:04.312Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T21:50:19.955Z", 
+  "uid2LogOutTime": "2018-03-05T22:25:01.043Z", 
+  "uid2response": {
+    "feedback": "Conversing was a little bit clunky from only being able to refer to the document", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR437", 
+  "user2_id": "USR1686", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

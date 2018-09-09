@@ -1,0 +1,210 @@
+{
+  "date": "2018-02-02T22:02:28.399Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there! What movie are you reading about today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:03:15.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, the movie is Marvel's The Avengers (2012)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:05:06.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh interesting. I haven't seen that yet. What'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:06:14.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about*?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:06:19.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it's based on the comic book series. Basically a team of superheros get together, which include the Hulk, Captain America, Thor and others to stop Thor's brother from taking over the Earth.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:08:41.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds pretty neat so far. Do you think it holds true to the comic book series or is it more of it's own unique story? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:10:34.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't read the comic book series much, it has pretty much all the same characters though.  It's gotten pretty good reviews... 92% on Rotten Tomatoes and an A+ on CinemaScore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:13:12.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm so it probably does hold true to the series. Are the reviews you mentioned on those websites that of critics or of regular consumers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:14:25.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe the scores for those two sites are made up of mostly regular consumers... The critics score was a bit lower... 69/100 on Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:17:45.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Still not too shabby. I care more about the consumer reviews anyway. Would you say the movie is more action and adventure or more drama related?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:19:03.887Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The genre says it's Drama, Superhero... But it definitely has a lot of action though  with all the superheros involved and the plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:22:14.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cast includes Robert Downey Jr., Chris Hemsworth, and Scarlet Johansson just to name a few", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:26:24.298Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It really sounds like a great movie. Especially with that cast line up. Well thanks for the information about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:27:20.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I have enough to make an informed decision at this point about whether I want to see it. But just in case, is there anything else you want to mention?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:28:17.024Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You're welcome. It was directed by Joss Whedon if you are familiar with any of his works", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:30:24.978Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not actually, what are some of his more famous works? Do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:31:09.768Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he's worked on things like Rosanne and Toy Story.. but the Avengers movies are probably what he's most popular for now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:34:27.512Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh okay! I've probably heard the name and forgotten what he was associated with. Has the movie you mentioned won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:35:16.189Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure.. It doesn't look like it based on the document though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:36:49.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Seems like it should have haha. How long is the movie by the way?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:37:55.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, probably should have.. these superhero movies get snubbed a lot at the awards shows", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:39:05.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's 143 minutes according to the document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:39:21.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a shame too, because re-makes of old stories aren't necessarily all bad. Quite a long movie, but to me that's better than the 90 minute or less films. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:41:22.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm strongly considering doing so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:42:50.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I saw it. I thought it was a pretty good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:43:20.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it's probably worth me seeing then. Would you say it's one of your favorites or no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:44:52.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it was one of the better ones in the series. All the superheros have different personalities, especially Downey's character Iron Man, who is pretty blunt and witty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:46:59.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "...\nso it was fun to see how they all interacted with one another", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:47:27.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like a really great cast. Are there any iconic scenes in the movie that you distinctly remember? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:48:05.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When all the Iron Man, Captain America, Hulk, etc basically all the good ones get together and try to save the people of New York city from Loki\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:51:31.859Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T22:02:28.399Z", 
+  "uid1LogOutTime": "2018-02-02T22:52:31.628Z", 
+  "uid1response": {
+    "feedback": "The other user described every single part of the movie that could be described. I think the other person made it sound interesting and relatable.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T22:02:28.428Z", 
+  "uid2LogOutTime": "2018-02-02T22:52:20.079Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3872", 
+  "user2_id": "USR1554", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

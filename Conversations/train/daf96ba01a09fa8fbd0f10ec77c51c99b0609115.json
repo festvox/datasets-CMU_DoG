@@ -1,0 +1,91 @@
+{
+  "date": "2018-02-07T15:55:00.645Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:23.017Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi have you see. The Imitation game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:32.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yp", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:45.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:48.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i forget the name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:58.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "talk something about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:09.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it but it seems like Benedict Cumberbatch won an award for his role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:22.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you think he played his role well in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:25.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes he always playing well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:47.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also in the movie too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:51.556Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T15:55:00.645Z", 
+  "uid1LogOutTime": "2018-02-07T16:04:13.153Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:55:00.841Z", 
+  "uid2LogOutTime": "2018-02-07T15:59:08.207Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1401", 
+  "user2_id": "USR1316", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

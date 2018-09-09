@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-05T21:20:36.794Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen The Imitation Game? It's one of the most important stories of the last century!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:22:07.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:33.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre is the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:42.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is historical, based on the life of Alan Turing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:23:08.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What year did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:23:37.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2014.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:23:46.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a few of the actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:24:16.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Benedict Cumberbatch as the real life British cryptanalyst Alan Turing. It also stars Keira Knightly, Matthew Goode, Rory Kinnear, Charles Dance, and Mark Strong.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:25:05.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:25:42.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know how long it is, but Rotten Tomatoes gave it a 91% approval rating, and CinemaScore gave it an A+.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:26:42.464Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What can you tell me about the plot/Alan Turing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:27:28.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Alan Turing decrypted German intelligence codes for the British government during the Second World War. It tellls the story of his life starting with when he was a boy at a boarding school in 1927, and how he developed an interest in cryptography at that time. Then it tells bout how he helped the British after they declared war on Germany in 1939. It starts in out in 1951 though, with an older Turing telling his life's story after his home is broken in to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:25.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the MPAA rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:32:58.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:33:40.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Probably PG-13, I bet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:16.678Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Perhaps.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:34:48.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you ever seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:35:06.116Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No. But, Empire described it as a \"superb thriller\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:35:49.484Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else can you tell me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:36:34.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was directed by Morten Tydlum.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:36:58.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what other movies he has directed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:37:33.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no, but the book this was loosely based on, The Enigma by Andrew Hodges was previously adapted for a stage play and a BBC drama called Breaking the Code.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:39:17.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what the budget for the film was?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:39:51.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No telling.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:40:16.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Those were some pretty great review scores that you provided earlier. Did it win any major awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:41:58.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:43:19.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have anymore information?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:43:51.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The plot also reveals that Turing is gay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:44:38.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any other personal details about him that get revealed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:45:21.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He had romantic feelings for his childhood friend, Christopher Morcom. And Turing marries a woman who he later reveals his homosexuality to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:46:51.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see. Thanks so much for educating me! That should be enough information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:47:20.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Have a good day.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:47:40.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Likewise.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:47:47.427Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T21:20:36.794Z", 
+  "uid1LogOutTime": "2018-02-05T21:47:50.114Z", 
+  "uid1response": {
+    "feedback": "I very well may. I enjoy Dan Brown's novels, which often deal with cryptography, as well. The excellent ratings are encouraging, too.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:20:36.812Z", 
+  "uid2LogOutTime": "2018-02-05T21:47:47.437Z", 
+  "uid2response": {
+    "feedback": "It sounded like an interesting movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR126", 
+  "user2_id": "USR1561", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

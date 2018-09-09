@@ -1,0 +1,270 @@
+{
+  "date": "2018-02-05T15:25:04.650Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. what is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:25:48.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, t\nhe movie we got is The Imitation Game", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:26:31.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:26:48.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a biography of about Alan Turing, a British cryptanalyst who decrypted German intelligence codes during World War 2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:27:53.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the lead actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:28:11.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The lead actors are Benedict Cumberbatch and Keira Knightley", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:28:30.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do they successfully decrypt the code?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:29:12.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure if they successfully decrypt the code, I would assume so otherwise I doubt it would be as historically relevant.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:29:48.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. What kind of movie is it? Thriller? Drama? Comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:29:55.814Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:30:07.523Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any other known actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:30:28.312Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, there is Matthew Goode and Tom Goodman-Hill in the movie as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:30:44.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:30:57.837Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure how long the movie is, if I had to guess I'd say 2 hours.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:31:15.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What year was it released originally\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:31:50.752Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was originally released in 2014.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:05.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:15.030Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It doesn't mention winning any awards, however it has amazing reviews from different organizations.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:56.099Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you tell me more about the reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:33:14.133Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The film received a CinemaScore of A+ as well as a Rotten Tomatoes review of 91%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:33:37.275Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There are quite a few key scenes throughout the movie that are relevant\n as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:34:23.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Relevant to what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:34:40.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To the story. One of them explains how the main character, Alan Turing is unhappy in his boarding school due to bullying. It is through that unhappiness that he found his interest in cryptography.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:35:42.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I 'm quite interested in the movie. Anything else you want to tell me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:35:56.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't want to give too much away, but there is a few points where characters are revealed as spys and release important information about the main character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:36:38.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ph, spy. i love spy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:36:55.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do too. Also, there are a lot of secrets within the movie about the main character as well that are incredibly important to the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:37:31.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I can't say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:37:41.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did it do in the box office?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:38:05.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't have any specifics, but based off the reviews of the film I would say very well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:38:29.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else do you know about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:39:04.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know that it has been regarded as one of the most important stories of the last century.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:39:29.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:39:59.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is some controversy however with the film, like some people are upset due to misrepresentation of facts and rearranging things to make a better story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:11.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The director was Morten Tyldum.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:40:21.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it because the lead character is gay?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:40:39.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know if it has to due with him being gay, more so the order at which events were revealed misrepresented the work that Turning did at Bletchley Park.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:41:25.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks. It's nice chatting with you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:41:33.741Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:41:39.804Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T15:25:04.650Z", 
+  "uid1LogOutTime": "2018-02-05T15:41:42.739Z", 
+  "uid1response": {
+    "feedback": "The movie sound quite interest. And the mention of spy action alone attracts me enough to go see it.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:25:04.692Z", 
+  "uid2LogOutTime": "2018-02-05T15:41:46.076Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2497", 
+  "user2_id": "USR4401", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

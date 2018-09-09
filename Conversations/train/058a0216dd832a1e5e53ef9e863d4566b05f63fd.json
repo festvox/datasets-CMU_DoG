@@ -1,0 +1,115 @@
+{
+  "date": "2018-03-20T19:57:46.089Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:59:04.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:01:03.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:01:28.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what took you so long dude?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:01:46.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i just finished reading, i am a slow reader", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:02:08.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:02:22.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "let's roll", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:02:33.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the wolf of wall street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:02:47.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no but according to the review it does not sound too good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:03:09.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "talking based on the ratings i would say it is a decent movie though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:03:58.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whaddya think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:04:06.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:04:34.521Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a 78% from rotten tomatoes doesn't seem cheap to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:04:38.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats a rotten tomatoes\\]", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:05:15.713Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T19:57:46.090Z", 
+  "uid1LogOutTime": "2018-03-20T20:05:53.632Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T19:57:46.408Z", 
+  "uid2LogOutTime": "2018-03-20T20:05:37.423Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR892", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

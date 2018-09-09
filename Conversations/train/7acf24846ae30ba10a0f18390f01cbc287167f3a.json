@@ -1,0 +1,159 @@
+{
+  "date": "2018-02-07T21:37:26.755Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello i liked the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:39:03.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen it before, but it sound interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:39:27.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What does it mean by a shared dream world?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:39:54.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "KInda like the matrix.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:40:19.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its really good same director as the dark knight", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:40:42.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of that scene  in the trailer where the whole city bends in half?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:40:50.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:41:02.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What role does Leonardo DiCaprio's character play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:41:38.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cobb some crazy dream hacker lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:42:13.414Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ha, that's sounds cool!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:43:30.309Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's interesting that the film contains multiple levels of reality. Besides the matrix, can you think of any movies like that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:44:33.557Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm maybe the lawnmower man ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:45:29.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of kicks do they use to awake people up from the dream level?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:46:17.032Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some weird stuff", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:47:02.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the director, and set of actors, especially Leonardo DiCaprio. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:05.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I should check it out sometime", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:48:15.037Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah its really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:48:46.328Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's crazy that Mal would commit suicide ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:21.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "to wake up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:50:26.130Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know that would be really crazy to experience", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:51:25.397Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I would be creeped out if someone could go into my dreams. In a way, it was would cool if friends and family could all share a dream world, but still weird and creepy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:52:11.336Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:37:26.756Z", 
+  "uid1LogOutTime": "2018-02-07T21:52:09.578Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:37:26.798Z", 
+  "uid2LogOutTime": "2018-02-07T21:52:21.792Z", 
+  "uid2response": {
+    "feedback": "I thought it went good, but the person left the chat. I'm not sure if it was too early or not. I felt I asked pretty good questions and provided good answers.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2667", 
+  "user2_id": "USR3968", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

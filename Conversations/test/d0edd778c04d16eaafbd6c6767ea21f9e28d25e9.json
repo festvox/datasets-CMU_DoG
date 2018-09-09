@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-15T19:43:47.359Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey! Would you say you are a fan of musicals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:44:15.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not really.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:44:37.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well there's always an exception and the movie La La Land may be that one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:46:00.734Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T19:43:47.359Z", 
+  "uid1LogOutTime": "2018-02-15T19:47:54.396Z", 
+  "uid1response": {
+    "feedback": "The person just left me in one message!", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T19:43:47.386Z", 
+  "uid2LogOutTime": "2018-02-15T19:45:21.147Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3374", 
+  "user2_id": "USR1228", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

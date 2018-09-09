@@ -1,0 +1,340 @@
+{
+  "date": "2018-03-01T23:39:58.119Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:40:15.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have a movie to discuss?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:40:38.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lets talk about bruce almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:40:47.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:40:50.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok, no I haven't see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:40:56.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it's about a guy who becomes God or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:41:15.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, its probably one of Jim Carrey's best films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:41:30.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main actors played by", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:41:32.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not a fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:41:36.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "at least that what all of the reviewers say lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:41:40.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's got Morgan Freeman in it, so that saves the movie from people who cant stand Carrey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:42:04.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morgan Freeman is definitely a good thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:42:17.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he's actually pretty funny in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:42:50.158Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but its a hit or miss tbh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:42:54.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you can tell by the 48% rotten tomatoes score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:43:06.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw (the existence of) some documentary on Netflix recently that Carrey is a changed person since playing that Latka guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:43:16.506Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "if you know what I'm talking about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:43:21.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Andy Kaufman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:43:29.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds vaguely interesting to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:43:58.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But back to this film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:44:09.005Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow, never would have guessed it. I think it was because this movie was on the edge of his prime", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:44:20.350Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are the women actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:44:26.313Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jennifer Aniston was in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:44:37.523Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "really, I like her also. She is very subtle", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:44:53.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah, she plays the girlfriend in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:45:28.394Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah, did they have children in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:45:43.092Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No children", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:46:11.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But Steve Carrell plays his boss", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:46:17.998Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he has a pretty big role in the movie too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:46:24.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really, he's interesting also. I just saw some movie with him in the last few days", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:46:45.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, but he is not as funny in this movie as he is in the movies he stars in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:47:08.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that one best where he is with that cute Ryan guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:47:09.848Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gosling, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:47:15.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure of the name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:47:28.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There isn't much eye candy in this Bruce Almighty unfortunately lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:47:41.848Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmn, I can see him playing uptight characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:47:44.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jim Carrey. Comedy. No man candy. Why I didn't see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:48:03.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, and Carrey gets annoying in most of his movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:48:19.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he kind of treads that territory in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:48:27.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "overdoes it and stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:48:31.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "annoying overdoes it is a good definition of him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:48:51.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's his shtick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:49:07.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because its supposed to be like god is controlling him...so it gives him an oppurtunity to act like an idiot lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:49:10.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sp?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:49:12.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Huh?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:49:23.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats what happens to his character in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:49:35.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "morgan freeman plays god", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:49:46.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "god controls his actions so his actions are dumb?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:49:54.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because god wants to spite him or something", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:50:11.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so he makes him embarasse himself in public", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T23:50:19.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah, haha god", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T23:50:20.571Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T23:39:58.119Z", 
+  "uid1LogOutTime": "2018-03-01T23:50:34.245Z", 
+  "uid1response": {
+    "feedback": "I won't watch this movie because it's a comedy starring Jim Carrey, but now I know more about it.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T23:39:58.192Z", 
+  "uid2LogOutTime": "2018-03-01T23:50:21.973Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR815", 
+  "user2_id": "USR751", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

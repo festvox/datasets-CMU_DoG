@@ -1,0 +1,71 @@
+{
+  "date": "2018-03-30T12:26:58.616Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T12:28:02.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "super", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T12:28:23.610Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maleficent was an amazing movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T12:28:31.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yaaaa", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T12:28:44.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T12:29:07.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "romantic movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T12:30:58.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like romantic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T12:31:37.401Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T12:26:58.616Z", 
+  "uid1LogOutTime": "2018-03-30T12:29:58.993Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T12:26:58.881Z", 
+  "uid2LogOutTime": "2018-03-30T12:31:54.932Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4261", 
+  "user2_id": "USR492", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

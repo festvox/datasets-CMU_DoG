@@ -1,0 +1,246 @@
+{
+  "date": "2018-02-15T20:11:04.320Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hiya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:11:19.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:11:24.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how do you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:11:38.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the title?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:11:45.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mean girls", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:11:50.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ohh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:12:00.218Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:12:02.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah i like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:12:10.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "lindsay lohan is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:12:23.114Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah she is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:12:29.050Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "rachel mcadams too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:12:43.275Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:12:47.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she played one of the mean girls... the hot blonde one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:04.876Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:13:11.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she was funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:18.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:13:22.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lacey chabert is in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:34.550Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yeah?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:13:42.056Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "another mean girl", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:13:48.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:13:52.541Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its been a long time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:14:07.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:14:10.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2004", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:14:15.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was a long time ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:14:21.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:14:24.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i feel old, lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:14:33.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:14:43.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was a great script", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:15:01.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:07.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "very funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:15:14.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and smart", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:21.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "tina fey was a screenwriter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:15:45.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no kidding", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:51.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:56.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:16:00.204Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T20:11:04.320Z", 
+  "uid1LogOutTime": "2018-02-15T20:16:05.553Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T20:11:04.324Z", 
+  "uid2LogOutTime": "2018-02-15T20:16:10.615Z", 
+  "uid2response": {
+    "feedback": "sounds good", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4469", 
+  "user2_id": "USR3620", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

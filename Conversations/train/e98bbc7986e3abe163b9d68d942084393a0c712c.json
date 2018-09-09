@@ -1,0 +1,226 @@
+{
+  "date": "2018-03-07T15:48:42.453Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:48:50.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:48:57.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:49:17.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHAT IS THE MOVIE?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:49:29.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I CAN;T SEE MOVIES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:49:50.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. It is Batman V Superman Dawn of Justice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:05.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "NO I NOT SEEN IT", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:28.403Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHAT IS IT ABOUT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:43.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's the two superheroes fighting. I h\nave never seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:04.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:18.357Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got some pretty bad ratings", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:27.415Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WHO IN IT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:30.157Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ben Affleck", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:38.025Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "WHAT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:39.976Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you turn off all caps?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:51:49.955Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:03.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was directed by Zach Snyder", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:52:09.985Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i see better with cap?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:26.699Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:52:49.191Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The Metacritic score was only 44/100. Okay then, whatever works.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:03.175Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:53:17.924Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it's not surprising though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:30.817Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:53:38.519Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The story is pretty bland", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:39.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you heard of this movie at all?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:56.825Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:16.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know who Amy Adams is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:54:26.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:40.293Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She plays Lois Lane in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:54:47.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:52.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:55:15.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen this movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:56.424Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T15:48:42.453Z", 
+  "uid1LogOutTime": "2018-03-07T15:57:06.178Z", 
+  "uid1response": {
+    "feedback": "thank you.", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:48:42.499Z", 
+  "uid2LogOutTime": "2018-03-07T15:55:00.823Z", 
+  "uid2response": {
+    "feedback": "", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2478", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

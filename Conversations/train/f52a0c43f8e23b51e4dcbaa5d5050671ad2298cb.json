@@ -1,0 +1,225 @@
+{
+  "date": "2018-03-01T14:20:02.130Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:20:22.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:20:33.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So the movie you need to watch is Despicable Me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:21:05.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like an interesting title. Can you tell me about the plot of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:21:43.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This particular page doesn't dive too much into the plot, but it has a rotten tomatoes score of 81% with a 6.8/10 average.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:23:05.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:23:33.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:23:39.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me anything specific about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:24:00.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a animated movie with characters voiced by Steve Carell, Jason Segel, and Russell Brand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:24:40.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it sounds like it might be a funny film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:25:03.730Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:27:27.170Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, sorry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:27:43.191Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this a G-rated movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:28:12.051Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That information is not listed, but I would guess its probably PG", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:28:43.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you have or had kids, would you feel comfortable taking them to see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:29:02.382Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For sure.  One critic even says Kids will dig it and adults will smile with amusement", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:29:41.095Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot revolves around a super villian named Gru who wants to steal the moon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:30:01.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmm. Does it seem like it has sci-fi involved?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:30:23.408Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not so much sci-fi, but more of comedy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:31:01.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. Who plays the villain?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:31:35.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Throughout the movie, Gru tangles with his rival, Vector to try to be the best super villian", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:31:37.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is this more of a movie boys would like? It sounds like it to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:32:13.676Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would think so, but Gru does become a foster home for 3 young girls that are fun and shape the main character throughout.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:33:40.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds like a good twist. Do you know which star does the voice for Gru?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:34:13.474Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Steve Carell plays Gru and Jason Segel voices his rival Vector.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:34:38.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do the characters wear capes and stuff or are they more like animal characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:35:42.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The characters are just like you and me.  Usually with super villians comes super heroes, but not in this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:36:54.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess I am trying to find out what they look/dress like. So they are basically human characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:37:30.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are for sure humans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:38:11.979Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If they characters are villains do you think there is still a moral to the story or a good ending? If it is a kids movie I would hope so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:39:03.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good ending for sure.  There is a moral to the story and the three girls help Gru to see it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T14:39:37.999Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T14:40:05.767Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T14:20:02.130Z", 
+  "uid1LogOutTime": "2018-03-01T14:40:11.565Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T14:20:02.200Z", 
+  "uid2LogOutTime": "2018-03-01T14:39:39.511Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4762", 
+  "user2_id": "USR26", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2018-03-07T01:24:58.593Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:25:10.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:25:56.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did they give you a movie to discuss", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:27:53.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie they told me about was mean girls? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:28:05.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:29:19.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:31:04.608Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T01:24:58.593Z", 
+  "uid1LogOutTime": "2018-03-07T01:32:24.995Z", 
+  "uid1response": {
+    "feedback": "The other user stopped responding to me. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T01:24:58.598Z", 
+  "uid2LogOutTime": "2018-03-07T01:32:08.355Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1732", 
+  "user2_id": "USR4296", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

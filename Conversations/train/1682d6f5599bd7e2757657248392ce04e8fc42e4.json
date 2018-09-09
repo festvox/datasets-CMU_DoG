@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-20T22:20:09.058Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:20:44.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do! I've seen this movie - how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:21:17.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, actually! After reading some of the critical responses, though, I am starting to think about it a little differently. What do you think about the comment referencing the hype of exploring Batman's damaged psyche?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:22:39.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was interesting. They definitely did  thought it was interesting. They definitely did explore his damaged psyche. I could definitely see why he ended up the way he did.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:24:10.905Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T22:20:09.058Z", 
+  "uid1LogOutTime": "2018-02-20T22:22:44.402Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T22:20:09.058Z", 
+  "uid2LogOutTime": "2018-02-20T22:25:30.964Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2481", 
+  "user2_id": "USR2799", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

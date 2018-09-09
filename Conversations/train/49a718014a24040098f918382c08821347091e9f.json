@@ -1,0 +1,306 @@
+{
+  "date": "2018-03-07T17:22:17.302Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:22:31.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:22:39.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you want a good movie recomendation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:07.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, please. I would love one. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:23:15.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:35.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "one of a kind movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:42.947Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome. Who directed that one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:24:07.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:24:29.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out 2005", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:24:38.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was also writen by Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:25:00.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was that one the first in the new Nolan trilogy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:25:05.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:25:31.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "for me the best Betman movie ever", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:25:54.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who plays Batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:25:57.020Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cristian Bale", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:26:08.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christian Bale", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:26:22.091Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know Joker is the bad guy in The Dark Knight. Who is the bad guy in Batman Begins?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:26:33.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did the critics think of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:28:46.235Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "bad guys are Scarecrow and the League of Shadows ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:29:45.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah, cool. So what did the critics think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:30:01.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "critics were 84% rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:30:39.590Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "7.7 of 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:30:55.733Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Excellent. Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:31:16.316Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he was nominated for oscar,he won saturn award", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:32:10.359Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "AAFCA Award", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:32:27.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and many more", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:32:51.548Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who? Christian Bale or Christopher Nolan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:33:00.938Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if you meant for the oscars Best Achievement in Cinematography\nWally Pfister ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:34:04.165Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, cool. Have you seen it and if so what did you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:34:26.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is a great movie ,deep and dark as the Betman movie should be,amazing cast ,acting perfection ,top production ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:35:30.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like my kind of movie. Who plays the butler?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:36:07.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Michael Cane", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:36:48.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Caine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:36:56.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gary Oldman is Gordon ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:37:24.884Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Katie Holmes is Rachel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:37:47.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. Does it tell Batman's origin story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:37:49.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how all started and evolved", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:38:40.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very cool. Does it show how his parents were killed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:39:52.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "as a child Bruce falls in to dry well and ...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:40:24.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:40:29.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did it do at the box office?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:40:46.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is like past and present but more action than drama\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:41:13.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Sounds good. Thanks for all the info!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:41:50.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "374.2 million USD box office", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:41:58.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No problem ,i was glad to share this great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:42:24.840Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T17:22:17.302Z", 
+  "uid1LogOutTime": "2018-03-07T17:42:35.586Z", 
+  "uid1response": {
+    "feedback": "The other person did a great job of giving me the info I need to make an informed decision based on my questions. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:22:17.437Z", 
+  "uid2LogOutTime": "2018-03-07T17:42:55.882Z", 
+  "uid2response": {
+    "feedback": "Very interesting ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR661", 
+  "user2_id": "USR3489", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "date": "2018-03-08T01:53:15.384Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So how does the movie sound? Good to try to go see or pass?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:54:00.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! We're talking about Despicable Me, a 2010 Disney film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:54:05.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds excellent, very cute and funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:54:14.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great I love the Menions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:54:22.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a supervillian named Gru, and his nemesis Victor Perkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:54:42.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me what makes it sound like you would want to see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:54:48.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I love superhero comedies, so there's one thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:55:05.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it's also a Disney film, so it's pretty much bound to be good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:55:19.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it is going to funny that is good. i need a good laugh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:55:27.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And it turns the villian trope on its head, so it's also going to be unexpected", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:55:44.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Disney films are always lighthearted", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:55:46.112Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Usually, yes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:56:06.554Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So twists and turn. Leaves you until the end to try to guess the ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:56:16.462Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep! But also a lot of the 'usual' things aren't quite what they seem either, so even when you think you know what's going on, you don't!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:56:45.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So based on the review you read will you go see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:56:48.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:56:52.334Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds adorable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:56:56.446Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I will give it a go and see how it is also.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:57:11.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Excellent!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:57:22.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you enjoy comedies in general?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:57:47.276Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do. Romantic comedies mostly but this will be good ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:58:05.730Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, there's no romance here, but plenty of familial fluff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:58:21.731Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Since you like superhero movies this should fill you up as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:58:28.629Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep! Even if there are no heroes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:58:36.688Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:58:38.338Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Unless you count the girls", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:58:42.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At least I wont have to cover my eyes and ears. Lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:58:47.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No heros? There has to be a hero.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:59:08.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru, the villain and the protagonist, might count as the hero?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:59:28.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it sound like one of the girls are going to be a huge character in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:59:37.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it's mostly his growing relationship with the daughters he adopts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T01:59:46.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gru is a funny name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T01:59:51.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is! Suitable for a Disney villain, though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:00:08.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he was a bachelor and he gets to have a family that is cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:00:14.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:00:18.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:00:24.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean, he already had the minions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:00:30.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And they tried but they're not very effective at, well, anything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:00:40.512Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes but they weren't seen as a family.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:00:46.027Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So does he fight the other antagonist?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:01:11.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sort of?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:01:16.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's a long chase scene including rocket ships", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:01:33.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hMMM", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:01:34.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but it's mostly focused on rescuing the girls from his nemesis", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:01:45.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did he build a rocketship or steal one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:01:59.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Both!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:02:07.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol. Figures", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:02:13.467Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He builds his own, but his nemesis steals it, so he steals his nemesis' rocketship in turn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:02:24.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's all very exciting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:02:35.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ahh. He gets a turnaround of circumstances. I love hearing the bad guy loses. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:03:02.545Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stranded on the moon, without his rocketship, just his astronaut suit", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:03:21.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It makes me happy to hear the villian does a turn around and turns somewhat good by adopting the girls.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:03:25.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Better than his birthday suit. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:03:41.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:03:43.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean, it is a disney movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:03:49.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aimed at kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:03:53.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sorry I couldn't resist it. I don't do racy movies but it popped in my head. I am glad I could take the kids and leave them for a few minutes and know nothing racy would happen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:04:41.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope, nothing even mildly spicy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:04:54.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's very exciting, of course, but I would absolutely take a small child to see it and not be worried about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:05:28.018Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are the minions different colors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:06:07.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope! They're all yellow, but they have different sorts of hair and number of eyes and height and so on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:06:32.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So they're visually a unit but also recognizable solo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:06:45.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Different personalities?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:06:50.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:06:55.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do the minions Do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:08:41.362Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Attempt to be useful and fail hilariously, mostly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:08:57.130Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They live up to their title", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:09:04.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there lots of minions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:09:17.251Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So many", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:09:35.742Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Eight or nine specific ones? But dozens and dozens and dozens", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:09:58.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow that is a lot of personalities and to think he wanted to add girls to the mix.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:10:33.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't spoil everything!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:10:45.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes you can.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:10:54.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I still want to see it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:11:02.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds delightful.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:11:07.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is delightful! Go into it with some mystery, you'll enjoy it more!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:11:28.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What age group do you think is appropriate for this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:11:47.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Five and up", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:11:54.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a little complex for under five", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:12:00.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To a very old adult?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:12:06.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:12:10.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:12:16.001Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does the rocket explode?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:12:26.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, they just steal it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:12:40.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And are the girls young or teenagers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:12:46.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Young", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:12:53.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They stole it from the other guy that was holding the girls hostage?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:13:08.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The oldest is eleven, I think? The youngest is seven or eight", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:13:11.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:13:13.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did Gru meet the girls.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:13:17.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen it yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:13:30.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:13:35.119Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He sees them selling cookies and has a wonderful, fiendish idea!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:13:56.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I always mean to watch certain things and then can't decide if its worth it or not.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:14:07.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which turns out to not be quite so fiendish ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:14:08.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it is!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:14:14.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Girls and cookie what could go wrong.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:14:29.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's an adorable, heartwarming story of found family, matched with supervillian hijinks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:14:33.049Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-08T01:53:15.385Z", 
+  "uid1LogOutTime": "2018-03-08T02:16:03.475Z", 
+  "uid1response": {
+    "feedback": "I like the sound of the movie and think it is cute and would be an easy watch.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T01:53:15.385Z", 
+  "uid2LogOutTime": "2018-03-08T02:15:53.679Z", 
+  "uid2response": {
+    "feedback": "The document didn't load correctly the second time, and then put all four parts up the third?", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1840", 
+  "user2_id": "USR2014", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2018-03-20T16:22:34.707Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there.  Do you like comedy movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:22:50.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi... Yes I do. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:35.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:23:39.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Macaulay Culkin?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:23:45.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's not my favorite\n. I like him in this movie the best. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:24:23.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen Home Alone, a 1990 comedy film about a boy who is left behind when his family flies to Paris?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:24:27.167Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:22:34.707Z", 
+  "uid1LogOutTime": "2018-03-20T16:25:20.850Z", 
+  "uid1response": {
+    "feedback": "The user left the chat.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:22:34.765Z", 
+  "uid2LogOutTime": "2018-03-20T16:25:08.351Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3334", 
+  "user2_id": "USR3911", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

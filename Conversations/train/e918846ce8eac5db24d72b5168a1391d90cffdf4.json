@@ -1,0 +1,289 @@
+{
+  "date": "2018-03-29T15:10:05.490Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:10:10.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:10:16.790Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019m great. You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:10:24.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good. Have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:10:34.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can\u2019t see the document on the left yet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:10:52.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:10:56.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Monsters University, do you know it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:11:06.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:11:15.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I\u2019ve seen it as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:11:24.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:11:30.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, so you know a lot. Yes! What was your favorite part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:11:47.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When they win the scare games, I guess...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:12:08.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don\u2019t really remember much tbh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:12:19.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:12:22.722Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know that I really have a favorite part. I just like the way it was put together and the overall spirit of the movie. Very fun and cute!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:13:08.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You\u2019re right about that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:13:22.102Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It\u2019s definetely fun and lighthearted ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:13:36.219Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely. I think I liked the other Monsters movies more but this one was super fun.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:13:53.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:14:11.246Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess I liked this one more compared to the others", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:14:20.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I don't know, they're all really fun. I think that I liked the scare games part the most.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:14:29.706Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:14:44.280Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So, can you see the reviews on the given document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:14:53.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did the movie fare?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:15:00.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, overall it got a 79% on Rotten Tomatoes so definitely good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:15:35.591Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definetely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:15:43.483Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you have CinemaScore\u2019s?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:15:58.062Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep, got an A on that and a 65/100 on Metacritic. So pretty good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:16:12.120Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, it\u2019s too bad for Metacritic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:16:37.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know who voices the monsters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:16:48.838Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Metacritic has differently weighted scores, so anything above 50 is pretty good ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:16:58.823Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it's Billy Crystal, John Goodman as the two main guys.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:17:15.582Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And then Steve Buscemi and Helen Mirren as some of the others.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:17:28.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "John Goodman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:17:28.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah he's in a bunch of stuff.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:17:35.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Roseanne most recently", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:17:39.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Iwow, that\u2019s a great cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:17:41.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I never would have imagined", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:17:47.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very good, probably why the movie is good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:17:52.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, this is a pleasant surprise", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:18:01.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, do you have any interesting facts about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:18:14.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you want to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:18:27.880Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T15:10:05.490Z", 
+  "uid1LogOutTime": "2018-03-29T15:18:33.140Z", 
+  "uid1response": {
+    "feedback": "I don\u2019t know really. I mean, I got lots of interesting new information and it definetely made me more interested in watching the movie again.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:10:05.588Z", 
+  "uid2LogOutTime": "2018-03-29T15:18:29.883Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR773", 
+  "user2_id": "USR1563", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

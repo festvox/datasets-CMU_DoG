@@ -1,0 +1,79 @@
+{
+  "date": "2018-03-21T19:23:50.185Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey. We are discussing The Wolf of Wall Street.  You should really watch it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:24:22.781Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the movie, though I have heard good things. Where is the setting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:24:57.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It takes place mainly in New York City. The main character of the movie who is played by Leonardo Dicaprio lives on the Gold Coast on Long Island.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:25:41.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is he a stock broker?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:25:56.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is.  When you watch the movie, you should also know that he is a corrupt stock broker for a company called Stratton Oakmont. Do you like movies that are black comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:26:53.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a good premise. I do like black comedies as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:27:29.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love the scene where his wife finds out about his corruption because she totally leaves him and it shows how his life took a downward spiral.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T19:28:20.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a really good movie, thank you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T19:28:54.304Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T19:23:50.186Z", 
+  "uid1LogOutTime": "2018-03-21T19:28:33.995Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T19:23:50.239Z", 
+  "uid2LogOutTime": "2018-03-21T19:28:55.309Z", 
+  "uid2response": {
+    "feedback": "The movie definitely seemed engaging according to the other use, one question was very random though.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2376", 
+  "user2_id": "USR2284", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

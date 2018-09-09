@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-07T22:05:42.124Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:06:11.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:06:21.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie did you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:06:59.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of the movie Dunkirk?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:07:05.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I haven't watched it though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:07:30.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It scored 92% on rotten tomatoes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:07:45.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know its a war movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:07:52.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It must be good then.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:08:03.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds pretty intense.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:08:08.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:08:26.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would say any movie with \"impressionistic masterpiece\" in its review is probably pretty good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:08:44.492Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am planning on it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:08:52.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is true.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:09:01.514Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty interested to see how Harry Styles does in his movie debut.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:09:22.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the lead actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:09:26.974Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, me too. I didn't realize he was in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:10:02.591Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Fionn Whitehead is the lead, i had never heard of him but he was cast after a secretive process so i am assuming he did pretty well!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:10:37.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The last war movie I watched was Pearl Harbor but this sounds better", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:10:52.824Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haven't heard of him either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:11:03.991Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I trust Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:11:22.315Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutley, it takes place in france in the fall of 1940. So it will be visually pretty interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:11:39.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Metacritic hit it with 94 out of 100, that seems pretty good too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:12:09.159Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, it does. I think I heard it did well in the box office as far as profit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:12:51.614Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would hope so! I cant imagine what else would have been in the theater\n in 2017 though. I wonder if the competition was fierce?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:13:58.602Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it would be refreshing to see a war movie without all the false heroics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:14:26.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's a good point. Realism is important to me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:16:09.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seeing the evacuation of Dunkirk from three different perspectives is a really good idea. Its easy to get caught up in the us vs them aspect of war.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:16:16.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that about the movie. It makes you understand your \"enemies\" perspective", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:08.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the goods one do at least! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:17:31.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Makes me wonder how many wars could be avoided by doing this ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:17:47.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "evacuating 300,000 people during wartime must have been insane!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:18:10.610Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so at least its not just about a war, we get to see some actual good being done!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:18:32.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Geez, that is a lot... ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:18:50.387Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T22:05:42.124Z", 
+  "uid1LogOutTime": "2018-02-07T22:19:07.584Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T22:05:42.191Z", 
+  "uid2LogOutTime": "2018-02-07T22:18:52.206Z", 
+  "uid2response": {
+    "feedback": "War movies are not interesting to me", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3143", 
+  "user2_id": "USR2083", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

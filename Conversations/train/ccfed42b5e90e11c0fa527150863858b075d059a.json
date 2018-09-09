@@ -1,0 +1,462 @@
+{
+  "date": "2018-03-21T22:37:47.505Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:38:31.172Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:44:15.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:44:31.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:44:44.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:44:49.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:45:06.481Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, a long time ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:45:17.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard about it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:45:25.905Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a good movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:45:27.081Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I've heard of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:45:33.833Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's the better iron man movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:45:44.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "DO you watch superhero movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:46:08.030Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robert Downey, Jr. is Iron Man, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:46:18.373Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:46:23.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sometimes, I got tired of them years ago and kind of stopped.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:46:34.543Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was the last one you watched?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:46:45.428Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ummm, I saw Captain America but I'm interested in learning more about Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:47:22.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Iron man has a really cool suit ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:47:32.655Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "his heart got ripped out or something and he created a cool machine heart?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:47:51.512Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha ha, I'll bet it is. Where did he get it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:47:55.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I cant remember exactly what it was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:47:57.779Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He built it himself!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:48:01.888Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Iron Man built it himself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:48:15.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:48:19.479Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tony Stark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:48:23.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was just going to ask you what it was.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:48:35.426Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His heart got ripped out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:48:42.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was captured by uh terrorists and he built a suit out of junk that is able to shooot bombs and stuff", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:49:03.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was like his heart wasn't functioning as well as it should", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:49:19.039Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And he flies, too, doesn't he?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:49:24.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and he created this technology that replaces his heart", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:49:33.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I see about the heart.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:49:35.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:49:36.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What does he do on his first mission?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:49:49.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He goes to afghanistan ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:50:16.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To help in the war?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:50:33.121Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kinda", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:50:37.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he went to make sure the terrorist didnt get the a bomb", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:50:50.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tony Stark's dad used to sell bombs and missiles", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:51:05.806Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which is bad so Tony tries to stop it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:51:25.476Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he's trying to make things right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:51:25.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:51:28.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good for him. Sounds like a good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:51:39.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But he gets captured instead lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:51:40.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and he has to figure a way out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:51:45.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "uh oh~", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:51:54.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope you get to watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:52:18.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does he have a sidekick besides Gwyneth Paltrow's character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:52:19.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Uh I think Gwyneth Paltrow was just a secretary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:52:39.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She wasn't part of the action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:52:44.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tony had uh jarvis", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:52:53.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, good. I don't like her much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:52:57.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jarvis was his assistant ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:53:03.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who played Jarvis?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:53:06.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:53:35.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont even remember if he's in ironman 1", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:53:45.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I think I will watch the movie. You've made it sound like fun. lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:54:05.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but jarvis was more of a robot assistant", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:54:12.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:54:15.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you should watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:54:18.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I definitely will. I like RDJ.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:54:38.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:55:02.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nIt's like 2 hrs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:55:10.720Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just like any other movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:55:15.305Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I figured it would be around that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:55:23.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sometimes the superhero movies are rather long.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:55:34.010Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea but its to really bring out each character and their specialites", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:55:49.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i feel like the 1st one from a series is usually the best", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:55:59.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I do, too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:56:21.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright have a nice day i hope you watch iron man soon. It's a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:56:34.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will. Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:56:46.007Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T22:37:47.505Z", 
+  "uid1LogOutTime": "2018-03-21T22:56:37.138Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T22:37:48.581Z", 
+  "uid2LogOutTime": "2018-03-21T22:56:49.257Z", 
+  "uid2response": {
+    "feedback": "It sounds like a fun movie. I'll give it a shot.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR37", 
+  "user2_id": "USR4562", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2018-02-07T16:02:33.500Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:04.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which Movie do you watch ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:26.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI I WAS WATCH LA LA LAND MOVIE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:57.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting Name, What is there in this movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:05:35.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "THIS MOVIE DIRECTED BY DAMIEN CHAZELLE AND STARS RYAN GOSLING AND EMMA STONE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:04.688Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "RYAN GOSLING PLAYS AS A JAZZ PLANIST", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:31.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "EMMA STONE AS AN ASPIRING ACTRESS", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:50.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DO YOU KNOW THAT MOVIE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:02.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, I know about Emma Stone she is good in acting, But i don't know much about this movie but i want to know ? is it Comedy Movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:09:04.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, its a romantic Comedy-drama flim", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:10:18.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell me the story in brief ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:11:01.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan and Emma who meet and fall in love in los angeles while pursuing their dreams. this movie look like the worls that we dream about, but it also understands the cruelty that can come out of those dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:14:30.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "R u like the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:01.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i like, as you told me the cast of the movie it seems that i should watch that movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:15:52.494Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how much time has been past to this movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:16:27.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2 years", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:17:39.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So do you like that movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:19:35.389Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i like that\n movie because they are perfect pair in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:21:06.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, What were there Dreams in the Movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:21:45.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sorry i don't know the dream", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:23:47.107Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:02:33.500Z", 
+  "uid1LogOutTime": "2018-02-07T16:25:11.166Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:02:33.786Z", 
+  "user1_id": "USR3996", 
+  "user2_id": "USR2364", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2018-03-22T21:00:35.349Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T21:00:46.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:01:32.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why did you leave? I get 5 minutes to read the document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T21:01:54.614Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T21:00:35.349Z", 
+  "uid1LogOutTime": "2018-03-22T21:01:26.714Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T21:00:37.826Z", 
+  "uid2LogOutTime": "2018-03-22T21:05:29.799Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2295", 
+  "user2_id": "USR4664", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

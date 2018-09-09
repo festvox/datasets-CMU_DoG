@@ -1,0 +1,162 @@
+{
+  "date": "2018-03-28T00:44:25.152Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:45:06.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:45:15.926Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know of a movie I would be able to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:45:53.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes how about the movie Toy Story it is a great fa i\nly fil", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:46:57.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Family film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:47:18.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story sounds like a great movie! What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:48:36.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You story is a movie about toys that come to life when no one is watching, it mostly deals with the interactions between two toys one a young boys old favorite and one a brand new toy gotten for his birthday. Both toys get jealous of the other and go on a journey to reunite with the boy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:52:05.410Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie animated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:52:40.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes the movie is animated using computer graphics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:53:13.518Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That seems very interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:53:46.852Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:53:52.404Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know what it is rated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:55:43.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think that a family movie would be rated GA for general audience", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:56:35.192Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is the movie a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:56:51.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think so too but I couldn't find that info.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:57:07.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know when the movie was created?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:57:49.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or what year it was released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:57:56.649Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is a buddy comedy, the type where two guys don't get along at first then become friends", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:58:22.918Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You Story is a film from 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:59:04.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Toy story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:59:58.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This film sounds very interesting and a very good film for a family to watch together.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:00:26.485Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it does it is one of those films which features family and friendship in a funny way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:01:37.191Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T00:44:25.152Z", 
+  "uid1LogOutTime": "2018-03-28T01:09:17.453Z", 
+  "uid1response": {
+    "feedback": "The movie seems to be enjoyable.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T00:44:25.243Z", 
+  "uid2LogOutTime": "2018-03-28T01:08:39.172Z", 
+  "uid2response": {
+    "response": [
+      -1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR566", 
+  "user2_id": "USR996", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

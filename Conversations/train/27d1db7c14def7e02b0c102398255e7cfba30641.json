@@ -1,0 +1,118 @@
+{
+  "date": "2018-02-28T21:26:22.612Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "X", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:27:12.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Steve Carell plays gru?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:28:32.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. I also think it's always a great movie when both critics and movie goers agree on the quality of a movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:29:13.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so too and it\u2019s a good family movie and a good movie for people of all ages not just for kids ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:29:46.683Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed. I think it's neat that three well known actors voice the main characters of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:31:24.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes and the fact that they are in some way a type of comedic actor and can diversely play many different roles Becca\u2019s Ethel are so well trained and experienced that they know how to play each type of role they are cast into ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:32:45.322Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*because they are so well trained ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:33:11.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plus Pixar helped cremate the film and show how well their animators are good at using animated cgi and animation in general ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:34:25.460Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very true. I think that might give the adults a good portion of entertainment knowing that the voices they hear are actors that they've enjoyed in PG13 and up movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:35:41.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pixar is great, that name resonates quality to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:36:13.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes me too because I grew up with Pixar and I love the company and the storyline and plot for the movie is really good and funny too and it\u2019s one that takes something like a bad villian(gru) and turns it into a good happy ending and the minions are something everyone can choose to like or not like but a majority of people love the minions along with the movie as a whole and the fact that there are 2 more movies that came out after this movie shows the fact that Pixar is doing something right because people love the minion movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:39:02.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plus it got an 81% on rotten tomatoes which is a pretty high score and a pretty good one at that aspect too ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:40:37.439Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "81% is a great score on rotten tomatoes, especially for a movie geared towards kids. Pixar definitely does a tremendous job creating movies people love.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T21:42:08.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I think so too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T21:42:22.322Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T21:26:22.612Z", 
+  "uid1LogOutTime": "2018-02-28T21:44:26.782Z", 
+  "uid1response": {
+    "feedback": "The user left the conversation after the new paragraph appeared. The user also added info outside what was given in the information you provided. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T21:26:22.737Z", 
+  "uid2LogOutTime": "2018-02-28T21:42:31.494Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3425", 
+  "user2_id": "USR3178", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2018-03-28T22:19:04.733Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:19:31.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:19:46.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:20:37.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you watch 'The Post'?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:20:59.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, i didnt", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:21:06.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what genre is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:21:22.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is 'Historical, Political'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:21:40.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "directed by Steven Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:21:54.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh. Does it have any actors that I might know of?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:21:56.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maryl Stree ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:22:08.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Streep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:22:11.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tom Hanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:22:17.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it a new movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:22:24.380Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, 2017", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:22:45.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh, I guess im a bit behind the times. has it been well received?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:23:00.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's worth watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:24:05.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you want to know something about plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:24:45.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what type of \"post\" is it named after? whats the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:25:13.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes please", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:25:31.264Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The Post depicts the story of attempts by journalists at The Washington Post to publish the Pentagon Paers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:26:26.975Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Papers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:26:31.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh. is that related to the vietnam war?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:27:47.993Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:28:19.971Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is the movie about a government cover up?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:28:27.587Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the government always has something to hide ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:28:58.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "isnt that the truth!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:29:04.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it sounds like a movie id enjoy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:29:19.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that this film is worth watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:29:34.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it a long show?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:30:00.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know the length?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:30:31.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont know the length", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:30:37.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but probably about 1.30h as usual...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:31:03.786Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know if it has won any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:32:29.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T22:33:04.734Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well thanks for telling me about the post. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T22:33:09.969Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T22:19:04.733Z", 
+  "uid1LogOutTime": "2018-03-28T22:33:12.672Z", 
+  "uid1response": {
+    "feedback": "i thought it was difficult to talk about the movie so long", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T22:19:05.199Z", 
+  "uid2LogOutTime": "2018-03-28T22:33:22.400Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3222", 
+  "user2_id": "USR631", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

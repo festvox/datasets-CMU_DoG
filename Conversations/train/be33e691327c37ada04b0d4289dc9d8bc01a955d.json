@@ -1,0 +1,103 @@
+{
+  "date": "2018-03-16T20:32:37.133Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you? What movie are we discussing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:33:04.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:33:17.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting. What is the movie about? Who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:33:55.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a news reporter that hopes to become an anchor. Jim Carey is one of the actors in the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:35:02.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds cool. I like Jim Carrey. So I guess this is a comedy? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:36:09.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else is in the movie apart from Jim Carrey?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:37:27.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy. You also have Morgan Freeman and Jennifer Anniston in the movie too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:37:54.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice. I like Freeman and Anniston too. What do they play in the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:38:25.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan Freeman plays God and Jennifer Anniston plays a woman name\nd Grace Connelly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:39:36.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow. Morgan Freeman is God? Sounds fun. By the way who is Bruce and why is he Almighty as the title suggests?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:40:26.862Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes,\n he plays God but only to give Bruce a chance to play God himself. That's where the Almighty in 'Bruce Almighty' comes from. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:42:08.359Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could you remind me who Bruce? Is he the reporter played by Jim Carrey? That sounds even funnier!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:43:16.617Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me more about the movie. What happens in the movie when Bruce plays God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:46:46.982Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T20:32:37.133Z", 
+  "uid1LogOutTime": "2018-03-16T20:48:38.187Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T20:32:37.139Z", 
+  "uid2LogOutTime": "2018-03-16T20:58:55.788Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR62", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

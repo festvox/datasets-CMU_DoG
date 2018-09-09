@@ -1,0 +1,50 @@
+{
+  "date": "2018-02-19T18:44:20.642Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I have never seen this movie. Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:44:47.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it. It's one of Fincher's best movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:45:20.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does Timberlake have a big role?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T18:45:57.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He does play a large role. He plays Sean Parker, the guy that started napster.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T18:46:38.683Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-19T18:44:20.642Z", 
+  "uid1LogOutTime": "2018-02-19T18:46:29.088Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-19T18:44:20.714Z", 
+  "uid2LogOutTime": "2018-02-19T18:55:35.526Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3203", 
+  "user2_id": "USR511", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

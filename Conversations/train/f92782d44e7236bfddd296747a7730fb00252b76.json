@@ -1,0 +1,133 @@
+{
+  "date": "2018-03-26T21:24:12.824Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HELLO!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:24:26.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:24:28.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:24:45.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not yet. Should I?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:24:59.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely! It has a 100% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:25:19.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a great rating. How would you describe the plot of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:25:38.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a movie about toys that are only lifeless when humans are around, but when they leave they interact with eachother. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:26:24.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting! Do you know what studio made the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:27:00.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it was made by Pixar Animation Studios for\n Walt Disney Pictures.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:28:09.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thank you for sharing that! I think I might want to see this film. I have another question: Are they any well-known actors in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:28:48.740Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Absolutely! Tom Hanks and Tim Allen play the two main characters. A cowboy and an\n astronaut.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:29:41.554Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome. Would you happen to know where I might be able to watch this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:30:39.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not sure, but all of the characters are some of the most popular toys.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:31:28.932Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's really cool. When did the film first come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:32:03.536Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 1995 as a comedy and adventure movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:32:48.816Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting. Do you know how Toy Story did in the box office?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T21:34:00.053Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was a hit! Buzz Lightyear is the name of the astronaut!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T21:34:47.053Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T21:24:12.824Z", 
+  "uid1LogOutTime": "2018-03-26T21:35:17.165Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T21:24:12.836Z", 
+  "uid2LogOutTime": "2018-03-26T21:35:40.850Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4536", 
+  "user2_id": "USR2181", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

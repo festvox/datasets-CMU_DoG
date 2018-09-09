@@ -1,0 +1,66 @@
+{
+  "date": "2018-03-30T19:53:18.723Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:53:51.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! Good, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:54:03.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine thank you! Would you say you\u2019re a Disney fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:54:20.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would! I enjoy most Disney movies. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:54:35.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you feel Maleficent received an appropriate rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:54:53.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:55:48.250Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-30T19:53:18.723Z", 
+  "uid1LogOutTime": "2018-03-30T19:56:06.751Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T19:53:18.892Z", 
+  "uid2LogOutTime": "2018-03-30T19:55:35.141Z", 
+  "uid2response": {
+    "feedback": "They just left me me!", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2471", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

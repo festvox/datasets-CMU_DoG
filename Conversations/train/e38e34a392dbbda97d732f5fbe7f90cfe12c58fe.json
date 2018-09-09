@@ -1,0 +1,97 @@
+{
+  "date": "2018-04-02T16:14:50.477Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:15:18.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:15:24.256Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen home alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:15:39.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its very good have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:15:53.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, i hated it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:16:20.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alot of the actors went on to play in many movies afterwards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:16:29.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Never met someone who hated home alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:16:48.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I felt it was completely illogical\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:17:20.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought how he played all the tricks was clever...thought being left home alone at that age would be scary", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:17:28.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tipical 90s movie haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:18:03.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who would be dumb enough to leave their kid behind? And not call the cops because he's alone/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:19:04.229Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T16:14:50.477Z", 
+  "uid1LogOutTime": "2018-04-02T16:22:30.236Z", 
+  "uid1response": {
+    "feedback": "I think my partner left earlier. ", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:14:50.630Z", 
+  "uid2LogOutTime": "2018-04-02T16:18:27.016Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4840", 
+  "user2_id": "USR58", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "date": "2017-12-01T21:27:03.034Z", 
+  "docLinkIdx": 3, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:28:39.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, we're going to talk about La La Land. Have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:29:15.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven;t, is it any good ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:29:44.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It  is an American movie. It is a musical comedy with some drama, staring Ryan Gosling and Emma Stone. They meet and fall in love in Los Angeles. He is a jazz piano player and she an aspiring actress.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:30:42.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T21:31:09.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a lot of fantasy to it, but has been called a seriously pleasurable entertainment by a reviewer. I have not seen it myself, but am interested. Like a funny romantic comedy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:31:56.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is said that it goes between \"bittersweet happiness\" and those that treasure things that are disappearing. Does it sound interesting to you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T21:33:47.641Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2017-12-01T21:27:03.034Z", 
+  "uid1LogOutTime": "2017-12-01T21:39:12.114Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2017-12-01T21:27:03.062Z", 
+  "uid2LogOutTime": "2017-12-02T01:40:30.977Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1581", 
+  "user2_id": "USR2504", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

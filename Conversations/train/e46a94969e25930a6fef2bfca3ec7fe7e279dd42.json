@@ -1,0 +1,96 @@
+{
+  "date": "2018-04-02T15:32:11.640Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:33:07.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? What is the main plot if the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:33:55.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In the shape Of Water ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:34:24.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I absolutely do. It is probably one of the best animated movies of all time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:34:38.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Animated ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:34:57.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The shape of water I dont agree with those ratings", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:35:02.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You think those are too high ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:31.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes animated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:36:01.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And yes I think the shape of water ratings are too high. Very odd and flimsy story line", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:36:25.188Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wouldn't call The Shape Of Water an animated movie... there are decent CGIs but that's different. Movie was very artistic and I think it deserves the highest ratings. Plus it won an O\nscar !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:37:42.332Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T15:32:11.640Z", 
+  "uid1LogOutTime": "2018-04-02T15:37:49.732Z", 
+  "uid1response": {
+    "feedback": "My chatting partner seemed very immature and didn't understand the movie... plus he left very early and I was really hoping to talk to him to explain why the rating was that high for that movie... shame really... ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:32:12.600Z", 
+  "uid2LogOutTime": "2018-04-02T15:37:13.607Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2499", 
+  "user2_id": "USR668", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

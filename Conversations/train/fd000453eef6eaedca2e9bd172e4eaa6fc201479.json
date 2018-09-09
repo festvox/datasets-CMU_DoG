@@ -1,0 +1,205 @@
+{
+  "date": "2018-03-20T20:13:43.564Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there! Looks like you've got the document. Do you have a movie recommendation for me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:14:13.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I just saw the Wolf of Wall Street.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:14:38.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really? I've never seen it. Is it pretty good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:15:00.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it. However, I used to work on Wall Street...so I'm interested in the subject.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:15:37.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I bet! Who directed it? Someone well known?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:16:39.239Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Martin Scorsese!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:16:48.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow then that is a big name. How about the actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:17:37.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio is in it. Mathew McConaughey too. Big names. Relative newcomer Margo Robbie. She's hot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:18:20.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound like a really well put together cast. Was it received well critically?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:18:59.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Critics hated it. They thought it exploitative. Lots of sex. I mean a lot. Did I mention there is sex?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:19:43.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No you didn't. I'm assuming it's rated R then.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:21:05.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. It's based on a real story. Guy gets a job on Wall Street (in a firm, LF Rothchild) that one of my best friend's dad used to work at. He gets fired and starts a boiler-room in LI, where I grew up. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:21:54.424Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh then I bet this had a lot of things in common with your life. It's interesting though. Not a lot of films feature Wall Street as a big part of the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:23:52.468Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, he's basically a penny-stock scam artist. Private life is all sex and drugs. Oddly, my friend's wife grew up next door to him!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:25:43.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see! So definitely not a movie to show to the whole family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:27:16.583Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's the underbelly of Wall Street. I used to work at Solomon Bros. But frankly the regular belly aint so clean either. Steal a little and they put you in jail, steal a lot and they make you king.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:28:04.188Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not for the kids! Go see Despicable Me for that. Good date night flick tho. 3rd date. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:29:08.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds like a good tagline for the film! And I'm sure that all this hard living turns out completely well and fine and doesn't wind up coming back to bite the main character at all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:30:31.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha. Well the SEC and FBI close in on him. His real name is Jordan Belfort if you want to google and find out how he is doing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:31:43.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Without looking I'm going to assume not well. It does sound like a Scorsese film though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:33:55.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. It has an epic feel, even though he's a relatively small-time hustler. I mean, he made a lot of money, but compared to the financial crises of 2007-08...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:36:13.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if a big part of the film is that the world he thought revolved around him keeps spinning even when he starts to fall apart.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:37:48.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's very interesting. He actually looses his mind as the Feds close in. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:39:29.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I imagine. Scorsese does like to write and direct characters a little south of normal.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:40:19.961Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. I would like him to tackle the big league though, like Morgan Stanley. Maybe he has, I dunno. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:43:10.588Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, like I said Wall Street isn't the biggest movie setting. I think a lot of people are put off by the economics parts and really just want to see the slimy areas that the big rats call home.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:44:45.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "True. Also, it seems like you gotta be Italian American for Scorsese to want to make a film about you. Or at least from the Bronx.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:46:33.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well there are worse things to be known for. Michael Bay writes a one page script around the word 'explosion' and then makes a movie around that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:48:43.054Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T20:13:43.564Z", 
+  "uid1LogOutTime": "2018-03-20T20:49:32.017Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T20:13:43.571Z", 
+  "uid2LogOutTime": "2018-03-20T20:49:34.871Z", 
+  "uid2response": {
+    "feedback": "I'm not really all that interested in Wall Street as a drama setting.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR454", 
+  "user2_id": "USR3966", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

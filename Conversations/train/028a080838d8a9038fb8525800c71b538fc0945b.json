@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-24T02:38:20.344Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I love home alone when it came it, great movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T02:38:45.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes. I enjoyed watching it with my family growing up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T02:39:06.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was hilarious how macaulay culkin got the crooks so many time ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-24T02:40:44.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. He's a clever boy. I wouldn't have been able to think of half the tricks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-24T02:41:15.375Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-24T02:38:20.344Z", 
+  "uid1LogOutTime": "2018-03-24T02:41:09.983Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-24T02:38:20.384Z", 
+  "uid2LogOutTime": "2018-03-24T02:41:27.388Z", 
+  "uid2response": {
+    "feedback": "The user ended the conversation", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4609", 
+  "user2_id": "USR1760", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

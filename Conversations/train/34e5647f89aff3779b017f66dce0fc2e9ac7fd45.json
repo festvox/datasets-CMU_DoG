@@ -1,0 +1,74 @@
+{
+  "date": "2018-02-07T21:56:30.792Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:57:00.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:58:55.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats a high rating for rotten tomato", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:59:40.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What film is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:00:03.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh its LA LA Land", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:09:07.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Made in 2016", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:09:11.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gives it a 92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:09:33.540Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch movies with good ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:12:25.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not often, honestly they usually seem to be more boring to me than easily consumed films. How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:23:55.005Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T21:56:30.792Z", 
+  "uid1LogOutTime": "2018-02-07T22:27:20.312Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:56:31.184Z", 
+  "user1_id": "USR4282", 
+  "user2_id": "USR4569", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "date": "2018-02-17T02:11:55.751Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:12:33.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would you like to know about the movie i watched?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:13:05.541Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:13:32.002Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:13:42.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Mean Girls by Mark Waters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:14:03.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen this movie before ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:14:23.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you guess it's Rotten Tomatoes Score?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:14:49.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I\u2019m going to say mid \n80s ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:15:27.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:15:47.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "84% ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:15:55.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know the name of the person who wrote the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:16:08.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you a fan of Lindsay Lohan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:16:11.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mark Waters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:16:41.533Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. To an extent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:16:45.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and No", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:16:46.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tina Fey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:16:50.211Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mark directed", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:16:56.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sam for me ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:17:00.438Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah yes Tina fey wrote it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:17:35.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She was great in the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:17:53.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Indeed. You recall the name of the main character in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:18:13.541Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cady Heron", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:18:56.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where did they move to after Africa?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:19:27.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Evanston IL ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:19:46.587Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": ".....aren't you supposed to be inquiring about the film vs. me questioning your knowledge?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:20:26.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wasn\u2019t aware this was based off of a novel ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:20:54.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes by Rosalind Wiseman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:21:15.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It\u2019s one of the top 50 greatest teen comedies as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:21:54.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it was partially based off of it as that book is non-fiction", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:22:06.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would agree ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:22:14.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "According to Rotten Tomatoes especially", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:22:40.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they have a great audience there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:22:52.124Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree it does highlight a bit of bullying amongst teen girls today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:23:33.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Even though the epidemic of bullying crosses gender lines", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:24:09.508Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it had a happy ending due to the characters growing up a bit ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:24:36.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "True ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:24:51.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But this film was very female driven ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:25:01.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes even though the cycle continued with the next Junior Class of plastics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:25:30.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it was nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:25:44.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can only assume they were even worse. Do you think there should have been a sequel!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T02:26:01.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:26:13.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "keep it classic ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T02:26:19.763Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-17T02:11:55.751Z", 
+  "uid1LogOutTime": "2018-02-17T02:26:48.275Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T02:11:55.822Z", 
+  "uid2LogOutTime": "2018-02-17T02:26:27.224Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3523", 
+  "user2_id": "USR1076", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

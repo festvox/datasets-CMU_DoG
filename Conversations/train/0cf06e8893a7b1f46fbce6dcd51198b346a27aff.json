@@ -1,0 +1,162 @@
+{
+  "date": "2018-02-19T22:40:04.266Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:40:40.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Have you seen Bruce Almighty starring Jim Carrey?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:43:05.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I've seen it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:43:27.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but it's been a long time. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:43:35.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that it is one of Jim Carrey's best movies. Morgan Freeman plays God.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:44:48.161Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I liked it too. Very funny movie. Morgan Freeman is great. They couldn't have picked a better person. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:45:31.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is wonderfully relaxed and kind.  Jennifer Aniston is  it also as his girlfriend.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:46:26.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I don't remember that. Awesome though I love her. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:47:22.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite part of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:47:52.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is just so patient. I thought they were funny together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:47:59.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved the part where he wanted sex and he pulled the moon closer then the next morning found out there were all kinds of weather repercussions.  Also where he got the dog to flush the toilet.  how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:50:22.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The monkey part. hahah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:50:47.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you remember Steve Carell as the anchorman that steals the promotion from Bruce?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:52:30.280Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I don't. It's been a while since I've seen it. I may have to watch again. Forgot there were so many stars in it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:53:12.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He steals dialogue from Bruce. He then accepts the promotion that Bruce wanted on air.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:54:12.803Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ohhh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:54:37.349Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Catherine Bell was also the other anchor that Bruce had a mild crush on.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:55:34.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure who that is. lol. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:55:57.902Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Bruce starts earning his anchor job as he makes incredible events happen while he is covering silly everyday cookoffs, etc. He made a meteor land, He found the body of Jimmy Hoffa, etc.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:58:04.642Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Bruce also keeps running into Morgan Freeman to ask about doing his job?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:00:07.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you remember the prayers ringing in Bruce's head?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:00:58.990Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:02:24.492Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T22:40:04.266Z", 
+  "uid1LogOutTime": "2018-02-19T23:02:04.968Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-19T22:40:04.308Z", 
+  "uid2LogOutTime": "2018-02-19T23:02:29.127Z", 
+  "uid2response": {
+    "feedback": "The person wasn't very talkative about the movie at first. The convo did not really flow but it's been a while since I've seen that movie and there are parts that I've forgotten but I will watch again. ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2712", 
+  "user2_id": "USR1979", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

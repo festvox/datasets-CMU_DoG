@@ -1,0 +1,102 @@
+{
+  "date": "2018-03-21T23:53:34.565Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How'd you like Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:54:15.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:54:16.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Amazing how they managed to get all those top names in acting to participate.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:56:16.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know, who was your favorite character ? Mine is Jesse.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T23:57:14.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was Jesse in the original Toy Story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:57:43.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Mr. Potato Head.  He even looked a little like Don Rickles.  But that may have been me projecting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T23:58:39.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's a cool character. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:00:45.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was your favorite scene ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:01:03.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a really high score on rotten tomatoes. Impressive!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:01:47.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love the quote \"a work of genius\".  Too bad there is nothing to say who these supposed critics are.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:02:38.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not saying it wasn't a work of genius, just that quotes taken out of context could have been taken from the director's family!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:03:26.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They are also claiming it was often more interesting to adults than kids.  Do you think that was the case?  I am not sure that is necessarily a compliment", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:05:06.652Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T23:53:34.565Z", 
+  "uid1LogOutTime": "2018-03-22T00:05:40.434Z", 
+  "uid1response": {
+    "feedback": "The other user ended the chat early.  We were supposed to have gotten more paragraphs to discuss, but it never happened.  I didn't get the sense that I was conversing with a real person, though.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T23:53:34.610Z", 
+  "uid2LogOutTime": "2018-03-22T00:04:51.939Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3827", 
+  "user2_id": "USR1286", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

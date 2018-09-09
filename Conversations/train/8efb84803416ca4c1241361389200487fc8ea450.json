@@ -1,0 +1,94 @@
+{
+  "date": "2018-03-30T15:39:01.147Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:39:08.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good morning.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:39:33.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:40:06.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:09.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"The Wolf Of Wall Street\", starring Leonardo Dicaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:40:25.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i did i liked it very much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:41.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i thought his acting was superb", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:40:47.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A little graphic, but I think Scorsese really captured the whole \"boiler room\" mentality of Jordan Belfort.  Jonah Hill was great, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:41:31.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes they all did a great job together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:06.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i really like the scene when the main character got everyone pumped up in the middle of the office telling everyone he isnt quiting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:42:30.354Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agreed.  Belfort was a charsmatic, if vile, individual.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:43:04.184Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T15:39:01.147Z", 
+  "uid1LogOutTime": "2018-03-30T15:43:11.208Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:39:01.154Z", 
+  "uid2LogOutTime": "2018-03-30T15:43:24.387Z", 
+  "uid2response": {
+    "feedback": "This film was a vivid, and quite accurate, recount of the mentality and corruption of Wall Street at the time.  I remember it well.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2757", 
+  "user2_id": "USR3885", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

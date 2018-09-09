@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-06T19:51:40.815Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you see any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:52:10.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like The Avengers movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:52:45.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, me too. What did you like best about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:53:14.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like how they managed to bring a bunch of characters together, but it didn't feel overloaded. It was a great culmination to the individual movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:54:19.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. There was a good dynamic between the characters. Unfortunately, I wish they had done that with Captain America: Civil War. It felt like superhero-overload by the end!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:55:20.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very true. I had a hard time keeping track of the 'teams' in the airport fight scene.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:55:55.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know, right? The airport scene was overcrowded, making it difficult to focus on any one hero at any particular point. I worry about that in regard to the upcoming Avengers: Infinity War.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:23.118Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen the trailer or anything for that. I typically avoid all the promo stuff so I can go to the movie expecting nothing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:59:21.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah.. A wise decision. My wife and I are starting to withdraw from watching the trailers, as so much lately feels like it spoils the movie! With the cost of admission, that is a disappointment beyond comprehensioN!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:39.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite of the Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:03:15.387Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know what you mean.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:03:24.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Um...I'd say Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:03:36.679Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "RDJ is great in both capacties to me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:04:14.019Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:04:35.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Agree. He is the person everyone seems to think of lately when asked who they envison when asked about the character of Tony Stark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:53.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who was your least favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:06:27.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would have to go with Black Widow. I feel they have yet to really explore the levels of her character. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:09.018Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a fair critique. Mine was Hawkeye. He\n felt superfluous.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:09:41.147Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow! Totally agree with you on that as well. I felt that they totally wrecked introducing a \"secret family\" on a farm in Avengers: Age of Ultron.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:10:27.898Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:51:40.815Z", 
+  "uid1LogOutTime": "2018-02-06T20:12:34.774Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:51:40.939Z", 
+  "uid2LogOutTime": "2018-02-06T20:12:39.425Z", 
+  "uid2response": {
+    "feedback": "User 2 left the chat.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2220", 
+  "user2_id": "USR3834", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

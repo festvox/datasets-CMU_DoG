@@ -1,0 +1,230 @@
+{
+  "date": "2018-02-07T17:50:05.943Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi how are you today? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:50:36.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi fine. what about u", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:50:56.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good. so we are talking about movies here. what are we discussing? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:51:16.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we are discussing about imitation game movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:51:39.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Imitation Game - sounds like it might be interesting. what can you tell me about it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:52:07.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "u see that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:52:31.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i have not seen it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:52:39.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "u have any news collected about movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:53:30.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i do not have any news of any kind about the movie. i was hoping you could tell me more about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:54:42.753Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this is historical drama film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:55:10.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what era does it take place in? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:55:23.137Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this movie take place is america", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:55:38.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what time period? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:55:52.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2014", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:56:00.223Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie takes place in 2014? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:56:21.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so what is the main story of the movie? what's the plot? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:56:59.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i don't know you know this detail please tell me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:57:24.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "unfortunately you got the information about the movie. not me. You are supposed to read about the movie and tell me what it is about. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:58:00.121Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this movie story is second world war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:59:21.298Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okay. thats a start. you said it was a historical drama. is it about a person or an event? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:59:56.880Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this is just only event not person.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:00:17.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "okay thanks. what was the event? what is a short summary of the plot? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:01:11.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i don't know about the plot please ask another question about the plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:01:58.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well you are suppose to have information about the movie provided to you and you were supposed to read it to tell me about the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:03:01.192Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "read your instructions for the chat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:03:27.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this movie directed by morten tyldum ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:04:13.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i see. it still doesnt tell me anything about the film. All I know is that you have said its a historical drama set in WW2. Is that all you know about the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:05:07.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for trying. I guess I'll find about more about this film and decide if I want to watch it. Thanks. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:07:13.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:09:19.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "k bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:09:58.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks. thats better. now I know something about the film. it sounds interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:10:50.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "please left the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T18:10:52.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep I will. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T18:11:07.138Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T17:50:05.943Z", 
+  "uid1LogOutTime": "2018-02-07T18:11:09.874Z", 
+  "uid1response": {
+    "feedback": "it took forever to get anything out of the respondent and they acted like they did not know what they were doing. I tried my best to have an active chat with them and it was frustrating to say the least. I will try to watch the film but not based on anything I heard from my partner on the task. ", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:50:06.832Z", 
+  "uid2LogOutTime": "2018-02-07T18:11:03.068Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3269", 
+  "user2_id": "USR3301", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

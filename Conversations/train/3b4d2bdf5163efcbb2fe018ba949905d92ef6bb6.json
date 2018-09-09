@@ -1,0 +1,240 @@
+{
+  "date": "2018-02-12T19:00:28.514Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the movie \"John Wick?\" I wanted to talk with you about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:01:30.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:01:57.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it was really good! Keanu Reeves definitely did a great job acting in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:03:09.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, the role definitely suited him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:03:24.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It made me sad when they killed his dog, though. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:06.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I hated seeing the little beagle die, it was almost too much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:04:29.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am surprised that the movie only got a \"B\" score. I would watch it again. Would you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:05:18.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I totally would, in fact, I bought the Blu-Ray", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:53.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like action movies like this one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:41.730Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I absolutely do. This is my favorite genre of film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:07:03.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:02.655Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I had forgotten how John Wick's nickname was \"Baba Yaga.\" Do you know what that means?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:31.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also am a big action film fan!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:48.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If I remember correctly, it meant something like the boogeyman, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:20.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think you are right! Remember when the father figured out his son had stolen Wick's car and killed his dog? His facial expression of terror and anger were well-acted.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:34.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yeah, he knew that things were about to get real", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:11.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That nightclub at the end of the movie was pretty cool! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:59.286Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"the Red Circle\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:13:07.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep, it was really cool, and John Wick tore it to pieces. That made it even cooler", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:14:27.837Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree! What did you think about the hotel that Wick stayed at, and how Ms. Perkins tried to sneak in and kill him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:42.769Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I kind of saw that coming, but it was still an interesting part of the movie. She got hers in the end.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:30.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought the method of payment (i.e., those gold coins) was interesting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:11.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it showed these people as being part of a secret society", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:26.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about the ending of the movie where John takes the puppy that was supposed to be euthanized and goes to the boardwalk?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:36.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was a good ending, the puppy was very similar in circumstances to himself", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:18.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Plus I have a soft spot for bully breeds. :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:34.499Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree! I love dogs. What do you think about the actor who played Viggo?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:04.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was a great actor, it is unfortunate that he recently passed away in real life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:26:02.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did not know that! So, what would you rate the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:49.602Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely better than a B, at least A- to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:14.013Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I definitely agree! I would  have said A- to A.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:31:01.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "These types of films are just never given high ratings by critics, for whatever reason.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:31:52.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The critical responses to the movie didn't seem to warrant the rating the critic's gave it. There was no definite criticism, but rather a certain applaud to Reeves for reentering the genre in a positive way.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:34:29.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was what I noticed as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:48.560Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:00:28.514Z", 
+  "uid1LogOutTime": "2018-02-12T19:36:04.107Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:00:28.542Z", 
+  "uid2LogOutTime": "2018-02-12T19:35:52.492Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2691", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

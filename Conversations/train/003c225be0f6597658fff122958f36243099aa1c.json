@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-28T20:01:34.420Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:02:02.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie Despicable Me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:02:21.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not realize this movie came out in 2010, that seemed so long ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:03:24.950Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T20:01:34.420Z", 
+  "uid1LogOutTime": "2018-02-28T20:04:45.602Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T20:01:34.541Z", 
+  "uid2LogOutTime": "2018-02-28T20:03:35.619Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR852", 
+  "user2_id": "USR1408", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

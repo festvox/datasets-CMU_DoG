@@ -1,0 +1,49 @@
+{
+  "date": "2018-03-30T01:12:22.347Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:12:30.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:12:35.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im good. how are you?  Have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T01:12:51.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T01:13:25.022Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-30T01:12:22.347Z", 
+  "uid1LogOutTime": "2018-03-30T01:13:28.248Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T01:12:22.475Z", 
+  "uid2LogOutTime": "2018-03-30T01:14:25.953Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3371", 
+  "user2_id": "USR3", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

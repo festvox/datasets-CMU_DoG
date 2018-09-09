@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-22T16:03:00.068Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you ever seen the movie The Great Gatsby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:05:06.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder if Gatsby ever what he wanted", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:06:27.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ever got what he wanted? His lavish displays, parties, etc. seem to reflect that he didn't. Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:07:30.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:14:43.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you have seen it, did you think it was worth the 190 million dollar budget?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:15:34.581Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?  This is a great Leonardo deCaprio movie. Seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:24:49.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not gettting any response on this Baz Luhrmann movie. Do you know this director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:28:13.632Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am going to abort this movie, The Great Gatsby. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:29:24.924Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T16:03:00.068Z", 
+  "uid1LogOutTime": "2018-03-22T16:11:15.588Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T16:03:00.139Z", 
+  "uid2LogOutTime": "2018-03-22T16:29:34.517Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3089", 
+  "user2_id": "USR2922", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

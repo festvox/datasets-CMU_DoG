@@ -1,0 +1,97 @@
+{
+  "date": "2018-02-02T20:11:13.953Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:12:03.082Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For a superhero movie, I thought it was quite good.  Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:12:47.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, i loved it! I love Marvel movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:13:09.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite Avenger?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:13:48.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHO IS YOUR FAVORITE AVENGER?!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:15:37.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd have to say Black Widow. She's strong and she's played y Scarlett\n Johansson. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:16:08.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Don't rush me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:16:20.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "LOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:16:34.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lol Who was your fave Avenger?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:16:49.792Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Obviously, the Hulk due to his rage.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:17:31.276Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How do you think Robert Downer Jr. did in his performance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:18:03.396Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T20:11:13.953Z", 
+  "uid1LogOutTime": "2018-02-02T20:18:32.279Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T20:11:14.000Z", 
+  "uid2LogOutTime": "2018-02-02T20:18:42.450Z", 
+  "uid2response": {
+    "feedback": "The person i was talking to kind of had an attitude and was rushing me. I told there person not to rush me.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2633", 
+  "user2_id": "USR1286", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

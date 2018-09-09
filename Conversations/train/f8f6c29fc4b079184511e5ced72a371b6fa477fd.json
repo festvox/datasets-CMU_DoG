@@ -1,0 +1,217 @@
+{
+  "date": "2018-02-12T19:29:36.201Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:30:21.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, are you familiar with the movie Imitation game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:30:32.484Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:30:53.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a historical drama directed by Morten Tyldum. Its based on biography of Alan Turing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:32:20.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool. Did the movie come out recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:45.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out 2014. Got 91% in Rotten tomatoes which I think is awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:33:23.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's cool! Are there any famous actors in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:33:51.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Benedict Cumberbatch plays Alan Turing in the movie. He did a great job", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:34:38.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really interesting movie about second world war", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:02.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You said the movie is a historical drama. Do you know if it's historically accurate?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:36.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty much since its based on a biography.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:36:27.796Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is there any antagonists in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:12.705Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Nazis because it s World war 2 movie. I actually forgot who is the main antagonist is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:39:17.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you say that the film has a love interest for the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:39:42.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Or more specifically if there is a love interest in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:39:55.964Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes there is. Turing is actually gay in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:40:37.025Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but his love interest died early in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:41:03.665Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. Is he open about it? Or does he try to hide it because it was not very spoken off at the time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:41:24.864Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He did not get a chance to confess since his love interest died before he got a chance. He named his cryptography machine after him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:42:18.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So when you say cryptography machine was he a messenger of some sorts? Or decoder?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:43:30.510Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its a decoder, their trying to decode military code messages\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:44:24.825Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see. Is he with the Americans? British? Australians? French?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:45:21.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was his country of origin?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:45:35.177Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Britain so he is british", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:46:04.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you say that this would be a good movie to watch in the theaters or at home?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:46:35.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I watch it at home but it is up to you. I definitely recommend it if you like historical movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:47:27.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you describe the film being as something that is an original idea? Or very similar to other WW2 movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:48:20.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is original, never seen anything like it before. It is both thrilling since they are trying to hide what they are doing to the authorities and touching since it is about being gay also at that period of time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:50:17.475Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you! Hope you watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:50:59.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great! Well thank you for the recommendation. I will probably watch it soon on amazon! Thank you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:51:04.909Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:29:36.201Z", 
+  "uid1LogOutTime": "2018-02-12T19:51:24.242Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:29:36.205Z", 
+  "uid2LogOutTime": "2018-02-12T19:51:11.090Z", 
+  "uid2response": {
+    "feedback": "I will watch the film the other user recommended as they gave a good amount of detail and made me feel like it was a good movie to watch.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2330", 
+  "user2_id": "USR4647", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

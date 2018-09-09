@@ -1,0 +1,227 @@
+{
+  "date": "2018-02-08T21:40:44.468Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi How's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:07.250Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:17.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not bad, we're supposed to talk about a movie I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:32.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, tell me about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:41:44.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie were you asked to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:50.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i was not given any information. i am to ask you about the movie to see if i would enjoy seeing it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:42:18.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We're going to talk about The Avengers (2012)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:33.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, cool!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:42:42.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:45.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes! is there a lot of action in the Avengers? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:03.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a Marvel movie, so yes. It's full of action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:43:21.476Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool. is it appropriate for any age?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:53.740Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I think it's PG-13, so older kids and adults.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:44:22.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok.are there a lot of big actors in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:44:52.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, have you ever heard of Marvel movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:45:15.181Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are quite a few big name actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:45:22.725Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no i have not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:45:25.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "like who?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:45:44.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What movies are you interested in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:45:44.726Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i like anything that is face paced and interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:46:08.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie would definitely fall into that category of fast paced and interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:46:38.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how long is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:46:47.858Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2 hours 23 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:16.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I found it very entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:24.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it funny?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:47:50.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep it has a lot of gags and amusements. Would you mind telling me how old you are?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:48:09.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "my age is not part of this topic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:31.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The special effects are also top notch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:48:35.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so they do not look bad?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:52.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They look great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:49:00.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hate when cgi is terrible", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:49:02.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where did you go, bro?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:49:29.258Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:40:44.468Z", 
+  "uid1LogOutTime": "2018-02-08T21:50:14.861Z", 
+  "uid1response": {
+    "feedback": "It was somewhat clear that I was talking to an AI. Even with their slight spelling error.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:40:44.476Z", 
+  "uid2LogOutTime": "2018-02-08T21:49:06.344Z", 
+  "uid2response": {
+    "feedback": "i don't think the other person was aware how this worked, also the other user asked me personal information that i was uncomfortable with", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2999", 
+  "user2_id": "USR431", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

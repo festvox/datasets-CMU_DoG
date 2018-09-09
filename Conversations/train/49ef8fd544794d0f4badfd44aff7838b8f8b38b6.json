@@ -1,0 +1,421 @@
+{
+  "date": "2018-02-06T21:34:13.516Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:34:25.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:34:54.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.  Do you want to watch La La Land?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:34:56.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do! I've seen it already but I'd be interested in watching it again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:35:17.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got a 92% rating on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:35:35.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it was pretty suprisingly good, I think.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:35:47.963Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You don't really see that kind of movie these days", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:36:03.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan Gosling and Emma Stone were both very believable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:36:21.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Emma Stone and Ryan Gosling.  Of course, some have called it a \"fizzy fantasy\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:36:23.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:36:29.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that it might have been over-hyped a bit, but it was definitely enjoyable", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:36:50.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "their romance felt fairly realistic to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:37:07.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but I also agree with the critics who said that neither of them was particularly good at singing or dancing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:37:26.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, a critic did say they lacked depth as characters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:37:43.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with that ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:37:53.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But it's funny ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:37:55.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because I think, in a way that was the whole point of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:38:03.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they were kind of blinded by the glamour of everything", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:38:11.847Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so it was just a shallow romantic fling that they had", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:38:20.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but they thought it was far deeper than it actually was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:38:28.811Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I read that the title refers to music, Los Angeles, and to being out of touch with reality.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:38:40.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitelhy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:38:50.019Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like, they were kind of in \"la la land\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:39:03.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "out of touch with that was actually happening", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:39:10.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you see the it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:39:25.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There was the scene at the beginning where Sebastian is fired for disobedience.  And he storms out right past Mia.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:40:01.142Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that was pretty childish.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:40:24.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What'd you think of the music?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:40:41.835Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen it.  I am a big fan of musicals so was happy to see any still getting made, though I am not a fan of musicals that mostly revolve around musicians.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:40:44.684Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:40:54.477Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree, it is a little too self-referencial", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:41:04.789Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did like that they didn't make both of the characters actors though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:41:38.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was more interesting that they were from different worlds, but both kind of wanted to be stars.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:41:57.518Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I prefer when musicals just really do have musical bits thrown in to normal every day lives.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:42:12.954Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:42:27.989Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What would you rate it out of 10? apparently it has an 8.1 on IMDB", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:42:48.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think those ratings can be pretty good, because they're an average of what viewers rate the movie instead of critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:43:13.661Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, having scenes of people failing auditions...  Well, I guess it is set in Los Angeles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:43:33.179Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I usually use Rotten Tomatoes.  I'd probably rate it lower just because of the hype, like you said.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:44:22.992Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "gotcha.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:44:29.070Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it was interesting though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:44:44.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mia got to follow her dreams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:44:58.070Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but then Ryan Gosling's character tried to find a steady job, with that Keith character, played by John Legend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:45:27.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And Sebastian had to put up with playing in a jazz fusion band that he didn't really enjoy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:45:42.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot that part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:46:09.340Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but he accuses Mia of liking him more when he was struggling", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:46:21.342Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he might've been right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:46:27.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And when he misses her play!  Bad move,Sebastian.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:46:36.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's a real rookie move.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:46:49.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You gotta be supportive", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:46:53.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is hard to be supportive when you have to support a disaster though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:47:21.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:47:43.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe Damien Chazelle will make another musical.  Or inspire others to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:47:55.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah that was all definitely part of the middle part of the movie sagging a bit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:48:11.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he might", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:48:20.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Music seems to be a pretty common theme for him in his movies, at least", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:48:42.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and that's probably why Sebastian was a Jazz snob. Damien Chazelle is a jazz musician himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:49:08.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:49:39.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "mhm, that's also why he made Whiplash before this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:49:54.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe that's why he has Sebastian stick up jazz music in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:50:17.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that's probably why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:50:34.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I had heard about a movie about someone on a park bench... a jazz trumpet player or something... that Chazelle made before this.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:51:09.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hm, I haven't heard of that one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:51:22.760Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I'd be curious to see more of his work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:51:36.165Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T21:34:13.516Z", 
+  "uid1LogOutTime": "2018-02-06T21:51:37.342Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T21:34:13.776Z", 
+  "uid2LogOutTime": "2018-02-06T21:51:47.846Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2174", 
+  "user2_id": "USR866", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

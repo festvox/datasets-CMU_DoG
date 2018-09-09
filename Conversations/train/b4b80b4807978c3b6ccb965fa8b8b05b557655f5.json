@@ -1,0 +1,104 @@
+{
+  "date": "2018-02-05T21:18:14.478Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hows it going", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:18:24.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the imitation game", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:18:50.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey. Yes, I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:19:39.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:19:44.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was just alright.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:20:27.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it was a little slow at times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:20:35.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed. But most of these type of movies are.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:21:00.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it did have some good people in it though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:21:13.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That never really mattered to me. I would have seen it either way since the story interests me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:02.920Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anything based off of true story is good by me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:22:26.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Usually, yes. I did hear that they put their own spin on a few things. That's a shame.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:23:01.083Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess they have to sometimes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:23:22.593Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:18:14.478Z", 
+  "uid1LogOutTime": "2018-02-05T21:23:19.833Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:18:14.730Z", 
+  "uid2LogOutTime": "2018-02-05T21:23:26.283Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR896", 
+  "user2_id": "USR76", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

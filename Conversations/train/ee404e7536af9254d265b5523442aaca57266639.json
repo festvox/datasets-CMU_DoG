@@ -1,0 +1,95 @@
+{
+  "date": "2018-03-06T15:19:04.344Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:19:32.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:19:38.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DO you like animation movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:20:44.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:20:44.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen the movie, my kids really enjoyed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:20:54.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i did enjoy it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:21:10.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i see that it scored very well on movie reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:22:03.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it did score well. I think a lot of familes really loved it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:22:18.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gru was one of my favorite characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:22:27.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The little girls were adorable as well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:23:44.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you have a favorite part or character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:24:47.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed that they kept it funny as well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:26:54.738Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T15:19:04.344Z", 
+  "uid1LogOutTime": "2018-03-06T15:28:43.774Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-06T15:19:04.486Z", 
+  "user1_id": "USR4798", 
+  "user2_id": "USR707", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

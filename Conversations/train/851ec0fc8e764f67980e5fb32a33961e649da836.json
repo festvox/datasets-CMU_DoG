@@ -1,0 +1,154 @@
+{
+  "date": "2018-02-16T11:19:07.933Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I thought Gosling and McAdams had a real connection in real life and it made it believable in the movie! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:20:18.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you think they gave an all star performance also?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:20:33.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do! I think they were fantastic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:20:46.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought they did a great job also, very interesting ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:21:04.151Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you enjoy both of them the same amount?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:21:17.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I thought each character was very imperative", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:21:34.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I felt they both did a great job throughout the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:22:11.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never read the book but I think the movie was worth the watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:22:17.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never read the book either , but the movie was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:22:42.842Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm wondering how they gotten a rotten tomatoes percentage of 52. That surprises me because the people around me who saw it loved it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:23:25.586Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love carnivals, and its awesome that is were they first meet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:23:56.014Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I felt that it was something that could actually play out in real life which is what made it so powerful for me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:24:32.879Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like how they get interrupted because the police are looking for her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:24:55.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm reading the document and I think it's true when they state, \"McAdams carries much of the film's emotional weight....\" She had to because she was the girl, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:25:59.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah Its interesting they point that out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:26:30.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I also feel that The 1940's were an interesting time, a lot was going on ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:26:35.043Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it gives perspective on how they talked. How people interact with each other. How they dressed back then. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:28:30.537Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "people \"courted\" each other then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:28:56.551Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That doesn't happen too often nowadays.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:29:12.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was a very emotional rollercoaster. Allie's parents ban her from seeing Noah. It rarely works like that anymore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:31:09.936Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T11:19:07.933Z", 
+  "uid1LogOutTime": "2018-02-16T11:31:37.242Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T11:19:07.953Z", 
+  "uid2LogOutTime": "2018-02-16T11:28:24.644Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2526", 
+  "user2_id": "USR546", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

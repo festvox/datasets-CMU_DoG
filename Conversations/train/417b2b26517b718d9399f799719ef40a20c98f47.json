@@ -1,0 +1,103 @@
+{
+  "date": "2018-03-20T20:57:08.403Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:59:05.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this movie is toy story an animated pixar movie about toys that can talk and have emotional connections to eachother and their owner ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:59:45.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.  What is the name of the movie?  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:00:20.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "toy story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:01:09.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:01:37.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I'm sorry,  you stated that already.  Yes, a long long time ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:02:00.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:02:34.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you remember the plot? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:02:42.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't remember the characters names though.  It was okay.  i didn't really like it.  Not really. What is the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:02:59.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember Woody and that is about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:03:17.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "woody and buzzlightyear ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:03:25.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "woody is andys favorite toy but andy gets buzz for his birthday woody gets jealous because everyone thinks buzz is cooler than him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:04:15.841Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T20:57:08.403Z", 
+  "uid1LogOutTime": "2018-03-20T21:04:28.350Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T20:57:08.442Z", 
+  "uid2LogOutTime": "2018-03-20T21:04:25.384Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2015", 
+  "user2_id": "USR3057", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

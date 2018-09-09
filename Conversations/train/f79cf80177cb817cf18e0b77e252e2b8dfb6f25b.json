@@ -1,0 +1,296 @@
+{
+  "date": "2018-03-26T14:39:20.934Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:26.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:34.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Wolf of Wall Streer?}", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:50.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "of course I have, great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:59.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:02.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is! I have seen it too and I love it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:10.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is somehow weird that its genre is black comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:24.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not know that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:27.178Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not know that either, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:48.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats an interesting fact though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:55.600Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love the role of DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:05.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love him in his every movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:41:21.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he was also the producer of this movie though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:41:32.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is a great actor, I didnt know he was the procucer as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:53.399Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I learnt \"penny stocks\" by the help of this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:21.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "people can easily be manipulated by those", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:59.754Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I imagine the movie required a lot of preparation before acting it, \nso what was your favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:43:13.929Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the progress of the movie, from being a small broker, developing into a mad man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:43:48.158Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it is great to see that change.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:44:19.532Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and what about the ratings the movie received?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:44:36.064Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remembered the scene \"sell this pen to me\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:44:45.981Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you remember that scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:44:56.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah I do, that scene was pretty good, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:45:23.442Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the movie is a little bit underrated in rotten and metacritic but overall, all the people like the movie I guess", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:45:24.087Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also the yacht scene with the FBI agents", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:45:49.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I expected better ratings actually, a 75/100 and C seem to be a little low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:02.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not trust ratings of rotten anyway", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:19.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they are critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:24.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like IMDB ratings, the people's ratings", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:35.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I loved the scene when Jordan receives a reduced sentece for helping the FBI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:41.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually I did not like the ending", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:54.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would you change about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:47:22.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he lived as a legend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:47:33.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they should not have made him a small rat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:47:51.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "overall, I love the movie though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:07.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was surprised Leo did not win the academy awards by this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:22.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was nominated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:29.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah me too, I thought he deserved it, ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:37.931Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:48.621Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he really sold his role in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:49.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have fun, see you later", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:49:01.497Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yoo too thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:49:30.497Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:49:32.890Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:39:20.934Z", 
+  "uid1LogOutTime": "2018-03-26T14:49:33.939Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:39:20.975Z", 
+  "uid2LogOutTime": "2018-03-26T14:49:36.638Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR960", 
+  "user2_id": "USR509", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

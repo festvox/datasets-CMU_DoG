@@ -1,0 +1,264 @@
+{
+  "date": "2018-02-09T00:01:58.387Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:02:08.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there! If you haven't seen Inception yet, you're doing yourself a disservice. It's great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:02:46.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen Inception! Leonardo DiCaprio is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:03:14.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, definitely. He deserved his award finally. Gotta give it to Gordon-Levitt too. His acting was quite on point as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:03:54.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, they are both great. What was your favorite part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:05:12.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Honestly, it has to be the ending. It was so open-ended that I found myself thinking about it for a while and debating with friends about it. How about you? What was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:05:59.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here, I had to think about it a lot. I liked the shoot-out scenes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:08:12.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, same. I really enjoyed the snow mountain too. Reminds me a lot of home.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:08:57.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The snow mountain was modeled after UC San Diego's library actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:09:42.066Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh really? That's interesting. Didn't know that. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:10:18.885Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Were there any parts you didn't like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:10:42.710Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not particularly. I enjoyed most of the parts in general. What was your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:12:21.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the shoot-out scenes, the special effects of the film were great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:12:41.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, they really were. It was what I'd expect from Christopher Nolan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:13:36.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like sci-fi movies like Inception usually?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:13:56.382Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The soundtrack was great too, Hans Zimmer was fantastic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:14:09.846Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like sci-fi movies but I don't normally watch movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:14:21.686Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, Hans Zimmer is such a visionary. The moment I see him pop up on a Soundtrack I know it'll be great. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:15:14.131Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't regularly watch movies, but I occasionally do when I've got time. Big movies like Inception find their way in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:15:48.376Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Same here, he also did the soundtrack for Blade Runner 2049", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:16:09.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah! I have yet to see that, but heard good things about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:16:27.919Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What are your thoughts on the whole science side of things in Inception? You think the whole \"dream-sharing\" tech could become something of a reality in the future?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:17:06.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I feel like there would be massive disasters before the level of tech would be up there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:17:36.323Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:17:38.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Almost definitely lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:17:53.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's bad enough people are having issues with reality, but when dealing with dreams.. who knows what could happen. I've seen and read enough sci-fi that I'm apprehensive about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:18:39.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it could have positive ramifications I suppose as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:18:54.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely, I need to have more positive thoughts on the future.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:19:19.456Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A healthy dose of skepticism is always good I say. Keeps you on your toes. It would be quite fascinating to be able to enter dream worlds like that I admit.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:20:24.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I imagine many wouldn't want to leave them as a major issue.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:20:49.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is definitely true, most people would be addicted to that sort of dream technology", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:21:19.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like the main character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:21:24.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, exactly. It becomes their new \"reality\" and their whole sense of self disappears. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:21:47.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The whole tragedy with his wife committing suicide was pretty hard-hitting. I can only imagine the psychological damage that would cause to someone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:22:43.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sort of technology would be reserved for the ultra-rich now that I think about it\n.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:23:01.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, the technology would be used as escapism from the pain of real life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:23:18.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sadly.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:23:49.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I think you're right about that. It would be a terrible idea though; our most wealthy also happen to be the most powerful, influential figures. How bad would it be if they suddenly became addicted to such tech?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:24:45.004Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T00:01:58.387Z", 
+  "uid1LogOutTime": "2018-02-09T00:24:46.950Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T00:01:58.455Z", 
+  "uid2LogOutTime": "2018-02-09T00:24:40.846Z", 
+  "uid2response": {
+    "feedback": "We both already saw the movie and both loved it. It was great.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1123", 
+  "user2_id": "USR286", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

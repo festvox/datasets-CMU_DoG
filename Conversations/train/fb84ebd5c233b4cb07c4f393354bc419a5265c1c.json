@@ -1,0 +1,126 @@
+{
+  "date": "2018-02-17T23:30:09.322Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi , what do you think about movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:31:33.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:32:52.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:33:04.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mean girls with linsy lohan ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:33:52.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it so much ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:34:00.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "really that's nice to hear I think is a fair one in my opinion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:34:28.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you love  about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:34:44.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why do you say that ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:34:47.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well not a fan of Linsy to be honest", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:35:35.350Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol understandable but her acting was impeccable ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:35:58.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Her being left out and then becoming popular was surreal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:36:21.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sure I will agree with it , but I don't know when if this happens to you but if you don't like someone is just stuck in your head when you are watching the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:37:25.346Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a good story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:38:04.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so would you watch it  again ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:38:46.625Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you watched at home or at the movie theater?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T23:41:00.336Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T23:43:38.935Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-17T23:30:09.322Z", 
+  "uid1LogOutTime": "2018-02-17T23:43:56.095Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T23:30:09.398Z", 
+  "uid2LogOutTime": "2018-02-17T23:43:12.370Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR282", 
+  "user2_id": "USR624", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

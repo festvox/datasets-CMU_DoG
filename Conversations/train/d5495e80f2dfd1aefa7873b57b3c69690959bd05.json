@@ -1,0 +1,84 @@
+{
+  "date": "2018-03-20T20:04:08.573Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:05:35.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:05:42.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone is a film directed by Chris Columbus.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:06:05.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Macaulay Culkin and Joe Pesci and David Stern.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:06:22.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John heard and Roberts Blossom are also in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:06:35.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a 1990 American comedy film  written and produced by John Hughs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:07:19.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the film's first half is \"flat and unsurprising\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:08:01.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the second half is praised for its slapstick humor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:08:13.947Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T20:04:08.573Z", 
+  "uid1LogOutTime": "2018-03-20T20:08:56.076Z", 
+  "uid1response": {
+    "feedback": "The other person left the conversation after saying 3 entrys", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T20:05:03.201Z", 
+  "uid2LogOutTime": "2018-03-20T20:06:42.600Z", 
+  "uid2response": {
+    "feedback": "The AI was pretty good, actually!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1752", 
+  "user2_id": "USR3752", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

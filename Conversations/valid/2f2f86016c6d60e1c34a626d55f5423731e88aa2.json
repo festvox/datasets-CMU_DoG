@@ -1,0 +1,94 @@
+{
+  "date": "2018-02-07T23:21:16.217Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the reviews given to Zootopia?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:22:08.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the review given to Zootopia was right on the money.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:22:28.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a very good film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:22:34.610Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it was a little over the top in terms of reviews. I think I would of given it a 7 overall", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:23:06.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I respectfully disagree, because where else would you hear a story of a rabbit as a police officer?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:23:41.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For that as well as the message of looking past species stereotypes, I would give the movie at least 9 out of 10 stars.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:24:31.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's not the story, that I felt was over the top. It was the reviews overall. I think rotten tomatoes can be a bit biased with certain films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:24:40.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I agree that rotten tomatoes is a very biased website, but overall they actually hit it right out of the park with this one. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:25:35.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Story-wise I think it was decent but it's been done before. What did you tink of the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:26:07.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought that the story was very good, and that even though it's not believable that a rabbit would be a police officer, the underlying message of looking past species stereotypes as well as hurtful assumptions is something that we could use in our culture today.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:27:44.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would agree with that, I did like the subtle nod to race relations. I think it was well written into the movie overall. How did you like the animation itself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:29:05.322Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T23:21:16.217Z", 
+  "uid1LogOutTime": "2018-02-07T23:30:32.647Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:21:16.288Z", 
+  "uid2LogOutTime": "2018-02-07T23:29:01.103Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR2173", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

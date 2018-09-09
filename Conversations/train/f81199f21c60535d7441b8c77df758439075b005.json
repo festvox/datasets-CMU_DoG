@@ -1,0 +1,130 @@
+{
+  "date": "2018-03-22T12:52:18.645Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:52:37.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:52:43.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone seems funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:52:52.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "totally does.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:53:03.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kid must be smart to make all those booby traps", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:53:30.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder where he learned that haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:53:40.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did they ever explain that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:53:53.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:53:59.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe he just has imagination.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:54:01.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:54:05.448Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rube Goldberg machines.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:54:17.425Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They mentioned that on that prev document.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:54:31.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They're cool. You should google.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:54:41.409Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah. Those are some amazing machines", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:54:47.039Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I actually am not the biggest M. Culkin fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:55:01.681Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How could this family forget one kid though hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:55:05.669Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ohh I don't know much of his work", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:55:12.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Chris Columbus...Almost thought it was christopher columbus or something", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:56:38.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You still there bud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:59:05.438Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-22T12:52:18.645Z", 
+  "uid2LogInTime": "2018-03-22T12:52:18.659Z", 
+  "user1_id": "USR3483", 
+  "user2_id": "USR1324", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

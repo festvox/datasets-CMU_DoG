@@ -1,0 +1,270 @@
+{
+  "date": "2018-02-06T00:02:25.560Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:03:00.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:03:15.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So we gotta discuss the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:03:24.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You did not get one correct?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:03:33.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes thats correct", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:03:49.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im supposed to ask you the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:03:57.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:04:00.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just tell you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:04:10.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Or do you guess?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:04:15.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it says if i am not told then just ask", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:04:36.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and just ask you about info about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:04:54.356Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:05:12.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what genre is the movie considered to be?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:05:56.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ACtion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:06:05.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "does the movie revolve around a main character or multiple characters?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:06:35.159Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are several characters but one main character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:07:04.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the title character John Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:07:11.176Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:07:41.281Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if i like movies such as saving private ryan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:07:51.360Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "would I like this moie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:07:58.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:08:02.409Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know, it's defintely different from that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:08:13.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked saving pricate ryan but I lOVED john wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:08:25.367Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its a revenger store", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:08:28.849Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:08:31.275Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what other movie would you consider it being close to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:08:39.634Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Taken in some ways but MUCH MUCH better, it also reviewed better than Taken ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:08:59.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have never seen taken but have heard a lot about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:09:31.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the main charcter in john wick is played by who?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:09:43.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Taken is okay ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:09:45.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Keanu Reeves", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:09:52.086Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The second John Wick is also very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:10:46.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is an action star in another favorite of mine the matrix", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:10:56.911Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have also heard the 2nd one is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:11:05.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah those movies are great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:11:08.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do i have to watch the first movie to watch the second/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:11:21.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You definetly should", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:11:29.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I definitely will", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T00:11:38.208Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like the first one better but the second one is still very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T00:11:42.904Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T00:02:25.560Z", 
+  "uid1LogOutTime": "2018-02-06T00:12:10.246Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T00:02:25.585Z", 
+  "uid2LogOutTime": "2018-02-06T00:12:07.821Z", 
+  "uid2response": {
+    "feedback": "I did not have a document however the conversation was great and the movie sounded great. I will watch it.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR153", 
+  "user2_id": "USR4296", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

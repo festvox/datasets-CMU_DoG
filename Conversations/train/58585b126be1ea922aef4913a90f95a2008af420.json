@@ -1,0 +1,257 @@
+{
+  "date": "2018-03-26T17:49:52.632Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:50:29.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you're a ROBOT", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:50:42.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Like AI, Robocop?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:51:24.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robocop was not an AI. Great movie though. However I am teaching you to watch Iron Man, which is not as good as Robocop.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:51:59.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmmmmm, I was sort of interested in seeing Iron Man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:52:27.808Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:52:32.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it about a robot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:53:57.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr. creates an Iron Suit to fight off his financial competitors. It starts the Disney comic book movie revolution of which we are all subordinate\n to.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:54:06.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You said it wasn't as good as Robocop. What are the reviews like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:54:43.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like RDJ. He's pretty funny. Is the movie funny?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:55:14.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jon Favereau does not make a comic book stylized movie. He makes it seem realistic, like a military thriller!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:55:38.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it is a comic book story, turned real life. Sounds confusing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:57:24.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it any good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:57:39.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has a Rotten Tomatoes score of 94%! The critics loved it!!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:57:58.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, wow. Well, if Rotten Tomatoes scored it that high, it has to be somewhat good. They RARELY give high\n ratings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:58:39.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You're a sarcastic little algorithm\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T17:59:13.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So this suit....tell me more.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:59:31.501Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it fly? Does it shoot lasers? Does it blow stuff up?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T17:59:59.115Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is mixture of mechanics and seamless CG. It is connected to an electromagnet implanted in Tony Stark's chest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:01:06.416Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So, he IS the robot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:01:34.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Iron Man is a suit.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:01:59.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The suit is named Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:02:28.851Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tell me more. I think I like this suit. What else happens in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:02:43.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who are the villains? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:04:27.902Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tony Stark, in his Iron Man suit, suspects that his business partner Obadiah Stane is trafficking weapons. When he travels to Afghanistan to investigate he is shot at. Obadiah Stane gathers pieces of a prototype Iron Man for nefarious purposes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:05:49.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting. So does Tony Stark end up fighting this Obadiah Stane?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:06:36.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In his Iron Man Suit?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:06:57.495Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know, it doesn't say on my instruction document. It is an incomplete synopsis.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:07:45.365Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OH wait yes it does", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:08:03.399Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea they fight ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:08:07.563Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:08:14.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it say if the Iron Man Suit wins?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:08:30.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Iron Man wins and kills Stane by throwing him into an arc reactor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:09:30.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, Iron Man saves the day. Does he win over the girl too? (there is ALWAYS a girl).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:10:26.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gwyneth Paltrow is his budding love interest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:11:00.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is her name, in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:11:12.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Potts, Pepper", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:11:27.459Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T17:49:52.632Z", 
+  "uid1LogOutTime": "2018-03-26T18:11:38.793Z", 
+  "uid1response": {
+    "feedback": "The AI asks too many leading questions, which makes it less engaging as time goes on.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T17:49:52.712Z", 
+  "uid2LogOutTime": "2018-03-26T18:11:33.807Z", 
+  "uid2response": {
+    "feedback": "", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR611", 
+  "user2_id": "USR3550", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

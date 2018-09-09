@@ -1,0 +1,39 @@
+{
+  "date": "2018-03-28T01:53:06.939Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T01:53:39.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. This movie is one of Guillermo del Toro's most stunningly successful works.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T01:55:20.836Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T01:53:06.939Z", 
+  "uid1LogOutTime": "2018-03-28T01:55:45.756Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-28T01:53:06.980Z", 
+  "uid2LogOutTime": "2018-03-28T01:54:51.517Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2307", 
+  "user2_id": "USR4552", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

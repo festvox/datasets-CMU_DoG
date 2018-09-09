@@ -1,0 +1,252 @@
+{
+  "date": "2018-02-16T17:48:41.562Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:49:32.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:49:33.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:49:44.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't. I've heard of it, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:50:04.342Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just the title, really.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:50:21.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you a fan or Robert Downey Jr?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:50:25.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I like him. He is a bit of a bad boy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:50:40.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:51:11.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays Tony Stark /Iron man in this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:51:15.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this movie from a comic book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:51:44.623Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:51:49.679Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it animated too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:52:08.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No it is live action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:52:18.142Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not usually a fan of action movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:52:37.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "92% Rotton Tomato score btw", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:52:45.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a pretty high rating.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:53:02.645Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A+ CinemaScore too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:53:20.751Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:53:38.321Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I really enjoyed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:53:47.884Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have actually seen it multiple times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:53:58.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow! That impressive. There are few movies I've seen multiple time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:54:22.232Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you like best about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:54:42.126Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to have Iron Man, Captain America, The Hulk, Loki, Clint Barton and Black widow all in the same movie was something I wanted since I was a kid reading comics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:56:55.584Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like a lot of superheros.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:57:34.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea, but it really worked out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:58:25.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who else is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:58:32.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ha! I forgot to mention Thor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T17:58:52.300Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T17:59:13.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is in it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:00:08.726Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the plot? Who is the villain?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:00:32.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Loki is the villian.  He basically gains control over a powerful energy source and the avengers need to figure out how to work as a team to stop him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:01:16.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll have to check out if it playing locally.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:02:04.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool, I really hope you enjoy it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:02:20.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:02:32.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure thing.  Take care :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T18:02:47.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ciao.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T18:02:54.569Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T17:48:41.562Z", 
+  "uid1LogOutTime": "2018-02-16T18:03:01.679Z", 
+  "uid1response": {
+    "feedback": "I don't usually like these kind of movies, but the other user seemed very enthusiastic about it.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T17:48:41.581Z", 
+  "uid2LogOutTime": "2018-02-16T18:02:56.985Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2560", 
+  "user2_id": "USR4862", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

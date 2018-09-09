@@ -1,0 +1,67 @@
+{
+  "date": "2018-03-23T15:37:57.495Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:13.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:38:16.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What would you like to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:38:22.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this an animated movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:33.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:38:42.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, do you know if it is a sequel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:00.393Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T15:37:57.495Z", 
+  "uid1LogOutTime": "2018-03-23T15:39:20.851Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:37:57.517Z", 
+  "uid2LogOutTime": "2018-03-23T15:39:33.846Z", 
+  "uid2response": {
+    "feedback": "The user left the chat earlier than the other times I've done this task.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR32", 
+  "user2_id": "USR1648", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2018-03-26T20:32:04.138Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:32.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anyone there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:06.926Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:08.334Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:13.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seen any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:30.464Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:36.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh? ive been trying to find one to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:47.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah you should watch the Wolf of Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:14.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "never heard of it, whats it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:34:25.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a stockbroker on Wall Street and his firm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:56.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds kinda boring, is it a drama, comedy, ect?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:35:19.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it involves all the corruption and fraud that goes on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:35:19.951Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ohh gotcha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:35:26.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could be interesting\n, whos in it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:35:38.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:35:53.417Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jonah Hill", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:35:59.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Margot Robbie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:08.113Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Matthew McConaughey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:27.083Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh i like Leo, i think i'll check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:36:40.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:36:44.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:37:22.370Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Fair enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:37:26.874Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but personally I think it's a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:37:48.674Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:37:52.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It came out in 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:06.179Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That makes sense, given the cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:38:17.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it's not that old yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:29.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a moral to the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:38:39.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can i watch it with my kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:40:12.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's basically that the main stockbroker, Jordan Belfort gets enticed by the lifestyle of Wall Street stockbrokers but gets caught by the FBI for all his crimes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:25.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would not recommend watching it with your kids ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:39.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:40:48.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is some rater r parts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:50.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And yes i'll not let them see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:41:00.754Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T20:32:04.138Z", 
+  "uid1LogOutTime": "2018-03-26T20:41:02.034Z", 
+  "uid1response": {
+    "feedback": "It does not sound like my kind of movie, i tend to prefer comedy to drama. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T20:32:04.203Z", 
+  "uid2LogOutTime": "2018-03-26T20:41:10.939Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2910", 
+  "user2_id": "USR1115", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

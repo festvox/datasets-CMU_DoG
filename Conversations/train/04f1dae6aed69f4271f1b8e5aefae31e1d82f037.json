@@ -1,0 +1,162 @@
+{
+  "date": "2018-01-29T22:51:30.780Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "ready when you are", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:53:24.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the new Wonder Woman movie with Gal Gadot. It's got a pretty high Rotten Tomatoes score, 96%?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:53:49.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow that is a good score. Who plays the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:18.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it by the way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:42.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is Gal Gadot the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:55:21.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot. I haven't seen her in anything before, but apparently she's \"an inspired choice\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:22.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "To play Diana.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:35.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie action packed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:55:40.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know any of the supporting characters' names?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:48.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Quite so. It's set during World War I and is describes as not demurring from depicting from war time violence", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:09.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats its rating as far as kids go?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:58:25.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it PG-13?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:59:05.618Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure. You should check that out online for sure. It seems like a pretty good movie for a tomboy. Did you know the movie is directed by a woman? Patty Jenkin's the first woman to direct a live action theatrical movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:18.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How did it do at the box office?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:03:14.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure. But based on the high scores, I'm sure it did well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:04:26.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And my fave guy, Chris Pine co-stars. He plays a pilot, how dreamy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:04:29.208Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he is dreamy. any other big stars?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:05:12.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Robin Wright plays Antiope, her sister. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:06:00.963Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "has she won any awards recently?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:06:27.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't really pay attention to award shows, so that's not something I would know. I love Robin Wright though, I hope they include her in other Marvel Movies. I think she would have actually been a good Wonder Woman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:22.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are there other marvel characters in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:09:08.632Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nope, but I do get Chris Pine confused for another Marvel Character though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:10:11.190Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-29T22:51:30.780Z", 
+  "uid1LogOutTime": "2018-01-29T23:10:13.296Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T22:51:30.824Z", 
+  "uid2LogOutTime": "2018-01-29T23:10:07.248Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2719", 
+  "user2_id": "USR2007", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

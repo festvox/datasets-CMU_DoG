@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-12T19:40:30.891Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:41:11.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi,  the name of the movie is,  The Imitation Game. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:42:18.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:44:31.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well,  It's based on the real-life Alan Turing. Who decrypted German intelligence codes for the British government during the second World War. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:52:24.368Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:40:30.891Z", 
+  "uid2LogInTime": "2018-02-12T19:40:30.901Z", 
+  "uid2LogOutTime": "2018-02-12T19:53:57.367Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR676", 
+  "user2_id": "USR4888", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2018-03-20T18:30:31.793Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:30:41.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:30:59.426Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:31:07.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. But sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:31:39.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like movies based on historical facts.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:31:52.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The ratings look good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:31:54.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I kinda do too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:31:58.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you care about ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:32:06.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do. But I might watch a movie with poor ratings if I think it seems interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:32:41.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:32:56.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really love the cast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:33:05.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not a big fan of Meryl Streep but i think she is a good actress. I love Tom Hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:33:29.179Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love both of them. Might just see the movie because they are in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:33:57.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So this movie is about a journalist who attempts to publish the pentagon papers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:34:32.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds really interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:34:47.187Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Steven Spielberg, he makes great movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:35:18.700Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, he is a good director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:35:46.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie came out in 2017, i can't believe i've never heard about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:36:12.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are historical movies your favorite genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:36:47.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've heard of it. It's on my watch list. But I just don't have the time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:37:02.492Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, they are.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:37:16.932Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's your favorite genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:37:36.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure. I'm a movie person, i really love most genres. I guess romantic movies are my favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:17.494Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Critics agree that this movie is great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:33.734Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I never really care what critics say though. Sometimes they say the movie is bad and i think the movie is amazing. And vise versa, sometimes they say the movie is great and i'm like meh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:40:18.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:40:58.658Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "After watching a historical movie do you ever google historical facts the movie is based on?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:42:32.911Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "All the time. But it's better to watch the movie. Gives you a sense of what the it was really like for the people involved.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:43:14.401Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree but im always curious about the real events", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:41.659Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you watch movies often?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:59.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When I have time. But rarely when they come out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:44:39.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:44:45.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I used to watch movies almost every day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:44:58.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have a baby now so i watch maybe one or two movies aweek", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:45:17.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes rating is 88%. That's a really good score. I usually check rotten tomatoes before watching a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:46:33.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't really trust rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:47:07.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:47:11.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the use audience scores in their evaluation, don't they?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:48:03.389Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T18:30:31.793Z", 
+  "uid1LogOutTime": "2018-03-20T18:48:09.955Z", 
+  "uid1response": {
+    "feedback": "I feel like i did the most talking. I had to ask lots of questions otherwise the other user wouldn't say anything", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T18:30:31.836Z", 
+  "uid2LogOutTime": "2018-03-20T18:48:14.759Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

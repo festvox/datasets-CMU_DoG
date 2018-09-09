@@ -1,0 +1,63 @@
+{
+  "date": "2018-03-21T07:06:29.159Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:07:48.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T07:08:00.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is about a stockbroker", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:08:21.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "named Jordan Belfort. I\nt is based on his memoir from his past career as a stockbroker on Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:09:44.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and mainly, how he used rampant corrupted techniques to defraud the investors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:10:20.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you find it intriguing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:10:57.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T07:12:08.674Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-21T07:06:29.159Z", 
+  "uid2LogInTime": "2018-03-21T07:06:29.630Z", 
+  "uid2LogOutTime": "2018-03-21T07:13:22.976Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4626", 
+  "user2_id": "USR4890", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

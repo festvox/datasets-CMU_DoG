@@ -1,0 +1,211 @@
+{
+  "date": "2018-03-27T15:23:32.293Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!  What movie do you want to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:24:31.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Wold of Wall Street is the one I got", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:24:59.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've been interested in the Wolf of Wall Street for a while.  What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:25:30.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a comedy about the life of Jordan Belfort", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:26:25.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Comedies are pretty good.  What did Jordan Belfort do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:27:06.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was a stockbroker in New York city and basically became a millionaire by selling penny stocks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:28:03.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds pretty interesting for a comedy.  Is the movie getting good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:29:31.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got rotten tomatoes score of 78% and metacritic score of 75/100 but I would definitely recommend\n it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:30:35.567Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Those are some solid scores.  Do you know who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:31:16.347Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Martin Scorsese did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:32:45.977Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know he's directed some pretty good stuff in the past.  Have you seen the Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:35:09.821Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes i have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:35:36.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was it popular when it came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:35:52.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yeah! My friends and I all went to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:36:19.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's awesome haha.  Do you know who all acted in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:37:04.234Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Leonardo DiCaprio, Jonah Hill, Margot Robbie...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:37:54.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's a pretty star-studded list.  I know that DiCaprio's been in a lot of good movies.  Do you know if the Wolf of Wall Street win any awards or anything like that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:39:04.432Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think DiCaprio won the golden globe award for best actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:40:56.897Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's not an Oscar, but at least it counts!  Is the Wolf of Wall Street more of an adult movie, or is it a family sort of thing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:42:35.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely an adult movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:43:31.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I kinda figured that with the subject matter.  Is it a longer movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:44:12.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah about 3 hours", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:44:55.001Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow; that's pretty long.  Does it just go through how Jordan Belfort got rich off of selling penny stocks?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:45:52.375Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It also deals with his personal life and how he got married and ended up in jail later on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:46:56.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can see why it would end up being 3 hours then.  Do you know why he ended up in jail towards the end?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:48:43.302Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was convicted for fraud", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:49:44.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That seems like it could make for a fun movie, then.  Is DiCaprio the one playing Jordan Belfort?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:52:24.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, he is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:52:54.606Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay then; I'll have to check it out.  Thanks for telling me about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:53:19.800Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T15:23:32.293Z", 
+  "uid1LogOutTime": "2018-03-27T15:53:57.407Z", 
+  "uid1response": {
+    "feedback": "The movie seemed interesting, and the other user gave me a good description of what it was about.  The conversation went fairly well, and the instructions were clear.  Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:23:32.444Z", 
+  "uid2LogOutTime": "2018-03-27T15:54:07.534Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4559", 
+  "user2_id": "USR919", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

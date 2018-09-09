@@ -1,0 +1,289 @@
+{
+  "date": "2018-03-23T02:08:34.140Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:09:43.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:10:01.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watched the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:10:11.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When it first came out. It has been a while ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:10:47.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you see it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:10:53.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "same for me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:11:00.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it has been a while", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:11:08.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:11:13.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was a really cool concept for a movie. My kids loved it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:11:35.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:11:44.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, it was ok at the time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:12:04.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do you think of that last bullet point?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:12:41.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rokie with robots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:12:47.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "lol, I found that funny, Rocky with robots ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:13:40.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would not have compared this to a classic like Rocky ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:13:59.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah me too, I think it is funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:14:09.894Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:14:15.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but the movie does feel like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:14:25.486Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the other bullet point says, it better a cliche", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:15:22.143Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can see some thing mixing. the human strugle ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:15:37.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "now I rember it better where hugh jackman fights the bull in the beginning\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:17:39.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the next to last bullet point is funny, \"Though the premise of fighting robots does seem a plausible and intriguing extension of the contemporary WWE world. reminds of Robots VS wrestlers in How I Met Your Mother  episdoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:17:41.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "probably that was funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:17:48.854Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was funny fight, watching a robot fight a bull ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:18:05.501Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah that is funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:18:10.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought the robot would win, lol ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:18:20.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the bull was the real rocky", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:18:32.900Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:18:37.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes he was ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:18:41.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did also like the little robot knocking out the big zeus ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:19:00.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, it had too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:19:38.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it has such a bad rating though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:19:47.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "59%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:19:55.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was looking at that. the other\n is a 56 out of a 100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:20:33.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably it is those expert reviews cause the last one it gives an A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:21:04.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cinemaScore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:21:14.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "guess it depends on the person, the mood they are in when they watch it. I liked the experts better ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:21:31.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the experts liked it, lol ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:21:51.089Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:22:48.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T02:22:58.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same, nice talking to you as well ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:22:59.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "later ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T02:23:00.572Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T02:08:34.140Z", 
+  "uid1LogOutTime": "2018-03-23T02:23:01.872Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T02:08:34.171Z", 
+  "uid2LogOutTime": "2018-03-23T02:23:11.853Z", 
+  "uid2response": {
+    "feedback": "This was a really fun task, I did enjoy it ", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4695", 
+  "user2_id": "USR2857", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

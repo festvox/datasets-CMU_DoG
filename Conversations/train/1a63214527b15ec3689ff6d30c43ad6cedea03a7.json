@@ -1,0 +1,98 @@
+{
+  "date": "2018-02-19T19:06:42.147Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello How are doing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:07:05.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am well, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:07:22.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine thank you! So would you say you are a Batman fan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:07:42.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not a superfan, I'm not familiar with all the backstory, but I have really enjoyed the new movies. Have you seen all of the Batman movies starring Christian Bale?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:50.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely. Its a great thing you mentions those movies since Batman Begins started the iconic Nolan trilogies. Out of the three which is your favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:10:00.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok... Well which of the three Bale films are your favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:12:14.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Begins really got me hooked. I watched that one several times. The ending really got me! Did you see the identity of Ra's al Ghul coming? I was totally surprised.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:12:16.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Awesome! It did have the perfect set-up for the next films. Something even Marvel can have a hard time doing!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:22.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very true. I felt that entire trilogy was well done.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:13:47.511Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yeah! That sequel will go down in history!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:14:32.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Too bad they couldn't keep Katie Holmes involved.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:14:37.009Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:06:42.147Z", 
+  "uid1LogOutTime": "2018-02-19T19:21:54.736Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:06:42.289Z", 
+  "uid2LogOutTime": "2018-02-19T19:15:32.598Z", 
+  "uid2response": {
+    "feedback": "The person complained on my response time which was only a minute gap and left! So rude!", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1426", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

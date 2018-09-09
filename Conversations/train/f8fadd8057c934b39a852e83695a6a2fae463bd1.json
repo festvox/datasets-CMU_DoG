@@ -1,0 +1,140 @@
+{
+  "date": "2018-02-06T18:03:31.809Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:03:46.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T18:03:58.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T18:04:35.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T18:04:41.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello friend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:04:46.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what other movies has john wick been in ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:05:01.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to see this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:00.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:10.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:16.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:16.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:17.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:17.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:18.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:18.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:19.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:19.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:20.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T18:06:20.541Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T18:03:31.809Z", 
+  "uid1LogOutTime": "2018-02-06T18:06:23.883Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T18:03:32.261Z", 
+  "uid2LogOutTime": "2018-02-06T18:07:33.769Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1895", 
+  "user2_id": "USR1206", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

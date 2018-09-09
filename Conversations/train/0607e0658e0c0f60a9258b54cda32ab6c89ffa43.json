@@ -1,0 +1,103 @@
+{
+  "date": "2018-02-09T17:49:13.184Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "what's the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:50:25.723Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of the movie is Zootopia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:50:36.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:50:47.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is this a kid's movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:56.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about anthropomorphic animals. There is a character named Judy Hopps who becomes a police officer in Zootopia. She gets delegated to parking duty, and then she gets hustled by a conman named Nick Wilde and his partner Finnick.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:57.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a kid's movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:01.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also has a very high rating on IMDb of 8/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:22.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "any good actors or voices in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:29.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Idris Elba, Jason Bateman, and Ginnifer Goodwin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:45.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it in the theater or on dvd?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:18.961Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know about that but it was released in 2016.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:53:51.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:06.126Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what kind of animals are there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:23.686Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-09T17:49:13.184Z", 
+  "uid1LogOutTime": "2018-02-09T17:55:35.370Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:49:13.210Z", 
+  "uid2LogOutTime": "2018-02-09T18:00:34.644Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4606", 
+  "user2_id": "USR1849", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

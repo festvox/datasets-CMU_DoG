@@ -1,0 +1,63 @@
+{
+  "date": "2018-02-09T20:51:41.215Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:52:18.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.  It told me to read this page first so I'll be just a minute.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:52:48.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay done reading.  Is anyone there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:54:51.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Welp I hope I still get paid for this because I read the directions, read the movie description and am waiting here to chat I was directed to do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:55:45.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The other person back out I am still here wasting my time so I hope that whoever checks this over is willing to pay me for holding up my end of the bargin.  Aborting conversation in a min if yall don't send me someone new to chat with.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:57:28.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Other participant left the conversation early.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:58:00.246Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:51:41.215Z", 
+  "uid1LogOutTime": "2018-02-09T20:58:06.824Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:51:41.269Z", 
+  "uid2LogOutTime": "2018-02-09T20:52:44.240Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1841", 
+  "user2_id": "USR3710", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

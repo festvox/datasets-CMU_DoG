@@ -1,0 +1,129 @@
+{
+  "date": "2018-03-06T15:29:19.383Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good Morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:29:34.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:29:49.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "may I know what is the title of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:04.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the task did not gave it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:20.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catch me if you Can", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:21.909Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:30:28.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ohhh.. I think I did but i just cant remembe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:30:43.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "may I know whos are the actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:01.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a young Leonardo Dicaprio who is a Young forgery and being chased by Tom Hanks who is the FBI Agent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:17.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the genre also thanks..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:18.998Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christopher Walken is Leo dad ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:31:52.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ahh yes yes I remember it but not quit all.. ahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:31:58.257Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leo is Frank Abignail Jr. He becomes a crook by making checks ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:32:27.358Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the story about can you tell me a little bit ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:32:33.761Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leo runs away from home and needs money. He poses as a Pilot, Lawyer, etc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:13.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "aahh yes yes leonardo is very good in making fake check in the story??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T15:33:25.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He makes fakes checks and gets money, and flys around the world", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:27.101Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Hanks chases him throughout the movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:33:41.848Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tom Hanks eventually catches him and throws him in prison", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T15:34:06.941Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-03-06T15:29:19.383Z", 
+  "uid2LogInTime": "2018-03-06T15:29:19.588Z", 
+  "user1_id": "USR3545", 
+  "user2_id": "USR697", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

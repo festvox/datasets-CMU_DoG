@@ -1,0 +1,112 @@
+{
+  "date": "2018-02-06T22:02:49.263Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:03:43.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, Jaws is a pretty good move if you're looking for something to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:04:21.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:06:23.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "when this movie edited", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:07:37.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't a clue. It came out int 75", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:08:37.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ohh ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:08:56.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a series of shark attacks on a resort town and some people trying to get rid of the shark", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:09:55.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's one of them Spielberg pictures", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:10:20.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:10:28.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "k iwill try to see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:10:55.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Neat, it's got around an 8.5 in the ratings so you have a pretty good chance of liking it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:12:18.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "8.5 ratings very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:12:44.387Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "more then my son look like this type of movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:13:24.686Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thank to share this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:15:25.866Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T22:02:49.264Z", 
+  "uid1LogOutTime": "2018-02-06T22:14:33.652Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T22:02:49.612Z", 
+  "uid2LogOutTime": "2018-02-06T22:15:33.147Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR168", 
+  "user2_id": "USR3351", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

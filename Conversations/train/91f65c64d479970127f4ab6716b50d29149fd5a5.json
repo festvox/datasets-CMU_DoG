@@ -1,0 +1,234 @@
+{
+  "date": "2018-02-14T19:40:45.422Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Could you tell me the name of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:18.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Are you familiar with the movie John Wick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:41:26.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:41:43.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I've heard about the movie before", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:53.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could you tell me when it was released? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:42:00.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was released year 2014 and got 86 percent in Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:42:25.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:42:36.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so too. Main actor is Keanu Reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:42:52.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is in it, right? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:42:53.348Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah. I like him, he is a good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:42:59.704Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's right!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:43:02.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen this movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:43:06.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. It is pretty interesting. He did an good job portraying the role\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:43:48.241Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of movie is it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:44:10.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "action movie. He is trying to get revenge for the death of his wife", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:44:52.636Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ha, classic. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:45:16.249Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are there any good reviews for it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:45:53.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep. It is directed by Chad Stahelski", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:46:04.344Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I've never heard of this director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:46:31.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. Some critic said that it is a ferocious movie and they can't get enough of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:47:01.215Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not familiar with the director too but this movie is pretty good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:47:16.512Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I've heard there is a sequel. Did you see that one? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:47:36.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't but probably will in the future", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:48:10.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice. Are you a fan of Keanu? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:48:24.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! I just love his face lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:48:40.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha yeah he is definitely an attractive man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:48:56.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like action movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:49:07.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Uum, it's not my favorite genre, but I tend to watch the ones that have good reviews. How about you? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:49:29.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not crazy about them but if I like the actor I'll watch it. It is a great comeback movie for him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:50:21.326Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good. Are there any other famous actors in this? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:51:04.989Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Michael Nyqvist if you heard of him before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:45.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alfie Allen too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:58.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I haven't unfortunately. Still, it sounds like a nice movie. I think I have enough to make my decision, thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:09.700Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:40:45.422Z", 
+  "uid1LogOutTime": "2018-02-14T19:52:11.528Z", 
+  "uid1response": {
+    "feedback": "The person I spoke to answered all my questions well and made a good case for this movie based on the lead actor (Keanu Reeves). ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:40:45.477Z", 
+  "uid2LogOutTime": "2018-02-14T19:52:19.936Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2362", 
+  "user2_id": "USR2330", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

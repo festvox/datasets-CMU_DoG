@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-19T22:02:15.315Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:03:41.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:03:50.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was an interesting concept, pretty entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:05:00.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you believe it has only a 48% approval rate on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:06:48.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was funny too. Thought it deserved a better rating.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:07:34.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does surprise me, since I think Jim Carrey was quite funny in the role.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:08:05.787Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-19T22:02:15.315Z", 
+  "uid2LogInTime": "2018-02-19T22:02:15.470Z", 
+  "uid2LogOutTime": "2018-02-19T22:09:29.967Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3307", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

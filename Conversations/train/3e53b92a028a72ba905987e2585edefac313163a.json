@@ -1,0 +1,111 @@
+{
+  "date": "2018-02-20T21:36:51.029Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:36:59.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, what's going on ? I bet you enjoyed the movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:37:25.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie are you talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:37:56.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable me starring Pierre coffin.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:38:23.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ahh, yes, that is a great movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:38:41.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "one of the best actors of all time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:38:41.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nI loved the animation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:39:03.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a great movie, indeed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:39:21.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What part does he play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:39:30.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:41:18.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T21:42:01.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:46:22.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "im here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:46:27.792Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "my screen went black", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T21:46:46.224Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-20T21:36:51.029Z", 
+  "uid1LogOutTime": "2018-02-20T21:47:50.163Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T21:36:51.080Z", 
+  "uid2LogOutTime": "2018-02-20T21:42:20.042Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR282", 
+  "user2_id": "USR891", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

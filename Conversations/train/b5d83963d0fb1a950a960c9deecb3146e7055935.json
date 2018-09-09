@@ -1,0 +1,113 @@
+{
+  "date": "2018-02-15T19:33:33.066Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:34:07.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Howdy. What did you think of Ryan Gosling?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:34:10.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Love him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:34:21.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and Rachel McAdams, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:34:34.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. I don't like her. Hate her actually. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:34:49.983Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Especially in this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:34:53.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "At least she moved you..even if it is hate. Did you like this move in general? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:27.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it was good, I guess.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:37.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:43.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a long watch, didn't like it as much as I thought I would. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:36:07.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't last more than 2 hours tops on any movie before I fall asleep, lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:36:29.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you think the movie was better than rotten tomatoes says it is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:36:52.640Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would rate about the same.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:37:23.692Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of the script?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:37:52.768Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:40:26.688Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T19:33:33.066Z", 
+  "uid2LogInTime": "2018-02-15T19:33:33.073Z", 
+  "uid2LogOutTime": "2018-02-15T19:43:18.431Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1212", 
+  "user2_id": "USR2410", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

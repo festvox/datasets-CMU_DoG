@@ -1,0 +1,89 @@
+{
+  "date": "2018-02-16T20:26:14.500Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:27:44.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We'll be discussing Dunkirk.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:28:57.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:29:21.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ive never seen it before", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:29:32.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a war topic movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:29:53.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ah, ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:30:00.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:30:03.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too, never saw it either.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:30:20.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh then we are both in the same boat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:30:33.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Harry Styles has a part in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:31:09.650Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T20:26:14.500Z", 
+  "uid1LogOutTime": "2018-02-16T20:30:49.655Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:26:15.612Z", 
+  "uid2LogOutTime": "2018-02-16T20:31:52.740Z", 
+  "uid2response": {
+    "feedback": "We talked a bit.  Then, they abandoned the chat with me.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4734", 
+  "user2_id": "USR2101", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

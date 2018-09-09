@@ -1,0 +1,210 @@
+{
+  "date": "2018-02-07T15:56:02.267Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:48.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:52.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:08.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a princess who freezes the whole city and leaves. Her sister takes off trying to find her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:35.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are the actors good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:11.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Along the way the sister finds some new friends, one being a reindeer and a prince. It's a really good movie, I enjoy watching it with my kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:24.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's sort of sad, the girls parents died", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:43.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can the movie attract a wide range of audience?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:57.210Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It can, i believe most people would like the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:16.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Honestly I didnt want to watch it at first, but it's a really good movie and kind of sucks you in", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:47.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's actually got really good reviews on 3 different pages", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:09.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the screenplay keep moving, keep you interested?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:16.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it keeps your attention", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:27.802Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it comparable to fantasy or drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:00:49.809Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's more of drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:57.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sad, or uplifting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:13.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has all emotions wrapped up in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:42.857Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does the film have a chance to win an Academy Award?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:07.841Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:39.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did people seem to like it at the theater?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:47.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They did, it reached a record while in the theater", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:25.138Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was the director skillful with the camera?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:32.936Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "very much so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:47.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would you rate the movie from 1 to 5 stars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:58.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would give it 4 stars", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:05.361Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you pay to see it again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:50.726Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:05:10.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you take your children to see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:49.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, we have seen it together numerous times. They love it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:06.240Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T15:56:02.267Z", 
+  "uid1LogOutTime": "2018-02-07T16:06:37.462Z", 
+  "uid1response": {
+    "feedback": "After exhaustively asking pertinent questions about the movie, I will definitely watch the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:56:02.269Z", 
+  "uid2LogOutTime": "2018-02-07T16:06:29.750Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR444", 
+  "user2_id": "USR946", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-16T20:01:51.006Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hii How did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:03:46.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed it, it had some nice twist and turns. You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:04:15.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you agree with all of the critical responses?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:09:12.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy the performance of Leo and JGL in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:14:04.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:16:12.233Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T20:01:51.007Z", 
+  "uid1LogOutTime": "2018-02-16T20:18:09.634Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:01:51.290Z", 
+  "user1_id": "USR4884", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

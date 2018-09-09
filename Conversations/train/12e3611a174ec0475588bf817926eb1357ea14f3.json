@@ -1,0 +1,313 @@
+{
+  "date": "2018-03-19T19:45:47.348Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Tell me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:46:18.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have never seen this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:46:52.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what it is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:47:10.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I do not. I knwo it has some great actors in it like Tom Hanks and Meryl Streep. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:47:59.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "two of my favorites", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:48:26.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mine too. Have you seen this movie before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:48:48.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not yet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:49:02.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you want to see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:49:30.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess it woudnt be a bad idea to Google the movie and see what it is about. I wouldn't mind seeing it sonce it has Tom Hanks in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:50:20.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:51:02.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Google is a good idea. do you have a favorite movie site to shcek?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:51:27.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah he is. I love a lot of his movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:51:38.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Other than IMDB, no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:52:34.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mine too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:53:19.897Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "We should check it out then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:54:00.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. How many movies do you watch per year?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:54:26.695Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good question. A lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:55:28.962Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is your favorite genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:56:13.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mine is thriller. I live Fatal Attraction", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:00.938Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love other movies like that too'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:14.920Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Basic Instinct is my mom's fav", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:41.688Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you watch a lot of movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:57:42.706Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. About 2 a week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:57:51.753Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Love the old ones best", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:58:02.866Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Especially 80's movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:58:15.436Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite genres are horror,  romantic comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:58:17.274Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like jim carey in comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:58:41.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love jim carey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:59:24.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Funny guy. Remember the elevator scene in Liar Liar? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:59:47.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nLOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:59:51.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol! Yeah!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:00:04.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about kid's movies? I still like Shrek", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:00:47.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Shrek is funny! I love pretty much all kid movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:01:08.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too. good memories", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:17.058Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't seen a lot of the old classics for a long time. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:29.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, good memories ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:02:41.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are worth rewatching.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:52.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen Gaslight?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:02:58.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Scary, good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:06.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes definitely ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:14.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Time to sign out. Have a great day! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:30.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No not gaslight ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:32.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Watch Gaslight! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:03:48.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:49.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:03:56.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:04:00.769Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T19:45:47.348Z", 
+  "uid1LogOutTime": "2018-03-19T20:04:09.513Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T19:45:47.356Z", 
+  "uid2LogOutTime": "2018-03-19T20:04:03.322Z", 
+  "uid2response": {
+    "feedback": "We didn't get specific enough", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4045", 
+  "user2_id": "USR583", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-05T21:45:07.140Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:45:40.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T21:45:57.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Jim Carrey as Bruce Nolan, a down on his luck TV reporter ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:46:56.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was directed by Tom Shadyac", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:47:55.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is slapstick comedy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:50:05.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T21:52:33.429Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T21:45:07.140Z", 
+  "uid1LogOutTime": "2018-03-05T21:53:10.169Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T21:45:07.267Z", 
+  "user1_id": "USR3823", 
+  "user2_id": "USR1180", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

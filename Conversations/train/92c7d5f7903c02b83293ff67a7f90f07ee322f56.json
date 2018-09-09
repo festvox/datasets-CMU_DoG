@@ -1,0 +1,242 @@
+{
+  "date": "2018-03-19T23:32:34.529Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:33:09.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:33:20.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, but it seems interesting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:33:41.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it has an interesting cast and the reviews sound ok for it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:34:07.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The rating isn't very good unfortunately. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:34:47.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I'm surpr\nised it was rated so low on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:35:16.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is your favourite cast member ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:35:43.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio. You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:36:09.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also Leonardo. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:36:24.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he would do a good job as Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:37:19.532Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But apparently Joel Edgerton is a good actor too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:38:24.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tobey Maquire has a good role too. Psychitrc hospital scene seems interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:39:43.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I wonder if that is the setup for the story or near the end. It seems a little unclear.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:40:08.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it is totally unclear for me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:40:30.941Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But I like his doctor idea to write down his thoughts. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:41:39.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah that makes for a good framing device for the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:42:03.935Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie sounds a bit confusing with all the drama between Daisy and Gatsby and Daisy's husband. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:43:26.298Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It really does. I wonder if he really never attended Oxford.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:43:59.576Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well it says on the document that he wasn't a born wealthy person so maybe he just made up going to Oxford.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:44:56.421Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Or maybe he really went there. But I would guess that he made it up.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:45:42.669Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah I think so too. I wonder how he met Daisy in the first place.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:46:03.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too. Daisy though, she can't decide what she wants looks like. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:46:30.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah she seems really indecisive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:46:51.296Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It looks like it was a setup to have him killed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:47:38.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know because it sounds to me like she was just being irresponsible.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:48:07.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that is right. I wonder why only Nick attented Gatsbys funeral.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:49:42.487Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well based on it saying Nick was talking about Gatsby in 1931 I guess he was a good friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:50:20.595Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it seems like Nick really liked him. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:51:16.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I think so too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:51:32.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think that Daisy should attend his funeral before she left.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:52:25.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if it ever explains why she didn't.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:52:45.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hopefully because it is interesting. I wonder if there was something they had to run away from.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:53:16.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It mentions a green light Gatsby looks at so maybe that relates back to everything.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:53:56.785Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:54:52.064Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T23:32:34.529Z", 
+  "uid1LogOutTime": "2018-03-19T23:56:27.524Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T23:32:34.738Z", 
+  "uid2LogOutTime": "2018-03-19T23:56:43.655Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1922", 
+  "user2_id": "USR4814", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

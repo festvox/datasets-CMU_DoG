@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-23T16:13:48.767Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:14:18.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you ever seen The Wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:14:49.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not. Is that the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:15:14.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. That is the movie that I have selected. It is a back comedy. \nIt stars Leonardo DiCaprio as Jordan Belfort, Jonah Hill as Donnie Azoff and Margot Robbie as Naomi Lapaglia.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:15:49.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this a newer movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:16:39.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2013, so 5 years ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:16:54.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this a drama movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:17:17.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a black comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:17:25.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So its a comedy that has a dark sense of humor then?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:17:54.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. \nAccording to rotten tomatoes, which is a movie rating website, it scored at 78% out of 100%. Critics say that it was \"Epic in size, but claustrophobically narrow in scope.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:18:04.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did this movie win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:19:29.184Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not have any information regarding awards.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:20:29.518Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of the key scenes in the movie is when Belfort (the main character) is trying to obtain a job for L.F. Rothschild. He is enticed by the sex and drugs that come with the stockbroker culture, and as a result, heads to a small brokerage firm on Lon Island that specializes in penny stocks. Because of his personality and high commissions, Jordan is able to make a lot of money.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:20:32.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is this movie about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:20:52.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about a man named Jordan Belfort, who is looking for a job as a stockbroker. At first, he starts out looking at a big firm in Manhattan, New York called L.F. Rothschild but instead takes a job at a small brokerage firm on Long Island. In this firm, he makes a lot of money, and completely turns his life around.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:22:43.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there going to be a sequal or is this a stand alone movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:23:27.623Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is a stand-alone movie. According to the information I have available, there will not appear to be any sequels.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:24:06.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does this sound like a movie you would watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:24:35.356Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. I have watched this movie and I love it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:24:51.553Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So you do recommend this movie then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:25:09.274Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would personally recommend this movie. The relationship between Jordan Belfort and his neighbor Donnie Azoff really makes the movie fun.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:26:19.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who plays the main character again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:26:37.801Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The main character is Jordan Belfort, who is played by actor Leonardo DiCaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:27:00.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm a big fan of him. I'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:27:22.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've seen alot of his movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:27:34.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As a fan of this actor in conjunction with the 7.8/10 rating\n, does the Wolf of Wall Street sound like a movie you would be interested in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:28:13.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It actually does. I do think I will end up seeing this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:28:33.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I may download it today ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:28:57.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would recommend it. Another interesting part of the movie is when Jordan's wife finds out about how he has been acting behind her back. She learns about his life of prostitutes and drugs and divorces him. This causes Jordan to be pulled back down to Earth. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:30:42.886Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow that sounds crazy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:30:57.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a wonderful day ! Thanks for the info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:31:16.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:31:28.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:31:31.137Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T16:13:48.767Z", 
+  "uid1LogOutTime": "2018-03-23T16:31:22.903Z", 
+  "uid1response": {
+    "feedback": "The movie sounds interesting", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:13:48.876Z", 
+  "uid2LogOutTime": "2018-03-23T16:31:35.209Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4671", 
+  "user2_id": "USR2606", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

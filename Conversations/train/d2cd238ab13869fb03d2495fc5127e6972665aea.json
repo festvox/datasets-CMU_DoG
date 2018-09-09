@@ -1,0 +1,38 @@
+{
+  "date": "2018-02-07T22:49:01.102Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I went to see Jaws with my girlfriend and in the beginning of the movie she was offended and left.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:50:02.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why was she offended? The movie eas great gor it's time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:51:08.199Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T22:49:01.102Z", 
+  "uid1LogOutTime": "2018-02-07T23:24:32.224Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T22:49:01.270Z", 
+  "uid2LogOutTime": "2018-02-07T22:52:09.857Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3031", 
+  "user2_id": "USR3206", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

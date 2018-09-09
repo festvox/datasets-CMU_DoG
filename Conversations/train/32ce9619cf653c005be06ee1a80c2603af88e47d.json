@@ -1,0 +1,440 @@
+{
+  "date": "2018-03-28T18:35:52.101Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:36:00.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:36:20.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:36:46.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I just watch this movie called The Wolf of Wall Street!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:37:00.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:37:08.983Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it before as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:37:12.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:37:22.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are your thoughts about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:37:30.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:37:33.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is not letting me type anything in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:37:53.849Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:38:27.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio is my favorite actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:38:37.468Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you even see the messages that I am sending:?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:38:57.420Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:39:13.290Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:39:26.025Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You are in the clear.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:39:27.423Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like the main character in there played by Leonardo DiCaprio \n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:39:51.166Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes he is very exciting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:40:47.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:41:35.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like the plot of the movie.think the location for it was appropriate. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:42:17.200Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like Long Island.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:42:33.431Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have never been there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:42:45.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You know New York is the capital of making money.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:42:58.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:43:08.868Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the raitings of the movie should have been better.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:43:45.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "75/100 is not bad, neither. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:44:13.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I see the ratings are just average. I think this was an excellent movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:44:14.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know anything about the Martin Scorsese, the director of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:45:06.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have never heard of him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:45:25.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know that Martin Scorsese was the Director until now.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:45:34.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK. Got you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:45:47.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about Margot Robbie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:46:10.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, He usually directs these types of dark comedies or dramas.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:46:23.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure who Margot Robbie is. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:47:03.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I did heard about that from somebody else.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:47:04.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:47:10.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She played as Naomi Lapaglia in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:47:38.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, I still can't place her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:47:57.719Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think of the name of the company Stratton Oakmont?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:48:26.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it's a pretty good cover up name. Sounds pretty respectable.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:49:04.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As far I know they engaged in rampant corruption and fraud on Wall Street.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:49:38.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, indeed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:49:48.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, this is very true. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:49:55.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After talking about this movie, it makes me want to watch it again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:50:26.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes me too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:50:36.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I probably will.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:50:51.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't imagine doing all this to get rich quick. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:51:53.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, fast live, fast money.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:52:26.883Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:52:35.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the crew of the actors were picked accurately. What are your thoughts on it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:52:58.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The genre is listed as black comedy. But I don't really see it as a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:53:03.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes more like action packed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:53:26.036Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I think the actors were picked accurately. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:53:33.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that after Jordan goes to prison, he gets a legitimate job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:55:05.435Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, good for him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:55:19.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So are we supposed to end this conversation ourselves or is it automatically ended for us? Do you know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:56:44.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Us our self\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:57:32.272Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok, then. Is there anything else that you would like to say about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:57:55.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You need at least 15 chats from each side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:57:59.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:07.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have that what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:15.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes .", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:58:22.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for chatting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:58:32.505Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you ready to go then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:32.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was fun.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:58:37.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you also. It was nice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:43.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:58:59.446Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T18:35:52.101Z", 
+  "uid1LogOutTime": "2018-03-28T18:59:59.223Z", 
+  "uid1response": {
+    "feedback": "I just finish chatting about the movie. I did enjoy the experience. The conversation went down smoothly. The user was actively responding to my questions. Thank you. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T18:35:52.134Z", 
+  "uid2LogOutTime": "2018-03-28T18:58:45.937Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR1579", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

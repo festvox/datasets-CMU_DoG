@@ -1,0 +1,119 @@
+{
+  "date": "2018-02-21T00:55:17.990Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:56:06.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:56:11.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie do you want to talk about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T00:56:51.663Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bruce almighty was a good movie. jim carrey plays a down on his luck reporter. he complains to \"god\", who is played by morgan freeman, that God isnt doing his job right. Morgan freeman gives him the chance to play god for a week", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:57:56.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it recieved a 48% rating on rotten Tomatoes. avg 5.7/10 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:59:23.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im really not sure where to go from here...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T00:59:38.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He torturing steve carell was gold", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:00:34.651Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it was, thats  my favorite part of the movie. definitely a knee slapper", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:01:11.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "him standing on the balcony yelling \"smite me now, god!!!\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:01:50.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think the movie got a low rotten tomatoes\n because jim carrey always kinda place the same character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:04:08.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "personally i dont think it deserved such a low rating. i enjoyed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:05:34.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hes always the funny guy that never gets a serious role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T01:06:18.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he has one serious role on his belt the rest are comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:08:29.382Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "his movies havent aged well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:09:20.259Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like dumb and dumber is more of a slapstick gag ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T01:10:35.960Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-21T00:55:17.990Z", 
+  "uid1LogOutTime": "2018-02-21T01:09:45.746Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-21T00:55:18.000Z", 
+  "uid2LogOutTime": "2018-02-21T01:10:55.769Z", 
+  "uid2response": {
+    "feedback": "The user left the chat", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR401", 
+  "user2_id": "USR3254", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

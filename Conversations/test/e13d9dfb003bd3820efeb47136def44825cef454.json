@@ -1,0 +1,88 @@
+{
+  "date": "2018-02-07T21:59:37.647Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:59:59.076Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:00:06.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:01:08.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am still here...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:02:11.719Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here, but have no knowledge of what movie you are reading", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:05.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will wait", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:09.481Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but realize that you are likely not there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:17.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe the movie selected was offensive? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:30.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or perhaps you lost internet connection. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:36.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cannot know for sure what happened, or where you went. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:49.312Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:59:37.647Z", 
+  "uid1LogOutTime": "2018-02-07T22:00:35.005Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:59:37.649Z", 
+  "uid2LogOutTime": "2018-02-07T22:05:55.755Z", 
+  "uid2response": {
+    "feedback": "The other participant left before introducing me to the movie. I had no knowledge of what it was I was supposed to be persuaded to watch. That being said, I do love movies, and naturally curious - so I'd likely watch the movie in any case. ", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1305", 
+  "user2_id": "USR290", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

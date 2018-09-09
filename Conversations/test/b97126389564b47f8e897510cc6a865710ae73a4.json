@@ -1,0 +1,54 @@
+{
+  "date": "2018-03-20T17:38:42.429Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:39:31.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:40:49.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:41:24.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because of many interesting features ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:42:03.666Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T17:38:42.429Z", 
+  "uid1LogOutTime": "2018-03-20T17:42:09.064Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:38:42.592Z", 
+  "uid2LogOutTime": "2018-03-20T17:41:59.356Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4630", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

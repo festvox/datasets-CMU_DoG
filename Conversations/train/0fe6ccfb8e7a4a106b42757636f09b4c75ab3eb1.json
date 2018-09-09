@@ -1,0 +1,117 @@
+{
+  "date": "2018-02-02T20:21:22.057Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, have you seen Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:21:41.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I havent. what is is about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:21:55.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have but it was super confusing!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:07.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard that there was alot of twists and turns but I personally havent seen it yet.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:31.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love him too. He did a great job.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:46.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know Leo Dicaprio was in it and did a really good job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:04.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I'd have to watch it a few times to understand.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:08.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:24.665Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will have to watch it. It sounds really interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:41.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it classified as a thriller or mystery do you know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:01.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think a little bit of both.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:10.728Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There was a lot of mysterious action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:24.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who else plays in it with him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:36.804Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joseph Gordon-Levitt.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:52.145Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T20:21:22.058Z", 
+  "uid1LogOutTime": "2018-02-02T20:25:01.542Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T20:21:22.063Z", 
+  "uid2LogOutTime": "2018-02-02T20:25:22.059Z", 
+  "uid2response": {
+    "feedback": "there was some hit and miss and it kinda felt like i was talking to a bot for a min.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR664", 
+  "user2_id": "USR2437", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

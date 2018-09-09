@@ -1,0 +1,98 @@
+{
+  "date": "2018-02-08T23:36:13.278Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I thought it was a great movie. I enjoy most films I've seen with Keanu Reeves.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:37:21.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree;\n It was a great movie filled with action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:39:15.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is action your favorite genre of movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:40:32.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. This film genre is the most entertaining in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:41:20.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:41:37.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's definitely one of my favorites as well. I enjoy over the top, sort of unrealistic action scenes, and this definitely pulled that off.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:42:44.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it felt as if every scene in the movie grabbed my attention. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:44:16.430Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Totally agreed, it was so serious, and just focused on the action.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:44:55.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the director did a great job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:46:08.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I find that several movies lately fail to develop the characters , since the story has to be told in about 90 mins, but this movie went straight to the point", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:46:45.472Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I loved how fast this scene was. The moment the shop owner recognized the main character he immediately threw the punch. There was almost no down time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:47:46.452Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T23:36:13.278Z", 
+  "uid1LogOutTime": "2018-02-08T23:49:40.125Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:36:13.291Z", 
+  "uid2LogOutTime": "2018-02-08T23:49:06.837Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2866", 
+  "user2_id": "USR2440", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-01T19:06:08.617Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, I love Bruce Almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:07:50.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that the name of a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:08:08.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:09:25.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:09:42.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main character is Bruce Nolan played by Jim Carrey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:10:41.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What year was the movie made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:11:08.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2003", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:11:14.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:11:25.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:11:32.457Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it suitable for a 10 year old?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:11:45.011Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has a bad rotten tomatoe rating but it is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:12:26.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There is some cursing in it but it isnt bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:13:16.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you see Evan Almight?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:13:39.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:13:43.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:13:48.296Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "To me it isnt as good, but to each his own", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:13:57.560Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you particularly\n like Jim Carrey moives?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:14:47.243Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do, he was really big when I was around the age of 12-15 and his movies made me laugh ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:15:20.923Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How many times have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:16:07.446Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would guess around 5 or 6", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:17:04.144Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How many times have you seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:18:01.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have never seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:18:09.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am trying to decide whether to rent it or not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:18:18.567Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it is a good movie, there are some really funny parts in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:18:43.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it is on Netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:19:23.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is not currently on the US netflix, maybe in a different country.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:19:55.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Amazon Prime or Hulu?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:20:30.878Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure about those", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:20:48.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have all 3 streaming platforms? amazon prime hulu and netflix?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:21:23.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I have all the info that I need", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:21:28.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:21:29.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I just have amazon prime.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:21:51.410Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T19:06:08.617Z", 
+  "uid1LogOutTime": "2018-03-01T19:22:01.728Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:06:08.620Z", 
+  "uid2LogOutTime": "2018-03-01T19:21:52.957Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2285", 
+  "user2_id": "USR4024", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

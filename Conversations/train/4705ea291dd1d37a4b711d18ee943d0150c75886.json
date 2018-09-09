@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-06T14:44:48.185Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Zootopia was a fun movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:20.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wish I could live in bunnyburrow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:37.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Umm, \nThe other person left", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:30.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is dumb,  I hate when other people leave and waste my time. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:30.273Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T14:44:48.185Z", 
+  "uid1LogOutTime": "2018-02-06T14:48:49.738Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:44:48.222Z", 
+  "uid2LogOutTime": "2018-02-06T14:46:52.107Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR578", 
+  "user2_id": "USR3873", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

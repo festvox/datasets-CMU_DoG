@@ -1,0 +1,313 @@
+{
+  "date": "2018-02-09T00:59:48.469Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:00:02.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, the movie we're supposed to talk about is Inception.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:02:41.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:03:29.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a team of thieves who go into people's dreams to steal their secrets.  Sounds pretty interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:04:05.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me more about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:04:16.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Leonardo Dicaprio, Joseph Gordon-Levitt, Ellen Page, and Tom Hardy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:05:03.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "those are good actors ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:05:34.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also has an 8.8 rating on IMDB, which is really good, though it has some mixed responses from critics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:05:51.896Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:05:55.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure, it doesn't say here.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:06:12.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:06:22.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats the rating PG, R?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:07:00.104Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure on that one either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:07:32.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what are the responses from critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:07:32.936Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:07:35.002Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "bad?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:07:37.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "some liked it, some thought it was over-rated.  I guess it didn't live up to the hype for some people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:08:16.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you generally enjoy science fiction movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:08:40.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "good to know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:08:46.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not much but sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:08:57.533Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ahh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:09:13.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well, this one sounds different from the usual sci-fi so you might still enjoy it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:09:26.033Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would be kinda of curious about a movie plot like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:09:35.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah it's pretty interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:10:22.610Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder if some people be afraid of falling asleep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:10:51.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:10:53.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is a scene in the movie where they find out that if they die in the dream, they can be stuck in limbo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:11:09.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it got a good rating on IMDB ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:12:02.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep, 8.8.  I think anything that gets over a 7 is usually pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:12:43.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:12:44.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that six", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:12:47.395Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sux", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:12:52.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I normally ask around for good movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:13:18.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and anything above a 7 I would also watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:13:34.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dislike searching for movies. I prefer suggestions!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:14:02.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love Leo DiCaprio so I would watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:14:53.497Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I have a hard time picking out movies sometimes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:15:09.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but this sounds like one I would watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:15:17.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting plot, good cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:15:25.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I may consider watching it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:16:05.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, I guess we are done with the chat about the movie inception.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:16:49.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool, I hope you enjoy it!  I guess that's all I can say without spoiling too much of the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:16:49.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for chatting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:16:59.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, nice talking to you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:17:05.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cya", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T01:17:13.712Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "c ya", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T01:17:19.010Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T00:59:48.469Z", 
+  "uid1LogOutTime": "2018-02-09T01:17:21.039Z", 
+  "uid1response": {
+    "feedback": "interesting plot, curious about it", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T00:59:48.516Z", 
+  "uid2LogOutTime": "2018-02-09T01:17:16.938Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4113", 
+  "user2_id": "USR3120", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "date": "2018-03-22T00:45:12.111Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:45:21.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't have the movie info, so you'll have to tell me which movie it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:47:32.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like animated movies? If you do, you should watch Monsters University. It's the prequel to Pixar's Monsters, Inc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:47:44.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like some animated films.  Who does the voices for this one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:48:54.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some of the voice actors consist of John Goodman, Steve Buscemi, John Ratzenberger, Billy Crystal and Bob Peterson. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:50:15.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like a few of them.  Especially John Goodman.  Does it say if the movie has songs?  I don't like musical cartoons very much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:51:38.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is music that is compose by Randy Newman, who has collaborated with Pixar 7 times. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:53:02.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not a fan of his music.  What can you tell me about the story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:54:11.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it's about two monsters, Sulley and Mike, and their time in college. It tells the story of their journey from being rivals to really good friends. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:55:11.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's a prequel to the original?  (i haven't seen either one)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:55:39.234Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, is is the prequel to the Monsters, Inc movie from 2001.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:56:42.533Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how are the reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:56:48.809Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They are fairly good. It has an A with CinemaScore and a 79% rating on Rotten Tomatoes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T00:57:40.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah that's really good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T00:58:22.629Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "any more info?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:00:05.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is. The critics say good things about it too. They say that it really holds true to the spirit of the 2001 movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:00:39.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do the monsters learn about in college?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:01:36.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How to be good scarers - which are monsters that collect childrens screams for energy by entering into the human world at night to scare them. It's not scary at all,\n I promise. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:03:36.331Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "energy from screams.  that's interesting.  too bad for the kids, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:04:50.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i suppose i should watch the first one before this one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:06:36.388Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it can seem pretty scary. Its a fun movie though. I would reccomnd watching the first one too if you wanted to get the full effect. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:08:16.992Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "makes sense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:08:40.259Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "any more plot details?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:08:53.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well remember how I said the main character Sully and Mike were rivals? Well they end up joining this fraternity called Oozma Kappa and compete with other fraternities in different challanges. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:09:52.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what kind of challenges?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:10:24.058Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well for example one challange is a bedroom scare simulator. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:11:31.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:11:45.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what are some other characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:12:31.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it's a really fun movie. Oozma Kappa is known for being the weekest fraternity on campus, so it's a little bit of an underdog tale. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:12:34.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:13:12.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Other characters like Randall Boggs and Roz make an apperance. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:13:16.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are those other monsters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:13:32.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they are. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:14:00.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we're done!  nice chatting with you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T01:14:16.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome! Thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T01:14:42.346Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T00:45:12.112Z", 
+  "uid1LogOutTime": "2018-03-22T01:14:21.469Z", 
+  "uid1response": {
+    "feedback": "I didn't have the document. The other user took a long time responding.", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T00:45:12.134Z", 
+  "uid2LogOutTime": "2018-03-22T01:14:44.640Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3552", 
+  "user2_id": "USR1684", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

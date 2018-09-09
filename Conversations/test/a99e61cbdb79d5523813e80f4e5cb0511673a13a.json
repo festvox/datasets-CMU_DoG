@@ -1,0 +1,88 @@
+{
+  "date": "2018-03-22T16:42:36.041Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:42:58.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:43:03.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:43:12.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seen The Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:43:20.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I've never seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:43:31.178Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leo Dicaprio.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:43:40.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I call him Leo cuz I'm a fan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:43:49.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "j/k", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:43:51.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, really? I've heard he\n is a great actor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:44:02.597Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T16:42:36.041Z", 
+  "uid1LogOutTime": "2018-03-22T16:52:09.413Z", 
+  "uid1response": {
+    "feedback": "Other person left early.", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T16:42:36.059Z", 
+  "uid2LogOutTime": "2018-03-22T16:44:07.113Z", 
+  "uid2response": {
+    "feedback": "They did not describe the movie much and left the conversation quickly. ", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1324", 
+  "user2_id": "USR1220", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

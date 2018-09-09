@@ -1,0 +1,323 @@
+{
+  "date": "2018-02-05T19:13:10.414Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:13:18.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:13:22.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would like to encourage you to see the movie Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:13:40.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:13:46.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a great animated feature about anthropomophic animals, including a young rabbit who is a rookie cop.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:14:11.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:14:20.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She learns about being a parking duty officer, but experiences hardship when she is hustled by a pair of con artists.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:14:52.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:15:07.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Many of the stereotypes rabbit Judy Hopps encounters have parallels to human experiences.  All in all it is a fun and likeable movie which has received a number of favorable reviews by critics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:16:03.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:16:17.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actors Ginnifer Goodwin, Jason Bateman, Idris Elba, and others round out a cast which delivers a thoughtful message of inclusiveness and has moments of humor, pathos, and suspense.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:17:28.508Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you feel like seeing this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:17:39.958Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:17:44.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There are many things to like about the film, and it delivers a lot of its promise of fun.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:18:24.567Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:18:29.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Perhaps the best thing about this film is the animation, which is delivered in Disney style through state-of-the art methods.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:19:34.239Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:19:53.023Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The story was directed by Byron Howard.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:19:55.104Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One key thing to remember is the high ranking achieved on rotten tomatoes for this movie of 98% fresh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:20:36.689Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:21:07.558Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Judy recieves praises for solving her case, but has to go above and beyond what she expected when guilt over the aftermath causes her to quit her job.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:21:45.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you plan to see this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:21:58.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:22:06.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's great.  I do recommend it highly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:22:19.515Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Be sure to watch for a fun performance by Jenny Slate as an administrative sheep.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:22:54.557Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There are many reasons to see this great family film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:23:36.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:23:37.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Another enjoyable and humorous performance is given by Bateman as a sly fox with a sad childhood.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:24:28.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think so far?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:25:07.655Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:25:28.226Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have I interested you in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:25:39.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think you will most enjoy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:26:31.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think anyone could enjoy the movie, whether or not they have kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:27:06.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:27:06.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When you see the movie, would you review it for a website?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:28:00.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:28:08.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's great.  When you see it, please consider doing that so others can see what you thought.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:28:36.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:28:46.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you comitted to seeing the movie because of something new you learned in this conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:29:32.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:29:48.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do movie reviews usually influence your choice of movie to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:30:03.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Please tell me what influences your choice of films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:30:42.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:30:45.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the scene where Judy is given her parking duty job because of the humor between her and the coworkers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:31:21.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would you like to discuss about hte film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:32:22.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:32:25.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Please participate in a dialogue about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T19:33:43.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T19:36:16.150Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T19:13:10.414Z", 
+  "uid1LogOutTime": "2018-02-05T19:33:58.769Z", 
+  "uid1response": {
+    "feedback": "The other user only responded with yes to every attempt to engage them.  They did not fully cooperate.  I tried my best.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T19:13:10.679Z", 
+  "uid2LogOutTime": "2018-02-05T19:36:19.433Z", 
+  "uid2response": {
+    "feedback": "I like it.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4382", 
+  "user2_id": "USR4061", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

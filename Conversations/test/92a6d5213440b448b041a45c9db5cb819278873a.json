@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-03T02:58:46.471Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good day to you! So what did you think about the super hero movie Batman vs Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:59:44.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good day to you as well.  I think the movie is exciting and entertaining.  What did you think of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:00:38.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I feel the same way! I agree with CinemaScore's rating of B! So who was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T03:01:32.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with the rating as well.  My favorite character was Ben Affleck as Batman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T03:08:24.003Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-03T02:58:46.472Z", 
+  "uid1LogOutTime": "2018-03-03T03:08:30.577Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-03T02:58:47.219Z", 
+  "uid2LogOutTime": "2018-03-03T03:07:52.038Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2265", 
+  "user2_id": "USR3781", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "date": "2018-02-09T19:53:55.583Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:54:19.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:55:33.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just a moment. I have to read the document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:55:54.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:56:04.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a musical, has a 89% Rotten Tomatoes rating, and stars Idina Menzel. She was made famous for the musical Wicked.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:58:30.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like musicals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:58:45.824Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it depends on the topic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:59:02.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the topic of this one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:59:12.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a fairy tale, based on Hans Christian Andersen's \"The Snow Queen.\" The main characters have to find a way to release the world from the icy grip of winter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:00:39.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's animated.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:00:43.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds a little like Frozen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:01:19.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:01:23.999Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is! You've heard of it, then? It sounds to me like it's worth seeing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:02:24.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have indeed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:02:48.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You haven't seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:03:03.450Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have. I loved it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:03:11.538Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:03:24.728Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:03:33.976Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmmm... I'm supposed to be convincing you to see it. I can't talk about anything not on the document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:04:31.037Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Let me tell you about it. It's bringing up key scenes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:04:53.243Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, okay, I am all ears", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:05:09.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": ":)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:05:15.072Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In the beginning, we find that Princess Elsa has magical powers. She accidentally hurts her sister with them, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:05:55.259Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh no, that is awful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:06:37.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The king and queen take the younger sister to be healed, and the being that heals her also changes her memory so that she doesn't remember her older sister has magical abilities.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:07:19.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is a good beginning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:07:57.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Elsa eventually becomes queen, but she's terrified that people will find out about her powers and be afraid of her. They have a castle party, and the younger sister--Anna--falls in love with a visiting dignitary, who proposes to her. Elsa says, \"No\" and loses control of her powers in front of everyone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:09:22.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh no D:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:09:50.856Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Duke, the guy Anna fell for, brands her a monster. Elsa runs away, but the kingdom is left in an eternal winter, due to her magic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:10:21.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love Winter but this is not good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:10:49.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Poor Elsa", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:10:54.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anna goes to find Elsa and meets some new friends along  the way. When they find and confront Elsa, she accidentally injures Anna again.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:11:14.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This definitely is not good :(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:12:20.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of her new friends takes her back to the same being who healed her before. He says that an act of true love is the only thing that can save her now. I won't spoil the ending.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:12:30.018Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T19:53:55.583Z", 
+  "uid1LogOutTime": "2018-02-09T20:12:33.038Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T19:53:55.666Z", 
+  "uid2LogOutTime": "2018-02-09T20:13:01.095Z", 
+  "uid2response": {
+    "feedback": "I wanna know the ending", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3006", 
+  "user2_id": "USR2730", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

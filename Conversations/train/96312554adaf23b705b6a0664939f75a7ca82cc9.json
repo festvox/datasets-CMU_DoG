@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-16T11:35:37.068Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is a really cute and funny movie that has several good messages in it.  It's great for kids and adults as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:38:57.151Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is also funny and thought provoking when suggesting kids should look past stereotypes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:40:14.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree and think that's an important message, especially with how things are in the world today.  I like that the main character goes against what others think of her and pursues her dreams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:41:39.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also like how the rabbit is underestimated even though she proves she has the smarts by being valedictorian. I like the message of hope it gives children while still remaining entertaining. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T11:44:24.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the animation was great and it definitely kept my granddaughter glued to the TV with all the bright colors and lots of action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T11:48:14.295Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T11:35:37.068Z", 
+  "uid1LogOutTime": "2018-02-16T11:55:10.486Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-16T11:35:37.100Z", 
+  "user1_id": "USR2642", 
+  "user2_id": "USR2236", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

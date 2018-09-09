@@ -1,0 +1,200 @@
+{
+  "date": "2018-04-02T16:53:21.581Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:53:39.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:53:45.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:53:58.932Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "monster university", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:07.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:11.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:16.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you saw it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:33.866Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:39.464Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:54:47.170Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes and no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:54:57.694Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:01.753Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i liked the story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:55:07.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah it was a nice story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:15.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the animation was meh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:55:21.974Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i actually liked that aspect", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:29.985Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you did?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:55:50.123Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:55:54.345Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "was it a pixar movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:56:03.845Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i dont think so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:56:09.081Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "isnt there a sequel to it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:56:18.853Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:56:23.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:56:31.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "didnt know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:56:40.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sequel is bad i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:56:47.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "glad i didnt watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:56:54.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:56:58.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anything else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:57:03.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:57:10.749Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T16:53:21.582Z", 
+  "uid1LogOutTime": "2018-04-02T16:57:15.639Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:53:21.588Z", 
+  "uid2LogOutTime": "2018-04-02T16:57:13.349Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3127", 
+  "user2_id": "USR479", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

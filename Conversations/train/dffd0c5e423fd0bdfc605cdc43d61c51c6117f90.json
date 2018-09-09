@@ -1,0 +1,42 @@
+{
+  "date": "2018-01-30T21:45:47.470Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello did you see the Disney movie Frozen which was created in 2013?\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:47:23.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did! I love that it was inspired by Andersen's \"The Snow Queen\". ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:50:23.783Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T21:45:47.470Z", 
+  "uid1LogOutTime": "2018-01-30T21:52:21.623Z", 
+  "uid1response": {
+    "feedback": "My partner left after a few minutes in the beginning.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T21:45:47.510Z", 
+  "uid2LogOutTime": "2018-01-30T21:51:57.433Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1295", 
+  "user2_id": "USR3246", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

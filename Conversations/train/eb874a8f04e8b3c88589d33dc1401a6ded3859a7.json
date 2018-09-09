@@ -1,0 +1,145 @@
+{
+  "date": "2018-03-01T20:08:37.702Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:09:32.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:09:35.124Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:09:42.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:10:19.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i,m fine ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:10:48.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:12:00.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you read anything about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:12:02.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm fine too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:13:58.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yaa...2005 superhero film ...etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:14:50.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok, do you which actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:15:46.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christian Bale as Batman ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:18:04.899Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so it's an action movie about batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:19:25.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can describe the movie a little bit?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:20:01.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it,s difficult\n for me ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:21:45.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you describe something ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:22:07.276Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no problem. i just want  a little bit more information", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:22:17.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "about this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:24:51.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well i think this movie has a lot of action in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:28:08.855Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T20:34:40.924Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T20:08:37.702Z", 
+  "uid1LogOutTime": "2018-03-01T20:36:26.628Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T20:08:37.910Z", 
+  "uid2LogOutTime": "2018-03-01T20:36:38.213Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR223", 
+  "user2_id": "USR1510", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

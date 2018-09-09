@@ -1,0 +1,43 @@
+{
+  "date": "2018-01-29T23:01:55.520Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:37.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:05:28.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that The Avengers(2012) is a most popular movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:25.876Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-01-29T23:01:55.520Z", 
+  "uid1LogOutTime": "2018-01-29T23:07:13.932Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:01:55.814Z", 
+  "uid2LogOutTime": "2018-01-29T23:08:19.212Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4215", 
+  "user2_id": "USR134", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "date": "2018-03-23T23:32:44.711Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, i have to admit I thought the meta score would be higher", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:34:03.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the score?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:34:30.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "79/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:34:35.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh ok. Thats not too bad I suppose. What movie does that score pertain to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:35:05.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think RDJ's performance would have made it at least in the 80s", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:35:06.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron man 1", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:35:16.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:35:56.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh OK. Sounds like you enjoyed this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:36:06.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No i haven't. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:36:17.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a good one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:36:27.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:36:43.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's the first movie in the MCU", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:37:05.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have many movies has you seen in the MCU?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:37:15.033Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I take it you are refering to the Marvel Comics Universe?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:37:44.512Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea - Marvel Cinematic Universe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:38:16.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I never can tell the difference between Marvel or DC. My wife can but I havent figured it out yet no matter how many times she explains it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:38:56.133Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:39:15.400Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've seen justice league, black panther, Thor and others.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:39:26.905Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how much do you know about super heor characters in general?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:39:39.071Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not a whole bunch i can tell you that. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:40:07.696Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you see avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:40:26.334Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So whats special about this Iron Man film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:40:26.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I did?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:40:41.433Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "THis iron man film is special because it was kind of a gamble from a production standpoint", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:41:10.932Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That one has captain american and the hulk and others righ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:41:21.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yup thats the one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:41:28.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tony stark is a billionaire playboy in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:41:55.596Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds good already. Gotta love the life of billionaire playboy.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:42:54.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And his first iron man film plants the seed of him feeling the responsibility of the power he has and can do\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:42:54.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh so hes just coming to understand the capabilities of his power in this film.?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:43:40.058Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he had to make the suit to get out of a situation he put himself in", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:43:46.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie came out in 2008", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:44:24.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that the crux of the story line?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:45:10.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "his abilities are tied to the suit he makes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:45:17.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Theres aways a bad guy or villian. Good vs evil type narrative going on right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:45:47.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the crux being the weapons he developed and sold were being used for bad things", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:45:57.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok got it. So he invents things but then the wrong type of people are after his inventions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:46:42.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:46:55.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but at first he didnt care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:46:59.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "becuase for stark that's how he made money", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:47:10.810Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And thats the way of the world actually!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:47:30.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yup", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:47:36.932Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "unfortunately!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:47:37.602Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "terrorist capture stark, but he manages to make a deal and then builds another suit to beat them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T23:48:03.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, sounds cool. I think I'm gonna watch it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T23:48:42.314Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T23:32:44.711Z", 
+  "uid1LogOutTime": "2018-03-23T23:48:35.741Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T23:32:44.712Z", 
+  "uid2LogOutTime": "2018-03-23T23:48:45.426Z", 
+  "uid2response": {
+    "feedback": "The other participant gave some context about the movie and it made me want the watch the film.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1258", 
+  "user2_id": "USR2845", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

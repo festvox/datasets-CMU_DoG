@@ -1,0 +1,116 @@
+{
+  "date": "2018-02-28T17:57:17.362Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:40.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:44.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie Super\nhero?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:12.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:12.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I have I enjoy super hero movies a lot as I have been reading comics for about 30 years", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:39.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's great. I also watched this movie before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:20.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "surprised the metacritic rating was only 70% honestly I am ot saying it deserved 100% but certainly\n a high 80 in my opinion ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:21.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got also a high rating in rotten tomatoes. 84% is already high.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:25.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, I was disappointed that Rutger Hauer had such a small part, I really like him as an actor\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:06.719Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like how they tried to go for a more \"realistic\" approach\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:30.208Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like Christian Bale as a lead actor of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:30.867Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah definitely.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:56.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did but I think he over did it with the voice. I do think he was better as bruce wayne then as batman if that makes\n sense. He was good at playing a disturbed and troubled man trying to act like a shallow playboy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:05.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I agree with you. Is this your favorite Batman series?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:57.001Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is really good but In all honesty I prefer the first one with Michael Keaton , it had the perfect mix of comic book and \"real life\" it just worked really well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:07:41.505Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-28T17:57:17.362Z", 
+  "uid1LogOutTime": "2018-02-28T18:09:07.569Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:57:17.504Z", 
+  "uid2LogOutTime": "2018-02-28T18:09:35.186Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4434", 
+  "user2_id": "USR4031", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

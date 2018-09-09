@@ -1,0 +1,88 @@
+{
+  "date": "2018-03-28T02:28:21.068Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:28:38.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:29:18.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are u there ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:29:19.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:29:35.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:29:43.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I\u2019ve nevef seen it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:30:02.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:30:10.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's really good. It's about a guy who gets into stock investing, makes a killing, then loses it all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:31:02.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He got involved \nin corruption and fraud. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:32:11.524Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does this sound like something you would be interested in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:33:10.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:35:28.224Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T02:28:21.068Z", 
+  "uid2LogInTime": "2018-03-28T02:28:21.088Z", 
+  "uid2LogOutTime": "2018-03-28T02:36:48.689Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3063", 
+  "user2_id": "USR2897", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

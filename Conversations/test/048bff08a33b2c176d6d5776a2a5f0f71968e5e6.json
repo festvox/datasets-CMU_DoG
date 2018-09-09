@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-12T19:20:19.593Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you seen the movie, the Imitation Game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:59.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. I have not. What can you tell me about it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:20.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Benedict Cumberbatch, although I cant say his name. Its a WW2 movie about this guy who breaks the Enigma Code that the Germans used", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:58.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Kiera Knightly in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:23:19.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Meh. I've never cared much for war movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:23:34.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its more about the guy than it is the movie. His name was Alan Turning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:24:00.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critics said it was really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:24:18.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I may check it out in that case. I love biographical type movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:38.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some people said that it took liberties with the guys real life. He was so interesting they said, that it didnt matter. It was still great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:14.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They gave it an A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:38.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll have to look up this guy on Google.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:45.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was at Bletchley park", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:26:23.946Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know who directed this movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:26:38.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its an English movie it was Directed by Morten Tyldum", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:26:53.537Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:27:11.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow. An english movie. That is different.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:21.428Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it available on Netflix? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:33.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he might have been gay. The guy he was in love with died when he was in boarding school", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:33.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow. That is sad. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:02.076Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:20:19.593Z", 
+  "uid1LogOutTime": "2018-02-12T19:29:12.607Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:20:19.642Z", 
+  "uid2LogOutTime": "2018-02-12T19:29:06.343Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4219", 
+  "user2_id": "USR140", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

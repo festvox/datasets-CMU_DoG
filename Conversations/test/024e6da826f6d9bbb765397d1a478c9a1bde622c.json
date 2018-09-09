@@ -1,0 +1,463 @@
+{
+  "date": "2018-03-29T19:06:34.108Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:07:03.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:07:21.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great. You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:07:32.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good, thanks. Billy Crystal has always been a hoot, have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:07:58.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not really. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:08:24.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think it has good animation graphics, I at least remember the large blue character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:08:44.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:09:00.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the movie name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:09:06.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Monster's University", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:09:14.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:09:20.725Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:09:35.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "looks like the music composer has worked with other Pixar films before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:09:40.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:09:49.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like funny movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:10:14.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh, so the blue creature is an abominable snowman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:10:17.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok\ney", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:10:32.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me\n more", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:10:56.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess this is the 2nd installment of Monsters Inc, seems cute and colorful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:11:06.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:11:16.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's\n the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:11:48.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So the monsters are in college now-taking final exams", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:12:01.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:12:13.410Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "79% for Rotten TOmatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:12:15.816Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:12:23.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it any funny?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:12:40.308Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Says here this is the 14th Pixar film-I haven't seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:13:02.479Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:13:09.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh wow the characters are frat members and everything-how cute", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:13:25.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Might be worth checking out. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:13:40.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, one of the monsters enters the human world to harvest screams-kind of ceepy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:14:01.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "creepy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:14:04.222Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Really \nCreepy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:14:35.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One of the characters is names Hardscrabble", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:14:44.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Funny name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:14:56.108Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't even pronounce it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:15:17.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:15:30.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sulley comes from a family of talented scarers lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:15:33.998Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:15:42.455Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds funny though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:15:54.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure it is,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:17:00.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:17:08.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what a scream can is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:17:22.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't say", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:17:39.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seems like the scariest monster is most respected", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:17:41.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not surprised ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:18:03.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lokks like the university has \"Scare games\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:18:47.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Since one has to be\n scarer ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:18:52.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:19:01.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok, so the actors are Billy Crystal, John Goodman, Steve Buscemi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:19:48.550Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Helen Mirren", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:19:53.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and Peter Sohn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:19:57.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:20:03.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know of them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:20:08.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bill is pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:20:17.221Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah somewhat ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:20:30.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes he is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:20:32.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:20:38.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure about Peter though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:21:16.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the critics said \"it has enough of the right stuff to haunt the imagination...\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:21:19.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:21:29.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"edge-free\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:21:32.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:21:39.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"safe and predictable\n\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:21:43.155Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:21:48.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this movie came out in 2013, I think it would be a good watch for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:22:13.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:22:26.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you have any questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:22:33.355Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:22:41.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok then, I hope you have a good day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T19:23:13.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, are going to see it? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:23:19.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T19:23:30.896Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T19:06:34.108Z", 
+  "uid1LogOutTime": "2018-03-29T19:23:34.153Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T19:06:34.216Z", 
+  "uid2LogOutTime": "2018-03-29T19:23:43.928Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2250", 
+  "user2_id": "USR939", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

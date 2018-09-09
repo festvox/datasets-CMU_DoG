@@ -1,0 +1,60 @@
+{
+  "date": "2018-02-09T20:00:23.323Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:00:48.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:00:54.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you like the article?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:01:06.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me what you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:01:18.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:01:21.021Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:00:23.323Z", 
+  "uid1LogOutTime": "2018-02-09T20:01:41.464Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:00:23.359Z", 
+  "uid2LogOutTime": "2018-02-09T20:01:45.935Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2529", 
+  "user2_id": "USR1573", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-22T18:43:47.458Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "It seems like this is one of those movies that was lost in everyones memory not long after it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:45:16.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:46:22.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes im here ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:49:59.790Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I wasn't too terribly impressed with it .", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:51:50.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ive never really been into dark fantasy films which is what this one was considered. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:52:37.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "However I do like Angelina Jolie as an actor though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:52:58.780Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-22T18:43:47.458Z", 
+  "uid1LogOutTime": "2018-03-22T18:47:37.776Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T18:43:47.489Z", 
+  "uid2LogOutTime": "2018-03-22T19:33:59.230Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1199", 
+  "user2_id": "USR2845", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

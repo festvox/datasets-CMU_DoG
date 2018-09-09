@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-07T02:50:54.498Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What book did this movie adapted from?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T02:53:08.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the director of \"The Social Network\" movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T02:54:01.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What date was the film released on?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T02:55:09.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello are you thre", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T02:55:12.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes im here. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T03:12:06.813Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-07T02:50:54.498Z", 
+  "uid1LogOutTime": "2018-03-07T02:56:12.012Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T02:50:54.570Z", 
+  "uid2LogOutTime": "2018-03-07T03:24:05.153Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1997", 
+  "user2_id": "USR2845", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

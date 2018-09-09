@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-29T21:56:13.666Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:56:42.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, Have you saw this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:56:57.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me the name of the movie please?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:57:08.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, sorry. It's Maleficent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:57:21.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:57:28.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me what the movie is about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:57:52.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I enjoyed it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:57:59.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What age range would you say the movie is appropriate for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:58:31.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a twist to this type of movies. It gives the perspective of the antagonist, how her relationship is with the princess and the king of the corrupted kingdom.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:58:59.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The age group is for all ages, I think.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:59:10.329Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who would you say is the star character? Character name and life name if you know it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T21:59:53.784Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main star would be Maleficent, which is Ange\nlina Jolie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:00:21.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay  Thank you and have a good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:01:11.981Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "We have to finish several rounds before we can go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:01:25.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So, ask some quick questions, and I will reply quickly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:01:43.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It will lit up 'finish conversation' when we can go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:02:00.581Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:02:28.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what country the film takes place in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:02:44.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's animated, and it takes place in the Moors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:03:00.105Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh- perhaps we are thinking of two different versions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:03:30.221Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maleficent falls in love with Stefan, when they are both young. But, his love is overshadowed by his ambition, and betrays her. And I'm sorry, it's not animated lol, My bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:03:53.734Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha ha. Okay  Wasn't sure there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:04:17.852Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maleficent meets Aurora, a pixie, and starts to care for her, so she begins watching over hr", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:04:42.291Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is Aurora the pixie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:05:08.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She is, and Aurora meets Prince Philip, and they like each other", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:05:42.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am so confused lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:06:04.119Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aurora ends up being Stefan's daughter, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:06:09.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I must have missed something when I watched it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:06:23.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he is the king that Maleficent loved as a young girl.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:06:29.063Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know that part its the part of Aurora being a pixie I don't recall", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:06:47.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's mainly a story about the villian's perspective", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:07:00.434Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aurora was a fairy pixie, she had wings that got cut off ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:07:12.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, why did you leave?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:07:31.175Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T21:56:13.666Z", 
+  "uid1LogOutTime": "2018-03-29T22:07:19.444Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-29T21:56:13.689Z", 
+  "uid2LogOutTime": "2018-03-29T22:07:34.138Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3277", 
+  "user2_id": "USR4272", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

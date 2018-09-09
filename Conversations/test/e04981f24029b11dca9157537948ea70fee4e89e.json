@@ -1,0 +1,257 @@
+{
+  "date": "2018-02-06T16:20:59.865Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:21:48.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! The movie is Wonder Woman. The reviews seems overwhelmingly positive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:22:42.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman sounds like a great movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:23:10.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:23:15.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot, Chris Pine, Robin Wright, Danny Huston. I didn't know Robin Wright was in it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:23:50.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure who Robin Wright is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:24:35.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are the reviews from critics or from everyday people?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:24:47.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She was in House of Cards. The critical reviews seem professional, but it has a Rotten Tomatoes average of 7.6", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:25:29.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice.  Do you happen to know the runtime of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:25:49.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doesn't list it! Bet it goes on forever.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:26:13.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ya, superhero movies tend to be long", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:26:29.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie set in modern day or in the past?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:26:42.843Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some otherwordly planet called Themyscira", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:27:34.198Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok.  I am familiar with Wonder Woman the superhero, just not all the details.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:28:12.368Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "All sounds good.  What is your take on the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:28:28.582Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen it, but I heard it was good. Might be one of those rainy day movies worth seeing. I was pleasantly surprised by the last superhero movie I saw.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:29:28.125Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel like I should be getting a second movie to look at, but nothing's loading.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:29:57.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I seem to enjoy superhero movies as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:30:20.265Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't realize it was released in 2015, I guess it has been that long..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:30:52.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would of thought it came out last year, time flys.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:31:23.775Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, the page has reloaded twice but it's the same document so I guess we're stuck talking about Wonder Woman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:31:57.206Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which other superhero movies have you seen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:32:11.499Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the last two I saw were Deadpool and Logan.  Both very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:32:40.929Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And the only two rated R superhero movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:32:56.589Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'll have to check them out. The last one I saw was Dr. Strange, which I enjoyed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:33:10.929Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I heard that was good too\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:33:24.691Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I heard they are making a Wonder Woman 2 because the first one was so successful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:34:04.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They tend to overplay their hands with these franchises.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:34:36.348Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Marvel ones seem to be more popular.  DC characters don't seem to draw as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:35:11.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was she called Princess Diana in the comic books?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:37:01.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe.  I think she is the daughter of Zeus as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:37:35.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am about to run out of time on this HIT :(", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:37:56.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh no!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:38:06.379Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Feel like we have met the requirements", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T16:38:09.255Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I hope it finishes soon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:38:12.942Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe so, there was a glitch on this end with documents loading", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:38:23.155Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There we go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T16:38:31.097Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T16:20:59.865Z", 
+  "uid1LogOutTime": "2018-02-06T16:38:38.096Z", 
+  "uid1response": {
+    "feedback": "Movie sounds exciting and is a super hero movie, which typically are entertaining.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T16:20:59.934Z", 
+  "uid2LogOutTime": "2018-02-06T16:38:32.575Z", 
+  "uid2response": {
+    "feedback": "Sorry, there was an error with the documents, it just kept refreshing for the first half and I got the last page somewhere towards the end. I tried!", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR26", 
+  "user2_id": "USR3690", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

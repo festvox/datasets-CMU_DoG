@@ -1,0 +1,89 @@
+{
+  "date": "2018-03-28T17:36:36.355Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:36:55.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, what movie you select ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:37:17.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen the movie Toy Story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:37:18.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I did", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:37:24.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to ask any questions about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:38:04.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "when you was a kid, did you play like andy with your toys ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:38:56.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but I never had a cowboy doll or or a Mr Potato Head.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:39:37.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie was released in 1995.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:39:53.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really, I did not know it was release on that year, did the movie won an award ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T17:41:40.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure, but it has 100% on Rotten Tomatoes and a CinemaScore of A.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T17:42:41.103Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T17:36:36.355Z", 
+  "uid1LogOutTime": "2018-03-28T17:44:00.685Z", 
+  "uid1response": {
+    "feedback": "The other user did not seem to understand the task and left the conversation early.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T17:36:36.626Z", 
+  "uid2LogOutTime": "2018-03-28T17:43:52.380Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1323", 
+  "user2_id": "USR3880", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

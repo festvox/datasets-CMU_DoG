@@ -1,0 +1,131 @@
+{
+  "date": "2018-03-19T18:12:03.301Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:12:32.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:12:42.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Maleficent?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:06.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, with my kid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:13:17.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:13:19.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I really enjoyed it. I was pleasantly surprised because I wasn't sure how they would pull it off with Maleficent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:54.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was definitely a different take on the classic story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:14:14.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I especially enjoyed Sam Riley as Diaval. He and Jolie had great comedic chemistry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:51.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That was her sidekick, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:20.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. the shape-shifter, so to speak.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:15:37.897Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did not catch his name on there, but I remember the character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:54.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It really got to me when Maleficent and Stefan were children and then he betrayed her, I must admit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:16:40.128Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty messed up thing to do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:16:52.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, but his ambition was too strong.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:17:49.410Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And when he cut off her wings. Ugh, that was awful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:07.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is true... He definitely did wrong to the wrong person...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:18:28.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, indeed. Payback was definitely total.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:59.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought Elle Fanning was perfect as Aurora. What did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:21.282Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:12:03.302Z", 
+  "uid2LogInTime": "2018-03-19T18:12:04.544Z", 
+  "uid2LogOutTime": "2018-03-19T18:29:05.404Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3962", 
+  "user2_id": "USR4562", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

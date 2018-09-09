@@ -1,0 +1,148 @@
+{
+  "date": "2018-02-13T20:33:17.240Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:33:41.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:33:50.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so, about that movie, what's it called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:34:04.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "frozen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:34:41.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't watched. What can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:35:04.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it\u2019s a 2013 animation movie by Disney ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:36:31.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:36:53.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The story tells about a princess who set off a journey with a snow man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:39:26.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A journey where?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:40:17.826Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She\u2019s finding her sister elsa", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:44:40.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does she find her?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:47:00.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:48:21.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is the sister lost?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:49:18.107Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No her sister run away from home ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:50:45.322Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why did she run?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:51:08.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Because elsa has a special icy power and sometimes she can\u2019t control it and she\u2019s afaid she will hurt her sister anna ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:55:07.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and where does the snow man come in to the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:56:14.624Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:18:34.034Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:26:43.121Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:33:35.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "abort?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T21:36:54.815Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T20:33:17.240Z", 
+  "uid1LogOutTime": "2018-02-13T21:44:07.606Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:33:17.285Z", 
+  "user1_id": "USR2913", 
+  "user2_id": "USR3594", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

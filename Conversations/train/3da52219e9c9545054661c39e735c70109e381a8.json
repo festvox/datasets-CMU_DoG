@@ -1,0 +1,246 @@
+{
+  "date": "2018-02-14T20:21:09.808Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:21:23.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:21:28.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie will we be discussing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:01.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, have you seen this movie John Wick?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:02.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:22.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "john wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:22.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have seen it actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:37.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a 2014 action movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:49.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i know you like action and thrillers, don'\nt you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:23:27.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh interesting, what famous characters are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:23:29.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I like suspenseful movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:23:50.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They keep you engaged and waiting for the next move, of course. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:24:05.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "keanu Reeves, Michael Nyqvist, alfie Allen and the likes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:24:11.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John used to be a hitman but retired ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:25:10.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He had a funny nickname", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:25:11.985Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Where did he get that from, Baba Yaga?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:25:22.840Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i don't remember the name though but keanu was the main character", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:26:42.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is supernatural", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:26:44.362Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:27:07.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He flies around. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:27:12.531Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i just love the scene where he killed everybody to get to aurelio", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:27:48.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how would you rate the movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:28:19.489Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Based on suspense and the characters, I would say about an 8, with 10 being the highest rating, what about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:28:59.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it is one of those movies i would watch countless times, so i would give it a 9", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:29:37.497Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "plus i do like movies directed by Chad Stalheski", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:30:02.118Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, a lot going on! Especially when he wanted to retire and marry Helen, then he was given a serious task of assassinations\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:30:40.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and that pulled him back again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:31:51.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think that is not cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:32:02.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah and then he travels to the safe house and kills him. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:43.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So much going on! very sad with the puppy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:30.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i look forward to the next movie all the same ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:50.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Especially walking home on the same tracks that Helen and him had their first date. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:02.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hope his next movie gets a cinema rating of A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:34:33.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I wonder when the next movie will come out since this was 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:38.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "see you soon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:35:01.105Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T20:21:09.808Z", 
+  "uid1LogOutTime": "2018-02-14T20:34:42.641Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:21:10.686Z", 
+  "uid2LogOutTime": "2018-02-14T20:35:06.865Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1149", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

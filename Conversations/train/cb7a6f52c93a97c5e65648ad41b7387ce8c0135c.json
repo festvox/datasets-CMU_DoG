@@ -1,0 +1,221 @@
+{
+  "date": "2018-02-12T21:05:13.747Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Ready!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:06:33.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!  What's the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:07:19.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:07:32.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay.  I'm interested in seeing that.  What can you tell me about the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:07:57.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It an American historical drama, based on the biography Alan Turing: The Enigma", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:09:06.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the book?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:09:11.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't, though I have heard of Alan Turing.  Who stars in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:09:30.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Tom Goodman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:10:42.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did the movie get good reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:11:00.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "7.7/10 , 73/100 , A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:11:52.449Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:12:24.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I have not.  I don't think I would be interested. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:12:41.306Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:12:56.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not my type of movie; However the reviews are good and you should probably see it if you like those types of movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:13:44.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not certain.  Is there romance, too?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:14:11.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There doesn't appear to be.  It's listed as a Drama, biopic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:14:41.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gotcha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:14:49.928Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is quite different from the book, if that matters. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:16:07.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I DO like Cumberbatch, though I prefer some comedy/romance...something like that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:16:26.457Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Love Sherlock, but this isn't really up my alley, either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:16:39.478Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not a huge fan of biopics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:16:50.376Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ha, I gotcha.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:17:25.862Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Any other details about the movie on the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:19:21.773Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it's based on a BBC drama called Breaking the Code.  Have you ever heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:20:18.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:20:28.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has a lot of spy elements to it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:21:02.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I think I'll pass on the movie.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:23:24.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If it were more focused on the 'real' story it would probably be more enticing. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:24:28.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Agreed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:24:46.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nothing is more frustrating than an inaccurate historical film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T21:25:07.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is interesting.  The movie is set in 1939.  I bet some of the settings would be cool to look at from that time period. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T21:26:41.848Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T21:05:13.747Z", 
+  "uid1LogOutTime": "2018-02-12T21:26:49.154Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T21:05:13.772Z", 
+  "uid2LogOutTime": "2018-02-12T21:28:03.820Z", 
+  "uid2response": {
+    "feedback": "Not a big fan of historical biopics.  ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3007", 
+  "user2_id": "USR2738", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

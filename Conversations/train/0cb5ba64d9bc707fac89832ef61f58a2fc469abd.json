@@ -1,0 +1,253 @@
+{
+  "date": "2018-02-02T21:36:09.369Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:36:57.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:37:05.862Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:37:13.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good thanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:37:20.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, the movie we\u2019re discussing today is...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:37:48.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:37:50.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you a fan of Leonardo dicaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:37:53.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:37:56.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't. You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:38:15.425Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure, I\u2019m a fan. Not like a super fan tho.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:38:15.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, I watched it for the first time last year.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:38:30.551Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how would you rate it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:38:54.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly, 4 of 5", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:39:07.423Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the average rating here is 8/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:39:31.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of my friend told me it\u2019s the smartest film he\u2019s ever watched, but there are some plot holes that just make it unenjoyable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:39:36.620Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I should really check it out\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:39:42.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:39:45.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What have you heard of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:39:55.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't heard anything ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:40:12.533Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Right. I was just seeing that it came out in 2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:40:45.367Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow, the film is almost 10 years old already", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:40:59.798Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is i sci fi?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:41:06.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. Heavy sci fi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:41:15.492Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it seems to be in the scientific category", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:41:19.481Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It\u2019s more of a thriller I guess", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:41:33.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not usually the type of movie I watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:42:27.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but now I'm interested", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:42:36.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see. If you\u2019ve seen any Christopher Nolan film already, you should check it put tho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:42:58.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen any of his films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:43:53.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:44:57.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interstellar?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:45:15.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dark knight?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:45:20.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no I tried batman but couldn't get into it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:45:50.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It\u2019s an acquired taste, I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:46:21.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great chat!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:46:27.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:46:28.896Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T21:36:09.370Z", 
+  "uid1LogOutTime": "2018-02-02T21:46:30.983Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T21:36:09.396Z", 
+  "uid2LogOutTime": "2018-02-02T21:46:49.785Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR773", 
+  "user2_id": "USR2728", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

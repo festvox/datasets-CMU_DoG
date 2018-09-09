@@ -1,0 +1,79 @@
+{
+  "date": "2018-03-22T17:34:09.911Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:34:28.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:34:37.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm going to talk to you about this movie\nToy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:35:02.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:35:34.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im also goint to talk to you about toy story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:36:16.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a great childrens movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:36:23.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you know this movie, you've seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:36:24.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story is a children's movie of computer animation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:36:58.120Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T17:34:09.911Z", 
+  "uid1LogOutTime": "2018-03-22T17:36:30.562Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:34:09.959Z", 
+  "uid2LogOutTime": "2018-03-22T17:37:09.254Z", 
+  "uid2response": {
+    "feedback": "was very good", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3796", 
+  "user2_id": "USR166", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

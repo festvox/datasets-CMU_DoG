@@ -1,0 +1,57 @@
+{
+  "date": "2018-04-02T15:24:46.813Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:25:16.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thanks for joining me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:25:45.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi want to chat with you about the movie called The Post.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:27:12.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you familiar with the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:27:26.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:28:31.450Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T15:24:46.813Z", 
+  "uid1LogOutTime": "2018-04-02T15:30:29.617Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:24:46.847Z", 
+  "uid2LogOutTime": "2018-04-02T15:29:54.897Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4741", 
+  "user2_id": "USR58", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

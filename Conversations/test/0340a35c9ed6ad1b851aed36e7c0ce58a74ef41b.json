@@ -1,0 +1,277 @@
+{
+  "date": "2018-03-05T20:31:40.092Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:31:56.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good how about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:32:05.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:32:12.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats good. The movie Bruce Almighty seems like it would be a really good movie to watch. It got a CinemaScore of an A.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:32:48.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's an interesting title. Who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:33:11.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey, Morgan Freeman, and Jennifer Aniston just to name a few.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:33:38.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ha! It must be a comedy then. I don't think I've ever seen Jim Carrey in anything serious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:34:08.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:34:19.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's definitely\n a Comedy, slapstick style humor and awesome jokes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:34:43.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, that sounds like Jim's style. How was the rotten tomatoes score on it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:35:18.168Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out back in 2003 so it's somewhat old, but sometimes older comedies are better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:35:20.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They only gave it a 5.7/10, but they don't usually rate comedies very highly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:35:40.870Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's good that it came out that late, It probably wouldn't of even made it to theaters considering people get a bit uptight now about certain topics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:36:19.748Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah Rotten tomatoes are terrible at grading films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:36:39.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He plays a news anchor in it trying to get a promotion, and ends up with classic Jim Carrey esk type stunts and shenanigans\n along the way. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:37:22.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who does morgan play in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:37:55.770Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays the character God in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:38:07.620Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wait what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:38:16.180Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays god? As in the God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:38:27.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep that God. Jim Carrey's character, Bruce Nolan, ends up down on his luck and complains to \"god\" outloud about not getting anything he wants, so Morgan Freeman playing God comes down and grants him the power to be God.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:39:05.871Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, this just got so much more interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:39:35.607Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So, he get's to be god for a day or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:39:50.812Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nope, until he learns his lesson type.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:40:03.214Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It spans over the course of a month or so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:40:11.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow, so God is trying to teach Bruce a lesson by making him into a God?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:40:42.720Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Something tells me he doesn't learn the lesson right away.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:41:08.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, but with slapstick style antiques. At one point, Carreys character can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:41:10.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can't stand listening to all the prayesrs of people, so he makes an automated message service to respond to them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:41:23.602Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ha! I can imagine. It sounds like a great film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:41:46.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, he ends up setting it respond to every prayer with yes, and you can imagine how that must go.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:42:26.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would you personally rate the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:42:37.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd personally rate it well worth watching, it's not just a comedy, but a learning/love story mixed in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:43:02.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good, I will absolutely give it a watc\nh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:43:30.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He has a girlfriend played by Jennifer Aniston, who leaves him when he can't figure out whats truly important to him, which is kind of what sets him down his crazy antiques road.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:43:33.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And in the end, after learning his lesson, he chooses to let her find someone who truly makes her happy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:43:51.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting stuff.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:44:11.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't wait to give it a watch.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:44:19.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't say anymore about that portion without giving the end away :p", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:44:29.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, no spoilers. Thanks for the movie review.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:44:55.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no problem, hope you end up liking it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:45:06.399Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T20:31:40.092Z", 
+  "uid1LogOutTime": "2018-03-05T20:45:11.368Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T20:31:40.142Z", 
+  "uid2LogOutTime": "2018-03-05T20:45:07.681Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR22", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

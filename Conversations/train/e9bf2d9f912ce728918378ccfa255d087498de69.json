@@ -1,0 +1,128 @@
+{
+  "date": "2018-02-13T19:58:04.773Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:58:10.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:58:54.075Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should see Jaws", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:59:31.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I  choose was Jaws. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:59:34.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have watched this movie numerous times, and loved it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:00:00.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is great, it has suspense and a few laughs along the way to round it out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:00:11.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like thrillers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:00:47.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly but the horror behind never knowing where the shark will attack was exciting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:00:49.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love thrillers they keep me awake.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:01:10.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like most about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:01:39.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the high energy and suspense, it is exhilarating ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:02:17.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What part of the movie Jaws were you able to laugh? I laugh because the shark as so smart.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:02:56.663Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You are right, not knowing where the next attack would be was the most fun part of the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:03:07.477Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I definitely agree it\u2019s definalty high suspense.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:03:24.271Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also the people  in the movie were so casual not really aware.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:03:54.043Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I laughed at the part when he said we're gonna need a bigger boat.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:04:17.154Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:58:04.773Z", 
+  "uid1LogOutTime": "2018-02-13T20:03:56.663Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:58:04.777Z", 
+  "uid2LogOutTime": "2018-02-13T20:05:15.950Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3015", 
+  "user2_id": "USR627", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

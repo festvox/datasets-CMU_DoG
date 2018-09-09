@@ -1,0 +1,54 @@
+{
+  "date": "2018-02-15T02:08:46.942Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I think it is cool this is set in WW1", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T02:09:28.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it too, there is a lot of action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T02:10:42.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also find the concept of a demi-god trying to stop war very interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T02:11:32.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is very interesting that she doesn't really know who she is until later in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T02:12:45.608Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T02:08:46.943Z", 
+  "uid1LogOutTime": "2018-02-15T02:12:50.491Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T02:08:47.193Z", 
+  "uid2LogOutTime": "2018-02-15T02:13:33.701Z", 
+  "uid2response": {
+    "feedback": "The other user left.", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2973", 
+  "user2_id": "USR1819", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

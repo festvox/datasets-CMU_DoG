@@ -1,0 +1,363 @@
+{
+  "date": "2017-12-19T18:00:30.806Z", 
+  "docLinkIdx": 9, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:00:49.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:00:54.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:01:03.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:01:12.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i havent", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:01:50.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like films about war?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:01:58.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do somewhat. Pearl Harbor was great", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:02:13.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like films by Christopher Nolan?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:02:43.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do. Inception and Momento are some of my favorite movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:03:05.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:03:08.379Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I do.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:03:23.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like that it says \u00a8It has little dialogue, since Nolan sought to create suspense from cinematography\nand music.\u00a8", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:03:35.771Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Since it is boring sometimes having too much dialogue.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:03:47.797Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "(But we're not supposed to talk about stuff outside the documents)", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:03:51.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I agree about the dialogue", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:04:12.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Too much dialogue can be boring.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:04:32.667Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Look at this comment: \n\"[Dunkirk] is 106 clamorous minutes of big-screen bombast that's so concerned with its\nown spectacle and scale that it neglects to deliver the most crucial element\u2014drama.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:04:37.381Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:04:51.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is a funny comment", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:05:24.523Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is, I think drama is key in a movie like this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:06:02.237Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I need to watch this movie}", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:06:17.801Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "look at the ratings: ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:06:23.773Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rotten Tomatoes: 92% and average: 8.6/10\n2. Metacritic Score: 94/100\n\n3. CinemaScore: A-", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:06:25.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this comment is more positive:\"an impressionist masterpiece\" that was \"deeply moving\" but without \"manufactured\nsentimentality or false heroics.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:06:54.712Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i like that, pearl harbor was filled with heroics which could be too much at times", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:07:22.622Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I suppose that \"drama\" for some critics is \"sentimentality\" for others", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:08:02.860Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:08:37.509Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this sums it up well: \"There's little doubt that [Nolan] has, without sentimentality or sanctimony, raised that\ngenre to the level of art...with the resonant force of an enduring screen classic.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:08:43.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that Nolan always goes all in in his productions", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:09:56.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cinematographer Hoyte van Hoytema shot the film on IMAX 65 mm\nand 65 mm large format film stock. Dunkirk has extensive practical effects, using thousands of\nextras, boats that participated in the evacuation, and period aeroplanes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:09:58.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you heard of any of these actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:10:20.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, looks like he went all in", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:11:00.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I suppose Nolan would not be satisfied with computer generated boats and planes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:12:34.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, to be honest cgi can be very cheesy sometimes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:13:03.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i dont recognize any of the actors to be honest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:13:17.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:13:26.426Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:13:30.305Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably a deliberate choice to use unknown actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:13:45.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, maybe new talent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:14:08.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In 1940, during the fall of France, hundreds of thousands of Allied soldiers have retreated to\nDunkirk. Tommy, a young British private, is the sole survivor of a German ambush. At the\nbeach, he finds thousands of troops awaiting evacuation and meets Gibson, who is burying\na body. After a German dive-bomber attack, they find a wounded man. They rush his\n\nstretcher onto a hospital ship, but are denied passage themselves. The ship is sunk by dive-\nbombers; Tommy saves Alex, another soldier. They leave at night on a destroyer, which is\n\nsunk by a torpedo from a U-Boat. Gibson saves Tommy and Alex, and they are brought\nashore by a rowing boat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:14:50.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like beach movies? ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:14:56.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am reading the key scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:14:58.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do, I suppose", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:15:06.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:15:10.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nyes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:15:18.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what are your favorite beach movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:15:48.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"At the beach, Commander Bolton watches the last British soldiers leave.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:15:48.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "British beach movies, the best", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:16:30.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yeah, they have a certain feel to it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:17:50.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have we talked enough?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T18:17:55.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It says there would be 4 documents, but i only see two", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:18:30.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and we have discussed both", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:18:35.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we should click on finish conversation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:18:46.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good bye!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T18:18:50.617Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-12-19T18:00:30.806Z", 
+  "uid1LogOutTime": "2017-12-19T18:18:52.338Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-19T18:00:30.900Z", 
+  "uid2LogOutTime": "2017-12-19T18:18:56.306Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR59", 
+  "user2_id": "USR2832", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

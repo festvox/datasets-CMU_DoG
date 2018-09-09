@@ -1,0 +1,48 @@
+{
+  "date": "2018-02-28T20:37:04.496Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T20:37:14.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:37:55.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed this new take on the batman series. I enjoyed Nolan's take on the film and how much of the comic book story line was brought to life.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T20:40:15.479Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T20:37:04.496Z", 
+  "uid1LogOutTime": "2018-02-28T20:40:35.249Z", 
+  "uid1response": {
+    "feedback": "The other user signed off from the conversation.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T20:37:04.528Z", 
+  "uid2LogOutTime": "2018-02-28T20:38:58.975Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1322", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

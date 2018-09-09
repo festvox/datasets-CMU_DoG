@@ -1,0 +1,242 @@
+{
+  "date": "2018-02-05T18:36:03.987Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:36:29.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:36:47.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:36:50.581Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about that movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:36:58.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "la la is a roma\nntic movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:36:59.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ya its very romantic movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:37:12.719Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am not \nseen this movie before", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:37:37.822Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "musical romantic comedy-drama film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:37:48.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it blockbuster movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:37:57.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "s blockbuster movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:38:06.693Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who is hero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:38:12.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:38:45.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan gosling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:38:46.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jazz pianist emma stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:39:00.274Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ya i like very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:39:04.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can you tell something about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:39:21.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "LA LA land is a 2016 american musical romantic comedy-drama film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:39:53.845Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "written and directed by damien chazelle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:40:05.700Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "which place story located?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:40:26.862Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "stars are ryan gosling as a jazz pianist and emma stone as an inspirign", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:40:33.569Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Los angeles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:40:45.575Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whomuch cost spent to make this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:41:15.630Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "howmuch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:41:44.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not sure about that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:41:56.352Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen this movie before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:42:15.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ya have you seen this movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:42:32.158Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:42:55.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hereafter only will see this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:43:14.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh k fine ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:43:29.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can u tell me the heroine name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:43:49.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Emma stone ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:44:10.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know comedy actor name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:44:21.130Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have no idea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T18:45:25.438Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T18:51:06.911Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T18:36:03.987Z", 
+  "uid1LogOutTime": "2018-02-05T18:45:29.063Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T18:36:03.993Z", 
+  "uid2LogOutTime": "2018-02-05T18:51:10.371Z", 
+  "uid2response": {
+    "feedback": "NIce study", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1340", 
+  "user2_id": "USR1541", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

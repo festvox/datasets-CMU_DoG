@@ -1,0 +1,76 @@
+{
+  "date": "2018-02-09T18:49:31.622Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:49:54.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anybody  here?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:50:55.956Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:50:58.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:51:10.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to talk about imitation game?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:51:35.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:51:45.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you veer seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:52:06.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, did youleave ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:52:30.367Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T18:49:31.622Z", 
+  "uid1LogOutTime": "2018-02-09T18:52:05.392Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-09T18:49:31.645Z", 
+  "uid2LogOutTime": "2018-02-09T18:52:42.682Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2276", 
+  "user2_id": "USR252", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

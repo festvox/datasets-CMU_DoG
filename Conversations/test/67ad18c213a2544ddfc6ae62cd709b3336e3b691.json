@@ -1,0 +1,136 @@
+{
+  "date": "2018-02-12T22:00:26.291Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:01:35.843Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:01:47.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie The Avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:02:38.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course! Joss Whedon did an amazing job directing it. I saw it again last week.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:05:17.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which one of the cast was your favorite superhero?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:08:08.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man hands down. Robert Downer Jr. killed it! What about you, who was yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:11:33.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr. as Iron man. I think he is most everyone's favorite. I mean his attitude and wittiness is just so entertaining\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:15:41.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think Whedon directed the movie great or no?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:19:26.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely. He sure knows how to appeal to a wide audience.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:21:48.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not usually a fan of superhero movies but I think he elevated the genre.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:22:08.302Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I agree. What was your favorite scence in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:23:31.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think any scene in which Loki makes an appearance.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:25:16.424Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Like the one in which Loki encounters the Others and gets the Tesseract", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:25:48.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Totally! That scene had some much action!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:27:55.585Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. The whole movie is chock-full of action sequences. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:30:02.702Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T22:30:10.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My favorite scene towards the end of the movie. When Hulk slams Loki on the ground like a ragdoll during one of Loki's narcissistic rant. \"puny god\" - Hulk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T22:34:33.729Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T22:00:26.292Z", 
+  "uid1LogOutTime": "2018-02-12T22:35:47.228Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T22:00:26.438Z", 
+  "uid2LogOutTime": "2018-02-12T22:39:36.074Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1114", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

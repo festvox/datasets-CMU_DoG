@@ -1,0 +1,47 @@
+{
+  "date": "2018-02-10T01:22:09.983Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello what is the name of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-10T01:22:47.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-10T01:23:00.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keanu Reeves is John Wick  who is an ex hitman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-10T01:24:35.136Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-10T01:22:09.983Z", 
+  "uid1LogOutTime": "2018-02-10T01:23:20.636Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-10T01:22:10.017Z", 
+  "uid2LogOutTime": "2018-02-10T01:25:18.462Z", 
+  "uid2response": {
+    "feedback": "The other user was not responding activly", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR757", 
+  "user2_id": "USR2336", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

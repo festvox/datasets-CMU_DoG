@@ -1,0 +1,150 @@
+{
+  "date": "2018-01-30T20:19:40.505Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:20:23.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! Have you ever seen Jaws? Its a really good movie. Its a little bit older...1975. Its a thriller type of movie and directed by Steven Spielberg so you know its got to be good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:21:10.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a great movie.  Does it have a good ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:22:15.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they end up killing the shark but through out the movie there is shark attacks and is not suitable for children.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:23:03.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "IMDB gave this movie a 97% rating!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:23:27.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, so it sounds like it's a movie only for the grown ups and adults.  That means it's rated R, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:23:51.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It is R Rated.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:24:08.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's a really great rating, I am definitely interested in seeing it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:24:20.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome! You wont regret it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:24:58.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:25:54.249Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont have the exact run time but I would think its between 2 and three hours long.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:26:37.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay great, I want to make sure to watch a movie that has a well developed story line that's at least longer than two hours.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:27:19.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Heres a description of one of the scenes: A beach party takes place at dusk on Amity Island, where a woman named Chrissie Watkins\ngoes skinny dipping in the ocean. While treading water, she is violently pulled under. The\nnext day, her partial remains are found on shore. The medical examiner ruling the death a\nshark attack leads to Police Chief Martin Brody closing the beaches. Mayor Larry Vaughn\noverrules him, fearing it will ruin the town's summer economy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:28:05.471Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like that scene the best becasue it was so much action and gore. Im really into those types of movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:28:45.252Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, it sounds like it has a lot of action and drama.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:29:16.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have any other movies to recommend?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:30:04.773Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, It has alot of great ratings. Rotten tomatoes gave it 97% and Metacritics gave them 87/100/.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:30:05.541Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think this is the top rated movie that I wuld recomend.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:30:54.315Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm sure with a movie that has a great score like that, it surely spawned a lot of sequels.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T20:31:15.537Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yes! There are a few movies in this sequel. In the second movie one of the local fishermen cath a tiger shark and the mayor gives them the beach back, saying its fage and no human remains were found inside. A few days later a couple kids found a great white tookth so they knew there was something going on. I like the intensity of that scene.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T20:33:56.042Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T20:19:40.505Z", 
+  "uid1LogOutTime": "2018-01-30T20:34:20.051Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T20:19:41.076Z", 
+  "uid2LogOutTime": "2018-01-30T20:34:25.262Z", 
+  "uid2response": {
+    "feedback": "The user made the movie sound really nice.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4040", 
+  "user2_id": "USR3038", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

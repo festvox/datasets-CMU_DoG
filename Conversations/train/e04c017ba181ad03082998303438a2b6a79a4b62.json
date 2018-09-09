@@ -1,0 +1,277 @@
+{
+  "date": "2018-03-22T14:43:24.926Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:43:50.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The wolf of Wall Street ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:44:06.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:44:14.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:44:19.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fantastic cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:44:27.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:44:37.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About a guy with career on Wall Street and his firm gets wrapped up in corruption ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:45:42.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:46:03.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "De April is great ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:10.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are the members of the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:46:24.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry,decaprio is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:25.495Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mathew mcconaughey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:46:44.700Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Joan hill", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:03.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Margot Robbie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:12.980Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:47:25.907Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And Martin Scorsese\u2019s the director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:32.204Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can\u2019t go wrong with him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:47:39.346Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rob Reiner is also in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:48:10.942Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the rating on the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:48:39.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten tomatoes gave it 78%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:48:46.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what about the MPAA rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:49:32.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It honestly doesn\u2019t say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:50:03.134Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Odd", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:50:05.584Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well, is it family friendly?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:50:43.894Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I\u2019m gonna say no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:51:32.489Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Probably rated r", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:51:38.856Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That could be a problem for me.  How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:51:52.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Very long", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:52:19.706Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "3 hours ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:52:26.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a point where I can take a break from watching it?  Like an intermission?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:53:05.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don\u2019t believe so no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:53:41.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Because of my children, I would have to see it without them.  Would my wife enjoy this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:55:01.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think she would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:55:40.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My wife liked it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:55:48.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is there a happy ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:55:55.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No,the firm goes down", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:56:20.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dark humor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:56:25.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I enjoyed it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:56:31.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Feds took them down ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:57:06.072Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is this based in real life?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:57:16.202Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T14:43:24.926Z", 
+  "uid1LogOutTime": "2018-03-22T14:58:43.965Z", 
+  "uid1response": {
+    "feedback": "I don't have three hours to watch an adult movie.  I have kids.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:43:24.947Z", 
+  "uid2LogOutTime": "2018-03-22T14:57:24.912Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4464", 
+  "user2_id": "USR358", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

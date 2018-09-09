@@ -1,0 +1,354 @@
+{
+  "date": "2018-02-05T15:45:07.707Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey! How's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:45:32.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "waiting for avengers infinity war ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:46:38.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i saw the new super bowl trailer today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:46:51.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its really amazing movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:46:55.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a little about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:47:18.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was a superhero movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:41.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "many superheroes from comics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:48:51.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this filmed produced by marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:10.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it all the regular avengers superheroes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:26.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are there famous actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:49:39.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes Robert Downey is a famous actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:58.524Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he was acted as iron man ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:05.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he also an actor in iron man movie series", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:31.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right! So is Thor in the same movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:45.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah after thor ragnarok. chris hemsworth join the avengers infinity war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:51:17.241Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but he lost the hammer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:51:35.600Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "avengers was a big film made by marve.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:12.990Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK. I wonder if I could enjoy the movie even if I have not seen the other ones before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:53:14.904Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah do you ever seen avengers series?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:45.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:54:05.679Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I never saw an Avenger movie. I have liked some superheroes movies but not all of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:55:41.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the Iron Man ones though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:55:49.661Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice. watch some superhero movies like avengers 2 and captain america 3. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:53.317Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe I'd like this one just because of Robert\n Downey Jr. I think he's really funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:56:55.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that was my favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:55.826Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah i like him so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:09.015Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he doing funny and talks impressive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:23.740Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "one of the genius superhero in marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:33.884Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, he comes across as smart and sarcastic - which I like.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:57:41.788Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like spiderman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:59.108Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "my childhood favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:58:03.578Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! I like Spiderman a lot. But I got lost between all the different franchises of the movie. And I don't like that there is always a new reboot. It's confusing as hell.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:59:27.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah i agree with that. because marvel changing spiderman character ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:00:02.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like the guy who acting the first spiderman role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:00:21.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. They're trying to make it more attractive to more people but they're ruining it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:00:32.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "avengers 3rd part  will be release on my birthday date", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:00:56.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will watch on first day first show", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:01:13.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i am a biggest fan of marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:01:21.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! Are you going to go to a screening on that day to celebrate?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:01:26.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah sure. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:02:31.941Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i am going to celebrate with my friends ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:02:47.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "scarlett johansson looks more beautiful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:03.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's great! Go with a bunch of friends, then discuss the movie with them. Sounds like a great birthday evening.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:03:03.889Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you so much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:13.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lets rock the world", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:26.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aahh right. She's in that too. I like her a lot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:03:27.192Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good idea :-)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:03:38.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she looks not so aged ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:47.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "looks more young on upcoming films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:03:59.476Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's not that old anyway.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:04:00.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She's smart and beautiful. Great combination.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:04:21.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gotta go now. Nice talking to you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T16:04:40.496Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T16:07:08.723Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T15:45:07.707Z", 
+  "uid1LogOutTime": "2018-02-05T16:04:58.439Z", 
+  "uid1response": {
+    "feedback": "My conversation partner was very enthusiastic about the movie but I'm not really into superhero movies so I don't think I'll watch that one.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:45:07.929Z", 
+  "uid2LogOutTime": "2018-02-05T16:07:11.021Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4194", 
+  "user2_id": "USR1241", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

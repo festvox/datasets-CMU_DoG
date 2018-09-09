@@ -1,0 +1,85 @@
+{
+  "date": "2018-02-20T22:47:40.294Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:47:46.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:47:55.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is \"The Blind Side\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:48:25.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is the one about the footbal player adopted by a rich family", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:49:00.459Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sandra Bullock got a an oscar for it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:50:01.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T22:50:06.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:51:05.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed the movie as it was based on a true story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:51:44.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was emotional and touching", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T22:51:52.245Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T22:47:40.294Z", 
+  "uid1LogOutTime": "2018-02-20T22:51:55.407Z", 
+  "uid1response": {
+    "feedback": "I had seen the movie before but after the conversation, I am positive I'd watch it again", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T22:47:40.321Z", 
+  "uid2LogOutTime": "2018-02-20T22:50:45.610Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR1437", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

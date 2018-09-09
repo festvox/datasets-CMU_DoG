@@ -1,0 +1,314 @@
+{
+  "date": "2018-03-20T17:03:42.915Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:03:57.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:04:59.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We have the movie \"Home Alone\" 1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:05:36.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:05:45.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:05:54.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:06:00.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:06:08.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did, but it has been some years the last time I watched it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:06:26.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:06:35.794Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember Marv and Marley, and Kevin of course.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:07:05.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cast:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:07:44.094Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Macaulay Culkin as Kevin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:07:55.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joe Pesci as Harry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:08:01.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Daniel Stern as Marv", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:08:07.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Heard as Peter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:08:13.160Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Roberts Blossom as Marley", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:08:15.761Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:08:30.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Catherine O'Hara as Kevin's Mother", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:09:04.352Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Rotten Tomatoes has a 62% score an average of 5.5 out of 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:09:16.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Peter the Dad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:09:17.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What rating do you give this movie\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:09:37.309Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:10:08.121Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "62%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:10:10.645Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:10:12.822Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would give it a 70%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:10:27.497Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "1990 American comedy film written and produced by John Hughes and directed by Chris Columbus", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:10:41.250Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The second movie Home Alone 2 is my favorite though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:10:54.395Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "With John Candy, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:11:10.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he was an amazing actor. It's so sad he passed away.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:11:54.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know! Cool Runnings was my fave of his!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:16.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kevin returns home and rigs the house with numerous booby traps. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:36.121Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "love those scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:12:39.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that the one with Bobsled team?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:12:56.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:13:05.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I loved that movie. It has been forever since I last watched it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:28.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The McCalister family is preparing to spend Christmas in Paris, gathering at Peter and Kat'es home outside of Chicago on the night before their departure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:14:40.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Peter and Kate's youngest son, eight ear old Kevin, is bein ridicule by his siblings nad cousins.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:08.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Harry and Marv break in, spring traps, and suffer various injuries.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:15:24.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How could I forget them, they are the main reason I loved the movie so much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:54.237Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "On Christmas Day, Kevin is  disappointed to find that his family is still gone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:07.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How can anyone leave their kid!?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:16.373Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I love them too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:21.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:24.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We did it, great survey.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:38.775Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Take care.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:46.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:04.892Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T17:03:42.915Z", 
+  "uid1LogOutTime": "2018-03-20T17:17:06.046Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:03:42.942Z", 
+  "uid2LogOutTime": "2018-03-20T17:17:08.847Z", 
+  "uid2response": {
+    "feedback": "A very friendly user that know the movie well.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3550", 
+  "user2_id": "USR55", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

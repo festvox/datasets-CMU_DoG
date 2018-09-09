@@ -1,0 +1,133 @@
+{
+  "date": "2018-02-08T23:33:45.628Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there! What do you think about Gal Gadot as Diana Prince?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:35:15.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you talking about wonder woman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:35:35.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes,\n of course. What other Diana Prince is relevant?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:36:05.203Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Gal Gadot in that movie, I thought she was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:36:28.665Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the same, I think he was born for that role, although sometimes his tone bothers me a bit, it seems a bit rough and even boring.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:37:30.870Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whose tone are you referencing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:38:27.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "However, the movie itself is great. Pretty orchestrated and very well presented, better than any other DC before (of the last released, of course).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:39:15.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would go to see it again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:39:35.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The tone of her\n voice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:39:51.277Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Got it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:40:00.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nWhich was your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:40:37.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought the opening was really strong, when he discovers the amazons", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:41:29.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "steve trevor's first contact with them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:42:14.271Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That was great!\n I think mine was when she fought with Ares, what a show!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:43:41.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah its definitely worth a second look", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:44:35.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. It was a big step for DC in the film world. Since it came with fairly weak films (in many points).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:45:49.256Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hey there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:46:00.401Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T23:33:45.628Z", 
+  "uid1LogOutTime": "2018-02-08T23:45:17.488Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:33:45.678Z", 
+  "uid2LogOutTime": "2018-02-08T23:48:20.976Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1715", 
+  "user2_id": "USR3382", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

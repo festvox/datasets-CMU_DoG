@@ -1,0 +1,258 @@
+{
+  "date": "2018-03-29T16:39:36.748Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:39:52.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:39:58.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just saw Iron Man.  It was awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:40:15.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool! What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:40:48.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a Superhero called Iron Man, in real non-superhero life he's a genius inventor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:41:29.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got Robert Downey, Jr. as Iron Man aka Tony Stark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:42:18.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like him. Was he good in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:42:30.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes!  There are some other big names starring in it too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:42:46.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Like who?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:43:29.561Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got Gwyneth Paltrow as Stark's assistant and he has a crush on her.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:43:42.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Then there's Jeff Bridges as the next in charge at Stark Industries, Downey's company.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:44:27.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice! Do they hook up in the end?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:44:32.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you really want to know or do you want to wait for when you watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:44:55.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Stark is kind of a playboy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:45:13.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot is awesome too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:45:27.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That figures. I guess I'll wait.  Who directed it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:45:33.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jon Favreau directed it, it got pretty good critics' scores.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:46:19.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What were the reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:46:55.570Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "CinemaScore gave it an A, and Rotten Tomatoes was 94%.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:46:59.063Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow that is pretty good. So what happens with the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:47:35.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Stark gets captured by terrorists and is held prisoner in a cave in Afghanistan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:47:57.460Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They have to put a device in his chest because he gets injured in a blast and it keeps the shrapnel that they can't remove from reaching his heart.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:48:28.728Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So they want to keep him alive? Why?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:48:59.635Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The terrorist group is called Ten Rings, they want him to manufacture a Jericho missile for them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:49:18.479Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see. So how does he escape?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:49:45.461Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Let me just say he gets away and doesn't build the missile. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:50:05.557Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But when he gets back to his company he finds out one of his employees is secretly working as an arms dealer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:50:32.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dirty mole!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:50:44.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So what does he do with him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:50:55.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He foils the attack on a village the terrorists are trying to destroy, donned in his Iron Man gear flying around all Superhero-like.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:51:38.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His mole of an employee builds a suit like his, and they end up duking it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:52:11.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ah ha! So naturally Iron prevails right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:52:38.650Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Just before the ending the two of them are fighting atop the Stark Industries tower.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:52:56.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Go on!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:53:22.964Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark doesn't have the new reactor to charge his Iron Man suit that the other guy has, so he's getting whooped pretty bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:54:06.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You sure you want to know the ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:54:25.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope. Let's not spoil it. Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:54:45.039Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T16:39:36.748Z", 
+  "uid1LogOutTime": "2018-03-29T16:54:48.876Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T16:39:36.904Z", 
+  "uid2LogOutTime": "2018-03-29T16:54:46.421Z", 
+  "uid2response": {
+    "feedback": "The other user was really responsive and explained things well. I would watch the movie based on our conversation.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR46", 
+  "user2_id": "USR922", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "date": "2018-03-28T15:14:05.728Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:14:37.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:47.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:14:55.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm great!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:05.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen the Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:15:07.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i have not ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:18.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's a nice tittle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:26.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's movie is this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:15:34.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a great Scorcese movie with Leo and Jonah HIll", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:16:11.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is that leonardo di caprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:16:38.625Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh you know it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:16:43.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no but because you said Leo I presumed it was him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:17:09.136Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's the only Leo that i can think off ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:17:30.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When he's young he starts working on Wall Street, but when the market crashes he's forced to start working at a sketchy brokerage ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:17:37.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That begins his fall to the dark side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:17:52.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:17:59.774Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the dark side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:03.846Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why he makes too much money?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:14.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah he gets invovled with drugs and ripping people off ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:18:16.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ohh i see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:33.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He hires his neighbour and they found their own firm selling crappy stocks to poor people ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:18:38.569Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he starts selling drugs?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:47.868Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:18:53.751Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No just doing drugs ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:18:57.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "when did the movie come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:16.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They do an IPO for Steve Madden, but it was actually a pump and dump scam and they make $22 million in 3 hours ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:19:20.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It came out in 2013 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:19:27.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "damn that's a lot of money for 3 hours", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:45.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "than they were good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:50.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I wouldn't be mad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:19:54.305Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "beside the ripping people off", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:19:59.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the FBI arrests Leo eventually ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:20:01.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And he has to wear a wire and rat on his friends", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:20:12.308Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha you gave away the ending", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:20:29.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but still would be interesting to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:20:40.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how it develops", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:20:45.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it based on real facts?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:20:54.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah its really fun and pretty funny ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:20:54.343Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You should definitely watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:40.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i will, thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:21:50.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:21:57.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for telling me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:22:10.994Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hey no problem any time ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:42.543Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:22:49.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye bye ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:54.462Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T15:14:05.728Z", 
+  "uid1LogOutTime": "2018-03-28T15:23:23.955Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:14:05.732Z", 
+  "uid2LogOutTime": "2018-03-28T15:23:03.871Z", 
+  "uid2response": {
+    "feedback": "It was a nice conversation, and the other user presented the movie well and seemed enthusiastic about it ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3165", 
+  "user2_id": "USR4695", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

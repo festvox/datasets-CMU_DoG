@@ -1,0 +1,156 @@
+{
+  "date": "2018-03-16T18:03:17.936Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:03:26.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:03:29.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce almighty ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:04:52.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lovely. I'd love to hear about i", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:05:12.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it\u2019s a comedy with Jim Carrey and Morgan freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:06:19.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "love morgan freeman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:06:38.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It\u2019s about about a down on his luck reporter named Bruce who complains to god that he\u2019s doing a bad job and god guvesbhimm a week to to be gid", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:08:36.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Morgan freeman of course plays god in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:09:18.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mm interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:09:29.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also Jennifer Aniston is in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:10:26.186Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What does she play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:11:03.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do think the actors chose where good choices", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:12:44.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morgan Freeman and Jim Carrey are great actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:13:04.448Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I like them all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:13:13.128Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So tell me more about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:13:17.407Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well let me answer your  Earlier question real quick Jennifer Aniston is the girlfriend of Bruce in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:15:04.453Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:15:47.910Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So Bruce becomes God for a week and gets all the powers that come along with it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:18:08.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm sure that went absolutely horrible hah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:18:50.892Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So in one saying he find jimmy hoffas his body for a news story ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:19:10.931Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T18:03:17.936Z", 
+  "uid1LogOutTime": "2018-03-16T18:19:30.016Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:03:18.631Z", 
+  "uid2LogOutTime": "2018-03-16T18:19:18.163Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4553", 
+  "user2_id": "USR1204", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

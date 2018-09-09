@@ -1,0 +1,110 @@
+{
+  "date": "2018-03-02T19:43:14.726Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "the critics are pretty harsh with their depictions of the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:46:07.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the movie even through the critics were harsh. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:46:30.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like it too, I was kind of refreshing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:47:22.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has an entertaining and talented cast but I do agree with the critics that the plot is a mess.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:47:39.802Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's true but many superhero films have messy or undeveloped plots.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:48:31.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also thought the movie was too long. They could have cut some of the movie down so it was closer to two hours. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:50:30.283Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think that most movies of this nature are designed to entertain and not to necessarily to be complex.  It definitely could of been shorter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:51:35.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess it all depends on what you were expecting to see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:52:15.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very true, I agree. They tried to put too much into one movie. I believe the movie could have been better with two parts even. It was refreshing to see Batman back on the big screen though. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:53:13.118Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah a sequel would have been cool.  Superman is definitely nostalgic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:54:18.076Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Best part of the movie for me was easily the battle between Superman and Batman. It was short but very entertaining.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:55:58.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the fact that Batman wants to stand up against Superman because of the aftermath of his battle with Zod. It sets a good tone for the start of the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:57:53.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah.  I actually hope they do another Superman vs. Batman set in Paris or London or something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:58:56.876Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T19:43:14.726Z", 
+  "uid1LogOutTime": "2018-03-02T19:59:02.649Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T19:43:14.746Z", 
+  "uid2LogOutTime": "2018-03-02T19:58:43.342Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3937", 
+  "user2_id": "USR4912", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-06T23:44:19.437Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie was alright but not very memorable. I agree with the reviewer who wrote that it's \"not a major Spielberg film,\" especially since I've never heard anyone mention the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T23:47:07.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T23:48:12.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Do you watch a lot of crime dramas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T23:49:06.991Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T23:44:19.437Z", 
+  "uid1LogOutTime": "2018-03-06T23:50:28.519Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-06T23:44:19.456Z", 
+  "uid2LogOutTime": "2018-03-06T23:50:14.681Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4425", 
+  "user2_id": "USR690", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

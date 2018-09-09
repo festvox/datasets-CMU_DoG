@@ -1,0 +1,594 @@
+{
+  "date": "2018-01-30T00:06:19.616Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:07:16.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:07:24.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are you reading about over there? :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:07:40.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Frozen movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:07:52.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:07:58.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:08:01.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a computer animated musical movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:08:41.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are they doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:08:58.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is inspired by the fairy tale - The Snow Queen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:09:17.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never read the fairy tale before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:09:37.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the Snow Queen evil?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:10:03.926Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Th story revolves around a fearless princes's search for her estranged sister", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:10:09.393Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ohh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:10:14.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and how a rugged iceman, his pet reindeer and naive snowman help her out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:11:12.029Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds kinda cute.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:11:23.911Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie's genre is comedy, adventure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:11:48.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel its really worth watching it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:11:58.163Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it sounds cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:12:16.348Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "#puns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:12:22.372Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do u wish to know more about story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:13:28.464Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I asked if the Snow Queen was evil. Or who is she?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:13:47.624Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:14:59.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:16:13.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The two sisters in the plot were Elsa and Anna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:16:38.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are they really close in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:17:18.619Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Elsa happens to accidentally injure Anna while they both were playing in the childhood", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:17:27.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She injured her with her magical powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:17:59.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What powers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:18:05.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cryokinetic magic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:18:35.400Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does Anna have powers as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:19:11.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then their parents took both of them to a colony led by Grand Pabbie where he heals Anna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:19:19.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:19:20.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But while healing, he removes her memories about Elsa's powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:19:50.045Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there a reason why?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:20:01.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So that Anna doesn't know that her sister had harmed her probably", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:20:37.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:20:47.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "king and queen isolate both of them for their safety within the castle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:21:04.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "while both become teens, their parents die during a storm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:21:29.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's sad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:22:01.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now when Elsa turns 21, she was going to be crowned as queen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:22:40.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but she had a fear in her mind", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:22:50.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "About her sister?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:23:35.309Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that people might find out about her powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:23:42.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:23:46.430Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I figured she would just tell people about them later, when she's older or trained.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:24:07.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The castle opens up for coronation ceremony wherein Duke and a prince from Southern Isles comes to attend the ceremony", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:24:52.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are they nice?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:25:19.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Prince Hans and Anna fall in love and Hans proposes to Anna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:25:25.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:25:29.448Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oooh.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:25:30.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But Elsa objects to this and shows her powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:26:01.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She gets intro trouble, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:26:24.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Looking at her powers, Duke brands her as monster", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:26:30.928Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:27:05.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She flees but she has engulfed the kingdom in an eternal winter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:27:35.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are they trapped inside?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:28:06.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Whereas she herself discards her crown and reaches North Mountain to create a palace of ice to live for her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:28:28.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:29:41.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like the Fortress of Solitude.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:29:47.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anna reaches out to Elsa and then lets her know what she has done to the kingdom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:30:15.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Instead of repenting, she  freezes Anna's heart", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:30:36.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:30:49.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Now the Kristooff from Elsa's kingdom takes her to  meet Grand Pabbie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:31:52.845Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To look for a cure?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:32:14.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who says to cure Anna a ture act of love could help ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:32:23.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:32:28.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:32:29.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he races her back to hans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:32:53.345Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anna is with Hans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:33:06.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but rather than kissing her, he defeats Elsa's snow creature Marshmallow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:34:10.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's Marshmallow?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:34:25.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and reveals that he had been plotting to sieze Elsa's kingdom", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:34:54.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A giant snow creature", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:35:03.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So Hans locks Anna in a room to die and lets everyone know that Elsa killed Anna", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:35:57.505Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And orders for Elsa's execution", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:36:08.092Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Woah.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:36:20.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But somehow Elsa manages to escape the cell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:36:35.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Doesn't it sounds adventurous", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:36:56.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:36:57.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it does.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:37:03.821Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "While critics have said that bit more could have been done to have a better conclusion ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:37:35.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but nevertheless its a complete entertainment as it has comedy, adventure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:38:05.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:38:13.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "SO would u be reading the fairy tale or directly watching the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:39:02.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I could do both. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:39:26.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:39:36.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay then I feel we are good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:39:46.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do u want to know anything else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:39:54.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope. Thanks, though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:40:18.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ur welcome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:40:27.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay Then we end the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:40:38.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:40:41.678Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "See ya.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:40:44.578Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T00:06:19.616Z", 
+  "uid1LogOutTime": "2018-01-30T00:40:53.085Z", 
+  "uid1response": {
+    "feedback": "I've heard about the movie before, I was just putting it off. I guess it wouldn't be so bad.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T00:06:19.845Z", 
+  "uid2LogOutTime": "2018-01-30T00:41:09.914Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1932", 
+  "user2_id": "USR1549", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

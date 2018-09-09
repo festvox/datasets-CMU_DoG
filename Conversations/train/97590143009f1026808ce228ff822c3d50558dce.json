@@ -1,0 +1,380 @@
+{
+  "date": "2018-02-06T03:06:59.186Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:07:05.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:07:17.215Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:07:32.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:07:43.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:07:58.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like animation movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:08:15.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:08:20.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the bunny in this one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:08:26.386Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which charachter did you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:09:19.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "all", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:11:48.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "officer judy is cute", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:11:59.346Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She is :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:12:10.250Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a good comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:12:24.571Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree and it is very family friendly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:12:38.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was rooting for her.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:13:06.432Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also it was sad that the otter was nuts.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:13:16.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:13:22.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "otter was funny though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:13:30.390Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah I thought it was cool how they were about to be drowned by that rat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:14:02.337Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Them going crazy was interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:14:36.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I felt bad for them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:14:42.426Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:14:59.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:15:02.043Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked the voice acting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:15:19.543Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:15:33.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ginnifer goodwin did a good job", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:15:45.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so did Jason Bateman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:15:56.636Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah Jason Bteman did real good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:16:06.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked how his charachter was drawn", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:16:20.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:16:37.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the character designs were good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:16:48.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked how he had a permanent smirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:16:58.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:17:07.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also I liked the bunnies eyes were violet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:17:16.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah that was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:17:24.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And the animation of the weasal was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:17:34.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:17:45.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The sheep were cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:17:56.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:17:59.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you have a favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:18:08.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The train scene with the sheep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:18:30.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was based off breaking bad lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:18:40.198Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The names were Jesse and i forget the other guy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:18:58.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you have a favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:19:34.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:19:53.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there were many", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:20:13.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I get that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:20:22.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was a real good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:20:28.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when they went savage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:20:39.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was your favorite animal?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:20:42.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the bunny ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:20:55.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "also the fox", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:20:58.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah that was a good scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:20:59.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked how they tricked the sheep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:21:07.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "With the blueberry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T03:21:44.216Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:22:38.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T03:22:43.350Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T03:06:59.186Z", 
+  "uid1LogOutTime": "2018-02-06T03:22:57.255Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T03:07:00.077Z", 
+  "uid2LogOutTime": "2018-02-06T03:23:05.463Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2278", 
+  "user2_id": "USR4312", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

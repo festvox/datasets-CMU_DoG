@@ -1,0 +1,90 @@
+{
+  "date": "2018-02-28T18:27:28.979Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Let's chat about Despicable Me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:28:27.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, what is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:28:42.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay I got it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:29:18.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me. It's a Universal Pictures animated film from 2010. Starring Steve Carell as Gru.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:29:31.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:29:50.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it funny?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:30:33.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a full of quick-laughs and funny punch lines. It's also available in 3D!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:30:36.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is\n 3D the way to watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:31:22.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Kids love it, adults adore the humor. Rotten tomatoes even gave it 81%! \n\n3d is always an enjoyable way to watch, however, you won't miss anything if you watch it in just 2d!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:32:13.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where did you find it? Netflix HBO etc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:33:11.187Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T18:27:28.979Z", 
+  "uid1LogOutTime": "2018-02-28T18:32:20.963Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T18:27:29.000Z", 
+  "uid2LogOutTime": "2018-02-28T18:34:09.866Z", 
+  "uid2response": {
+    "feedback": "I don't watch animated movies.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3634", 
+  "user2_id": "USR3757", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

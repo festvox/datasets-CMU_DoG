@@ -1,0 +1,61 @@
+{
+  "date": "2018-02-12T19:04:17.414Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:04:32.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like the movie Zootopia. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:05:05.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Rotten Tomatoes rating is 98%. That is a really good rating for a movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:06:35.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "zootopia yeah that was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:07.283Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was yuor favorite part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:12.089Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:04:17.414Z", 
+  "uid1LogOutTime": "2018-02-12T19:13:15.332Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:04:17.551Z", 
+  "uid2LogOutTime": "2018-02-12T19:07:36.450Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3350", 
+  "user2_id": "USR1748", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

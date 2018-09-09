@@ -1,0 +1,106 @@
+{
+  "date": "2018-03-16T17:23:19.795Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:23:27.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i will talk whit you about this film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:23:44.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me the name of movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:24:01.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! The name of the movie is Batman Begins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:24:26.551Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh ok, hey, it's fantastic. Is it a new movie? Talk to me about her I will be reading about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:25:34.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a super hero movie featuring the classic character batman. It was made in 2005, so it's not super new, but it has really high ratings!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:26:26.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I understand. It's a classic, and it's from England. How is this movie compared to other batman films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:28:22.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think it's from England, but it has a lot of great actors including Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, and Gary Oldman!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:29:21.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure how it compares to the other batman movies, but Christian Bale portrays the character of Batman with incredible menace and wit!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:30:43.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "reading about the story the origin of the main character, is about the initial fear of bats", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:30:58.643Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This film reboots the Batman series, telling the origin of the character Bruce Wayne and his journey to becoming Batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:32:40.918Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh ok so begins your story telling your origins. Ah should be easy to understand and perhaps somewhat predictable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:33:53.373Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you're in the chat?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:34:15.415Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T17:23:19.795Z", 
+  "uid1LogOutTime": "2018-03-16T17:36:52.569Z", 
+  "uid1response": {
+    "feedback": "othe user left talk", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:23:19.796Z", 
+  "uid2LogOutTime": "2018-03-16T17:33:47.608Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR166", 
+  "user2_id": "USR1641", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "date": "2018-02-06T19:48:08.722Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:48:46.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\niH", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:48:53.915Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\nhi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:48:57.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:49:03.779Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:49:16.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:49:25.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Inception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:49:43.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nIt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:49:55.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:49:55.912Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leonardo DiCaprio in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:50:10.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What other\n actors and actresses are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:50:17.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joseph Gordon-Levitt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:50:32.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also, Ellen Page", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:50:40.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who directed the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:50:47.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:50:59.350Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a long movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:51:15.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't recall reading anything about the length of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:51:53.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:52:02.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The two men in the movie perform corporate espionage using an experimental military technology. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:52:43.955Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of experimental military technology?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:53:14.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "infiltrating dreams", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:53:43.327Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it an action movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:53:58.980Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it is categorized as a scientific movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:54:11.315Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How do the men commit corporate espionage with this technology?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:54:41.211Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They implant ideas into a person's subconscious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:55:20.345Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it dangerous for them to do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:55:40.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, because the dreamer forgets they are in a dream", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:56:42.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What happens to the dreamer when they forget are in a dream?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:57:28.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they enter a world of infinite subconscious and it is extremely difficult to escape from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:58:53.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's intense. How do they get out of the infinite subconscious?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:59:25.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From what I have read, one of them commits suicide in order to wake up for real", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:00:11.378Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh wow. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:23.029Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who wrote the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:00:31.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It only stated who the director is. Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:01:34.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When was the movie released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:01:53.340Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T20:01:56.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks. I'd like to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:58.862Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T19:48:08.722Z", 
+  "uid1LogOutTime": "2018-02-06T20:03:05.511Z", 
+  "uid1response": {
+    "feedback": "I learned a lot about the movie and it sounds interesting.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:48:08.729Z", 
+  "uid2LogOutTime": "2018-02-06T20:02:01.177Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4138", 
+  "user2_id": "USR4119", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

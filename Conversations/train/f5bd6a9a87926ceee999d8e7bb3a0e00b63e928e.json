@@ -1,0 +1,239 @@
+{
+  "date": "2018-02-08T21:24:13.528Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "suh dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:24:22.908Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. The movie is John Wick.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:44.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:55.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "keanu reeves was pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:24:58.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:25:00.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "john wick 2 was not as good as the first one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:25:31.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah I see. This movie seems to have a rating of 6.9/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:26:02.488Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:26:10.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that's not too bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:26:18.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it seems average.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:26:28.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:26:55.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:27:29.540Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you should rent it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:27:42.620Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You've watched it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:27:53.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea it's not too bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:28:04.825Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah maybe I should.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:28:05.125Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you enjoy movies with Keanu Reeves?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:28:53.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ehhh his movies are okay.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:29:09.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i really liked matrix when it came out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:29:19.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah that was a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:30:53.400Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if you like keanu reeves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:31:17.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you should watch constantine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:31:23.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that movie is great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:31:34.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh thanks for the rec. I'll check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:31:57.174Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sooo where ya from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:32:28.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From New York. It says here \nJohn Wick's puppy was killed huh? That sucks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:32:50.237Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea but he gets revenge trust me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:31.506Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:33:40.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a lot of people die haha :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:49.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you say there are some funny moments in John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:34:00.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't mess with John Wick huh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:34:14.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ughh not really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:34:22.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's pretty seriou", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:34:27.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "serious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:34:29.136Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:24:13.528Z", 
+  "uid1LogOutTime": "2018-02-08T21:34:35.671Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:24:13.560Z", 
+  "uid2LogOutTime": "2018-02-08T21:34:30.671Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3483", 
+  "user2_id": "USR4275", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

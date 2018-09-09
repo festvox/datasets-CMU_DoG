@@ -1,0 +1,426 @@
+{
+  "date": "2018-03-28T23:59:33.800Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T23:59:57.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, the movie I have is Toy Story. Have you ever watched Toy Story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:00:49.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't! I've always wanted to see it, though - just never got around to it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:01:49.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it any good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:01:52.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm assuming it's about toys - but not sure what it's actually about. \nCould you tell me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:03:37.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's pretty much a buddy comedy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:03:55.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the buddies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:04:04.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are they toys?:-) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:04:33.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A cowboy named Woody and an astronaut named Buzz! I know it sounds wacky, but that's the kind of thing your in store for with this movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:04:36.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They are indeed toys. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:04:50.434Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plus they have an amazing cast behind the toys. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:05:05.119Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who plays Woody and Buzz?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:05:22.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Love the astronaut's name, by the way", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:05:32.338Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Right. Super clever. So Tim Hanks plays Woody and Tim Allen plays buzz. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:06:17.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love Tom Hanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:06:33.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who else is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:06:37.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are all the characters toys?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:06:42.340Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tom Hanks is the best. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:06:46.952Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And no, not all the characters are toys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:06:53.988Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot pretty much revolves around Buzz and Woody trying to win the affection of their ownder. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:07:13.793Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what's going on in it? What do Woody and Buzz do?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:07:27.926Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, that's kind of sad and adorable!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:07:41.532Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is the owner still a kid?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:07:48.594Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The owner is still a kid. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:08:03.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and whenever he walks into the room", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:08:13.405Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the toys stop moving ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:08:16.669Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:08:28.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So they are aware they're toys, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:08:40.264Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it just the two of them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:08:43.951Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I should probably watch the movie, though, instead of asking you about every detail of it :-) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:09:10.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No there are a whole cast of toys: Mr. Potato Head, Rex the Dinosaur, Hamm the Piggy Bank and Slinky dog", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:09:23.944Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and they are all toys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:09:26.797Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You should", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:09:29.131Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's got a 100 percent on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:09:44.386Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and a 95/100 on metacritic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:10:00.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I used to collect piggy banks as a child, so I'm guessing Hamm the Piggy Bank will be my favorite one :-) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:10:27.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, wow, that's a really good score! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:10:51.801Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and on top of that, the movie looks amazing!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:11:06.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And it's perfect to watch with my 6 year old nephew, I assume?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:11:09.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You would never guess what year it came out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:11:15.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and it is the perfect movie to watch with your six year old", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:11:26.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know there was a Toy Story 3, so I am guessing around 2010-2012 or something?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:11:49.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:11:57.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I should have seen this movie by now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:12:02.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "try 1995! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:12:04.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Earlier?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:12:07.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NO WAY!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:12:14.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes way! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:12:22.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wait, there's no way Toy Story is that old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:12:28.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you trying to say I myself was a kid when it came out?! (11 years old in 1995)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:12:54.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's hard to believe, but Toy Story was revolutionary at the time! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:01.106Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am saying that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:05.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, I really thouhgt it was much much newer movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:13:06.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I HAVE to see it! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:13:21.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have to! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:31.613Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and even though its a kids movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:37.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's hilarious ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:47.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Inviting my nephew over for a movie night this coming weekend :-) ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:13:56.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pixar does a great job of making movies for all ages", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:13:57.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I love both animated movies and especially Pixar's movies - so I don't  doubt that at all", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:14:23.013Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's the spirit! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:14:23.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you happen to know who the director of the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:14:34.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's John Lasseter, but you should just watch the movie for yourself. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:15:24.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T00:15:25.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I definitely will! Here's a thank you in advance from both me and my nephwe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T00:15:50.369Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T23:59:33.800Z", 
+  "uid1LogOutTime": "2018-03-29T00:15:27.986Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T23:59:33.905Z", 
+  "uid2LogOutTime": "2018-03-29T00:15:56.140Z", 
+  "uid2response": {
+    "feedback": "The user made the movie sound quite attractive, and if this had been an actual conversation I would be trying to find the movie the moment I finished writing this. They made it sound fun at the start, then gave me lots of information about the plot and the characters, and why they thought the movie was worth watching. Answered all my questions about the actors and the director, spoke highly of the movie's quality, and even asked me to guess when it was made, thus making me even more interested in watching it now that I knew it was much older thus much more special than I had assumed. They also gave me an enthusiastic advice on whether to watch it with my little nephew.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2879", 
+  "user2_id": "USR941", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

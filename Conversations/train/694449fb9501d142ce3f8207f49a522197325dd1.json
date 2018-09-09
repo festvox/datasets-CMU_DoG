@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-21T17:42:22.714Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie we have is despicable me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T17:43:22.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, where does this movie take place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T17:43:44.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was animated by a french animation studio but released in the United states first. I am not sure where it takes place at.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T17:45:38.041Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-21T17:42:22.714Z", 
+  "uid1LogOutTime": "2018-02-21T17:58:29.998Z", 
+  "uid1response": {
+    "feedback": "the other user stopped responding ", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-21T17:42:22.754Z", 
+  "uid2LogOutTime": "2018-02-21T17:51:40.307Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4348", 
+  "user2_id": "USR2124", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

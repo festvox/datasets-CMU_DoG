@@ -1,0 +1,118 @@
+{
+  "date": "2018-02-07T17:11:44.397Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I agree do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:12:05.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like some action movies, yes.  Do you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:12:25.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea I enjoy most", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:12:30.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick is really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:12:42.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed.  I liked both of them. You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:12:58.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:13:04.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like one more than the other?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:13:26.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "both about the same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:13:39.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Will you see the next one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:13:53.966Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:14:08.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What other movies do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:14:22.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like fast and the furious movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:15:00.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:16:09.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:17:44.287Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T17:11:44.398Z", 
+  "uid1LogOutTime": "2018-02-07T17:14:18.284Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:11:44.414Z", 
+  "uid2LogOutTime": "2018-02-07T17:17:47.593Z", 
+  "uid2response": {
+    "feedback": "The other user left the conversation and did not indicate to me what movie he/she read about it.  He/she responded to me a couple of times and then left the conversation.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR419", 
+  "user2_id": "USR1168", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

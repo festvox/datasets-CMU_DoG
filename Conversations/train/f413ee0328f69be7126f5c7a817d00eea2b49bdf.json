@@ -1,0 +1,45 @@
+{
+  "date": "2018-02-07T15:55:33.963Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:15.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:37.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What was the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:43.674Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T15:55:33.963Z", 
+  "uid1LogOutTime": "2018-02-07T15:58:22.060Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:55:34.192Z", 
+  "uid2LogOutTime": "2018-02-07T15:56:31.695Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1614", 
+  "user2_id": "USR3100", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

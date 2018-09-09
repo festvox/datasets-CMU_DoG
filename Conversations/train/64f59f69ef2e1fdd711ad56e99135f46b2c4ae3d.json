@@ -1,0 +1,282 @@
+{
+  "date": "2018-03-30T09:54:30.201Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:54:53.161Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T09:54:56.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:55:02.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T09:55:11.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "fine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:55:16.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie do you have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:55:25.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Monsters University", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T09:55:36.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how is it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:55:47.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Looks interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T09:56:00.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about your movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T09:56:13.080Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont have movie by my side, i have a blank screen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:56:53.241Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "talk to me about monsters university", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:57:06.999Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what kind of movie is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T09:57:30.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who s the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:00:49.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about monsters. The two main characters Mike and Sulley are back in school trying to learn the ways of scaring kids.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:01:06.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh great... Can I watch it witth my 4 yeors old son?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:01:53.998Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure because it doesn't have a rating, but it does seem like a  kid's story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:02:49.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oooh Okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:03:16.524Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The plot seems pretty interesting and should teach some life lessons to your kid, so it is a plus.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:03:24.547Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ooo okay.... When was it released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:03:55.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was was released in 2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:04:08.465Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and now I just wnat to know who realised this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:05:06.300Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a comedy, animation and has a 79% rotten tomatoes rating, and 65/100 for meteoritic and A for CinemaScore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:05:12.903Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The director is Dan Scanlon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:05:25.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohhh great ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:05:30.694Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:05:33.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So you're going to watch it with your kid?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:05:46.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure, but I ll wait a while befeore doing this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:06:36.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "may be in 1 year", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:06:46.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when did you watch it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:07:43.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just after its release?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:03.377Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I watched it recently, you should watch it now because it is the prequel to their other movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:04.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yeah?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:21.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I ll do so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:28.183Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some critical responses are \"is true to the spirit of [Monsters, Inc.] and matches its tone. But it never seems content to\nturn over old ground.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:32.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"It has enough of the right stuff to haunt the imagination long after the immediate buzz of\nits fluffy-furred cuteness has melted away. For a mere prequel, that's a result.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:40.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"is cute, and funny, and the animation, though not exactly inspired, is certainly colorful.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:08:48.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:54.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "grea\nt", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:08:57.842Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great have fun!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T10:09:16.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so thank you for all these infrmation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T10:09:27.585Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T09:54:30.201Z", 
+  "uid1LogOutTime": "2018-03-30T10:09:23.346Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T09:54:30.242Z", 
+  "uid2LogOutTime": "2018-03-30T10:09:31.759Z", 
+  "uid2response": {
+    "feedback": "good intro from other user", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1730", 
+  "user2_id": "USR3683", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "date": "2018-03-19T20:26:50.095Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:27:05.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:27:57.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:28:29.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the move?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:28:37.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:28:41.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. \nThe Wolf of Wall Street was great. Those actors were wonderful. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:29:00.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. \nThe Wolf of Wall Street was great. Those actors were wonderful. \nI like Leonardo DiCaprio. He has talent in acting. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:29:18.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is the main actor or actress ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:29:18.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. \nThe Wolf of Wall Street was great. Those actors were wonderful. \nI like Leonardo DiCaprio. He has talent in acting. \nMartin Scorsese sure can direct. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:29:29.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:29:29.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. \nThe Wolf of Wall Street was great. Those actors were wonderful. \nI like Leonardo DiCaprio. He has talent in acting. \nMartin Scorsese sure can direct. \nHe is a great director. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:29:36.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the ratings of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:29:49.587Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T20:26:50.095Z", 
+  "uid1LogOutTime": "2018-03-19T20:30:10.211Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:26:50.361Z", 
+  "uid2LogOutTime": "2018-03-19T20:30:31.573Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3056", 
+  "user2_id": "USR1552", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

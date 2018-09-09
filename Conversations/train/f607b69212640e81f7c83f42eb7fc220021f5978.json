@@ -1,0 +1,283 @@
+{
+  "date": "2018-02-20T20:28:02.780Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:29:57.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:30:03.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good, just reading about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:30:20.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very nice. What movie are you reading about? Does it seem interesting? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:31:00.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Despicable Me. It does seem quite interesting. its an animated film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:31:32.852Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yeah, I've seen advertisements for it everywhere! Minions are pretty popular because of it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:32:28.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yep.  its definitely for kids and according to this document, \"adults will smile with amusement\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:33:02.466Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I am pretty sure its a movie aimed towards families. Is it a Dreamworks film or Disney?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:34:17.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow, it was made in 2010. I can't believe it's already been eight years", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:34:25.424Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow I feel old now. Have you ever seen the movie before? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:34:43.584Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's Universal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:34:53.479Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah I think I saw it in theaters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:35:26.118Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice. Yeah I think I've seen it, or at least part of it. I would have been in high school at the time it was released.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:35:57.608Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm still amazed that it's been ten years already!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:36:11.120Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "or eight haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:36:17.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha, yeah. I just got the second document and it's completely blank. seems like a good sign", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:36:55.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Make the movie up haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:37:20.288Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think they're all supposed to be about Despicable Me so i guess i'll just tell you more info from the first doc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:38:21.061Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's odd, perhaps there is some sort of a mix up with the documents. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:38:52.222Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steve Carell, Jason Segel, and Russell Brand were all in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:38:54.199Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really? Who did they voice? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:39:07.978Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yay, the second document finally loaded in", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:39:15.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is that perhaps mentioned in the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:39:20.627Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yay!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:39:23.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Steve was Gru, Jason was Victor Perkins and Russell was Dr. Nefario", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:39:52.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't even put the voices with the characters. Now it seems so obvious. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:40:30.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the second document also discussing Despicable me? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:40:46.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, it talks about the k\ney scences", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:41:05.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what are some of the key scenes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:42:05.192Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow it got a 81% on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:42:06.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's actually not that great for rotten tomatoes. It's a pretty popular film so I am actually quite shocked the rating isn't higher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:42:45.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Key scenes; Gru shrunk the moon with a shrink ray and stole it successfully and rushed back to earth to attending the three little girls' recitial", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:43:05.828Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was actually expecting it to be lower on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:43:30.398Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot there was a shrink ray in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:44:03.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Touch\u00e9. haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:44:12.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I think that was the major point because he wanted to steal the moon, but didn't until the end or something", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:44:35.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And I can't remember why he takes in the three little kids.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:44:49.799Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think they were orphans?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:45:03.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I remember that part, but why did he take them in? Did he get money for them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T20:45:52.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember. and they dont talk about it in the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:46:33.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmm.. well I'm getting the option to end the conversation so maybe we've talked about it enough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T20:46:35.715Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T20:28:02.780Z", 
+  "uid1LogOutTime": "2018-02-20T20:46:43.012Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T20:28:02.817Z", 
+  "uid2LogOutTime": "2018-02-20T20:47:07.793Z", 
+  "uid2response": {
+    "feedback": "We discussed despicable me and what was in the documents. the other user had the documents and told me information. I have already seen the movie but it has been a few years and I can't remember the details. I remember liking the movie so I figure that this is an opportunity to go ahead and watch it again. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4717", 
+  "user2_id": "USR447", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

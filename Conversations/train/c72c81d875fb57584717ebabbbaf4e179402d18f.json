@@ -1,0 +1,353 @@
+{
+  "date": "2018-03-26T14:36:44.629Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, take your time to go over the review", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:25.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so you can give me full details", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:43.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie we are discussing is Iron Man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:38:16.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:38:21.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:26.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope I haven't", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:35.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When was it made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:55.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't either, although I do know that it starred Robert Downey Jr. as the lead character. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:19.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:33.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually do like him very much. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:36.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "maybe we should start from the year it was released", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:52.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2008.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:54.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2008? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:11.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's pretty old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:17.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and who directed the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:35.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it is. It is based on the Marvel Comics character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:45.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director is Jon Favreau. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:58.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh you mean it is a comedy film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:41:22.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, it is in the Superhero genre. Somewhat of an action film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:42:08.803Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:34.805Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you by any chance get to know who wrote the story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:43:04.522Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The screenplay was written by the writing teams of Mark Fergus and Hawk Ostby and Art Marcum and Matt Holloway.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:44:01.391Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gwyneth Paltrow was also in the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:44:15.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:44:24.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so what is the movie about ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:44:39.607Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The reviews seem to say the special effects were good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:44:53.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What happened to who, and who did what?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:45:04.320Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Give me a second to go over the plot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:45:24.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, what did Rotten tomatoes say about it then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:45:37.578Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes 94 percent and average: 7.7/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:10.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:20.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does this seem like a film you would want to see?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:53.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "quite okay ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:47:07.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't generally watch Superhero films, but this cast is good. Jeff Bridges is also in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:47:58.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well maybe if I get a grasp of the plot I might be able to decide, moreover, the cast doesn't seem too familiar to me ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:00.902Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it have any comments from critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:47.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Robert Downey plays Tony Stark, an industrialist and inventor. He also plays the role of Iron Man. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:52.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so let me guess Iron man goes about saving the day right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:49:23.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he is wounded by one of his own company's rocket propelled grenades and somehow in the process he becomes Iron Man. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:50:24.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay he was an ordinary man before getting hit right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:50:52.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so the after effect of the grenade made him the iron ,man ?\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:51:13.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It appears so. They have given me a lot of information to absorb about a film I have not seen!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:51:25.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it doesn't matter dude ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:51:43.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you have done well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:51:48.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm trying to keep up!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:51:58.340Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have a sizeable idea of the movie right now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:52:09.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is old and about a comic book hero!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:24.159Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe I would see it online  within the week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:52:32.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Agree. I would be more curious now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:53.670Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "let's talk about another movie soon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:52:56.146Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:53:08.480Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "enjoy your day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:53:18.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:53:22.565Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:36:44.629Z", 
+  "uid1LogOutTime": "2018-03-26T14:53:36.871Z", 
+  "uid1response": {
+    "feedback": "I found it tricky to read the document and continue the conversation. I had not seen the film, so I was trying to read and absorb information while my partner was firing questions. Not as easy as it sounded.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:36:49.131Z", 
+  "uid2LogOutTime": "2018-03-26T14:53:38.525Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2622", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

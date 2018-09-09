@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-19T19:53:03.291Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:53:24.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. The film we are going to discuss is \"The Social Network\" directed by David Fincher.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:56:02.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:56:11.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film is biographical, therefore the main character is Mark Zuckerberg (played by Jesse Eisenberg). ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:57:24.653Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-19T19:53:03.291Z", 
+  "uid1LogOutTime": "2018-02-19T19:59:28.899Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:53:03.362Z", 
+  "uid2LogOutTime": "2018-02-19T19:57:15.424Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1570", 
+  "user2_id": "USR990", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

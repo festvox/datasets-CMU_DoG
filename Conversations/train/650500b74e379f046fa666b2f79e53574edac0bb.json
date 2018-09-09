@@ -1,0 +1,247 @@
+{
+  "date": "2018-02-13T22:01:46.765Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:01:59.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Let's talk!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:02:52.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! How are you?  The movie is called Frozen. Have you seen it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:04:21.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually No I haven't seen that movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:04:35.197Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a 3D computer animated musical disney film - you should see it. It's really good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:05:29.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound interesting. Is it a Pixar film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:06:01.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is produced by Walt Disney Animation Studios, it is their 53rd featured film. Did you know it is inspired from a Hans Christian Anderson fairy tail?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:07:25.092Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, right... Which fairy tale is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:07:47.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The fairy tale is called \"The Snow Queen\" - a story about a brave princess who sets out with a group of friends to finder her estranged sister.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:09:01.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound like a good one. Do you know which actors provided voices for the characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:09:52.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes - Kristen Bell voiced Anna, Idina Menzel voiced Elsa, and Jonathan Groff was Kristoff. It is a starry cast for sure! Do you like these actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:12:11.710Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Kristen Bell. She's quite funny and I find her very attractive. She could be the princess in my dreams.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:13:27.942Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think I know Idina Menzel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:13:37.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha thats funny! The film has amazing reviews, especially for the music. It has a Rotten Tomatoes 89%, Metacritics 74/100, CinemaScore A+... and thats probably due to Idina Menzel's voice!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:16:34.228Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I guess the soundtrack is quite popular", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:18:24.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is! one critic said they could envision it as a Broadway musical. Another said it has Broadway-style songs. I would not be surprised if there is a version on Broadway already.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:21:01.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you ever seen a Broadway musical?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:21:45.268Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I have heard the title song... did it win any academy awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:22:21.684Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have not unfortunately, but I would love to see Frozen if it is on Broadway. The story is very complex - comedy, adventure and animation all rolled into a musical. I'm not sure if it won any awards!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:23:26.070Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was your favorite character in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:24:32.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite character is Anna, she is an adventurer and is dedicated to finding her sister Elsa (who is basically a magical ice princess\n). She has to find her so that she can release the kingdom from an eternal winter. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:28:46.140Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a villain?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:29:53.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes! at first it appears Elsa is a villian, but I dont think she is. I think she is just misunderstood and insecure. The real villian is Hans, who Anna falls in love with. Elsa ends up saving Anna from Hans by unleashing her powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:31:36.333Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why he is a bad guy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:32:36.646Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think Elsa knows things about him, I haven't watched the film in a while :) Offhand, I do know Hans's father the Duke of Weselton is angry about her ruining the engagement and banishes her. So Elsa turned the kingdom into an eternal winter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:34:48.961Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She sounds very crazy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:35:51.089Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she is, but so is anna! she is friends with an iceman named Kristoff and his reindeer Sven lol ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:36:37.394Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which do you think would be the better princess to marry? Elsa or Anna?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:37:22.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm probably Anna, Elsa seems unstable due to her magical powers haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:38:18.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But magical powers sounds sexy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:39:27.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what other powers she has", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:40:23.518Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah but she turns everything she touches to ice - thats scary :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:40:41.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and she has no control over it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T22:40:48.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha that is scary", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:41:05.981Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess that means no sex", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T22:41:13.302Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T22:01:46.765Z", 
+  "uid1LogOutTime": "2018-02-13T22:41:51.667Z", 
+  "uid1response": {
+    "feedback": "It sounds like a decent film.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T22:01:46.770Z", 
+  "uid2LogOutTime": "2018-02-13T22:41:47.661Z", 
+  "uid2response": {
+    "feedback": "The other user started to become inappropriate", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1116", 
+  "user2_id": "USR4928", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

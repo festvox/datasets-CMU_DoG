@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-27T01:50:03.869Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What do you think of Macaulay Culkin's performance as Kevin in Home Alone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T01:50:37.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love it.... it has always been one of my favorite movies. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T01:52:01.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Most find it super predictable. \nWhat do you think of it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T01:52:17.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I found it to be hilarious, that it kept on surprising me. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T01:52:43.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think that the amount of booby traps that Kevin set was repetitive as a main plot point to the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T01:53:06.068Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the traps are kind of repetitive, but they work for the film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T01:54:10.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. I don't think that it deserved the low score it got from Metacritic. I think it did well for the type of movie it was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T01:54:46.480Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T01:50:03.869Z", 
+  "uid1LogOutTime": "2018-03-27T02:00:43.994Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T01:50:03.959Z", 
+  "uid2LogOutTime": "2018-03-27T01:55:26.660Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR924", 
+  "user2_id": "USR1108", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2018-02-16T15:04:03.220Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you watched this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:04:23.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have, have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:05:19.057Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:05:24.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:05:27.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:05:29.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:05:32.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i sure did! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:05:40.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was too sad for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:05:40.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like the cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:05:49.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I love Ryan Gosling!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:05:57.967Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rachel McAdams is one of my favorite actresses", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:06:17.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rachel was great in it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:06:19.868Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think about ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:06:36.696Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She's very talented.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:06:37.193Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think that they don't matter that much :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:06:56.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:07:01.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I disagree with them. It says rotten tomatoes rating is 52%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:07:28.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "this movie deserves a better rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:07:40.246Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it does.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:07:45.450Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think of the storyline?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:07:55.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it's beautiful. I definitely cried a gallon of tears\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:08:20.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It must've been sad for Noah to see Allie kissing Lon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:08:23.833Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was your favorite moment in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:08:34.403Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I wasn't right for two days after watching it! LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:08:36.095Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When they shared memories in the old persons home.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:08:58.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They were crazy in love", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:09:15.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah alsways coming back to each other.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:09:40.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't believe this movie came out 14 years ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:09:49.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OMG really?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:10:01.276Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:10:03.202Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like dramas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:10:08.226Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " Not especially", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:10:14.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i really do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T15:10:22.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have too much empathy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T15:10:23.806Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T15:04:03.220Z", 
+  "uid1LogOutTime": "2018-02-16T15:10:23.995Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T15:04:03.239Z", 
+  "uid2LogOutTime": "2018-02-16T15:10:32.165Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4076", 
+  "user2_id": "USR1709", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

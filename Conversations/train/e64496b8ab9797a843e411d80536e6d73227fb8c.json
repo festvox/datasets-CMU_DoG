@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-06T19:40:04.956Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I think you're supposed to start first since you have the document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:41:35.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indeed, sorry I just finished reading the document. \nDo you enjoy animated movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:41:54.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:42:04.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely. The movie shown here is absolutely astounding. It has received an average Rotten Tomato score of 98%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:42:46.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is good. What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:43:01.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a wonderful cast of voice actors including Gerard Butler and Craig Ferguson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:43:21.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:43:37.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main character is named Hiccup Horrendous Haddock III (Woah, that's a mouth full)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:44:10.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:44:25.394Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is loosely based on the British book series of the same name by Cressida Cowell. Devoting a great deal of time to aerial battles between tamed dragons and evil ones.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:45:57.473Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That doesn't sound like my kind of movie. What genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:46:26.421Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Animation and fantasy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:46:40.763Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, not interested. What genre do you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:47:04.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I particularly enjoy these types of movies mostly because I am absolutely fascinated with 3D animation and the attention to detail given.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:47:57.920Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay, AI robot dude. I prefer comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:48:41.110Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely not an AI. I have a bachelors in 3d animation and love these movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:49:21.632Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm suspicious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:49:43.512Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Cool. I'm just going to continue with trying to convince you to watch this movie because that's what I'm being paid to do.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:50:23.909Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay, fine. Why should I watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:51:12.796Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There are lots of comedic moments especially since the main character is voiced by Jay Baruchel. I can't give any information outside of what is given, but look him up. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:51:45.986Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What country is the movie made in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:52:15.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it a foreign film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:52:24.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "America, it's American", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:52:31.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I've never heard of Jay Baruchel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:52:54.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I also don't particularly enjoy watching movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:53:04.987Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is certainly the wrong HIT for you then. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:53:24.332Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But if I had to choose, I prefer comedy. I would rather watch a TV show.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:53:28.820Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would argue that television shows are just drawn out movies. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:54:07.496Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah. I didn't know what to expect. Anyway, what's the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:54:22.317Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How to Train Your Dragon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:54:32.061Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh. I've heard of that. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:54:59.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have and thoroughly enjoyed it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:55:22.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, it's letting me finish the conversation now so I'm going to do that. I have to run to a meeting soon (I'm in grad school). Bye!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T19:55:33.735Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wonderful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T19:55:58.285Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T19:40:04.957Z", 
+  "uid1LogOutTime": "2018-03-06T19:55:35.199Z", 
+  "uid1response": {
+    "feedback": "I'm partially convinced that was AI. It's also difficult to convince someone to watch a movie in a genre they're not interested in, which was the case for me. ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T19:40:04.985Z", 
+  "uid2LogOutTime": "2018-03-06T19:56:51.626Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4184", 
+  "user2_id": "USR284", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

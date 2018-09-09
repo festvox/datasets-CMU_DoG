@@ -1,0 +1,118 @@
+{
+  "date": "2018-03-07T15:50:07.218Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:20.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you today.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:50:50.391Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:50:58.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Trying to avoid the snowstorm here!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:51:40.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same! Watching any good movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:52:07.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not right now, but saw The Post and thought it was very good. I think Catch Me If You Can is a very enjoyale movie, though not one of  Spielberg's \"classics.\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:53:28.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got decent reviews, and there are some notable people in the cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:53:51.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I blow hot and cold on DiCaprio, but thought he was very good in this one. And I always love seeing Nathalie Baye.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:54:51.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Amy Adams is in it as well, and it got a 96% on Rotten Tomatoes, so it seems like it would be worth watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:55:33.894Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely. It's so far fetched it is hard to believe it's a true story, but it is. My family is in Louisiana and a few of them knew the real Frank Abagnale when he was posing as a prosecutor. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:56:51.682Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, really? That's so cool. The guy sounds like a genius. I know there's one scene where Frank runs away during his parents' divorce and scams people for money. He pretends to be an airline pilot, for example", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T15:58:50.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, he was an incredibly likable guy who was able to hoodwink anyone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T15:59:38.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, he stole over 2.8 million dollars. I'm sure the movie tells it better than I can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:00:12.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Spielberg keeps a very light, breezy style in his direction, which works well for most of the movie, though I thought the \"deeper\" scene, like those involving the father and the son, lost the depth they should have had as a result. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:01:49.270Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T15:50:07.218Z", 
+  "uid1LogOutTime": "2018-03-07T16:02:44.392Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T15:50:07.244Z", 
+  "uid2LogOutTime": "2018-03-07T16:02:28.644Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1808", 
+  "user2_id": "USR2179", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

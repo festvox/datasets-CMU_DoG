@@ -1,0 +1,361 @@
+{
+  "date": "2018-03-19T18:09:46.811Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:10:32.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:11:50.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Real Steel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:12:00.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you heard of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:12:06.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok great, I have not but am interested in watching it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:12:33.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what type of movie is it a drama?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:12:41.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a 2011 sci-fi film starring Hugh Jackman and Dakota Goyo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:12:42.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh i know those actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:12:53.340Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\ni", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:00.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and sci fi genre is exciting ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:13:07.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " not sure about Dakota but of course I know Hugh Jackman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:22.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and Evangeline Lily", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:30.478Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the plot about in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:13:33.936Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so it's based on the short story Stee;", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:56.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Steel*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:02.312Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh thats interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:14:29.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that was published in a 1956 edition of The Magazine of Fantasy and Science Fiction", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:33.375Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is the movie rated R or pg-13?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:14:44.753Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was even later adapted into a Twilight episode", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:52.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow it sounds really cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:16.035Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not sure about the rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:15:33.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "will double check", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:15:39.727Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did it get good critical reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:44.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:46.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so essentially, the premise of the movie is that human boxers are replaced by robots", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:16:17.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the reviews seem to be quite mixed, quite honestly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:16:34.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok sometimes audiences like the movie more then critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:16:55.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes give it 59/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:17:00.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it sounds very interesting to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:17:07.285Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and Metacritic 5.9/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:17:27.189Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "eh im not put off by bad ratings since the plot intrigues me ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:17:53.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "exactly!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:13.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "my sentiments too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:16.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is there anything else i need to know about the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:18:32.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so one critic referred to it as Rocky with robots", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:18:45.061Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there are apparently some cheesy themes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:07.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol thats funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:19:12.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like young boy teaching his father some valuable lesson, blah blah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:27.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it seems like it would be fun to watch and not take to seriously ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:19:40.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like a B grade movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:19:46.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but apart from the cliched moments, it does seem to be a fun movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:50.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree completely", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:19:56.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe even a B+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:20:02.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok sounds great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:20:08.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "should we end our conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:20:16.527Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "apparently animatronic robots were built for the film! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:20:45.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow so they were at least really serious about the film ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:21:17.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sorry! one sec, so excited to realize that motion picture technology was used for the brawling between the robots! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:21:32.318Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ha ha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:21:33.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha thats amazing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:21:47.219Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes. ok. I seriously think we should see the movie! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:21:50.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it looks good despite the shaky reviews! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:22:00.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea it sounds good im planning on watching it now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:22:15.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "excellent. Should we finish the conversation now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:22:34.207Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:09:46.811Z", 
+  "uid1LogOutTime": "2018-03-19T18:22:32.565Z", 
+  "uid1response": {
+    "feedback": "the plot sounded really cool and the other person relayed good information about it", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:09:46.818Z", 
+  "uid2LogOutTime": "2018-03-19T18:22:36.342Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4927", 
+  "user2_id": "USR3755", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

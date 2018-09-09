@@ -1,0 +1,115 @@
+{
+  "date": "2018-03-28T16:19:25.538Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi I was never told what movie we are talking about. What movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:19:58.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:20:03.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:20:09.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "monsters university. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:20:23.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:21:16.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thanks for telling me :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:21:22.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen Monsters Inc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:21:28.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you sen monsters University?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:21:39.974Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it. I loved it. It is the prequel to Monster's Inc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:22:15.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen parts of it because I am a big Disney/Pixar fan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:23:16.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I always go to Disneyland. They even have a ride based on it in California Adventures", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:23:39.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Pixar! Does the ride have Billy Crystal as Mike Wazowski? He is the little green guy...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:24:34.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes they do. The voice of Mike Wazowski is Billy Crystal. And the voice of James Sullivan \nis John Goodman ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:26:19.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Monsters Inc?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:26:33.254Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T16:19:25.538Z", 
+  "uid1LogOutTime": "2018-03-28T16:26:41.077Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-28T16:19:25.576Z", 
+  "uid2LogOutTime": "2018-03-28T16:26:46.154Z", 
+  "uid2response": {
+    "feedback": "I will watch the movie after the other user's introduction because the user said that it is a really good movie!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4755", 
+  "user2_id": "USR1192", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

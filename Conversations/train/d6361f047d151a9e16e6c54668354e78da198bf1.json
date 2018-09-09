@@ -1,0 +1,141 @@
+{
+  "date": "2018-03-23T15:19:24.831Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello who is there? Tell me about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:20:40.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, what's up, the movie is real steel, have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:21:19.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I actually have not. How good is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:21:52.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you like robot fighting and some boxing action, it is kind of fun to watch.  Then there is the part about a tiny robot rise to challenge the ultimate power house, kind of like rocky for robot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:22:37.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds like an interesting movie if you like robots.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:23:17.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, hugh Jackman play a retired boxer with some trouble in his life who has a kid who discover a really interesting robot, thus the father and son bonding begins so there is the part about family bonding too. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:25:29.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sort of reminds me of an episode of Twilight Zone. When did you see this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:26:48.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "must have been five years ago, they usually replay it on spike or one of the other movie channel ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:29:14.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I watch Spike a lot, but I have never seen it come up. What is you favorite scene in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:30:12.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "overall, if you like hugh Jackman and his movies, this one is wroth watching, it is somewhat different than most other movie that year, it has some humor, some robot fighting, and some robot fight betting.  My favorite scene is probably when the kid drag the robot out of the mud dump", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:30:44.091Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I would like to see that. Does it remind you of any other movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:31:31.591Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the father was running low on money and they didn't have enough money for a robot, then they just suddenly find this robot out of the dumpster.  It remind me of rocky since the robot was like a dark horse, it was thrown away but then it start winning lots of fights and get the crowd going", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:32:16.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That would be interesting just for the underdog aspects. How many times have you watched it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:33:28.647Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it was reshow on TV quite a few times, probably five or six times, some are pieces by pieces, I used to have Netflix and HBO and movie channel so they show it quite often", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:35:34.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So I can find it on Netflix if I want?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:36:12.986Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it used to be on Netflix or amazon prime or both, since it has been a while since I used Netflix, like over a year so I am not sure if the content has changed, it is likely they may show this movie on regular cable channel by now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:38:00.930Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I might want to check it out. I love finding good movies I have never seen. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:54.400Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The rating is not too high, but you can get into it if you watch it enough and the story is pretty sweet, and it has a light warm sense of humor too.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:46:38.717Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T15:19:24.831Z", 
+  "uid1LogOutTime": "2018-03-23T15:46:24.443Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:19:25.001Z", 
+  "uid2LogOutTime": "2018-03-23T15:56:06.249Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3671", 
+  "user2_id": "USR609", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

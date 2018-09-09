@@ -1,0 +1,126 @@
+{
+  "date": "2018-03-05T16:35:10.761Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:35:46.358Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello there, do you like watching comedy movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:38:41.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it depends on which actors are in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:27.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie did you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:38.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty with Jim Carrey and Morgan Freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:40:04.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ive seen that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:43:07.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:43:10.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gave it only 48%, although CinemaScore gave it an A.  I have watched it multiple times and thought it was very funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:44:16.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would agree with CinimaScore giving it an A, do you put into account critic/website scores when watching movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:45:44.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea definitely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:46:48.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think rotten tomatoes were more harsh on their reviews years ago compared to today", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:47:13.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the main problem of the movie again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:47:29.537Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "God wasnt answering Bruce's prayers of being famous and God gave Bruce his powers to try to be God for 1 week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:48:43.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He gets angry at his co worker \"Evan Baxter\" played by Steve Carell and forces him to mess up on air", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:51:05.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:55:50.874Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that was pretty fresh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:55:55.895Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T16:35:10.761Z", 
+  "uid1LogOutTime": "2018-03-05T17:01:39.113Z", 
+  "uid1response": {
+    "feedback": "movie is entertaining and has a fresh premise", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:35:10.797Z", 
+  "uid2LogOutTime": "2018-03-05T17:00:03.932Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2463", 
+  "user2_id": "USR544", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

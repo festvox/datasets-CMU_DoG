@@ -1,0 +1,62 @@
+{
+  "date": "2018-02-08T22:14:43.996Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So what did you think of the movie? even though its meant for children i thought it was pretty funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:16:35.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was wonderful. I like that it is a family entertainment film that everyone can enjoy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:17:34.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the Broadway-style music is wonderful addition to a family movie. What did you think? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:19:16.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also loved the fact it was a Disney animation comedy. I love Disney animation. Don't you just love to be surprised by the witty adult humor in a children's movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:21:21.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh and I had no idea that this was inspired by a Hans Christian Andersen fairy tale. I love them all. Did you know this? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:23:59.669Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:14:43.996Z", 
+  "uid1LogOutTime": "2018-02-08T22:17:29.540Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:14:44.023Z", 
+  "uid2LogOutTime": "2018-02-08T22:25:11.966Z", 
+  "uid2response": {
+    "feedback": "The other user aborted the conversation 1 minute after they submitted a text. I sent a response within a minute of their first text. No response on any of my text. It is not clear in the instructions if I am to wait for another worker or just abort the hit.  ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR482", 
+  "user2_id": "USR4356", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

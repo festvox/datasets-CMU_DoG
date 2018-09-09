@@ -1,0 +1,324 @@
+{
+  "date": "2018-03-16T18:59:39.225Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Pal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:00:06.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:00:19.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you were going to tell me about a movie last time out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:00:44.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:01:01.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:01:10.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not really dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:01:24.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:01:35.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christian Bale starred as Bruce Wayne, AKA Batman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:02:13.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:02:18.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:02:23.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critics gave it a 7.7 out of 10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:02:33.013Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What genre please?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:02:34.500Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats a good rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:02:48.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its a superhero film based on the DC Comic books", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:03:05.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:03:14.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So who directed the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:03:29.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and what year was it made?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:03:52.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie tells the origin story of Bruce Wayne from the death of his parents to his journey to become batman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:04:05.099Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2005", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:04:17.110Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Directed by Christopher Nolan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:04:27.955Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:04:29.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Bruce Wayne grew up with a few of bats ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:04:51.883Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and saw his parents murdered in an alley", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:05:08.491Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "really? you mean Bats ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:12.886Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sorry a fear of bats", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:05:29.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:05:53.714Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "fourteen years after his parents death, the guy who killed them gets out of jail and Bruce sets out to kill him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:06:40.995Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But someone else got to him first", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:06:55.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:07:08.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that seem to be a revenge mission", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:07:23.560Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:07:35.764Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and would you say he was sucessful at the end?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:07:57.605Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But this villain named Falcone killed the guy first\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:08:06.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You mean killed Batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:08:27.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:08:44.931Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He killed the guy that killed Batman's parents", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:08:56.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Batman wanted to kill him, but Falcone did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:09:07.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Alright that would have been a sour pill", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:09:10.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I get you now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:09:36.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "would you recommend such film to someone like me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:09:43.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So then Batman intercepts a drug shipment of Falcones and gets Falcone arrested. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:02.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because I love action packed mpovies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:10:08.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it was pretty good,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:09.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is a good amount of action in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:19.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok go on, I am feeling the movie already", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:10:29.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not bloody or gory, but there is a lot of fighting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:10:43.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:11:01.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe I would make time out to see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T19:11:34.329Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T18:59:39.225Z", 
+  "uid1LogOutTime": "2018-03-16T19:11:07.743Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:59:45.246Z", 
+  "uid2LogOutTime": "2018-03-16T19:11:35.708Z", 
+  "uid2response": {
+    "feedback": "The other person knows how to get my attention to go see the movie even though I do not have a material to read about it, but I still got the full gist in brief.\n\nI might go see it when I get the chance.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3973", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

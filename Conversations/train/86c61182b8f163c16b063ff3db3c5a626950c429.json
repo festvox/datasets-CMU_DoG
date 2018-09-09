@@ -1,0 +1,362 @@
+{
+  "date": "2018-02-14T20:31:38.170Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:11.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk is a great new film. What do you think of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:32:15.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the cinematography", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:24.161Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten tomatoes 92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:34.432Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:35.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how does that average to 8.6 though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:40.906Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure. It seems like it should be higher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:32:58.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher nolan is great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:07.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am surprised they had a secret auditioning process", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:13.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "True", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:16.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't really recall these characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:22.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, he is a great director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:24.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tommy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:30.868Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whitehead", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:36.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Seems like none were really mentioned by name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:45.114Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:34:00.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the naval scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:21.653Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The civilian vessels", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:26.711Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The whole movie was really crazy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:45.935Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i do too. i like how it is from a land,sea, and air perspective", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:34:46.698Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah the air shots were really cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:53.349Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "felt like i was there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:57.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "70mm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:09.701Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats probably why", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:12.056Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "dang it was on imax", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:30.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i woulda liked to see that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:33.375Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it was smart to have little dialogue to increase the suspense", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:35:35.387Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:39.745Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i think it would be amazing to see on imax", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:35:43.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lack of backstory was never an issue", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:48.524Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i didn't want to hear about \"the family back home\" like other war movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:59.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:36:06.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Scottish soldiers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:20.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that scene was tense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:26.582Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "where they tried to force the guy up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:32.718Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i don't remember that scene. what happened?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:36:42.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They were being shot at", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:48.737Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and they thought this guy was a spy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:53.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "because he didn't speak their language", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:36:58.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that sounds like an exciting scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:37:17.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:24.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "300,000 evacuated", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:28.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i wonder if thats a real number", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:38.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, it says that was ten times more than was estimated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:37:51.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh at the end that was winston churchills address", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:52.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i didn't know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:53.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "dang", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:56.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I never knew what Dunkirk actually was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:38:09.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i guess a place", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:38:11.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i disn't know that either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:38:14.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i didn't either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:38:18.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The ambush at the beginning was crazy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:38:26.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:38:30.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:38:35.399Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T20:31:38.170Z", 
+  "uid1LogOutTime": "2018-02-14T20:38:32.168Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:31:38.207Z", 
+  "uid2LogOutTime": "2018-02-14T20:38:38.304Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR913", 
+  "user2_id": "USR1063", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

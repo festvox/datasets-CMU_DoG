@@ -1,0 +1,104 @@
+{
+  "date": "2018-02-16T03:23:15.388Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "It has a very high score on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:24:21.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a high IMDB too, meaning audiences also liked it, not just critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:24:50.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:25:12.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was very thought-provoking for an animated movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:25:32.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:26:27.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, though I felt like they were trying to have it both ways with the message about inclusivity. It was unclear if predators or prey animals were supposed to represent marginalized groups, as the discrimination frequently shifted back and forth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:27:16.243Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have a young nephew who enjoys the movie a lot. Did you watch it with any kids, or with friends?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:27:45.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:28:11.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You are right though because animal stereotypes of predator and prey are actually true for the most part", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:28:42.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Were there any actors in the film that you particularly like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:28:45.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love Idris Elba", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T03:29:05.873Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do too, I thought his role was very funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T03:29:46.761Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-16T03:23:15.389Z", 
+  "uid1LogOutTime": "2018-02-16T03:30:31.370Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T03:23:15.752Z", 
+  "uid2LogOutTime": "2018-02-16T03:29:39.364Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR537", 
+  "user2_id": "USR3988", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

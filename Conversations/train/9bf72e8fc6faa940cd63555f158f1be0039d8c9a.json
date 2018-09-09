@@ -1,0 +1,251 @@
+{
+  "date": "2018-03-22T17:24:57.136Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:25:04.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:25:25.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you watch the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:25:25.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:25:34.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:25:42.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I just saw it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:25:49.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was pretty good, have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:25:59.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me what you know about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:26:06.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:26:11.848Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rober Downey Jr plays Tony Stark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:26:31.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh thats cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:26:47.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The role suits him well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:26:49.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "tell me more about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:26:57.654Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the role he played", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:27:16.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:27:40.696Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no response?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:27:47.998Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's a superhero movie based on the marvel comics of the same name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:28:02.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh thats interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:28:13.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like black panther", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:28:20.907Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was Black Panther directed by the same director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:28:37.393Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the same marvel directed black panther", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:28:56.942Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When did Iron Man come out anyway?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:29:00.367Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen that also?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:29:07.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen Black Panther yet, no, but I heard it's good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:29:22.195Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it came out 2008", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:29:27.321Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it is a good movie, you need to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:29:39.416Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "aI saw it in the first weeks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:30:02.788Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I enjoyed the scene where Yinsen saves Tony Stark's life ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:30:13.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the avengers will come out by may", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:30:16.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it will be a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:30:27.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh thats interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:30:56.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The ending of Iron man was really interesting aswell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:30:57.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stark admits to the press that he's \"Iron Man\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:31:16.158Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh I need to see the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:31:49.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it iron man 3?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T17:31:56.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No this is the first Iron man. It has good ratings: 94% on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T17:32:22.351Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T17:24:57.136Z", 
+  "uid1LogOutTime": "2018-03-22T17:32:25.184Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T17:24:57.181Z", 
+  "uid2LogOutTime": "2018-03-22T17:32:45.208Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1573", 
+  "user2_id": "USR2957", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

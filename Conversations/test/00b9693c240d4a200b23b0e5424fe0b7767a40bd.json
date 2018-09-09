@@ -1,0 +1,111 @@
+{
+  "date": "2018-02-15T00:45:29.058Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:46:01.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:46:13.665Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Inception Directed by Christopher Nolan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:46:34.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:46:50.949Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have not seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:47:12.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When was it released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:47:18.960Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow really, was release in 2009, great move with an amazing cast. Dicaprio, Ellen Page,  Joseph Gordon Levitt.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:48:42.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How does the storyline go?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:49:16.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "To leave out spoilers the Main cast is hired or more so recruited to perform corporate espionage through entering dreams. However the focal point of the movie is a job where rathar than taking an idea out is leaving an idea with the person who's dreams they are within.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:51:38.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So they're basically making or participating lucid dreams?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:52:49.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lucid for them doing the espionage for the person they are infiltrating its just another dream, So while they, team is dealing with all the bits of the persons subconsciousness while trying to bend it for their needs\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:54:32.656Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is pretty cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T00:55:21.604Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely check it out. So to explain a bit better how they do this is the by essentially falling asleep with this person in their dream, granting themselves more and more control over the dream scape. The risk involved being time dialation\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:57:17.819Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So the farther layers of sleep they enter, the slower time is running to them relative to anyone who stayed a layer up to \"kick\" them awake.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T00:58:38.259Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T00:45:29.058Z", 
+  "uid1LogOutTime": "2018-02-15T01:00:44.289Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-15T00:45:29.199Z", 
+  "uid2LogOutTime": "2018-02-15T01:01:11.998Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR679", 
+  "user2_id": "USR3850", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

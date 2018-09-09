@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-29T22:28:27.646Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I didn't know Billy Crystal was the voice of Mike but I love it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:29:02.923Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve \nBuscemi is in this too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:29:18.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he is! I'm guessing you've seen Monsters University?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:29:41.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did when it came out years ago, just never thought to look at the voice acting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:30:06.797Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did you see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:30:12.706Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T22:28:27.646Z", 
+  "uid1LogOutTime": "2018-03-29T22:35:46.009Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T22:28:27.654Z", 
+  "user1_id": "USR2302", 
+  "user2_id": "USR4671", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

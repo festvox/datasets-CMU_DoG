@@ -1,0 +1,116 @@
+{
+  "date": "2018-03-20T17:17:42.446Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I really enjoyed watching Maleficent. I enjoy Angelina Jolie as an actress, and I think she did well in this film. I know it got some mixed reviews, but I thought it was entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:18:42.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoyed the movie as well! It is definitely the opposite of \"Frozen\" (which I preferred much more actually) but it was enjoyable regardless. Angelina Jolie is a big name actress so just watching it for the sole purpose of seeing her was great. She did a good job!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:22:13.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also really enjoyed the visual effects in the movie- it was very visually appealing. What was your favorite\n aspect of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:23:31.254Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I agree!  It was definitely visually appealing. My favorite aspect of the film though was how the they played out a different version of the Sleeping Beauty film we all know and love\n. Its darker and foreboding.. but still a lovely film to watch.  The visual effects were absolutely stunning and the actors did a great job on depicting their characters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:28:26.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thats a good analogy. I thought they did a wonderful job with that part of the film. What did you think of the supporting cast? I really liked Elle Fanning and Sharlto Copley in the film as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:29:26.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The supporting cast did wonderful! I've seen Elle Fanning in other movies and boy can she act! Her depiction of Aurora here was just very well done. Sharlto Copley also did a great job as Stefan! It was refreshing to see another version of this character~ Do you agree with the rating of the movie?  Personally, I think it deserved more than 5.7 on Rotten Tomatoes.  I'd give \nit at least a good 7/10. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:33:31.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry, I forgot to respond right away. I believe it was better than the Rotten Tomatoes and MetaCritic scores... definitely around a 7 or an 8.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:40:14.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies in general?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:41:30.602Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No worries!  Sorry, I forgot to respond as well.  Yes, I love Superhero movies! How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:50:32.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, they're one of my favorite genres. I really enjoy all times of cinema, but superhero and action movies are among my favorite.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:52:39.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know why we haven't been given a new document yet... I believe it was supposed to change after three conversation turns", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:53:37.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah...this is strange..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:53:58.309Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There we go", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:00:48.097Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So the scene with Maleficent  as a young girl did a lot for setting the tempo of the movie. I thought it provided a good amount of detail for her back story. How did you feel about the scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:01:40.939Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T17:17:42.447Z", 
+  "uid1LogOutTime": "2018-03-20T18:08:46.329Z", 
+  "uid1response": {
+    "feedback": "The other user was consistently taking 5-10 minutes to respond, it made keeping a fluid conversation impossible. ", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:17:42.468Z", 
+  "uid2LogOutTime": "2018-03-20T17:55:13.613Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1198", 
+  "user2_id": "USR4901", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

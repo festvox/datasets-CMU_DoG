@@ -1,0 +1,438 @@
+{
+  "date": "2018-03-26T18:53:27.094Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:54:01.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:54:10.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so did you read about the movie? that's what this is about right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:54:28.188Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen this one, have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:54:29.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess :p", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:54:33.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha, I didn't actually see what movie it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:54:46.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:54:49.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't really like \"fantasy\" stuff, but it looks like good reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:54:57.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"The Shape of Water\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:55:11.968Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah that movie looks good. it's about a deaf woman right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:55:33.815Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:55:44.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know it's all about a \"forbidden\" love story ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:55:57.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "92% on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:56:13.336Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't even heard of it - I'm pathetic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:56:23.377Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's how you know it must be good if it got that rating. they're brutal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:56:36.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "IKR!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:56:42.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I heard of it I remember watching the trailer before it came out saying how good it looked", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:56:53.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and I know it won lots of awards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:57:17.736Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:57:19.978Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm a little bit behind on movie watching - just watched \"Donnie Darko\" for the first time lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:57:51.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have not seen that one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:00.821Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:02.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's really good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:58:11.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:58:15.978Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the guy who directed the movie, guillermo del toro", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:22.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he makes some good movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:27.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats how I knew I wanted to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:32.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:58:35.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably not on Netflix or anything yet :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:58:51.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm just waiting for it to come out on DVD possibly or netflix lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:58:52.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:59:03.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can't wait till it does", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:59:03.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T18:59:13.804Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in the movie don't they want to separate them from each other?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T18:59:43.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:00:02.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the fish looking guy and the woman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:00:02.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder what happens in the end", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:00:16.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"fish looking guy\" lol awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:00:18.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure how else to describe hahaha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:00:36.544Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so, I wonder how long this has to go on for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:01:03.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "a mute custodian and a \"captured humanoid amphibian creature\" :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:01:09.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmm", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:01:12.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oooo hes amphibian", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:01:21.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:01:32.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cold blooded but has a warm heart with his love for this woman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:01:46.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LMAO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:01:47.588Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"You will have 3 turns of conversation with your partner on each of the documents.\"  yikes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:02:00.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:02:12.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so what does that mean? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:02:21.089Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like my usual type of boyfriend haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:02:29.526Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can we finish this convo and move onto the next?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:02:34.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL rigght", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:02:36.621Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah I don't know, ugh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:02:38.279Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this thing is so confusing I swear", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:02:47.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "4 pages of pre-instructions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:03:02.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:03:05.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "theres a button on the bottom that says finish conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:03:15.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "idk should I press it? I mean I think we can both agree we would watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:03:29.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't see a way to move to the \"next document\" or whatever", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:03:36.815Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any forbidden love sort of movie I like watching", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:03:49.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess :)  I will watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:03:49.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know, right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:03:56.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hmmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:04:29.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "shall we go for it lol - finish convo?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:05:12.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah lets do it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:05:48.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm going to live dangerously I guess. Thanks!\n Have a good day :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:05:50.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:05:55.422Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T18:53:27.094Z", 
+  "uid1LogOutTime": "2018-03-26T19:05:57.085Z", 
+  "uid1response": {
+    "feedback": "I saw the trailer for the movie previously, and always thought it looked good. We discussed how it was sort of a forbidden love story and we both like that sort of stuff. Definitely will watch when it comes out on DVD or Netflix.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T18:53:27.164Z", 
+  "uid2LogOutTime": "2018-03-26T19:05:59.367Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2091", 
+  "user2_id": "USR3272", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

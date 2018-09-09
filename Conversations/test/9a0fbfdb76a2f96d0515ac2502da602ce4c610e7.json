@@ -1,0 +1,67 @@
+{
+  "date": "2018-02-07T21:31:56.769Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:32:03.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:32:09.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who r u?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:32:46.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot did a wonderful job as Wonder Woman. Her casting was great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:33:01.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T21:33:09.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Patty Jenkins' take on the comic was amazing. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T21:35:31.032Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T21:31:56.769Z", 
+  "uid1LogOutTime": "2018-02-07T21:35:52.775Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat after replying a total of three times. ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T21:31:57.001Z", 
+  "uid2LogOutTime": "2018-02-07T21:33:38.041Z", 
+  "uid2response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1170", 
+  "user2_id": "USR4311", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

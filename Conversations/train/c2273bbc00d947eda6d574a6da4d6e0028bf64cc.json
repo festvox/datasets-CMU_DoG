@@ -1,0 +1,243 @@
+{
+  "date": "2018-02-09T20:56:08.939Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey there, what do you think of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:57:32.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i liked it i thought the action was cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:58:08.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:58:23.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree.  I thought Keanu Reeves did a phenomenal job with the script.  I'm a fan of action movies. You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:58:58.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes but mostly hong kong action movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:59:49.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess that's a genre I'll need to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:00:16.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah this movie has heavy hong kong influence ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:00:58.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, really? I guess I need to re-watch it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:01:20.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the critical response was surprising ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:02:08.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:03:18.123Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:03:41.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the night club scene and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:04:23.508Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I suppose the club scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:06:28.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's hard to pick.  A very good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:06:36.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's rating on Rotten Tomatoes was pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:07:28.145Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes whats your opinion on the  critic reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:07:28.168Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's hard to please the critics on rotten tomatoes.  So, 86% is rather good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:08:14.415Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:08:17.800Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah its pretty high ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:08:55.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a John Wick 2?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:09:45.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:10:04.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:10:16.646Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes whats your least favorite scene in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:11:20.833Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Least favorite scene is when the movie ends ha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:13:09.251Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:13:12.473Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably the dog murder", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:14:45.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, don't remind me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:15:13.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's painful to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:15:18.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it had to hapen but it was sad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:15:53.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love animals so, that scene made me cry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:16:38.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it was rough but it made the revenge sweeter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:17:18.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's very true.  Keanu solidified himself as an action actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:17:43.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He needs more of these kind of movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:17:52.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah hes awesome in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:18:35.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice chatting with you about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T21:18:54.231Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:56:08.939Z", 
+  "uid1LogOutTime": "2018-02-09T21:19:49.500Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T20:56:08.965Z", 
+  "uid2LogOutTime": "2018-02-09T21:20:12.252Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3549", 
+  "user2_id": "USR761", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

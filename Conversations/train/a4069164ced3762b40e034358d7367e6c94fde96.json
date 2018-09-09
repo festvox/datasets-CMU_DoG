@@ -1,0 +1,136 @@
+{
+  "date": "2018-03-16T18:46:38.136Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:46:54.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I told you I will talk to you about a movie today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:47:18.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:47:31.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen \"Bruce Almighty\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:48:01.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I have never seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:48:17.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Owh, it is a comedy film way back year 2003\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:49:12.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it hilariously funny or just awful?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:49:48.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a high concept movie writen by steve Koren", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:50:06.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well judging by the cinemascore rating it was a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:50:39.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does he normally write a good script?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:51:02.618Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but going by metacritic and rotten tomatoes I would say the movie must be kind of awful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:51:21.042Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, just how low are the scores?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:51:44.660Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "CinemaScore;A, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:52:19.891Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "rotten tomatoes;48%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:52:34.458Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "metacritic;46/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:52:53.469Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think they liked it much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:53:15.750Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is starring in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:53:28.453Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are the actors and actresses in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:57:09.729Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello, are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T19:00:48.710Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T18:46:38.136Z", 
+  "uid1LogOutTime": "2018-03-16T19:05:10.220Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:46:38.521Z", 
+  "user1_id": "USR2491", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

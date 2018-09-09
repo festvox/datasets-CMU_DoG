@@ -1,0 +1,274 @@
+{
+  "date": "2018-03-22T14:29:15.343Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what movie did you get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:30:03.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the  post came out in 2017. a movie. would you like to know more about it, good sir?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:30:04.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, tell me more!  What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:30:13.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a historical/political picture with actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:30:40.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What actors are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:30:47.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why, tom hanks, of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:30:58.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and merly streep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:31:03.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also sarah paulson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:31:08.678Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool!  Anyone else famous?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:32:05.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bob odenkirk is in a role. I believe it is a male role. would you like to know the rt score? I have the info handy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:32:47.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, do tell!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:33:06.720Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it has a score of 88 percent on the rotten tomatoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:33:08.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh that's promising.  What were the reviews like?  Positive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:34:23.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it it was described as \"vital\" by one single critic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:35:03.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh that's impressive.  So what is the movie about?  What historical time?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:35:38.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was also desribed as different from all the president's men, which was a nother movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:35:45.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it has somethng to do with vietnam", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:36:08.319Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the state departement has some documents, it's a whole\n thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:36:43.732Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Could you tell me about a scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:36:56.061Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "uh, yeah, there's something\n about leaking documents and the nixon administration. You know. One of those types of films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:37:53.331Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's a political thriller", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:38:56.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I feel like I don't have your full attention", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:39:24.846Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sorry, I had to step away a moment.  Can you tell me another scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:39:35.188Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there is a scene in which classified documents are photocopied. thrilling stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:40:16.314Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there's a newspaper", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:40:53.342Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "also lightsaber battles", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:41:13.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who cares, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:41:26.368Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lightsaber battles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:41:43.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that was a test, to see if you were paying attention. Really instead of lightsabers, it has tom hanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:42:12.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why don't you stop being so snarky and tell me what actually happens in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:42:15.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't seen it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:42:30.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You have a document that summarizes it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:42:39.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Please tell me a key scene so I can decide if I want to watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:42:53.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's all really convoluted. it's about documents and somebody gives them to a newspaper. I already said that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:43:05.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know when it came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:43:28.495Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "if you want to see scenes of photocopied dcuments, then the movie is for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:43:33.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2017", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:43:38.835Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was directed by steven speilberg, a famous director and producer ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:43:43.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T14:43:51.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "later, jerkoff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:43:53.010Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T14:29:15.343Z", 
+  "uid1LogOutTime": "2018-03-22T14:43:53.677Z", 
+  "uid1response": {
+    "feedback": "They just kept saying it was about photocopied documents.  They didn't tell me what the movie was really about.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:29:15.378Z", 
+  "uid2LogOutTime": "2018-03-22T14:44:13.450Z", 
+  "uid2response": {
+    "feedback": "I didn't like the guy I was talking to.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4218", 
+  "user2_id": "USR4049", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2018-02-20T19:38:27.505Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, there!  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:38:38.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Catch Me If You Can? It's a Tom Hanks movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:38:55.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:40:18.580Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The only real flaw to this movie is it's too long.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:42:32.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, really? It sounds so good!!! Christopher Walken and everything. I haven't seen it -- but you have?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:43:26.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:45:29.887Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T19:38:27.505Z", 
+  "uid1LogOutTime": "2018-02-20T19:47:02.468Z", 
+  "uid1response": {
+    "feedback": "This person left the chat after the first exchange.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:38:27.512Z", 
+  "uid2LogOutTime": "2018-02-20T19:46:29.455Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR338", 
+  "user2_id": "USR199", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

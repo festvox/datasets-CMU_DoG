@@ -1,0 +1,396 @@
+{
+  "date": "2018-02-06T14:42:50.661Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:23.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:43:35.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how was the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:42.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what rating you can give", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:50.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever heard of the director christopher nolan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:43:51.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:57.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:02.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i liked inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:08.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and how was the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:10.349Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this one is a war film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:14.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i only saw it once", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:21.804Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can you tell the rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:22.941Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "92%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:30.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like war movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:35.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "92% then it was nice movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:45.645Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is different though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:46.883Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:54.095Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "in how it is told", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:57.475Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh! we can enjoy a lot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:14.045Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you will have to see it but it is quite unisial in the way the scene unfold", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:43.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh! really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:57.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how was the actors done in movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:08.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "one was some kind of singer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:20.262Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:26.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think from one direction???", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:27.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:32.344Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he had some other ones who were in that inception film\n'", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:53.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think director done his best work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:07.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:20.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but i guess it didn't win any awards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:34.745Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh! why?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:45.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not sure.  haven't heard that it did.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:58.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is there any politics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:01.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:10.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i forgot.  i don;t think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:18.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:26.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "mostly some fighting and drama", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:27.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:31.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "on boats and planes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:48:33.368Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "really ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:43.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then we can enjoy ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:49.258Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i liked the cinematography", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:19.139Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it was done in a large IMAX format", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:31.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then we must see in 3D only", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:49:48.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we can enjoy then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:49:59.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is available in standard and imax formats", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:50:12.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:50:19.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then i will see only in imax", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:50:34.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like war films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:51:11.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:51:14.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i love war films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:51:22.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting films also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:51:26.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do u like war movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:51:47.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like them.  i think Black Hawk Down was one of my favorites.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:52:08.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh really it was amazing movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:52:36.663Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting as in independent?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:52:42.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:02.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can we end the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:15.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice.  ok I have to go now.  it was nice talking to you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:53:16.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:23.536Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T14:42:50.661Z", 
+  "uid1LogOutTime": "2018-02-06T14:53:23.329Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:42:50.925Z", 
+  "uid2LogOutTime": "2018-02-06T14:53:28.168Z", 
+  "uid2response": {
+    "feedback": "Good conversation", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1475", 
+  "user2_id": "USR3131", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2018-02-15T19:30:56.215Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:31:05.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:31:06.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you see this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:31:20.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen The Imitation Game? I have not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:31:28.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, its pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:31:38.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think it looks good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:31:39.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "based on a true story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:31:42.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, who is your favorite character in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:31:49.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Benedict cumberbatch is awesome as always", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:32:06.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "his character was a real person", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:32:14.457Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't know it was based on a true story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:32:25.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, it was right before and during the second world war", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:32:45.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so its very historic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:32:52.120Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What kind of film is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:32:57.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its kind of a thriller", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:18.635Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is Kei\nra Knightly good in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:33:21.609Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a historic thriller", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:23.981Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she is surprisingly ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:31.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did it get good ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:33:32.717Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it had some reward nominations", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:45.896Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was praised by a lot of people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:52.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It got  a really good rating on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:33:52.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:33:57.074Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It had a really great score on CinemaScore too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:34:05.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "when both of those scores match that usually means its a great score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:34:29.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "or movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:34:30.685Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But, it looks like it got a bad rating on Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:34:35.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh well, I think cinemascore is the most important", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:00.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because it involves fans", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:04.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there a lot of special effects in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:06.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really, its mostly a thriller or drama that takes place in one building", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:20.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds pretty interesting. It's a low key movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:32.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, its a little slow but good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T19:35:47.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you see it in theaters in 2014?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:35:56.569Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T19:30:56.215Z", 
+  "uid1LogOutTime": "2018-02-15T19:36:07.868Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T19:30:56.259Z", 
+  "uid2LogOutTime": "2018-02-15T19:35:58.741Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR76", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

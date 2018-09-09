@@ -1,0 +1,81 @@
+{
+  "date": "2018-03-22T18:42:37.120Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:43:13.515Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good afternoon!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:43:22.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:43:45.949Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story is the title of the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:44:06.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you familiar with that movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:45:00.202Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T18:45:02.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its Toy Story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:45:14.510Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:46:23.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You can ask me anything about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T18:47:07.841Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-22T18:42:37.120Z", 
+  "uid1LogOutTime": "2018-03-22T18:49:14.765Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-22T18:42:37.561Z", 
+  "uid2LogOutTime": "2018-03-22T19:33:28.945Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1009", 
+  "user2_id": "USR3667", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

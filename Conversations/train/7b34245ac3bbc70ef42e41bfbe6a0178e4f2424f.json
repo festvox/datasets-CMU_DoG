@@ -1,0 +1,146 @@
+{
+  "date": "2018-02-14T20:28:20.570Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:28:49.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:30:14.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm unable to see anything if you are typing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:31:10.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm here!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:32:57.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh haha hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:06.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:10.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:16.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm fine.  Happy Valentine's Day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:34.444Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thank you! Same to you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:42.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd like to talk to you about a movie called Zootopia. Have you seen it before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:33:54.663Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:34:50.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great. Do you enjoy animated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:35:06.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia is a state of the art animated movie that takes place in a world where animals act like humans. It has a star studded cast and stars Ginnifer Goodwin as a rabbit named Judy Hopps.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:37:53.298Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:38:04.625Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am.  No, I have not seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:38:51.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was rated  a 98% on Rotten Tomatoes if you pay attention to ratings. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:39:31.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It also received an 8/10 on IMDB.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:39:44.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This only moves forward if you respond, unfortunately. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:41:00.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, maybe i have seen it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:43:12.359Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T20:28:20.570Z", 
+  "uid1LogOutTime": "2018-02-14T20:42:04.932Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:28:20.581Z", 
+  "uid2LogOutTime": "2018-02-14T20:43:19.139Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4427", 
+  "user2_id": "USR3231", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

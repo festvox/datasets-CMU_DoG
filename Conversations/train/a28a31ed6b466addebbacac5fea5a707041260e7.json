@@ -1,0 +1,294 @@
+{
+  "date": "2018-02-20T19:10:37.042Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey hows its going today. lets talk about movies. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:11:06.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:11:28.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Batman VS Superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:11:48.380Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no i haven't seen it. sounds like it might be interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:12:11.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the basic plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:12:20.233Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It seems like it would be good, but I really can't recommend it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:12:38.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why is that? have you seen it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:12:55.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I saw it when it came out. I think the advertisements for the movie really didn't live up to what moviegoers were expecting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:13:40.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it seems like if its about the two superheroes at battle it might be at least somewhat interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:13:58.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not a big super hero movie fan. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:14:11.137Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When you hear Batman VS Superman, you'd think they would be at each other's throats but it just wasn't the case in the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:14:17.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "can you tell me a little about it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:14:24.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:14:31.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The premise of the movie was that Bruce Wayne saw Superman as a threat and would find a way to ultimately get rid of superman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:15:17.139Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "However that plan gets easily derailed by Lex Luthor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:15:38.455Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i see - so its about a power struggle between the two? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:15:59.316Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It was almost as if Batman had ADHD or something.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:15:59.982Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that just seems out of character for Batman right? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:16:22.298Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Aside from one interaction between the two, there wasn't much of a struggle at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:16:30.616Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie's version of Batman was way out of character. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:16:47.923Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Killing,etc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:16:51.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so let me guess - in the end they join forces to fight the bad guy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:16:58.633Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was a very dark version of the character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:17:05.725Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, pretty much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:17:16.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The review scores where even pretty low. 4/10 for most critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:17:42.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so batman is brooding and dark and superman is made into a villian of some sort", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:17:43.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but they revert back to their typical characters in the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:18:19.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "was there anything good about the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:18:39.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In Batman's mind he's some kind of villain but to the world, Superman is an overall great guy, it's almost like Batman was jealous more than seeing him as a threat.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:18:40.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seems like Batman was just jealous ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:18:57.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which is not what is typical of Batman - odd choice there. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:19:18.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yea it threw me off when I watched it, wonder woman was even in the film which made no sense to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:19:48.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wonder woman? was this just a way to get her her own movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:20:09.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but she somehow made it into this film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:20:27.263Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's like the director had 4 different plots and forced them all into the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:20:47.145Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it just sounds like they threw a bunch of stuff in a movie and just saw what people responded to", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:20:47.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lol exactly!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:20:55.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i guess it might be worth looking at just to see how much of a mess it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:06.955Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, if anything you'll have a laugh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:21:19.127Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol. i can always use a laugh. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:29.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm going to head out, you have a good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:21:40.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks for telling me about this movie. I think i'll look at it now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:45.214Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good one. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:21:48.642Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T19:10:37.042Z", 
+  "uid1LogOutTime": "2018-02-20T19:21:53.350Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:10:37.060Z", 
+  "uid2LogOutTime": "2018-02-20T19:22:07.703Z", 
+  "uid2response": {
+    "feedback": "he did a good job of chatting with me and gave me a really good idea of what the movie is about and was very personable and fun to talk to. he seemed knowledgeable about the movie as well so it makes the chat easier as well. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3319", 
+  "user2_id": "USR3269", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

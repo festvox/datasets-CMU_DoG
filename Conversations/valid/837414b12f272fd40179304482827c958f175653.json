@@ -1,0 +1,263 @@
+{
+  "date": "2018-03-23T16:22:19.585Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:23:20.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:23:25.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm interested in a nice movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:23:34.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have a good one to suggest. Have you seen The Shape of Water?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:23:51.178Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nope. Who's the leading cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:24:13.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sally Hawkins, Michael Shannon, Richard Jenkins and Octavia Spencer are the leads in the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:24:45.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting, what is the genre of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:25:11.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a fantasy drama about a mute cleaning woman who falls in love with a captured humanoid amphibian creature. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:26:14.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds strange but they make it work.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:26:30.621Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it an animation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:26:36.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, it's not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:27:11.742Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The woman works in a government lab during the cold war.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:27:50.813Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any awards nominations for this cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:27:53.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes but I'm not sure how many. It won some, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:28:23.924Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow, do you have an idea who directed this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:29:08.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The lab has captured a creature who is a humanoid. She meets and feels for the creature because it has human-like feelings, etc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:29.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Guillermo del Toro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:38.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It had a CinemaScore of A which is excellent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:29:57.235Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh cool, tell me more about the humanoid amphibian creature", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:30:08.760Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was a creature captures from a South American River. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:30:53.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And is their relationship a taboo in the movie setting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:31:15.802Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The woman and her friends steal the creature and she keeps him in her bathtub to keep him alive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:31:31.808Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She wants to free him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:31:43.439Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I think it would be considered taboo.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:32:09.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok, i see, what is the rating for this movie, is it suitable for a 10 year old ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:32:12.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, I don't think so. I think it might be rated R but not absolutely sure. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:32:54.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The woman and the creature have sex in her bathroom.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:33:13.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any famous quote from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:33:26.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not that I can think of but Giles, her friend, does say that he believes Elisa, the woman, lives happily ever after with the creature.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:34:31.522Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is a very unusual love story, to say the least.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:35:16.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting - is it set in the future?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:35:35.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, it is set back during the Cold War.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:35:48.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The government is ruthless and cares nothing about the poor creature they kept locked up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:36:19.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The creature is amphibious, so he needs to live in a special room?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:36:43.591Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he needs to be kept in salt water.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:36:55.985Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's why she kept him in her bathtub when she freed him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:37:16.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was the janitor in danger for falling for him?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T16:37:20.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, She fell in love with him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T16:37:40.716Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T16:22:19.585Z", 
+  "uid1LogOutTime": "2018-03-23T16:37:33.879Z", 
+  "uid1response": {
+    "feedback": "Other user was excellent.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T16:22:20.945Z", 
+  "uid2LogOutTime": "2018-03-23T16:37:49.575Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4572", 
+  "user2_id": "USR4562", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

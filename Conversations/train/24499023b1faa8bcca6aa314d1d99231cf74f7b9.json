@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-05T20:22:03.444Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I thought Leonardo DiCaprio was really good as Frank Abagnale, Jr.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:23:14.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So did I. Do you usually like Leonardo DiCaprio?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:23:32.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would say that yeah, I usually he do. He tends to be a really good actor in any movie that he's in. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:23:53.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tom Hanks was great too. I'm usually not as big of a Tom Hanks fan as I am of DiCaprio, but he did a great job.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:24:45.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yup, Tom Hanks was great too. I did think it was odd having Christopher Walken as Leo's dad since they don't look much alike.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:25:39.003Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T20:22:03.444Z", 
+  "uid1LogOutTime": "2018-03-05T20:31:47.229Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T20:22:03.487Z", 
+  "uid2LogOutTime": "2018-03-05T20:25:33.391Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1707", 
+  "user2_id": "USR1894", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

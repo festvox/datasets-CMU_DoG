@@ -1,0 +1,100 @@
+{
+  "date": "2018-01-29T23:18:05.892Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! The movie I want to talk to you about today is Steven Spielberg's JAWS. It has a 97% review on Rotten Tomatoes and has a 8/10 IMDB rating!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:21:12.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that was worth a one time watch back in the 70's!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:22:35.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do you agree with the ratings of the movie? Many people find it to be a scary thriller, but others describe it as being too gruesome. What do you think? Do you like this kind of movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:24:28.361Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I found it to be to gruesome and didn't agree with the rating.  But then, I don't like violent movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:26:15.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I hear ya. But, maybe you should give it another try! It's a classic movie full of action and suspense. Steven Spielberg never disappoints. Do you typically like Steven Spielberg movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:28:56.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure as to whether I'd like to give it another try or not,  but then again I liked ET. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:31:50.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, like one person put it, it's funny in a Woody Allen sort of way. Since it's a classic, it might not be exactly as you remember. Might be worth the watch even if just for the laughs!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:33:29.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Perhaps the humor is subtle.  I recall not really seeing to much humor in it though, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:36:50.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I suppose the film works for both types of people. Some love it because of its action and because it's a scary thriller, while others find it to be more humorous and funny. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:38:55.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's true, and it probably also has a lot to do with the types of humor people like, or don't care for. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:41:03.443Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, that's true. But, of course, most watch it for the thrill. For example, there is a scene in the movie where a woman named Chrissie Watkins goes skinny dipping in the ocean. While she's in the water, she's suddenly pulled under! It's unexpected and thrilling, one of the reasons why I enjoy this movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:44:06.118Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I honestly don't know what else to say...... This has been going on way too long and is honestly silly. I'm going to return the HIT. Hopefully you can abort the conversation and still get paid. This is terrible", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:46:17.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok, let's get this done.  Nice chatting with you either way!  :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:48:57.479Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-29T23:18:05.892Z", 
+  "uid2LogInTime": "2018-01-29T23:18:06.010Z", 
+  "uid2LogOutTime": "2018-01-29T23:57:49.386Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR231", 
+  "user2_id": "USR1703", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2018-02-13T18:15:05.320Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello did you read the document on Avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:16:21.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indubitably.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:16:38.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "great and what do you think about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:17:03.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I myself really enjoyed the movie and really like Thor in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:18:49.665Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tony Stark, played by Robert Downey Jr. sounds like the alpha leader character along with Banner who seems to be bi-polar, I think creates quite and interesting cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:19:18.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah Robert Downey plays a great Iron Man with the correct amount of sarcasm for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:19:45.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I wonder why metacritic gave ti such a low score compared to other critics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:20:34.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:20:38.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not sure unless they are just very bias when It comes to superhero movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:20:52.068Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that could be. there are a lot of big names actors in it. seems like you couldn't go wrong with such a big star cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:22:07.608Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and that could by why they picked it apart a bit more since they had some many A list actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:22:48.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Tesseract sounds like it could be a rather cliche \"source of power\" that the bad guy tries to get", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:24:41.785Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "might warrant a lower score if it follows archetypes to a tee", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:25:27.035Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:15:05.320Z", 
+  "uid1LogOutTime": "2018-02-13T18:25:44.988Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:15:05.431Z", 
+  "uid2LogOutTime": "2018-02-13T18:25:51.685Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4471", 
+  "user2_id": "USR4177", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

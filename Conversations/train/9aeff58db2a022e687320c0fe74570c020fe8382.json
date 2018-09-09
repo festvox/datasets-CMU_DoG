@@ -1,0 +1,166 @@
+{
+  "date": "2018-03-27T14:33:25.632Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:33:31.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i dont have the docs so i don't know what movie we have?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:33:50.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:37.587Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:39.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this is my 2nd chat - my first one broke at the end :(", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:34:55.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi I am good and yourself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:31.278Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i'm very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:35:43.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie today", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:35:46.390Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so have you seen the wolf of wall street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:52.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "really good Decaprio movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:35:59.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no, i have not ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:04.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i have heard that it is good and that he is good in that movie tho", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:15.052Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i believe it had awards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:24.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very good movie although the ratings for some reason on cinemscore seem low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:25.662Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah I think that it did and if it didn't then it should have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:36:42.279Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sometimes those score things are harsh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:36:54.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i didnt \nknow it had a book tho! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:37:07.288Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah Rotten Tomatos usually picks a movie apart", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:08.353Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah I wasn't aware of a book", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:14.401Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "had a really good cast in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:22.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they sure do tear things apart", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T14:37:27.267Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Johnah Hill and Leo Decaprio just to name  a few", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T14:37:39.018Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T14:33:25.632Z", 
+  "uid1LogOutTime": "2018-03-27T14:37:32.795Z", 
+  "uid1response": {
+    "feedback": "Good communication even tho i did not have the docs.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T14:33:25.645Z", 
+  "uid2LogOutTime": "2018-03-27T14:37:40.366Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR890", 
+  "user2_id": "USR4471", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "date": "2018-03-01T21:30:34.241Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:30:42.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there. How did you like The Blind Side?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:30:48.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm  not sure that I've seen it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:31:05.031Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:31:09.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see, I have. It was rather enjoyable, though not an objectively excellent movie. It's a sports film, and is based on a book. How does that sound to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:31:34.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, I'm not into sports or reading. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:31:56.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, pretty boring! Ha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:32:04.737Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like Tim McGraw, I see he was in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:32:45.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's unfortunate. It has strong source material from a book, however. Does football interest you? The film covers the story of an offensive lineman and touches on details like his past, which was wrought with adversity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:33:00.984Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like football. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T21:33:28.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is good to hear, the film also covers the time Michael Oher, the protagonist, spends at a Christian School. It is a Drama, and the conflict takes place both at school and on the field.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T21:34:06.681Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T21:30:34.241Z", 
+  "uid1LogOutTime": "2018-03-01T21:34:33.581Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-01T21:30:34.299Z", 
+  "uid2LogOutTime": "2018-03-01T21:34:23.376Z", 
+  "uid2response": {
+    "feedback": "User was responsive, then left.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3668", 
+  "user2_id": "USR3103", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

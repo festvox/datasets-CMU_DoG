@@ -1,0 +1,391 @@
+{
+  "date": "2018-03-26T14:36:49.308Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:37:15.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any good movies recently ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:38:21.661Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you should see iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:39:25.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Superhero movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:46.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who's in it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:33.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:03.460Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "first film in the marvel cinematic universe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:22.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "should see it exciting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:28.234Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I kinda like him - how is his acting in this movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:41:33.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "very impressie sets and mehanics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:42.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "steller", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:41:48.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow, sounds really good..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:09.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the special effects ? are there a lot of them ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:37.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes there are several and it is high teck   very advaned and you will love it exciting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:43:01.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how about the humor ? on decent level or more like for kids ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:45:05.525Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "well  not sur", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:45:35.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yea good for kids   trrrence howard is someone they can relate too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:45:57.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "as Rhodes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:09.399Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "tought", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:46:12.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No I get it, but would someone like me - 36 year old guy enjoy it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:46:37.862Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it depends   do you like commics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:47:54.119Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sure, I had plenty when I was a kid", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:18.161Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this is a great downey super heror movie with higt tec stuff and exciting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:23.500Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you will like it i think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:28.142Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hyes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:29.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:31.548Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did You like the most about the movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:49:20.697Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mosly liked the fact that the jericho missle was very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:50:06.072Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and realistic so to speak", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:50:16.127Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was so interesting about that missile\n ? Why is it so special ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:50:40.000Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "thatas when the story evolves around its testing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:51:49.330Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and develops weill", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:51:56.502Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "lstark is wounded by his onw gren", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:07.134Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and caputred", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:12.016Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and imprisoined in a cave by terroriest", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:20.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "very good plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:52:51.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see... are there any other celebrities playing in that movie ? Any hot chicks ? :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:53:00.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "girl friend", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:53:16.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "k...    did the movie got decent rating ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:54:43.949Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "1. Rotten Tomatoes: 94% and average: 7.7/10\n\n2. Metacritic Score: 79/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:55:13.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "metacritic   79/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:55:26.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so yes good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:55:29.432Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:55:33.055Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow, that's pretty good. Now I want to see it !", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:55:39.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have You seen it in theaters ? Or on DVD  ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:56:02.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just reading about it here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:57:04.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "...so did You see the movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:57:22.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and I haVE SEEN SOME OF THE OTHER ONES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:57:35.997Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh I see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:57:42.983Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ROBERT doweny is a dedicated at his craft", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:57:58.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "k, nice talking to You...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:58:02.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the iron man series is solid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:14.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice tlaking to you too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:20.446Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "tks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:21.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're done here", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:58:22.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thx", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:58:24.909Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:58:26.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good luck turkeing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:27.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "u2 m8", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:58:32.508Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:36:49.308Z", 
+  "uid1LogOutTime": "2018-03-26T14:59:05.709Z", 
+  "uid1response": {
+    "feedback": "fun nice turker i chated with", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:36:49.330Z", 
+  "uid2LogOutTime": "2018-03-26T14:59:02.730Z", 
+  "uid2response": {
+    "feedback": "Sounds like a good movie !", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1351", 
+  "user2_id": "USR2499", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

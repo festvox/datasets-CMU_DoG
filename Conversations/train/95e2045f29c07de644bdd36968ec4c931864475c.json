@@ -1,0 +1,228 @@
+{
+  "date": "2018-01-30T21:06:25.716Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:07:09.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:07:50.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:08:09.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could u guess?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:08:23.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "black panther?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:08:41.049Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:08:46.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Next Guess?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:08:50.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "maze runner?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:09:03.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Give u a Clue.!! its Warner Bros Pictures...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:09:29.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jumanji", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:10:11.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Let me give another Clue?  Film name end with Woman ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:11:19.427Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wonder woman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:11:28.341Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah! u got it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:11:35.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did u watch that film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:11:53.118Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i hated it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:12:06.085Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why? is that Boring too much?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:12:24.799Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Could you tell me some thing about that movie....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:12:36.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "its about a super hero", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:13:17.924Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "from the past", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:13:53.272Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can u tell me some of the Key scenes in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:13:56.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A pilot crashing on the beach", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:14:40.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "anything else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:15:11.959Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tell me some reasons why u hate that movie....", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:15:36.563Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the acting was terrible", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:15:48.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a Comdey or War movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:16:07.459Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "war movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:16:14.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can u tell some of the Key actors in the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:16:44.098Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gal gadot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:16:54.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "chris pine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:17:06.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Due u remember the character names in that movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:17:44.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "diana", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:18:12.165Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow great!!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:18:35.922Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-30T21:06:25.716Z", 
+  "uid1LogOutTime": "2018-01-30T21:19:11.161Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-30T21:06:25.994Z", 
+  "uid2LogOutTime": "2018-01-30T21:19:22.333Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4840", 
+  "user2_id": "USR2405", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

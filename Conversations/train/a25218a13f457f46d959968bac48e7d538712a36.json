@@ -1,0 +1,119 @@
+{
+  "date": "2018-02-07T16:44:42.298Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:44:53.223Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:44:56.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you watch the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:45:12.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You see scientific film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:45:14.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i watched", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:45:24.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which year you saw", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:45:59.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:46:15.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which character you like \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:46:49.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dom Cobb", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:47:12.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the main concept of the movie. The movie is very far from reality .. But the Concept of the movie makes us stick to the seats", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:47:52.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the concept of extractors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:48:50.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you ther", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:50:19.965Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:51:21.278Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you like in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:51:35.979Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Please respond. Thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:53:29.413Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:56:22.499Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T16:44:42.298Z", 
+  "uid1LogOutTime": "2018-02-07T16:58:01.324Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:44:42.492Z", 
+  "user1_id": "USR1472", 
+  "user2_id": "USR197", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

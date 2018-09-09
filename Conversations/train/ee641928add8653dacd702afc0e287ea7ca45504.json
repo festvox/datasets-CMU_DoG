@@ -1,0 +1,258 @@
+{
+  "date": "2018-03-05T17:25:17.955Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:26:18.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies of this kind? Crime biographic?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:26:20.725Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I like this genre.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:26:52.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too ... I am a fan of Leonardo DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:11.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see Catch me If you Can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:27:19.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! I actually did ... though not in the theatre ... I rented it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:27:53.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Spielberg outdid himself", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:28:13.796Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which scene did you enjoy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:28:42.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:29:47.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:29:58.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Several ... I particularly liked when the FBI (Tom Hanks) \nreached out for his help", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:30:14.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. It was a good scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:30:31.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:30:57.082Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes ... for once the \"critics\" got it right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:31:16.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:31:22.854Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tom Hanks was also good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:31:54.328Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Funny thing is / few people use checks much anymore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:32:10.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you generally watch movies with good rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:32:43.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am not a fan of Hanks but he did his role quite well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:32:57.371Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I usually don't care about the critics rating... how about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:33:18.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I sometimes pay attention to the rating...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:33:41.874Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like the setting in the beginning - New Rochelle NY", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:34:28.090Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I felt bad that Frank missed the thrill of check kiting ...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:34:55.188Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Agreed about the setting ... I love NY", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:35:11.711Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Christopher Walken was also good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:35:52.494Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you remember the name of his half-sister?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:36:02.901Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:36:13.384Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "True about Walken", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:36:41.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:36:42.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was Jean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:15.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie was autobiographical?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:37:21.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe it was based on facts, yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:43.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you like Amy Adams?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:38:22.563Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she was good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:38:32.586Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Unforgeable checks - interesting twist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:39:11.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There were others in the cast but I am at a loss", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:39:19.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't remember others either...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:39:31.316Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T17:25:17.955Z", 
+  "uid1LogOutTime": "2018-03-05T17:39:40.294Z", 
+  "uid1response": {
+    "feedback": "I enjoyed the discussion with the other user.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:25:17.987Z", 
+  "uid2LogOutTime": "2018-03-05T17:39:44.018Z", 
+  "uid2response": {
+    "feedback": "Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR595", 
+  "user2_id": "USR335", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

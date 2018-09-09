@@ -1,0 +1,221 @@
+{
+  "date": "2018-02-05T23:25:29.652Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:26:00.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, you should watch Inception with Leonardo Dicaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:26:37.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds like a good movie who directed it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:27:11.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan directed this movie in 2009.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:27:47.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who were the co-stars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:28:11.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Joseph Gordon-Levitt, Tom Hardy, and Ellen Page are in the cast of Inception.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:28:48.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "does the movie show violence ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:29:25.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure but it scored 86% on rotten tomatoes so a lot of people liked it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:30:46.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the movie rated ??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:31:12.593Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You can check online, it's in the scientific genre of movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:55.159Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "whats the movie about ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:48.210Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"Extractors\" who perform corporate espionage by infiltrating the subconscious\n of their targets through a shared dream world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:33:55.055Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what part did Leonardo DiCaprio play ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:34:36.131Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo Dicaprio plays Dom Cobb, a professional thief who specializes in conning secrets from his victims by infiltrating their dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:35:30.239Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it a scary movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:36:16.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure but it has been described as a wildly ingenious chess game.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:38:00.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "can it be rented ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:38:54.662Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would check with rental services but I do know it was released in 2009.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:40:13.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "does Netflix\n have it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:40:23.847Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You could check online or on IMDB where Inception scored 8.8 out of 10.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:42:26.572Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what part did tom hardy play ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:42:33.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tom Hardy plays Eames, an associate of Cobb.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:43:00.674Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "whats the plot ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:43:45.498Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the scene where Cobb spends fifty years in a dream constructing a world with Mal from shared memories.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:45:59.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where was the movie filmed ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:46:15.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure but multiple scenes take place in Los Angeles. Sydney is also a part of the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:47:28.349Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how did the movie make you feel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:48:15.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It made me think, learning about things like multi-level dreams and \"limbo\" ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:49:42.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it have action ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:49:55.805Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Inception will appeal even to non-sci-fi fans.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:50:58.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it show nudity ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:51:05.471Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T23:25:29.652Z", 
+  "uid1LogOutTime": "2018-02-05T23:51:46.234Z", 
+  "uid1response": {
+    "feedback": "went well all my questions were answered ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T23:25:29.709Z", 
+  "uid2LogOutTime": "2018-02-05T23:51:29.345Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4215", 
+  "user2_id": "USR3570", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

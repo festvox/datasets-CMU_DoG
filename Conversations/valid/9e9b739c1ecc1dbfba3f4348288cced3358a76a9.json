@@ -1,0 +1,94 @@
+{
+  "date": "2018-02-14T20:00:03.968Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:21.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Imitation Game?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:00:36.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:53.590Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "NO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:00:58.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a great historical movie during WW2 ear", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:18.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*era", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:28.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was a great movie, showing the method to try and break the enigma code, that the Germans used to communicate orders and plans to each other.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:02:39.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know who Benedict Cumberpatch is ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:03:26.771Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You have to respond for this movie study can progress, with dialog going back and forth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:03.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie it self was a great hit it seems, with wonderful actors and actresses.  He is an all time favorite of mine.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:04:15.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought you said you had never seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:36.287Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-14T20:00:03.968Z", 
+  "uid1LogOutTime": "2018-02-14T20:04:45.600Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:00:03.979Z", 
+  "uid2LogOutTime": "2018-02-14T20:08:16.838Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1391", 
+  "user2_id": "USR2301", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

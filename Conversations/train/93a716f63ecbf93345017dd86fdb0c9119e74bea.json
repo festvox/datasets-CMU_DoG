@@ -1,0 +1,49 @@
+{
+  "date": "2018-03-05T20:39:20.937Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:39:28.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T20:39:35.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like football movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T20:39:51.060Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T20:39:20.937Z", 
+  "uid1LogOutTime": "2018-03-05T20:40:34.445Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T20:39:20.968Z", 
+  "uid2LogOutTime": "2018-03-05T20:41:01.008Z", 
+  "uid2response": {
+    "feedback": "the user left the chat", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4500", 
+  "user2_id": "USR1485", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

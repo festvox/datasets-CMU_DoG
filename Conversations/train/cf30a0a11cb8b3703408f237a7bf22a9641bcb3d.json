@@ -1,0 +1,40 @@
+{
+  "date": "2018-03-16T21:55:51.835Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:56:04.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:58:04.998Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T21:55:51.835Z", 
+  "uid1LogOutTime": "2018-03-16T22:02:21.398Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T21:55:52.054Z", 
+  "uid2LogOutTime": "2018-03-16T21:57:42.514Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1094", 
+  "user2_id": "USR2805", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

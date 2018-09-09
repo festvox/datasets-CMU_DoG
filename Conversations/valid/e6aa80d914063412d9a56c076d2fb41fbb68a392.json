@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-09T17:44:26.548Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Would prefer another movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:45:25.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you not a fan of musicals?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:46:12.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't usually love musicals but this one sounds pretty interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:48:33.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the story line", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:48:56.420Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T17:44:26.548Z", 
+  "uid1LogOutTime": "2018-02-09T17:49:31.685Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:44:26.593Z", 
+  "uid2LogOutTime": "2018-02-09T17:46:02.924Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3944", 
+  "user2_id": "USR4619", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

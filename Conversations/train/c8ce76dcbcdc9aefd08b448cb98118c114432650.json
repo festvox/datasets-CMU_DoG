@@ -1,0 +1,54 @@
+{
+  "date": "2018-02-13T18:31:09.674Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie sounds cute", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:15.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i agree i think it would be a popular movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:35:18.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like how they address stereotypes in this, hopefully teaching kids not to do the same.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:11.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think using animals is a great way to reach out to kid audiences ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:38:10.749Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:31:09.674Z", 
+  "uid1LogOutTime": "2018-02-13T18:34:35.139Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:31:09.733Z", 
+  "uid2LogOutTime": "2018-02-13T18:38:17.475Z", 
+  "uid2response": {
+    "feedback": "the other user left conversation as i tried to continue, they responded once but i think left shortly after", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR879", 
+  "user2_id": "USR2787", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

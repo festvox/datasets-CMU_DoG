@@ -1,0 +1,71 @@
+{
+  "date": "2018-03-05T16:37:33.360Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:37:47.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:38:07.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the metacritic score was 46/100 out of 100,  i'm not sure what that means", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:38:11.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not real high. It's a funny, rather corney movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:38:29.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jim Carrey overacts but there are some good laughs.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:38:41.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Although I do LOVE Morgan Freeman in most anything he does. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:38:52.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You said it got 81 on rotten tomatoes,  mine says 48", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:39:06.510Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T16:37:33.360Z", 
+  "uid1LogOutTime": "2018-03-05T16:40:06.632Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:37:33.364Z", 
+  "uid2LogOutTime": "2018-03-05T16:40:18.803Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR578", 
+  "user2_id": "USR28", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

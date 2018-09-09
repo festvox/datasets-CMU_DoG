@@ -1,0 +1,97 @@
+{
+  "date": "2018-02-18T22:32:38.764Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "You should check out the movie John Wic. It has 86% approval on Rotten Tomatoes, which is hard to get!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:33:35.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This sounds like a great film but I don't understand the title of the movie.  Who stars in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T22:34:08.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It starts KEanu Reeves as a ex-hitman who returns to the criminal underworld following the death of his wife, John Wick.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:34:39.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OIC.  Is this movie at the theater now or on streaming channels like Netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T22:35:23.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's streaming on channels like Netflix because it came out in 2014.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:35:40.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool.  I hope it does not any scenes where there are children or animals.  I don't like violent movies for the most part.  It sounds like this one has a lot guns and fighting.  Is there a lot bad language too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T22:36:54.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is a lot of violence in the movie but it's meant to be fun in a B-movie kind of way. Reeves acts with a deadpan kind of style that should make you laugh more than it would offend you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:38:00.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What can you tell me about adult content?  Is this something my 12 year old can watch without getting embarrassed? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T22:38:11.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a fast paced thriller that should be fine for your family but unfortunately I cannot confirm the rating of the film for you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:39:42.342Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Great!  Well, I do like everything this actor has made.  I bet I enjoy this one too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T22:39:48.839Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am glad to hear it! There are also other distinguished actors like Alfie Allen (Game of Thrones) And Michael Nyqvist so hopefully you will indeed find it entertaining.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T22:40:58.969Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T22:32:38.764Z", 
+  "uid1LogOutTime": "2018-02-18T22:41:37.010Z", 
+  "uid1response": {
+    "feedback": "The user did a great job of telling about the movie he or she read about.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-18T22:32:38.773Z", 
+  "uid2LogOutTime": "2018-02-18T22:41:31.170Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1907", 
+  "user2_id": "USR3976", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

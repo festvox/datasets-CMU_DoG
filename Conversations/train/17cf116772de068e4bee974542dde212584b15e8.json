@@ -1,0 +1,235 @@
+{
+  "date": "2018-03-27T15:17:10.587Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:17:23.097Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:17:26.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have You seen any good movies recently ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:17:37.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:18:04.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Iron Man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:18:18.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "...a while ago... I hardly remember it. Did You liked it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:18:38.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I remember I liked it as a kid.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:19:04.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did You like the most about it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:19:24.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Robert Downey Jr, in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:20:07.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also liked Jeff Bridges.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:20:24.510Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh yeah, they both are pretty cool... how was the acting ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:20:44.902Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Pretty fine, I thought the action was great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:21:32.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any specific scenes ? or just in general ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:21:49.902Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "All the scenes in general were pretty well directed action scenes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:23:03.864Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How was the plot ?  I don't remember what was that part exactly about...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:23:18.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jon Favreau is a pretty good action director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:23:44.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it's a first time I'm hearing his name... :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:24:34.997Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The plot is basically about Tony Stark, a billionaire\n who builds an advanced exoeskeleton for himself after a war accident.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:26:13.376Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh... is he successful ? All goes smoothly ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:26:50.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "More or less, it is a rather faithful comic adaptation.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:28:31.729Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice. I always appreciate that. Any hot chicks ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:29:01.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gwyneth Paltrow is pretty hot in this.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:31:01.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "aha :) Now I want to see that movie again :) What else good about this title ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:31:40.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The special effects were good, at least for its time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:33:16.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yeah - I hope those were on decent level !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:41.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How is the rating ? Does it have good ratings ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:33:52.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has a 94% on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:35:07.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's pretty high.... do You agree with it ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:35:59.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I think It's a fair score.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:36:36.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok, i think we're done here.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:37:00.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice talking to You !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:37:07.266Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks, bye.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:37:25.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "b", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:37:36.460Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T15:17:10.587Z", 
+  "uid1LogOutTime": "2018-03-27T15:37:39.219Z", 
+  "uid1response": {
+    "feedback": "ty", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:17:10.668Z", 
+  "uid2LogOutTime": "2018-03-27T15:37:35.835Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2499", 
+  "user2_id": "USR2144", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "date": "2018-02-28T17:57:05.027Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:58:08.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey, it's called The Blind Side, it's an incredible movie about a guy who grew up in poverty but ended up playing for the nfl team, the Ravens.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:45.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steelers Fan here. What's the player's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:59:14.523Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Michael Oher, you're probably familiar with the story as a football fan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:59:41.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.  Sandra Bullock played the mom, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:08.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yup and she was incredible in the movie, one of her better performances for sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:24.082Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok. When did the movie come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:44.759Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2009. Wow, time flies!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:20.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who played Michael Oher?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:33.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A fine actor by the name of Quinton Aaron", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:44.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was Sandra Bullock's character's name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:05.970Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Bullock took on the role of Leigh Anne Tuohy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:32.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the movie win any Oscars?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:36.834Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Unfortunately not, there must've been some strong contenders that year.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:01.767Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:17.650Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nope, it probably had a decent length\n.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:58.205Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which actor plays Mr. Tuohy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:00.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That would be Tim McGraw.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:04:11.389Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yes.  What position did Michael Oher play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:36.736Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was an offensive linemen and I think he was on the left side, since the movie is titled The Blind Side.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:18.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You sure know a lot about this movie.  I wish we could discuss other movies as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:23.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For sure, I would enjoy that. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:34.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess I have to keep asking questions only about this movie then.  Is it rated PG?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:13.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There were some really intense scenes in the movie. I remember one where Michael runs away and then finds his biological mother. It was touching stuff!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:29.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I think it's pg.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:40.319Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was his mother in a bad state?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:56.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, she eventually gave him up for adoption because she couldn't take care of him. I think drug use was an issue. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:07:25.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So she was a crack whore?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:07:36.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not sure what drugs she partook in but she seemed like a nice person when she was sober.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:07:57.143Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So since it is PG, I guess there are no nude scenes with Sandra Bullock?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:08:26.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There was another great scene that showed Michael running away from the various foster homes he was placed in. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:08:31.013Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There was definitely no nude scenes lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:08:50.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What would really send the audience for a blind side is if there was a nude scene between Michael and Tim McGraw", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:09:25.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you going to check the movie out? It had a rather impressive A+ CinemaScore!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:09:37.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I guess, although they were playing older people in the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:10:06.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I will.  I saw it back when it came out and was not too impressed because I guess it was so hyped up, but I think it deserves a second viewing because so many people love it so much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:10:18.299Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the movie was more impressive because it was based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:10:49.850Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:57:05.027Z", 
+  "uid1LogOutTime": "2018-02-28T18:10:33.091Z", 
+  "uid1response": {
+    "feedback": "I already saw the movie, but I always wanted to see it again.  Plus, the other user made the movie sound very good. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:57:05.034Z", 
+  "uid2LogOutTime": "2018-02-28T18:11:13.022Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3234", 
+  "user2_id": "USR2632", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

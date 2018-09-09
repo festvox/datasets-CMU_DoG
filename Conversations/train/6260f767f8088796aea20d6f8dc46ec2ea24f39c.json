@@ -1,0 +1,76 @@
+{
+  "date": "2018-03-01T05:06:15.001Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:06:52.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it! How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:07:02.357Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was pretty good. Do you feel it was one of Spielberg's better films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:07:32.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't think it was his best film, but it is definitely a crowd pleaser. It makes the viewer feel like everything you want is within reach with a little bit of luck and creativity", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:08:59.054Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who was your favorite cast member?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:10:16.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo himself. He just had this charismatic, carefree way about him that I wish was contagious! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:10:57.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was really funny. Did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T05:11:24.799Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely yes! So many moments that made me laugh out loud. Especially how he narroly escaped capture so many times. But I did love how it was such a lively/fun movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T05:12:45.888Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T05:06:15.001Z", 
+  "uid1LogOutTime": "2018-03-01T05:19:12.349Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-01T05:06:15.103Z", 
+  "uid2LogOutTime": "2018-03-01T05:18:21.319Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2243", 
+  "user2_id": "USR1930", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-06T19:50:59.695Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:51:36.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\n.iH", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:51:44.779Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how about ur work", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:52:10.957Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:50:59.695Z", 
+  "uid1LogOutTime": "2018-02-06T19:51:49.154Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:50:59.891Z", 
+  "uid2LogOutTime": "2018-02-06T19:53:48.766Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR443", 
+  "user2_id": "USR1741", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

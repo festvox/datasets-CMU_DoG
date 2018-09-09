@@ -1,0 +1,125 @@
+{
+  "date": "2018-01-26T21:22:29.355Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:23:12.564Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a great movie. Tyhe avengers from 2012. If you like sci fi this is an awesome movie. Good acting and known stars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:24:24.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it the original Avengers, as in the first movie in the series?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:24:47.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe so. Don;t remember for sure as to the opriginal cast but I believe yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:25:40.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:25:52.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Downery Ruffalo hemsworth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:26:02.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About 90 minuties I thinkl perhpas a tad longer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:26:31.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the plot about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:26:49.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agents of shield and the suer heroes save the world form bad guys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:27:25.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are the bad guys in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:27:40.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The asgardian Loki and an exterterastial race called chitauri", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:28:35.237Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what are the Chitauri like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:28:53.273Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "an advanced alieb race who can use wormholes to get to earth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:29:31.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who plays the part of Loki?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:29:38.359Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T21:30:37.471Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who are the Avengers in this movie? the fictional characters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T21:30:54.424Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T21:22:29.355Z", 
+  "uid1LogOutTime": "2018-01-26T21:32:02.680Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-26T21:22:29.387Z", 
+  "uid2LogOutTime": "2018-01-26T21:32:45.733Z", 
+  "uid2response": {
+    "feedback": "I've already seen the movie.\n\nThe other user left chat after I responded seven times. I waited several minutes to see if they would return, but they did not.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1860", 
+  "user2_id": "USR3482", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

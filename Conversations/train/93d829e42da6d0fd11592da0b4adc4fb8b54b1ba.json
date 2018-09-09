@@ -1,0 +1,46 @@
+{
+  "date": "2018-02-06T22:03:41.252Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie was excellent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T22:04:22.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen it, but it sounds action packed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:04:41.353Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Testing...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T22:10:37.464Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T22:03:41.252Z", 
+  "uid1LogOutTime": "2018-02-06T22:04:38.797Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T22:03:41.289Z", 
+  "uid2LogOutTime": "2018-02-06T22:11:42.589Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3325", 
+  "user2_id": "USR2222", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

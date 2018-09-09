@@ -1,0 +1,384 @@
+{
+  "date": "2018-03-26T20:30:51.361Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:31:12.879Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:31:33.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "please tell me the name of the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:31:43.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Post", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:31:50.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:31:58.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:03.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have no interest in seeing it though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:18.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you done this kind of task before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:32:21.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nope, 1st time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:28.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you a bot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:32.021Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nope", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:32:38.158Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am new to this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:32:41.790Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool, same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:32:49.549Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So Meryl Streep is in it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:32:53.305Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like her as an actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:32:58.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not even a little", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:04.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:09.940Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nWhy not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:11.626Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "her politics ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:21.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ahh that makes sense", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:29.154Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "used to like Tom Hanks, but he's ruined that with his politics too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:33:46.957Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Word", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:33:53.351Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think I really like him either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:03.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nWILSONNNNNNNNNNNNNN", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:05.576Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OOPS i think i broke the rule on that one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:38.526Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What about Steven Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:50.462Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:34:53.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He's ok, did some good stuff yrs ago.  want to see his new one", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:35:30.382Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ah ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:35:38.764Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Im supposed to keep talking about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:00.605Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It seems boring though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:24.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you say so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:29.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "aye, I'm familiar with the pentagon paper and the orig story, but yeah boring", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:36:31.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah agreed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:36:45.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The whole history thing then paired with Tom Hanks, it's meh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:37:01.071Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "aye", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:37:12.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just trying to rehash old stories to influence current political happenings.  muh russia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:37:48.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay now what do we do", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:37:48.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nKeep talking?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:37:55.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it said we were suppose to chat at least 15 times lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:38:07.504Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Haha ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:13.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nSo it says this has all the making on an awards season hit, but its too calculated\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:34.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I assumed this would be a bot chat to see if we could tell that it wasn't a real person", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:38:39.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nI would have to agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:40.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Plus the people they cast in movies today is so awkward", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:38:55.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yep, they tried to push it of the oscars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:39:01.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:05.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I AM NOT A ROBOT lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:10.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "awesome, me either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:39:18.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ">:D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:21.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Or so you would have me believe..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:32.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh it says to keep talking about the paragraph I have", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:41.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahaha looks like a finish conversation button just popped up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:39:55.994Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Spielberg why ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:39:56.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok nice chat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:02.635Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ttyl non robot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:09.786Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T20:40:16.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "u2!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T20:40:18.836Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T20:30:51.361Z", 
+  "uid1LogOutTime": "2018-03-26T20:40:18.662Z", 
+  "uid1response": {
+    "feedback": "I was not  interested in seeing The Post before we started, he/she couldn't have changed my mind.  ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T20:30:51.443Z", 
+  "uid2LogOutTime": "2018-03-26T20:40:19.981Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4381", 
+  "user2_id": "USR2066", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

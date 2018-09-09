@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-06T21:02:20.457Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T21:02:47.143Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:07:48.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the animated movie Frozen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:08:07.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The songs were so popular!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T21:08:16.434Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-06T21:02:20.457Z", 
+  "uid1LogOutTime": "2018-02-06T21:09:33.334Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T21:02:20.487Z", 
+  "uid2LogOutTime": "2018-02-06T21:04:56.890Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2865", 
+  "user2_id": "USR2666", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2018-02-08T21:41:03.051Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:42:32.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:17.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You have LaLa Land? THats strange. I have Zootopia!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:40.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen either?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:44:13.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats interesting what is it about ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:44:16.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i haven't seen either what are they both about ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:44:46.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia is \n about a rabbit who was top of her class at police academy and moves to the city ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:45:18.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is then placed on parking duty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:45:31.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Her chief of police is plat by Idris Elba who is outstand.0ing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:45:57.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh that sounds like a cute movie. It sound like a show i would enjoy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:46:16.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:46:28.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They have to outwit a sly fox", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:46:44.039Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh awesome.  Maybe i will watch it thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:46:49.856Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sly fox hilarious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:05.156Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The various animals all have stereotypes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:47:34.559Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds like a movie I would enjoy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:40.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "stereotypes that are accurate to the real life animals :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:47:54.976Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you leave? :(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:16.844Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:41:03.051Z", 
+  "uid1LogOutTime": "2018-02-08T21:48:03.355Z", 
+  "uid1response": {
+    "feedback": "it sounds interesting and something i would enjoy i will watch the movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:41:03.267Z", 
+  "uid2LogOutTime": "2018-02-08T21:52:53.053Z", 
+  "uid2response": {
+    "feedback": "The other user left before we could get through 4 pages. We had several exchanges. and then they left. They did say that they were assigned La La Land, where as I was assigned Zootopia.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR965", 
+  "user2_id": "USR2704", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

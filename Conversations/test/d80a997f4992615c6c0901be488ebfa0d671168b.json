@@ -1,0 +1,270 @@
+{
+  "date": "2018-02-28T23:34:11.325Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:34:49.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:34:58.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We're going to be talking about Bruce Almighty, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:35:14.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know, I didn't get the script.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:35:38.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But as you say we may start", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:35:49.504Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We will :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:35:49.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:35:55.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:36:04.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:36:09.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it's a pretty good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:36:18.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Jim Carrey shines", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:36:28.096Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yup me too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:36:38.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Remind me who was the other hero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:36:49.495Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morgan Freeman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:37:03.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think so.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:37:12.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's a great actor too. Don't you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:37:28.085Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutely", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:37:33.996Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you like about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:37:48.707Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which part the most you liked?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:38:03.619Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that the comedic timing is so spot on, it's very enjoyable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:38:05.881Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:38:17.006Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I pretty much enjoyed it from beginning to end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:38:18.706Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "/\nWhat was the name of the heroine", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:38:33.596Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "?\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:38:36.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Grace COnnelly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:39:09.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:39:16.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It only has a score of 48% on Rotten Tomatoes, which is pretty surprising", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:39:39.797Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought more people liked it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:39:43.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think it was a very different concept?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:39:51.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you mean by that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:40:03.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The story was very different", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:40:15.172Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, I don't think so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:40:28.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really liked how Bruce used his powers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:40:49.354Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah,\n me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:41:03.242Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, thanks for talking with me about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:41:29.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I felt no one other than Jim carrie could be perfect for that role, don't you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:41:32.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I definitely agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:41:43.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, thanks for talking with me about this movie. see ya!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:42:07.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seeya!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:42:11.978Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T23:34:11.325Z", 
+  "uid1LogOutTime": "2018-02-28T23:42:16.192Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T23:34:11.421Z", 
+  "uid2LogOutTime": "2018-02-28T23:42:13.744Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR696", 
+  "user2_id": "USR80", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

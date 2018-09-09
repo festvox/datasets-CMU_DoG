@@ -1,0 +1,91 @@
+{
+  "date": "2018-03-07T16:24:38.022Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:25:30.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:25:40.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally like watching comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:26:26.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I love comedies! Especially romantic comedies, but really any comedy is a great movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:26:49.691Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's awesome! Yeah I agree. So what did you think of Bruce Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:27:46.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty is hilarious! Jim Carrey\n plays his role so well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:28:42.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! It is definitely one of my favorite movies. Jim Carrey is hilarious in the slapstick scenes. Also I think Morgan Freeman was a good addition to the movie and I'm a sucker for anything with Jennifer Anniston in it. I'm pretty suprised about the Rotten Tomatoes score though its pretty low for how good I think the movie was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:31:02.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really? That is surprising! My whole family and all of my friends love the movie! I can't imagine that it received a low rating. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:32:46.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah! I loved it too and I think that if you have the chance you should re-watch it\n because it is such a classic movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:33:42.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes! I have some free time this afternoon. I wonder if it is on Netflix. I'd love to watch it again, but don't have a DVD copy of the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:34:24.443Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T16:24:38.022Z", 
+  "uid1LogOutTime": "2018-03-07T16:36:10.775Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:24:38.303Z", 
+  "uid2LogOutTime": "2018-03-07T16:39:18.433Z", 
+  "uid2response": {
+    "feedback": "The conversation was smoothed and seemed like a real conversation. My partner left the room after 5 responses. I waited 5 minutes. ", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3587", 
+  "user2_id": "USR4338", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

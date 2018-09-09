@@ -1,0 +1,50 @@
+{
+  "date": "2018-02-21T16:55:25.196Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T16:56:02.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. Do you like Christian Bale?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T16:56:24.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, he's a great actor!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-21T16:56:47.670Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should really check out Batman Begins, if you haven't seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T16:57:12.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a reboot of the Batman series and tells the origin story of Bruce Wayne from the death of his parents to his journey to become Batman and his fight to stop Ra's al Ghul and the Scarecrow form plunging Gotham\n City into chaos.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-21T17:00:54.903Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-21T16:55:25.196Z", 
+  "uid2LogInTime": "2018-02-21T16:55:26.223Z", 
+  "uid2LogOutTime": "2018-02-21T17:02:00.507Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2445", 
+  "user2_id": "USR3189", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

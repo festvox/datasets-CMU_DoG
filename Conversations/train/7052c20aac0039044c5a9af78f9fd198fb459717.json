@@ -1,0 +1,204 @@
+{
+  "date": "2018-01-29T23:11:02.138Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:11:49.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! The movie is called the imitation game and stars Benedict Cumberbatch.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:13:10.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Awesome. What is it about? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:13:27.216Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a British cryptanalyst who decrypted German intelligence codes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:14:31.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it pretty similar to James Bond? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:14:57.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure about that, but it takes place during world war 2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:15:43.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Decryption was hard back then. W\nhat do you like about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:16:26.315Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the movie myself but I like that it is a thriller.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:17:10.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah sounds pretty interesting. Do you know any other actors that star in the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:17:41.155Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Keira knightley, Matthew Goode, Rory kinnear, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:18:18.410Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love their movies! Any similar movies you may like starring them? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:18:52.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not know any movies starring those actors. The main character is trying to decrypt the Enigma machine which the Nazis used to send coded messages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:20:39.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did he decrypt it successfully? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:21:23.499Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes he was successful ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:22:04.324Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was he faced with any challenges? Or were there enemies out to get him? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:22:30.426Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure. He developed feelings for another man at boarding school but his friend passed away from tuberculosis", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:23:30.655Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was he heartbroken after that? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:23:53.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes he was very heartbroken.  He never got to confess his love for him. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:24:18.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's sad. Did anyone else know about his love? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:24:41.253Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nobody else knew. But he named his machine Christopher, after his friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:25:11.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think Christopher was the reason why he was able to decrypt the machine? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:25:41.730Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He had an epiphany, and realized he can program the machine to decode words he already knows exist in certain messages.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:27:06.325Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did the messages convey? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:27:45.790Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure what the messages said.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:28:09.739Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think it was a good message? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:28:27.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, they were probably not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:28:48.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did someone want to get the machine back from him? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:29:18.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A Soviet spy tried to trick him into telling about his machine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:29:58.910Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:11:02.138Z", 
+  "uid1LogOutTime": "2018-01-29T23:30:06.334Z", 
+  "uid1response": {
+    "feedback": "The person really didn't understand the movie. It was like they were saying the same thing over and over again. They were pretty responsive and we didn't have any issues. ", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:11:02.247Z", 
+  "uid2LogOutTime": "2018-01-29T23:30:01.315Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1934", 
+  "user2_id": "USR2640", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

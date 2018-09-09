@@ -1,0 +1,367 @@
+{
+  "date": "2018-02-19T23:12:29.859Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:13:25.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:15:01.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:15:10.668Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good. you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:15:23.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good, also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:15:32.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie, the Notebook?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:15:43.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not. is it a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:16:14.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I wouldn't say that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:16:32.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:16:42.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a romantic drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:16:43.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it stars Ryan Gosling and Rachel McAmams", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:17:08.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oops, McAdams", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:17:24.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, interesting. I like those people. Does it have a happy ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:17:30.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure about that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:17:59.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When does it take place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:18:04.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In the 1940's", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:18:36.513Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's based in SC", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:18:47.641Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmmm. What year did the movie come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:18:56.741Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "2004", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:19:05.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it starts as a summer romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:19:24.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Then what happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:19:37.403Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "her mother doesn't approve of him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:19:47.091Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds dramatic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:20:00.779Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:20:07.348Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would males and females like watching this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:20:14.049Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's probably better suited to females", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:20:32.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but I don't want to be sexist. I'm sure there are plenty of men who would enjoy this film also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:20:54.748Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did it win any awards or anything?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:20:56.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure. i don't take offense. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:21:11.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good question.  I'm not sure that it got any awards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:21:37.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are they any sad parts? will i cry?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:21:51.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think you might", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:21:59.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "apparently the mother interferes in their romance to the point of nearly ruining it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:22:26.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know if i like crying movies. How long is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:22:33.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sounds like i'll hate the mother then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:22:41.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i believe so. She even hides the letters that he writes to her from the army", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:23:28.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do they end up together in the end or does someone die?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:23:29.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OMG!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:23:38.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's awful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:23:40.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is! She volunteers at a hospital where she meets another guy and falls for him, becoming engaged. Guess this guy is from money and is ok with mom\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:24:25.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was it well received at the box office? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:24:36.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:24:43.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think they end up together tho", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:25:14.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what would the age range of the viewership be for the notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:25:23.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:25:24.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hm hard to say, but guess it's appropriate for any adults and teens", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:25:47.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:26:00.551Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ya... you should probably try to see it on Netflix or something", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:26:17.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so it's on netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:26:28.564Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, I don't know for sure, just guessing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:26:38.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, i'll have to check it out. thanks for telling me about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:27:13.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:27:19.268Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are welcome. It's been nice chatting with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:27:30.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T23:27:34.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good rest of the day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T23:27:45.588Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T23:12:29.859Z", 
+  "uid1LogOutTime": "2018-02-19T23:27:39.208Z", 
+  "uid1response": {
+    "feedback": "It sounds like a movie I would enjoy based on the actors and theme of the story.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T23:12:29.916Z", 
+  "uid2LogOutTime": "2018-02-19T23:27:50.749Z", 
+  "uid2response": {
+    "feedback": " This was fun and easy to do. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1005", 
+  "user2_id": "USR3640", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

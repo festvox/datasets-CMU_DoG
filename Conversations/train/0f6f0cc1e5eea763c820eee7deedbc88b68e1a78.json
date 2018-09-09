@@ -1,0 +1,126 @@
+{
+  "date": "2018-02-13T19:38:15.818Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there. What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:38:51.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:41:42.297Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I think it's great, it would be good as a B\nroadway musical", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:41:44.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why do you think it would be great as a Broadway musical?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:41:58.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "mainly the singing but also since the story is about a journey.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:42:54.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:43:04.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The music in movie is very catchy and enjoyable, so I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:26.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whose journey did you find most compelling?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:43:40.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Anna's journey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:44:03.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you think the conclusion was satisfying for her character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:44:28.773Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She was trying to be herself and at the same time protect her sister so I think it was satisfying since that was accomplished.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:45:50.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:46:12.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you heard of the fairy tale that the movie was based on?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:46:20.531Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, never.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:46:45.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which character do you most admire?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:48:31.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:57:02.180Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:38:15.818Z", 
+  "uid1LogOutTime": "2018-02-13T20:30:00.446Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:38:15.927Z", 
+  "uid2LogOutTime": "2018-02-13T19:57:36.590Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2272", 
+  "user2_id": "USR4083", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

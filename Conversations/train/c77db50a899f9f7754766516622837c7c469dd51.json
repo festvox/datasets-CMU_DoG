@@ -1,0 +1,135 @@
+{
+  "date": "2018-02-05T21:24:50.275Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "?Hi. The movie Frozen is a good choice to chat about. Have you seen Frozen?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:27:25.503Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen the movie. Was it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:27:53.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have no small children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:24.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The reviews are pretty good and consistent. Rotten Tomatoes gives it an 89%. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:28:37.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is really well known. Once pon a Time used it as part of there TV show.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:03.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Upon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:10.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen is based on Hans Chrstians fairy tale The Snow Quees.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:29:26.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If it's Disney-it's always good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:37.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I read The Snow Queen when I was a kid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:57.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Hans Christian Andersen stories?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:30:17.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:30:21.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will have to watch it at some point-maybe with my granddaughters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:30:49.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would like the reindeer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:31:34.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked the Little Mermaid a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:31:55.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wasn't that Hans Christian Andersen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:32:10.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi-are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:32:31.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotton Tomatoes is a good source of reviews!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:33:03.687Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess lost you! Sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:33:49.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Kristen Bell too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:34:54.698Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T21:24:50.275Z", 
+  "uid1LogOutTime": "2018-02-05T21:41:10.359Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:24:50.940Z", 
+  "user1_id": "USR64", 
+  "user2_id": "USR1154", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

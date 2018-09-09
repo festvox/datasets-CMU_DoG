@@ -1,0 +1,98 @@
+{
+  "date": "2018-02-14T19:51:07.398Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you? Have you read about any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:51:39.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, great director by Joss Whedon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:52:00.283Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. I have seen some of his movies and they were good. Is this one similar to ones he has made in the past?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:24.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hes very known for superhero genre", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:53:21.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that is correct. What did you read about his new movie? Did it get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:53:44.044Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The rating on rotten Tomatoes\n  is 92% ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:55:16.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow that is very good. Sounds like a movie I want to watch. Do you know what genre the movie is? It is another superhero movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:55:48.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The genre is a drama/superhero staring Robert Downey Jr and Chris Evans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:56:39.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a new Avengers movie! I love those. Have you seen the old Avenger movies or the new one that you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:57:21.041Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen them all.  Have you read the marvel comics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:58:34.779Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have only read a few here and there. I don't know much about them though. Have you read them? Do you think the movies are similar to the comics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:59:06.768Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T19:51:07.398Z", 
+  "uid1LogOutTime": "2018-02-14T19:59:19.894Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:51:07.464Z", 
+  "uid2LogOutTime": "2018-02-14T19:59:10.168Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR352", 
+  "user2_id": "USR1366", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

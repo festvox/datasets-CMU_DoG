@@ -1,0 +1,440 @@
+{
+  "date": "2018-03-23T15:36:54.824Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:00.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:01.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Wolf of Wall Street!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:10.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:12.465Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:20.367Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you had the pleasure of watching the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:20.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha yeaap", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:24.761Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:30.257Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Margot robbie does a fantastic job", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:37.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haha same here, I watched it probably a dozen times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:40.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haah wow i only saw it the one time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:37:50.603Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, the duchess of brooklyn or something lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:37:56.810Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The ratings really reflect how well it did", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:11.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "average was 7.8", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:17.246Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Seems kind of low in my opinion. Interesting side note, movie is based on a\n true story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:38:37.432Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh yea the true story is sad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:38:54.598Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sadly it still goes on to this day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:04.347Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I forgot he became licensed on black monday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:39:10.010Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hmmm the genre is black comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:23.506Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "for this film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:25.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is black comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:29.403Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "saw that, i don't think its a black comedy, theres like 2 black people in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:39:46.940Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "for real", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:54.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "thats odd", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:39:56.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh yea jonah hill is in it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:03.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whitest of white people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:08.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "his character is so weird in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:40:14.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "steeeeeveeeee maddddddeeeeen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:40:21.473Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is just a strange person in general", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:22.739Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like martin scorses films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:39.843Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is one of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:43.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:40:46.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Samer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:40:55.701Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you do what leo did in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:41:16.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or would you be moral?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:41:21.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "decaprio*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:41:41.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can't really put myself in those shoes but i would hope my morality would guide me to do the right thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:41:55.192Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Forgot Donnie kept the note that Jordan slid him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:07.072Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what a piece of s%#!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:17.502Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forgot about this..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:42:33.082Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what note?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:42:34.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I actually thought he had a longer sentence then three years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:36.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the note he slid donnie saying he was wearing a wire", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:46.543Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "people with money never find deserved justice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:42:50.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its no 3 on the key scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:42:54.815Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah i see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:42:55.500Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "except for skhrelli", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:43:08.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah ok thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:43:17.023Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why do you feel the ratings were lower than expected?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:43:50.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't beleive all the people he brought up and made money with just ratted on him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:44:01.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They werent the most honorable bunch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:44:15.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i guess i thought it was better than a C/C+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:44:17.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If they switched out leo's group of friends with talented actors it would have done better", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:44:38.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:44:44.178Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you're probably right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:44:51.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Honestly more black people too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:44:57.469Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not sure that would of been a reflection of the time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:45:11.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You dont have to give them successful jobs, but if you call it a black comedy i would add some black servants or whatever reflects the time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:45:40.251Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh i forgot about mathew mconahay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:12.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was an amzing scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:17.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know about servants but I get what youre saying", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:46:20.861Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you gotta up those numbers pal", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:22.660Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:27.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that scene was amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:46:27.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha alright i think we are done", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:36.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T15:46:38.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, you too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T15:46:40.616Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T15:36:54.824Z", 
+  "uid1LogOutTime": "2018-03-23T15:46:40.229Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T15:36:54.881Z", 
+  "uid2LogOutTime": "2018-03-23T15:46:44.025Z", 
+  "uid2response": {
+    "feedback": "Went pretty good, kind of took an odd turn and we noticed that it was categorized as a black comedy which seemed wrong. All in all pretty smooth", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1592", 
+  "user2_id": "USR1853", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

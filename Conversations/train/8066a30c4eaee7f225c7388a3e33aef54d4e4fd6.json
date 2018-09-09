@@ -1,0 +1,523 @@
+{
+  "date": "2018-02-13T18:34:20.388Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:34:55.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hiya", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:36:53.264Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:36:55.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! I am doing fine. How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:11.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i'm, great ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:18.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "bored tho", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:37:20.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Haha, I thought you were supposed to tell me about a movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:37:57.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "maybe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:38:25.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are you up to?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:38:36.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the avenge\nrs?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:38:36.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "about to put on a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:39:57.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no, I haven't. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:41:05.284Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I heard it's good, though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:41:11.628Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:41:17.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:42:09.092Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in the movie team shield has to defeat loki", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:42:17.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who are in the team shield?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:43:02.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the hulk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:46:30.350Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "iron man, thor, black widow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:46:38.673Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "some others too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:46:41.459Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:46:43.347Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who are on the team loki?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:47:04.331Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just him I believe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:49:07.468Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Loki is that powerful? Wow. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:49:59.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it happen on the earth or?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:51:09.866Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah it is no earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:53:34.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "loki is trying to take over earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:53:40.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Where's loki from?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:54:15.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:54:45.671Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you read any reviews of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:56:30.971Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no, I haven't. But my friends told me it's good. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:57:02.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you should go ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:57:20.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you have netflix?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:57:24.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, I have netflix", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:57:48.050Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can I watch it on netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:57:53.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:58:09.042Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have to google it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:58:13.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:58:44.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you have netflix?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:58:51.259Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I dont", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:59:21.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have hulu though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:59:24.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, is it on hulu?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:59:37.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i would have to look on google for that too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:00:12.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:16.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you are funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:24.026Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is your favori\nte movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:02:31.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who are your favorite super hero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:35.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like la la land", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:43.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:02:50.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have not", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:04:29.114Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did it win an award?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:04:36.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:06:30.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it won six Oscars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:07:22.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "dang", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:08:13.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who is the star?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:08:17.648Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it's a romantic comedy, and there's always a guy and a girl. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:12:15.777Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you like those?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:12:29.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The guy is Ryan Gosling and the girl is Emma Stone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:12:33.194Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it depends. I like musicals. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:13:06.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They meet each other in LA and they help each other to pursuit their dreams. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:13:40.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like emma stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:13:47.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was she in spiderman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:13:51.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:13:52.489Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like her too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:13:56.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she was in Spiderman. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:14:25.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you see\n it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:14:34.881Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "btw you should totally watch avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:14:42.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its amazing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:14:47.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will watch avengers for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:15:10.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you for your recommendation ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:15:25.176Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "youll like toni stark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:16:51.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The iron man!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:17:52.840Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:01.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have to go", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:06.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "get to it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:18:15.728Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you think we can end the conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:25.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's nice talking with you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:18:35.352Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have no idea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:19:17.144Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:19:19.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I need to catch a class", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:19:32.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:19:36.945Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T18:34:20.388Z", 
+  "uid1LogOutTime": "2018-02-13T19:19:41.018Z", 
+  "uid1response": {
+    "feedback": "Avengers sounds like a fun movie to watch. I will definitely watch it sometime!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:34:20.409Z", 
+  "uid2LogOutTime": "2018-02-13T19:21:18.863Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR550", 
+  "user2_id": "USR570", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

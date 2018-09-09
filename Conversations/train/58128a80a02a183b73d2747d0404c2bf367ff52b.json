@@ -1,0 +1,56 @@
+{
+  "date": "2018-03-23T18:08:33.071Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:08:37.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T18:08:40.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. I am well, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:09:08.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of movies do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:10:24.205Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Great Gatsby?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:12:39.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Great Gatsby has to be one of my all time favorite movies. It's one of those movies you can watch over and over again.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T18:18:10.624Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-23T18:08:33.071Z", 
+  "uid2LogInTime": "2018-03-23T18:08:33.085Z", 
+  "uid2LogOutTime": "2018-03-23T18:19:07.148Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2162", 
+  "user2_id": "USR2551", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

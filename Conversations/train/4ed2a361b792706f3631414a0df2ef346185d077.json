@@ -1,0 +1,232 @@
+{
+  "date": "2018-02-28T19:00:52.007Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!  So we're supposed to talk about a movie.  Have you read the document about it yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:01:50.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, the movie is the blind side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:02:22.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hm.  The Blind Side.  What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:02:40.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a really great movie that's highly rated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:02:40.882Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:03:13.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a biography, about a Football player.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:03:14.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh!  My husband likes football.  What year did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:03:40.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Starring Sandra Bullock, Tim McGraw and many others", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:03:44.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was released in 2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:03:53.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Received an A+ on Cinemascore and 69% on rotten tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:04:10.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should definitely watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:04:36.383Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Those are good reviews.  Where does the movie take place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:04:39.950Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is it rated?  Can my kids watch it with me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:05:09.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It takes place in Memphis Tenessee", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:05:14.341Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds like a family movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:05:36.810Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Definitely does.  Do you know what football team the story is about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:06:00.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The team at at Wingate Christian School", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:06:34.692Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "which is (a fictional representation of Briarcrest Christian School in\n\nMemphis, Tennessee)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:06:50.924Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh!  I haven't heard of them before.  Fictional representation...I guess that makes sense why I had not heard of them\n. Haha!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:07:21.670Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:07:31.094Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes the main character is Michael Oher, he has been in different  foster homes, and ends up playing football.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:08:32.408Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like it would be an inspiring movie.  How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:08:52.988Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah definitely inspiring as there's a book written about it too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:09:20.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really?  Wow.  Must be a big movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:09:50.703Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, critics really praised Sandra Bullock's performance.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:10:20.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I'll look into watching it.  Sandra Bullock is one of my husband's favorite actresses.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:10:46.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did she win any awards for it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:10:55.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wonder how much money it made. Do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:12:02.880Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well as a drama movie, with very good positive reviews, i'm sure she made lots of money", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:12:13.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll definitely watch it with my family.  Sounds like a good movie for all of us.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:13:00.063Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure you will love it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:13:09.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for the information!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T19:13:42.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Glad you found it useful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T19:14:41.163Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T19:00:52.007Z", 
+  "uid1LogOutTime": "2018-02-28T19:14:51.060Z", 
+  "uid1response": {
+    "feedback": "The chat was interesting.   They were informative and responsive.  (They understood most of my questions and answered them).  I will watch the movie again some day.  They were very supportive of it.", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T19:00:52.114Z", 
+  "uid2LogOutTime": "2018-02-28T19:14:47.056Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2067", 
+  "user2_id": "USR4572", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

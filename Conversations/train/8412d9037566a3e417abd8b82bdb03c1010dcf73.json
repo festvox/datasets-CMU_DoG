@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-08T21:24:02.911Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:11.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:24:33.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:28:41.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Y u left the chat?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:30:55.673Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T21:24:02.911Z", 
+  "uid1LogOutTime": "2018-02-08T21:26:17.657Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:24:03.269Z", 
+  "uid2LogOutTime": "2018-02-08T21:45:22.716Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4475", 
+  "user2_id": "USR2057", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

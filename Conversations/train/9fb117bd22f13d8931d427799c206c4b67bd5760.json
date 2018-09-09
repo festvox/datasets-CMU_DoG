@@ -1,0 +1,76 @@
+{
+  "date": "2018-02-08T22:24:06.959Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The Imitation Game is a gripping drama about World War 2.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:24:46.446Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indeed, and it seems to have been received well judging by the scores it received from CinemaScore and MetaCritic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:25:36.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The reviews are well earned. Benedict Cumberbatch really sells his role as Alan Turing and draws the viewer in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:26:53.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, and judging by the critical responses, it seems people would agree that Cumberbatch's performance is the lynchpin of the piece. He is received well when portraying historical figures.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:28:03.050Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Keira Knightly is another big name star that performs well in The Imitation Game. Their charm and eagerness to work together is apparent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:29:56.919Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The other star actors, Goode and Goodman-Hill, also shouldn't be forgotten; the entire A-list set of actors really comes together with great cohesion, as proven by the positive response.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:33:24.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "While director Morten Tyldum did take some liberties in the source material, he brings together an all star cast and compelling drama to weave a thrilling tale.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:34:47.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Indeed, it is dangerous to attempt to bring a biopic into the limelight and general box office; but this film performed well, and Tyldum's gamble paid off for him handsomely.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:37:42.660Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-08T22:24:06.959Z", 
+  "uid1LogOutTime": "2018-02-08T22:47:09.400Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:24:06.973Z", 
+  "uid2LogOutTime": "2018-02-08T22:59:31.594Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4212", 
+  "user2_id": "USR145", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

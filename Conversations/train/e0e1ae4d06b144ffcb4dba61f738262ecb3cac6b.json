@@ -1,0 +1,138 @@
+{
+  "date": "2018-03-20T16:36:38.963Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:36:47.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:36:52.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:37:48.695Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:37:50.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:37:52.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:38:52.210Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:38:54.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.  It is very good.  Very pornographic, however.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:39:07.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's also confusing because a lot happens.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:42:15.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah? Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:44:01.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio.  He's the guy who makes the money and gets Jonah Hill to get caught up in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:45:42.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How does he make the money?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:46:31.195Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I forgot, exactly.  I think it was like Enron, \"deck of cards\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:48:11.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he does it through stocks, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:49:30.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I think.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:51:28.335Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the name of the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:52:13.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\"Jordan Belfort\", I guess.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T16:52:58.260Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T16:55:24.266Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T16:36:38.963Z", 
+  "uid1LogOutTime": "2018-03-20T16:55:45.061Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T16:36:39.471Z", 
+  "uid2LogOutTime": "2018-03-20T16:53:51.955Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1004", 
+  "user2_id": "USR4900", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

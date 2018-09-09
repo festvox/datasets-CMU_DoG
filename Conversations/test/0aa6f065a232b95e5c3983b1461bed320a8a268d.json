@@ -1,0 +1,83 @@
+{
+  "date": "2018-03-28T02:17:12.261Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:17:34.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good evening!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:17:36.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am interested in hearing about the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:17:56.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm supposed to tell you about The Great Gatsby actually.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:18:04.750Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! please tell me about it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:18:18.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a romantic drama that came out in 2013.  It's based on a novel with the same name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T02:18:50.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me a little about the plot? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:19:22.009Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:21:21.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T02:23:35.990Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-28T02:17:12.261Z", 
+  "uid1LogOutTime": "2018-03-28T02:18:56.937Z", 
+  "uid1response": {
+    "feedback": "Other user left the chat.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T02:17:12.315Z", 
+  "uid2LogOutTime": "2018-03-28T02:28:10.716Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR592", 
+  "user2_id": "USR4856", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

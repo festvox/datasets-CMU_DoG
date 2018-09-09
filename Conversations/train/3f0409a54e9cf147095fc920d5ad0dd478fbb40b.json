@@ -1,0 +1,75 @@
+{
+  "date": "2018-03-19T20:15:30.122Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you saw this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:16:10.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have, have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:16:40.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's been several years, but was cute. Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:17:02.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked a lot, it was very funny and always a good movie to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:17:41.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:17:45.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how many times have you seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:19:16.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your favorite part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:21:48.822Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and when was the last time you watched it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:27:26.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Do you agree with the rating of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:28:12.474Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-19T20:15:30.122Z", 
+  "uid1LogOutTime": "2018-03-19T20:37:58.209Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:15:30.147Z", 
+  "user1_id": "USR4351", 
+  "user2_id": "USR4272", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

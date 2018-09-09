@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-05T23:45:06.150Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Sounds like it would be family oriented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:46:26.733Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoy comedy moves, don't you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:47:25.410Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, very much. Specially animated movies like Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:50:54.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked the movie. And apparently many other people did too, judging from it 98% rating on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:53:41.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*its", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:55:02.994Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T23:45:06.150Z", 
+  "uid2LogInTime": "2018-02-05T23:45:06.901Z", 
+  "uid2LogOutTime": "2018-02-06T00:16:12.220Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1746", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

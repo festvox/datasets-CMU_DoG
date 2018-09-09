@@ -1,0 +1,78 @@
+{
+  "date": "2018-03-28T15:08:33.412Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:08:41.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:08:48.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is iron man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:09:50.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sweet!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:10:12.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:10:28.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i really like the special effects", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:10:49.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i am also a huge robert downey jr fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:11:23.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. It's a unique super hero movie in that the hero is actaully quite intelligent", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:12:17.196Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T15:08:33.412Z", 
+  "uid1LogOutTime": "2018-03-28T15:12:46.164Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:08:33.422Z", 
+  "uid2LogOutTime": "2018-03-28T15:12:57.927Z", 
+  "uid2response": {
+    "feedback": "not much said", 
+    "response": [
+      1, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2021", 
+  "user2_id": "USR28", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

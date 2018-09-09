@@ -1,0 +1,85 @@
+{
+  "date": "2018-03-26T16:08:05.809Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:08:19.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello have you seen the shape of water?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:08:21.513Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:08:28.717Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it's a fantasy/drama film, it's really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:08:40.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah? Who directed it again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:08:49.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Guillermo Del Toro", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:09:03.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like him as a director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:09:15.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I do like him. But this is meant for the shape of water. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:09:39.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I know. Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:10:12.196Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T16:08:05.809Z", 
+  "uid1LogOutTime": "2018-03-26T16:10:36.829Z", 
+  "uid1response": {
+    "response": [
+      0
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-26T16:08:05.897Z", 
+  "uid2LogOutTime": "2018-03-26T16:10:46.154Z", 
+  "uid2response": {
+    "feedback": "The user left the chat early.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR273", 
+  "user2_id": "USR1004", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

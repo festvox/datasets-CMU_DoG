@@ -1,0 +1,130 @@
+{
+  "date": "2018-02-03T01:19:25.212Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Who plays Wonder Woman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:21:45.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gal Gadot, of course! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:22:09.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": ":O", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:22:13.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where is she from?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:22:33.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Israel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:22:48.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where is Diana Prince from?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:22:59.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ohh", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:23:02.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Themyscira", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:23:12.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is her mother?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:23:25.336Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Queen Hippolyta", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:23:40.669Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is Wonder Woman's father?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:23:53.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Greek God of Gods, Zeus himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:24:16.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is her half-brother?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:24:39.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ares, God of War.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-03T01:24:48.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who does Chris Pine play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:25:32.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think of Ares?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-03T01:28:47.774Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-03T01:19:25.212Z", 
+  "uid1LogOutTime": "2018-02-03T01:35:39.046Z", 
+  "uid1response": {
+    "feedback": "XD", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-03T01:19:25.301Z", 
+  "uid2LogOutTime": "2018-02-03T01:31:13.164Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2734", 
+  "user2_id": "USR2414", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

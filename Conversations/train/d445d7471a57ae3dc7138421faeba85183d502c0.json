@@ -1,0 +1,92 @@
+{
+  "date": "2018-02-07T22:04:19.883Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. Love this movie. As stated old yet new.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:05:13.605Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I really like Robert Downey Jr.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:05:39.126Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. Mark Ruffalo was a nice surprise as the Hulk.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:06:13.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he was. I have always enjoyed Marvel comics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:06:48.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And they do the best job at adapting the comics to the movies. All MCU is better than DC.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:07:35.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. I had no idea Disney distributed the film. That makes me like it even more. I am also a Disney fan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:08:26.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Love classic Disney for sure.  disney is not my main interest but love Marvel and their movies, especially the Avengers series.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:09:32.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Scarlett Johansson was really great as Natasha. I've always really liked Scarlett Johansson and the N\natasha character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:10:25.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "my fave is clark gregg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T22:11:16.244Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. Samuel L. Jackson was a nice surprise as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T22:12:36.539Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T22:04:19.883Z", 
+  "uid1LogOutTime": "2018-02-07T22:12:11.212Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T22:04:20.021Z", 
+  "uid2LogOutTime": "2018-02-07T22:13:12.420Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat before we completed the 4 documents. I think he may have thought you only needed 3 responses, but really the instructions said to have 3 responses on all 4 documents. You should make the instructions more clear because this is the second time I have done this HIT where the other person had no clue what we were supposed to be doing and left the chat early. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3244", 
+  "user2_id": "USR2897", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

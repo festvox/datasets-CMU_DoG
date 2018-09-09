@@ -1,0 +1,415 @@
+{
+  "date": "2018-03-30T18:57:07.310Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi, how's it going", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:57:44.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:57:58.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "doing well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:58:15.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:58:22.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you ever watched toy story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:58:23.714Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:58:45.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hmm", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:59:14.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i'm supposed to convince to watch or not watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:59:22.608Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "*convince you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:59:35.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok so fill me in on what it's about ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:59:43.200Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's a movie from the mid-90s about a couple of toys", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:15.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they're actually alive and talk with each other, but pretend to be lifeless when humans are nearby", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:44.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok so it's obviously a children's movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:00:44.282Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yep, animated film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:52.565Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok what are some of the names of the characters and what roles do they play", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:01:34.661Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the main characters are woody, a pull-string character doll", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:01:59.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "buzz lightyear, a space ranger action figure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:02:14.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there's also other side characters, like mr potato head and the slinky dog", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:02:29.514Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "there's a specific scene in the beginning where the owner of the toys, a six year old named andy, is having a birthday party", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:03:01.001Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "woody gets the toys together to scout the party, since they're worried that some of them will be replaced", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:03:38.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in the beginning, they're relieved, but then andy receives a surprise gift (buzz lightyear)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:04:18.291Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "any questions so far?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:04:34.220Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok you said they are surprised when buzz shows up...like good surprises or bad surpised?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:05:14.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "when i said surprise, i mean it's a surprise gift", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:05:55.386Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not actually surprised", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:06:10.419Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh ok what kind of adventures do they end up on", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:06:36.148Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so andy starts to play with buzz more, since buzz has a bunch of cool features", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:07:34.458Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok and I'm assuming that upsets the other toys how do they react to that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:08:16.064Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "when preparing to go to a family outing, andy is only allowed to bring one toy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:08:39.588Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which one does he choose", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:08:59.425Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so woody gets jealous and accidentally knocks buzz out the window", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:09:05.100Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "andy grabs woody, and they go to pizza planet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:09:30.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok to make sure Andy doesn't choose buzz ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:09:33.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's pizza planet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:09:44.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it's a restaurant chain in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:10:16.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyway, buzz ends up hitching\n a ride with them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:10:55.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "With the other toys?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:11:19.746Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "with the family to pizza planet", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:11:29.129Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the family stops at a gas station, and buzz and woody end up fighting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:11:48.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What happens at pizza planet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:12:13.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they get accidentally left behind, but luckily get to the restaurant on a pizza delivery truck", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:12:23.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anything interesting happen at the restaurant ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:13:04.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so basically they get stuck in a crane game", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:13:14.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How do they get out", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:13:30.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im not sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:13:47.092Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they get salvaged by the evil neighbor it says", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:14:00.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they try to make it a truck, but the neighbor's dog chases them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:14:18.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "some theatrics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:14:28.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:14:37.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "eventually they all reunite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:15:02.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "happy ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:15:26.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And do buzz and woody become friends?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:15:26.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, they do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:15:33.975Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok thanks sounds good ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:15:48.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think they end up saving each other", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:15:50.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "something like that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:15:55.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a good children's movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:16:12.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sure, sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:16:46.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i recommend it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:16:50.972Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:17:00.404Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "anyway, it was nice talking to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:17:00.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:17:11.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks nice talking to you as well have a good day ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:17:22.726Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T18:57:07.310Z", 
+  "uid1LogOutTime": "2018-03-30T19:17:26.659Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T18:57:07.381Z", 
+  "uid2LogOutTime": "2018-03-30T19:17:25.507Z", 
+  "uid2response": {
+    "feedback": "They described it well ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2923", 
+  "user2_id": "USR1936", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

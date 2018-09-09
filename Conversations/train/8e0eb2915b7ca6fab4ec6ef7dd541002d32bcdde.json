@@ -1,0 +1,277 @@
+{
+  "date": "2018-04-02T15:12:57.104Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:13:06.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:13:14.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie do you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:13:38.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I like comedy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:13:59.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:14:19.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I should be asking you this question.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:14:45.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:15:03.103Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Faster & Furious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:15:08.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this the movie that you have the doment of?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:15:36.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes some ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:15:48.007Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Fast and Furious is in your document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:16:26.590Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:16:45.813Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:16:55.860Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I like that movie a lot .", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:17:13.366Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is in your document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:17:18.556Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not have one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:17:29.439Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What scene did you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:17:41.971Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I really would like to watch that movie. Which part it is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:18:19.194Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is in 7", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:18:49.537Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:19:05.668Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do not remember watching it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:19:20.420Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you tell me more about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:19:36.763Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Next i like Thriller movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:19:45.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. Can you tell me more aboutit?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:20:25.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK i like conjuring movie very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:20:55.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would like to watch one. But I am kind of need more information towards that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:21:13.578Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In this movie is some murder case and so there is some thriller movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:22:00.652Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you advise anything, please?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:22:21.515Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else you can tell me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:22:50.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen Goos Bump", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:23:29.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:23:42.689Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is that about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:23:50.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is superb movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:24:07.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:24:17.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there anything else that you can tell me about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:24:41.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let we finish conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:24:45.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:24:49.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:24:55.063Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:25:00.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for chatting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:25:09.855Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T15:12:57.104Z", 
+  "uid1LogOutTime": "2018-04-02T15:25:36.313Z", 
+  "uid1response": {
+    "feedback": "I just had a good experience chatting with another user about different movies. The user was polite and was actively responding to my questions. I will fallow the advice given by this user. Thank you.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:12:57.350Z", 
+  "uid2LogOutTime": "2018-04-02T15:25:04.283Z", 
+  "uid2response": {
+    "feedback": "Good Survey", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR99", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

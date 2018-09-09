@@ -1,0 +1,306 @@
+{
+  "date": "2018-03-20T18:37:30.687Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:37:55.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:37:57.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have u seen iron man?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:38:01.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no I haven't", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:09.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it any good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:12.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also, which one do you mean?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:20.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its a film starring robert downey jr", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:38:21.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he plays iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:38:24.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yes, I've heard of it, just havn't seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:40.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it came out in 2008 and directed by jon favreau", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:38:41.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is he any good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:44.626Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jon favreau?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:51.834Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes he is very good director/actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:38:55.885Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:38:56.018Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, but I didn't imagine him to be action director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:39:15.274Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who else is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:39:21.222Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its about a genius inventor he creates weapons and eventually creats a suit", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:39:23.583Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "terrence howard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:39:28.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "jeff bridges", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:39:32.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is he the bad guy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:39:36.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:39:39.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "stark's company was doing illegal shipments to terrorists", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:40:03.378Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:40:06.565Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whos stark?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:40:12.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "tony stark the billionaire playboy ceo inventor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:40:27.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "robert downey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:40:31.665Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "they try to kill stark but they dont obviously", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:40:43.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who's Jeff bridges palying?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:41:13.686Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "obadiah stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:41:19.081Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bad guy or good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:41:25.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "stark creates an ark reactor and his company is trying to recreate the tech", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:41:39.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hes bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:41:45.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "stark fights obadiah in the stark building", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:42:10.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are jeff bridges and terrance howard in cahoots?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:42:12.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not terrence howard", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:42:29.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "whats an ark reactor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:42:33.295Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "like a mini nuclear reactor that powers things", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:42:52.040Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wait, so both jeff bridges and terrence howard are BAD guys? yeah?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:42:52.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "only jeff bridges is bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:42:59.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh I see. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:01.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:06.833Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's terrance howard's relation to Tony stark?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:18.321Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "terrence howard is good friends with stark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:43:24.881Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "best friend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:43:28.536Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did you leave?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:46.013Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T18:37:30.688Z", 
+  "uid1LogOutTime": "2018-03-20T18:44:11.587Z", 
+  "uid1response": {
+    "feedback": "well, he/she just told me who plays whom and who directed the movie, didn't actively trying to persuade me or otherwise. and he/she left after a couple minutes!  and he just said the film is good, telling but not showing", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T18:37:30.743Z", 
+  "uid2LogOutTime": "2018-03-20T18:43:34.190Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR129", 
+  "user2_id": "USR2463", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

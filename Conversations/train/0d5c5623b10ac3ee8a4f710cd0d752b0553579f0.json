@@ -1,0 +1,260 @@
+{
+  "date": "2018-02-07T23:12:39.340Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:13:28.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I know a movie you may like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:13:49.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:14:06.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's actually sort of a musical", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:14:17.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's great! I love musicals. Are there any big name actors in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:14:47.139Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan Gosling", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:14:55.394Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice! It looks like the movie has pretty great ratings on Rotten Tomatoes and other review sites", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:15:33.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also has Emma Stone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:15:42.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think you would like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:16:03.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would love it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:16:19.672Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I would love it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:16:27.767Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics love it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:16:28.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like dancing in movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:16:38.437Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:16:49.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think of the two key scenes? Which one sounds more interesting to you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:17:10.445Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would like the first one just to see someone playing music soulfully", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:17:49.862Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree. I think that scene sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:18:28.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I just saw it has John Legend in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:18:40.936Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Isn't he, like, a legend or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:18:50.018Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha I think so! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:18:57.340Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think the new scene, where Mia decides to write a one-woman play sounds cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:19:20.186Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's in LA.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:19:30.265Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do like the setting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:19:44.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She does sound like a cool character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:19:46.768Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm more of a New York person myself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:19:54.156Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They both sound interesting. New York is a great place as well! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:20:15.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LA is so flat isn't it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:20:29.752Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And all that nasty stuff in the news about Hollywood", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:20:42.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it is. And expensive! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:20:47.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The warm climate is appealing though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:21:05.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you like jazz?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:21:27.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can appreciate jazz, but it's not one of my favorite genres. Do you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:21:55.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not my favorite either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:22:06.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I prefer more forethought and craftsmanship in my music", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:22:17.243Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "improv doesn't suit me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:22:23.793Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree with that. I do appreciate that a contemporary movie is bringing jazz into it. Jazz isn't usually found in mainstream movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:22:46.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "gotta go. peace.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:23:09.398Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T23:12:39.340Z", 
+  "uid1LogOutTime": "2018-02-07T23:23:11.698Z", 
+  "uid1response": {
+    "feedback": "Loved this movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:12:39.397Z", 
+  "uid2LogOutTime": "2018-02-07T23:23:15.770Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1324", 
+  "user2_id": "USR2716", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

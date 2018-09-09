@@ -1,0 +1,179 @@
+{
+  "date": "2018-02-05T23:20:52.424Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! Hope you can tell me some interesting tips.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:21:57.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie is disney's frozen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:23:33.064Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool. What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:23:57.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its an adaptation of hans christian anderson's the snow queen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:24:44.850Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the main character's name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:25:07.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "elsa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:25:29.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, I guess it's full of Ice and Snow huh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:26:16.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "shes a princess looking to find her estranged sister", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:27:03.864Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how did they become estranged?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:27:33.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not sure, but the sister is somehow responsible for elsa's kingdom being trapped in eternal winter", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:28:34.858Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So, maybe she's an evil sister?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:29:37.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no, elsa's uncontrolled magic injured her sister when they were young and their parents eventually separated them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:30:45.864Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, for their own safety?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:19.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:31:41.342Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, her parent's don't know where the sister is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:31:54.337Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "their parents died when they were teenagers ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:32:40.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh, ok. does she have help to find her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:33:40.319Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, a rugged iceman and his pet reindeer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:34:23.654Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there an evil character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:34:50.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, the duke of weselton", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:35:57.152Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:36:24.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he outs elsa as having dangerous magical powers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:37:27.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, hope she finds her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:37:56.731Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i bet she does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T23:38:46.066Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its a bit complicated after elsa finds her sister", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T23:38:54.640Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T23:20:52.424Z", 
+  "uid1LogOutTime": "2018-02-05T23:39:54.995Z", 
+  "uid1response": {
+    "feedback": "user 2 left the chat after sending 12 messages i answered and one last message i didn't get a chance to answer", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T23:20:52.424Z", 
+  "uid2LogOutTime": "2018-02-05T23:38:58.448Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4639", 
+  "user2_id": "USR4272", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "date": "2018-03-29T14:15:19.226Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, can you tell me the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:16:30.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:16:45.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, can you tell me the name of the movie?\n\nand who is the main actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:17:09.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:17:25.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:17:51.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it. Rotten tomatoes has it at 94%.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:18:19.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you mean, rotten tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:19:32.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a movie rating website.  I usually agree with most of their ratings.  It was a very impressive movie lots of great special effects.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:36.560Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, I'm going to see this movie, I appreciate your opinion about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:46.130Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Of course, I hope you enjoy it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:22:12.547Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You're a robot? , because I already did the tasks but it does not let me finish the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:40.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, don't we have to do more back and forth?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:24:05.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I just had to ask you about the movie, and about some things about it, like its special effects and know if you would recommend it, but I do not know what else to do.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:25:04.946Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Don't know. I guess ask more questions. I had the document and then it just switched to a new document.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:54.711Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:59.636Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay, how long is the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:47.968Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure from this document but every minute will be worth it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:27:28.869Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a sexy woman in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:27:59.681Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mmmm... Gwyneth Paltrow as Pepper Potts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:28:22.170Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thank you, and what is the movie about, is there a mission that you have to fulfill or a purpose?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:29:13.461Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tony Stark is a rich guy and builds an awesome powered exoskeleton to become Iron Man.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:30:14.551Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's fine for me, I do not need more information to watch the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:31:30.829Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We just have to chat 3 turns (back and forth) for each of 4 documents. 4th just popped up. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:34.791Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and the fourth document is a different movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:33:20.565Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What can you tell me about the soundtrack of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:33:39.019Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All same movie. Just different info.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:34:06.849Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you know what is the soundtrack of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:34:31.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure about that but did you know it was directed by Jon Favreau?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:34:49.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did not know, I did not know it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:20.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and who wrote the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:32.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mark Fergus, Hawk Ostby, Art Marcum, and Matt Holloway.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:36:19.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ty ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:36:25.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:36:31.110Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:15:19.226Z", 
+  "uid1LogOutTime": "2018-03-29T14:36:35.757Z", 
+  "uid1response": {
+    "feedback": "We were both a bit confused about what to do until I saw the strategies button hiding at the bottom of my screen. I had to scroll down to see it.  I wish I could do this more than once.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:15:19.308Z", 
+  "uid2LogOutTime": "2018-03-29T14:36:32.346Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1659", 
+  "user2_id": "USR4889", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

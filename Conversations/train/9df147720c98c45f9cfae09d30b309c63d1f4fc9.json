@@ -1,0 +1,85 @@
+{
+  "date": "2018-03-20T20:07:39.088Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "dude ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:08:01.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:08:07.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen \"The wolf of Wall Street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T20:08:21.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I havent what is it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:08:34.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": ":(", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:09:28.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what do I do now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:10:39.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess ill sing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:10:43.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or cry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:10:49.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really wanted to watch the Wolf of Wall Street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:11:04.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but the guy left", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T20:11:10.940Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-20T20:07:39.088Z", 
+  "uid1LogOutTime": "2018-03-20T20:14:38.365Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-20T20:07:42.239Z", 
+  "uid2LogOutTime": "2018-03-20T20:09:17.643Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3833", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

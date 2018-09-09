@@ -1,0 +1,365 @@
+{
+  "date": "2018-02-16T10:12:53.176Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:13:24.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What type of movie you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:14:07.804Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:14:21.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I LIKE HOROR MOVIES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:14:33.656Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:14:42.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "NICE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:14:51.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's your favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:15:24.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What Horor have you seen lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:16:21.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I LIKE GREEN", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:16:24.305Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "AVAL", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:16:40.958Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "AND YOU", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:16:46.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's your favourite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:17:45.823Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Happy Death day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:17:57.832Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:18:16.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:18:32.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What other movies you like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:18:51.327Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "love and romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:19:37.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same here....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:19:54.127Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh nice ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:20:03.793Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I love the Proposal movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:20:37.460Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which one you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:20:56.822Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "same ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:21:13.474Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really Awesome ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:22:11.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:22:47.526Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "WE have things in common ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:23:13.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What was your best drop the mic moment?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:23:33.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's your fav song", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:24:08.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Prefect ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:24:51.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "love that song", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:25:01.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:25:11.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah what about u?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:26:08.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "tum hi ho ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:26:37.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:27:27.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have anything else to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:28:32.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:29:04.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What?.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:29:25.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "say something", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:29:46.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which is your fav place", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:30:32.342Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you a man or a woman?>", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:30:45.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:30:54.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:30:57.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:31:51.789Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nice to chat with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:32:14.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is your good name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:32:25.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Shay and u.?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:33:02.487Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice talking to you too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:33:20.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nisha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:33:50.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice talking to u Nisha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:34:38.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank u very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:35:01.836Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where u from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:35:15.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "US", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:35:22.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:35:36.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:35:54.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nxt task", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T10:36:02.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What that?.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T10:36:48.641Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T10:12:53.176Z", 
+  "uid1LogOutTime": "2018-02-16T10:37:14.365Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T10:12:53.439Z", 
+  "uid2LogOutTime": "2018-02-16T10:36:51.077Z", 
+  "uid2response": {
+    "feedback": "nice conversation", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3908", 
+  "user2_id": "USR191", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

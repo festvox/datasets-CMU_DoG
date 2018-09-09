@@ -1,0 +1,235 @@
+{
+  "date": "2018-01-29T23:00:12.285Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:01:08.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:11.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:01:41.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "inception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:48.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "inception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:03.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:04.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:12.469Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:26.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the paragraphs about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:27.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main characters in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:53.327Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The rating of the movie, the cast, and an overview of the movie plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:56.304Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What genre is the movie in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:56.991Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Also it includes key scenes from the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:03:20.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any famous actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:31.185Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "leonardo dicaprio, ellen page", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:04:27.051Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:04:42.690Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "josheph gorden levitt and tom hardy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:04:52.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:05:29.827Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it for kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:05:41.731Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, i don;t what its rated but its mostly action, probably pg-13", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:06:13.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is this a new movie? When was release date?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:06:33.844Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:06:39.536Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Any information on who the director is??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:07:02.260Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "chrisopher nolam", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:14.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the guy from batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:07:26.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:07:36.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I heard of the movie, it includes sci-fi and dreams, correct?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:08:11.031Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah thats right", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:08:20.626Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it was a big production too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:09:10.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, a summer blockbuster type i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:09:50.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:10:16.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think this is more than 12 responses", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:10:26.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we can abort.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:10:37.801Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T23:00:12.285Z", 
+  "uid1LogOutTime": "2018-01-29T23:10:42.815Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T23:00:12.365Z", 
+  "uid2LogOutTime": "2018-01-29T23:10:10.383Z", 
+  "uid2response": {
+    "feedback": "I think the chat person is probably now interested in watching the movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3906", 
+  "user2_id": "USR4810", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

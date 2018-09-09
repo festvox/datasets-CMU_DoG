@@ -1,0 +1,282 @@
+{
+  "date": "2018-02-16T23:44:27.747Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:45:02.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. I'm reviewing Zootopia. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:45:35.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:45:48.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:45:57.884Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jason Bateman, Jenny Slate and Idris Elba. All good actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:46:35.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What type of movie is it? Action, drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:47:08.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's animation. Maybe that's why I haven't seen it yet. Don't normally look for those types. Made in 2016", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:47:38.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OH \nanimation! Is it a Disney film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:48:14.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't see anything that mentions Disney. The introduction is - a world populated by anthropomorphic mammals, and one has a childhood dream of becoming a police officer in urban Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:49:51.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If not Disney, does it say what studio made it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:50:24.164Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Director Byron Howard, Rich Moore. Rotten Tomatoes 98% average 8/10 IMDB 8/1. Good ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:51:14.102Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do not know what anthropomorphic means, do you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:51:45.602Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lol. Me either. I can't see anything about studios.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:52:31.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "IS Byron Howard related to Ron Howard, the famous director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:52:38.911Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Funny, I was just thinking the same thing, Opie from Andy Griffith Show. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:53:11.954Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes Opie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:54:02.908Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, this is a Disney film. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:54:40.309Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not an expert on animation, but usually they have many types of animal characters, what type in theis movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:54:46.713Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There's the first rabbit to join the police force - that's one character. I'm still reading.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:56:26.600Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Usually Disney has a very good sound track and some star singing the signature song, is there a song in this nominated for a Grammy or Oscar?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:57:16.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'll see if there info on that. Idris Elba plays Chief BOGO , head of the police department", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:58:36.266Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My guess is the main rabbit character has a love interest, not necessarily a rabbit, how about in this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:58:51.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Idris Elba I am not familiar with", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:59:09.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "English actor, real deep, strong voice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:59:37.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gee, lots of awards. Best animated 2017 - Golden Globe 2017, kids choice awards", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:00:51.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Idris \ne", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:01:29.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If I remember correct Shakira did a big song from a Disney movie recently, did she do this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:01:37.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Idris Elba was in Pacific Rim, Dark Tower, and I think for a short while he played a boss in \"Office\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:02:39.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was not a big OFFICE viewer", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:03:08.340Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe the song TRY VERYTHING was from this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:03:38.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Everything", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:03:47.738Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, you know your movies! Shakira did voice for Gazelle the biggest pop star in Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:03:57.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's the song!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:05:29.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a very long movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:05:37.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "One hour and 50 minutes. Not bad if it keeps my interest. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:06:27.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know if it is available on Netflix?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:06:33.492Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it is. Wonder if my grandchildren watched it yet. I'm gonna ask.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:07:27.018Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe I will grab a beer later and watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:07:57.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not quite sure what else I can ask", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:08:32.570Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good. Funny I keep up with movies but not this one. Probably because I'm so drawn to those series on Netflix, Shameless, Orange is the new Black. I don't see any more info to give you about this movie..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:09:30.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok, lets finish the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:10:17.205Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T23:44:27.747Z", 
+  "uid1LogOutTime": "2018-02-17T00:09:49.273Z", 
+  "uid1response": {
+    "feedback": "Think  will rent it. I didn't see enough information about this movie when I was trying to chat.\nDidn't know it was Disney.\nDidn't know it was almost 2 hours long.Had to struggle to read what the characters were in the movie. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T23:44:27.818Z", 
+  "uid2LogOutTime": "2018-02-17T00:10:44.452Z", 
+  "uid2response": {
+    "feedback": "I like animation and this one won awards, so I will try it off Netflix", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3699", 
+  "user2_id": "USR2328", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

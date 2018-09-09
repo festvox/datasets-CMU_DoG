@@ -1,0 +1,236 @@
+{
+  "date": "2018-03-26T14:47:42.336Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:47:56.729Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:25.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Want to talk about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:48:51.671Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This looks like a great movie. Robert Downey Jr is very talented.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:48:54.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I liked it as a kid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:49:26.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved Jeff Bridges in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:50:55.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you explain the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:51:06.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about Tony Stark, an indutrialist who builds a technologically  advanced armor for himself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:53:01.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is he a superhero?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:53:44.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I see it got a 94% on rotten tomatoes. That's a great score.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:54:13.506Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, pretty much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:54:16.716Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In some ways similar to Batman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:54:34.178Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, okay. I like Batman. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:54:54.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Gwyneth Paltrow. She's his love interest in the movie, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:55:57.670Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:56:31.060Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She's fine in this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:56:45.822Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, cool. So do you agree with the rating given to this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:57:43.786Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, i'ts a fair rating in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:16.836Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:58:44.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I haven't seen it! But it seems to be a good movie from the document. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:59:14.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'll have to watch it soon.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:59:21.752Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Go check it out then", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:59:47.648Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:59:57.394Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Robert Downey Jr. is very good in this.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:01:28.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay I will! I like him in other movies, and I've only heard good things about iron man.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:02:22.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm sure it will be a great move. Is there a lot of action?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:02:32.943Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, tons of action!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:02:58.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh great! I love action films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:03:34.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is the director pretty good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:05:33.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, Jon Favreau knows how to make an action film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:06:37.918Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome! Do you have any critiques on the film itself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:07:21.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a good film, the best in the series.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T15:07:55.540Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool! Thanks for chatting with me. Have a good day@", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T15:08:12.073Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-26T14:47:42.336Z", 
+  "uid1LogOutTime": "2018-03-26T15:08:49.567Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:47:42.456Z", 
+  "uid2LogOutTime": "2018-03-26T15:08:15.074Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2144", 
+  "user2_id": "USR2151", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

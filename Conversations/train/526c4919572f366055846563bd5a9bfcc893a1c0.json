@@ -1,0 +1,41 @@
+{
+  "date": "2018-02-09T20:55:11.615Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I like the message of inclusivity this sends to kids, it looks like it gets great reviews, and would be fun to watch!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T20:57:53.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with you on the fact that it has a great message on inclusivity. I also think that there is a \u200bmessage about not always believing stereotypes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T20:59:04.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also love the characters and actors they've assigned to do the voices.  A diminutive sheep as assistant mayor, an eager rabbit, an african water buffalo as chief of police.  And, a fox as the con artist.  Sounds entertaining and interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T21:02:38.265Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-09T20:55:11.616Z", 
+  "uid2LogInTime": "2018-02-09T20:55:12.025Z", 
+  "uid2LogOutTime": "2018-02-09T21:09:52.923Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4255", 
+  "user2_id": "USR748", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

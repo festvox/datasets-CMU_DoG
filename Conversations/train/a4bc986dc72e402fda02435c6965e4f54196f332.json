@@ -1,0 +1,40 @@
+{
+  "date": "2018-03-05T16:36:51.491Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I didn't realise this film had the same directors as Lilo and Stitch, the animation is very advanced", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:37:52.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't know that either. I also didn't know that it was loosely based off a book. The animation is very advanced for a film in 2010.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:40:02.451Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T16:36:51.491Z", 
+  "uid1LogOutTime": "2018-03-05T16:48:03.752Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:36:51.592Z", 
+  "uid2LogOutTime": "2018-03-05T16:38:56.366Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4589", 
+  "user2_id": "USR260", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

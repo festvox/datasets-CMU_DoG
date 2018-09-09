@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-07T17:22:03.377Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:22:31.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi. do you know the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:22:56.583Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie The Social Network yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:22:59.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:18.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but can you refresh my memory on some of it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:30.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was an awesome movie ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:23:34.918Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your favorite part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:23:50.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When his girlfriend dumped him and FB was invented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:24:28.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Jesse Elsenberg movies, He plays Mark in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:24:59.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you think the movie closely follows zuckerberg's life?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:25:18.468Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do beleive it does, since its based on his BIO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:25:57.429Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what was your least favorite part of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:26:18.396Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really started to lose interest when FB bacame so big and started having legal problems", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:27:04.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics made out to beleive that it actually true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:27:23.041Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that's understandable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:27:24.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "were there any loose ends in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:27:40.498Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whats your favorite part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:27:42.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i haven't seen it in a while so i don't have any particular moments in mind", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:28:00.474Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not to me there wasn't..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:28:08.633Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it did have really good ratings though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:28:24.326Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you rely on ratings before you see movies? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:28:39.456Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no, I have to watch the trailer first ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:28:56.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yea, i hear ya. i like to check those out, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:29:15.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "David Fincher is the one that directed the movie and hes a good director in my eyes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:29:16.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what other movies has he directed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:29:27.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "fight club and seven are a few", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:29:50.994Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ahh, yea. those are among my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:30:03.088Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Panic room is another", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:30:17.100Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really beleive he did a good job with this movie, He could have been more detailed though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:30:34.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who else was in the social network other than eisenberg? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T17:30:38.342Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Justin Timberlake played Sean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:31:24.767Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Andrew Garfield also played in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:31:40.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was really impressive that a 19 year old created something a big as facebook ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:32:51.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "especially out of his dorm room what a smart kid", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T17:33:08.570Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T17:22:03.377Z", 
+  "uid1LogOutTime": "2018-03-07T17:33:56.494Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T17:22:03.413Z", 
+  "uid2LogOutTime": "2018-03-07T17:31:09.355Z", 
+  "uid2response": {
+    "feedback": "the other user seemed interested in the movie and provided some feedback on the director. this led me to believe that the movie is worth checking out.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3613", 
+  "user2_id": "USR1572", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

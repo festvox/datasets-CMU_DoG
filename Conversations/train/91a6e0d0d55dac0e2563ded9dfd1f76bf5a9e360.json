@@ -1,0 +1,98 @@
+{
+  "date": "2018-02-28T18:54:09.439Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:54:30.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\niH", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:55:00.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie Despicable Me?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:55:08.706Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You know, I kind of did.  Even though its a kids movie.  I get a kick out of the minions", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:55:31.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the minions too. And yes even though it was a kids movie i liked it as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:55:54.555Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And of course Steve Carell is great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:56:17.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he is always a good actor in my eyes. Even in the animated film industry.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:56:33.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you normally watch childrens movies or anything of this genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:56:44.275Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I will often watch Disney movies especially anything like a musical", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:57:14.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here. Especially pixar, do you like pixar films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:57:35.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:58:24.532Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-28T18:54:09.439Z", 
+  "uid1LogOutTime": "2018-02-28T18:58:29.745Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat. I wasnt quite sure what to do at that point? It was going smoothly but they left.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T18:54:09.470Z", 
+  "uid2LogOutTime": "2018-02-28T18:57:34.412Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR206", 
+  "user2_id": "USR536", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

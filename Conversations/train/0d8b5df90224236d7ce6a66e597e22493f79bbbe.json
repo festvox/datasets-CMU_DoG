@@ -1,0 +1,307 @@
+{
+  "date": "2018-03-01T02:48:05.141Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:48:13.152Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:48:47.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you doing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:49:05.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe I am supposed to convey to you why you should read The Social Network", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:49:12.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm well, thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:49:16.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Social Network the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:49:34.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Correct!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:49:40.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What were you tasked with?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:49:44.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "To discuss a movie with you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:50:18.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "try to gather info and decide if I want to watch it at the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:50:34.900Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:50:37.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well I watched The Social Movie about 5 years ago for the first time and highly enjoyed it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:50:59.324Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "which ever movie you were tasked with to talk to me about - in this case the Social Network", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:51:00.791Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In particular Eisenberg's portrayal of Zuckerberg was highly compelling", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:51:16.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and it's funny as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:51:21.947Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Eisenberg is the lead actor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:51:30.221Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And if you did not attend an Ivy League university, it gives you a sneak peak of what life inside one may be like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:51:49.425Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes he is the lead actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:51:53.306Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you know which other movies he was in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:53:10.605Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure actually", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:53:28.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This is the only one of his that I know at all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:53:34.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I hope he's not being typecast as Zuckerberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:53:44.680Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Because he is a majorly talented actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:53:53.418Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what other actors were there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:54:04.521Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Justin Timberlake and Armie Hammer were also in it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:54:51.028Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Timberlake was cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:54:54.561Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He played the founder of Napster", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:55:01.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and which was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:56:14.094Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Probably Eisenberg as Zuckerberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:57:08.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wasn", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:57:09.707Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wasn't the most likable character (that was probably Saverin) but he played the role incredbily well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:57:28.592Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "a nuanced portrait", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:57:33.551Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so the film is entirely biographical?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T02:58:58.888Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:59:28.142Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "although I know that Zuckerberg has complained about the accuracy of the plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:59:40.095Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "there's quite a bit of tension in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T02:59:45.774Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "does it feature the \"evil twins\"? (I forgot their names)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T03:00:55.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:01:16.864Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Winklevoss twins!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:01:21.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "although they don't sound/appear that evil in the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:01:29.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they look cheated actually ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:01:38.104Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what's your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T03:01:53.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably the deposition of Zuckerberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:02:30.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "when he's being investigated for fraudulently\n claiming he came up with the idea for Facebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T03:02:50.062Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how about the soundtrack? anything worth noting?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T03:03:45.396Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T02:48:05.141Z", 
+  "uid1LogOutTime": "2018-03-01T03:03:58.459Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T02:48:05.153Z", 
+  "uid2LogOutTime": "2018-03-01T03:04:06.791Z", 
+  "uid2response": {
+    "feedback": "I would watch the movie", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR872", 
+  "user2_id": "USR2913", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

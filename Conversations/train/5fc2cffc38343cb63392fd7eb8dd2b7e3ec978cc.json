@@ -1,0 +1,124 @@
+{
+  "date": "2018-03-07T23:50:20.433Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:50:31.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:50:35.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:50:52.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:51:01.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:51:04.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was your fav scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:51:13.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the scene at the ferris wheel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:51:26.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:51:47.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "gosh thats hard, it was agreat movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:52:19.519Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "indeed! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:52:44.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the story really portrays true love..do agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:53:12.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i just got dumb founded on the movie at hand lol whats the name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:53:30.621Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the notebook, a romantic film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:54:06.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok i could picture but couldnt name it, and yes it does, they have a great vibe together", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T23:54:39.294Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " The performance of Ryan Gosling was stellar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:55:57.655Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:56:45.609Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T23:57:50.621Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T23:50:20.433Z", 
+  "uid2LogInTime": "2018-03-07T23:50:20.599Z", 
+  "uid2LogOutTime": "2018-03-07T23:58:13.310Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2796", 
+  "user2_id": "USR4359", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

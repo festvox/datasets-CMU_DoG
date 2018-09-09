@@ -1,0 +1,320 @@
+{
+  "date": "2018-03-29T15:31:18.069Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:31:22.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie? I have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:31:30.490Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OH wait.. Yes I have.  I was thinking something else. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:31:46.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, it looks interesting, doesn't it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:32:10.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:32:18.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "robert downey jr is very good in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:32:27.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you like most about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:32:37.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like the story line the most i think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:32:54.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:33:31.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The special effects are pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:33:41.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but a long time ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:33:43.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The ratings on the movie are pretty good too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:33:55.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, and there is a lot of tension between characters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:34:12.466Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's also been a while for me.  I think when it first came out i seen it and that was probably the last time", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:34:13.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, very true.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:34:25.887Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i dont thinnk i like the sequels too much- but that's usually the way that goes for movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:34:43.714Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which of the characters do you love most?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:34:57.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i would have to say robert downey in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:35:08.732Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the critical response is a bit confusing on this document- calling the movie depressing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:36:22.573Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the rest of the comments are good about the effects, and the other things.   I dont think i would call the movie depressing tho. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:36:49.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Maybe too deep for a superhero movie, don't you think? Like a Ridley scott movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:36:53.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "possibly. it's different then other super heroes movies--- however i think the hulk movie was about the same tho ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:37:30.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow, what about the technical stuff?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:37:47.359Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "seems pretty good in that respect", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:38:18.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like fiction movies featuring engineers, they seem nerdy in the beggining but they end up saving the day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:38:54.972Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not a big fan of gwneth paltrow in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:06.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that is true about the engineer types lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:27.921Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it's hard to believe this movie is 10 years old now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:41.138Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "doesn't seem like it at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:48.336Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why don't you like gwyneth in this role?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:39:53.302Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is boring to me.  i'm not even sure i like her in any of the movies. i think i just dont like her much", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:40:16.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not being the movie heroine or hero hurts a little bit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:40:38.754Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "true- its been a while since i seen this but i honestly cant remember much about her in the movie. just that she was there lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:41:06.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That genre \"military thriller\" sounds both intriguing and interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:41:19.331Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it does. that genre is very interesting ring to it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:41:40.932Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i remember the part where they took over downey's \"home\" and rampaged it.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:42:21.118Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and shockingly the end where he admits to being the superhero-   i dont recall any other super hero doing that revealing their identity", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:42:54.687Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes... a reason to watch it again. I might have forgotten some of the scenes and the ficticious countries in there, like Gulmira, shown along with Afganistan, a real country.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:49.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i can't recall what happened in the 2nd film after he told the people who he was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:49.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes same here- i am only recalling bits and pieces", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:01.466Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think we even have these dvds (my 12 year old loves this series)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:15.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he would be happy if i said lets watch this today LOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:28.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ha ha, and by the way  i even haven't seen the sequel.....That sounds good for an Iron man marathon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:44:49.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe this weekend", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:44:57.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "true.  good thing to do on a holiday weekend- watch movies!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:11.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think we might do that as well!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:15.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good luck!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:45:24.048Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T15:31:18.069Z", 
+  "uid1LogOutTime": "2018-03-29T15:45:17.149Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:31:18.123Z", 
+  "uid2LogOutTime": "2018-03-29T15:45:51.661Z", 
+  "uid2response": {
+    "feedback": "The conversation was as dynamic as the subject movie Lol", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR890", 
+  "user2_id": "USR4196", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

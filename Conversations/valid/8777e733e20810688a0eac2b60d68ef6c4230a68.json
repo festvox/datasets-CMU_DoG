@@ -1,0 +1,149 @@
+{
+  "date": "2018-03-20T19:41:12.589Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you remember the movie Home Alone? It's almost 30 years old now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:42:23.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I do.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:42:37.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree with the critics that it started out rather flat, then became slapstick and funny in the last half.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:43:11.914Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It\u2019s a 1990 American comedy film starring Macaulay Culkin and directed by Christ Columbus.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:43:55.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Joe Pesci and Daniel Stern were in it, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:44:20.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So was John Heard, playing the role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:45:14.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He did a great job as Kevin's father.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:45:59.776Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critic found the booby traps to be implausible, though, and I have to say I agree. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:47:49.193Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. I did think they were funny, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:48:19.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely. It's a good movie to watch if you're looking for something sadistic and slapstick.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:48:56.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Another called it a \u201csadistic festival of adult-bashing\u201d.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:48:56.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Hughes is pulling our strings as though he\u2019d never learn to do anything else.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:49:50.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I never liked the way Kevin was sent to the third floor after fighting with Buzz. I didn't blame him for wishing his family would disappear.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:50:22.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I\u2019ll bet he regretted in when burglars came in!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:52:55.107Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But before that, he was left behind when everyone slept in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:53:52.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "During the night, a heavy storm and power outage resets the family\u2019s alarm clocks. In the morning, they are in a big rush and leave Kevin behind by mistake in all the confusion!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:54:00.202Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:54:09.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was a bad night for a storm.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:54:34.611Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Very bad!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:54:45.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One of the most enduring images from the film is when his mother figures out that he isn't on the plane and yells his name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:55:26.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Everything she went through trying to get back home was crazy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:57:13.673Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T19:41:12.589Z", 
+  "uid1LogOutTime": "2018-03-20T20:06:31.739Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T19:41:13.349Z", 
+  "user1_id": "USR1950", 
+  "user2_id": "USR3752", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "date": "2018-03-16T17:12:04.510Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:12:43.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whadup?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:12:57.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:13:04.726Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you want to chat about movies ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:13:28.421Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:13:37.639Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have any suggestions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:13:43.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well - I have one that I think is only so-so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:09.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called Catch Me If You Can", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:26.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:14:40.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "actually nice movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:14:45.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:08.716Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's stars Leonardo DiCaprio, Tom Hanks, Christopher Walken, etc. Directed by Steven Spielberg\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:14.737Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's so-so, a time piece movie, set in the 60's ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:55.474Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Aham, I think I remember a poster of the movie. Young Leo, running away from cop Hanks, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:07.633Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why so-so?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:21.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "W\nas it boring?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:16:29.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think so, but I'm not that sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:31.538Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's kind of exciting. Leo plays a con-artist that learns very early on who to pose as other people ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:59.276Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok, that sounds cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:28.623Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:32.329Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he started early in high school and then does confidence game type scams, eventually forging Pan Am checks \n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:41.309Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, he shows up in the middle of the movie I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:59.293Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is he playing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:25.918Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sorry abotu that! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:32.974Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "About what?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:45.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hank is playing Carl Hanratty and FBI agent", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:49.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "forgetting to mention Hanks' character ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:56.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah, don't mention it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:14.611Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If we are enumerating all the roles, what is Walken playing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:41.117Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:45.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, but in the end, after leo's character turns himself in, him and hanks character become friends", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:51.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he plays leo's dad, but dies earlier in the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:01.137Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's seems like an interesting movie now that I'm looking at the details again", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:39.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "aham, how come that leo's character turns himself in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:42.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's something i may have to watch ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:45.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he turns himself in because he's in love and tired of running", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:56.907Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When did you last see the film? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:21:16.762Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It may be worth checking out again! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:21:23.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Pretty nice presentation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:25.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A long time ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:34.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I might check it out again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:39.894Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:45.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're welcome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:21:50.268Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T17:12:04.510Z", 
+  "uid1LogOutTime": "2018-03-16T17:21:52.751Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:12:04.635Z", 
+  "uid2LogOutTime": "2018-03-16T17:21:50.475Z", 
+  "uid2response": {
+    "feedback": "In the beginning It went a bit robotic with the conversation, but after the middle part, I was actually interested what the other person had to say.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2498", 
+  "user2_id": "USR1665", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

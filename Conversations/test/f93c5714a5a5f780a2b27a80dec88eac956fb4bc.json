@@ -1,0 +1,126 @@
+{
+  "date": "2018-03-05T19:41:44.246Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I actually enjoyed the movie, despite the negative critical feedback it recieved. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:42:48.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can only go by the reviews that i have read and never asw this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:43:07.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From the reviews, it looks like the movie is a total bore feast", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:43:20.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If its on rental i would rent it, but wont go out of my way to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:43:41.449Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I guess depending if you enjoy superhero movies or no, it would not be enjoyable if you didn't.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:43:49.481Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont mind the avengers movies.  but comic book movies that are \"comic bookish\" i dont like.   ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:44:08.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, these are all based on comic books so I think that's the direction they took", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:44:38.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like the hulk, one of the movies was like watching the comics and the other one was like watching a movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:44:42.395Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The first Hulk was awful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:44:52.757Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats what im talking about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:45:01.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Marvel has really stepped up their game in recent years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:45:04.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "DC comics is still behind on the perfect algorithm of movie making that marvel has founded. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:45:40.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i totally agree ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:46:11.646Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which is also why their newest movie The Justice League tanked in reviews as well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:46:40.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Though, I do enjoy the actors. I think some of the plot they had to deal with was set up badly. Like I said Marvel knows how to do it and ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:47:46.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "DC is just behind in the game", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:47:52.061Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T19:41:44.246Z", 
+  "uid1LogOutTime": "2018-03-05T19:50:05.096Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T19:41:44.365Z", 
+  "uid2LogOutTime": "2018-03-05T19:51:52.784Z", 
+  "uid2response": {
+    "feedback": "The other user was hard to talk to at points, not really engaging in conversation. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2751", 
+  "user2_id": "USR3185", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

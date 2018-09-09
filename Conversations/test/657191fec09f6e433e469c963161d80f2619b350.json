@@ -1,0 +1,73 @@
+{
+  "date": "2018-03-06T21:55:39.232Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello! Have you ever seen The Notebook?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:56:29.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not. Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:56:37.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you recommend it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:57:32.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have. It was a great movie and I would highly recommend it to anyone who enjoys romantic films. Are you familiar with any of the actors? Ryan Gosling, Rachel McAdams, Joan Allen, or James Marsden?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:57:59.393Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's not really my chosen genre for film - to be honest, I read the book, and like stories that don't leave me crying. I did enjoy Rachel McAdams in Dr. Strange.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T22:00:37.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never read the book. I know it's by Nicholas Sparks, who happens to be one of my favorite authors. Although you don't like stories that leave you crying, I would still suggest watching it. It really is a great film all the way around in my opinion. I also really like the fact that it's narrated by someone else who is re-telling the story to a nursing home resident. That really sparked my interest.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T22:04:07.266Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A frame story, so to speak. It gives a good perspective to the plot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T22:04:54.773Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T21:55:39.232Z", 
+  "uid1LogOutTime": "2018-03-06T22:04:20.577Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-06T21:55:39.279Z", 
+  "uid2LogOutTime": "2018-03-06T22:11:12.837Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR543", 
+  "user2_id": "USR33", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "date": "2018-02-19T19:38:05.802Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:38:16.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:38:30.963Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So we'll be talking about The Social Network, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:38:49.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Did you like the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:39:01.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was very well made and a good examination of the events that led up to the creation of Facebook.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:39:21.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't know much about the Facebook creation story before it, but I loved the movie. Andrew Garfield is one of my favorite actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:39:49.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Absolutely, he's fantastic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:40:06.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved Jesse Eisenberg in it too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:40:15.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesse Eisenberg has become one of my favorites because of The Social Network. I hadn't heard of him before it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:40:36.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I can't really remember a movie having him in it before this, I guess it really put him on the map lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:41:12.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was kind of surprised by the 96% rating on Rotten Tomatoes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:42:58.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought David Fincher did a great job as director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:46:12.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I didn't realize that this came out in 2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:46:23.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It feels so long ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:46:28.281Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the whole story was rather good and well constructed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:47:01.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Overall a very good film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:48:59.399Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:38:05.802Z", 
+  "uid2LogInTime": "2018-02-19T19:38:05.856Z", 
+  "uid2LogOutTime": "2018-02-19T19:49:43.100Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3743", 
+  "user2_id": "USR80", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2018-03-01T19:26:39.059Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie the social network?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:27:42.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there, yes of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:28:00.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:28:05.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh cool.  i haven't did you know Justin Timberlake was ini it\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:29:29.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it came out in 2010", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:29:51.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i heard and read before to watch the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:30:29.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ok.  i want to see it.  I'm a big fan of facebook so it should be interesting to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:31:18.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and I was pleased that Justin was in it because  i'am a fan of him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:31:28.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i suggest to se it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:31:36.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i enjoyed this likely movie,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:31:53.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "im a fan of his too.  hes a pretty good actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:31:56.089Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think i will see it,  it got great reviews on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:32:42.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw it at cinema on second day after it was launched", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:32:46.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "where?..\n\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:32:55.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "rotten tomatoes, the movie review site gave it a 9/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:33:19.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I always use imbd", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:33:44.231Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "for reviews. and there this beautiful move is rated very well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:34:26.712Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok cool.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:34:44.492Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i would say also that is an inspirational movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:35:58.263Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen any other suggestion about the fact that justin timberlake is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:38:33.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this movie is one of the best biographical movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:41:26.873Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are u still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:49:21.077Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T20:09:20.028Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T19:26:39.059Z", 
+  "uid2LogInTime": "2018-03-01T19:26:39.126Z", 
+  "uid2LogOutTime": "2018-03-01T20:10:14.135Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3648", 
+  "user2_id": "USR2762", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

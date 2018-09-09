@@ -1,0 +1,325 @@
+{
+  "date": "2018-02-12T19:17:30.777Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:32.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm supposed to explain this movie to you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:47.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:50.268Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:02.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen La la land?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:20.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:48.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a romantic comedy musical where Ryan Gosling is a jazz pianist and Emma Stone is an aspiring actress in LA who fall in love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:04.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like something i might like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:26.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did it get good ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:34.006Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah it got 92% on rotten tomatoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:51.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and 8.1/10 on IMBD", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:23:00.725Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:23:10.717Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it won some awards as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:23:12.711Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't have that information just yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:23:36.978Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know of other big actors that are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:23:55.555Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "John Legend and Callie Hernandez", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:19.470Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can I hear more about the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:09.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Here's one of the key scenes: ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:57.700Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "During a gig at a restaurant, Sebastian slips into a passionate jazz improvisation despite warnings\nfrom the owner to stick to the setlist of traditional Christmas songs. Mia overhears the music as\nshe passes by (\"Mia and Sebastian's Theme\"). Moved, she enters the restaurant, but Sebastian is\nfired for his disobedience. As he storms out, Mia attempts to compliment him, but he brushes her\noff.\nMonths later, Mia runs into Sebastian at a party where he plays in a 1980s pop cover band; she\nteases him by requesting \"I Ran (So Far Away)\", a song he considers an insult for \"a serious\nmusician\". After the gig, the two walk to their cars, lamenting each other's company despite the\nchemistry between them (\"A Lovely Night\").", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:59.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen the movie either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:15.409Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The sounds good is the movie still in theaters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:07.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No it was from 2016", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:28:45.537Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Here's the next key scene:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:22.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "After more failed auditions, Mia decides, at Sebastian's suggestion, to write a one-woman\nplay. Sebastian begins to perform regularly at a jazz club (\"Summer Montage\"), and the two\nmove in together. Sebastian's former classmate Keith invites him to be the keyboardist in his\njazz fusion band, where he will be offered a steady income. Although he is dismayed by the\nband's pop style, Sebastian signs after overhearing Mia trying to convince her mother that\nSebastian is working on his career. The band finds success, but when Mia attends one of\ntheir concerts (\"Start a Fire\") she is disturbed, knowing Sebastian does not enjoy their\nmusic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:31.692Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not a big fan of musicals but I do like the leading actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:30:30.276Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah the actors are good. What songs are in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:30:59.958Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Looks like a bunch of original stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:31:56.556Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:32:13.386Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"Mia and Sebastian's Theme\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:24.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\nI Ran (So Far Away)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:37.326Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Alovely Night", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:46.988Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Summer Montage", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:52.033Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Start a Fire ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:32:56.658Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's everything I see so far", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:33:04.531Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, what is it rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:33:40.787Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "R, PG-13, PG?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:01.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Doesn't say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:15.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'd imagine it's not R though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:24.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Here's the third key scene:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:35:37.924Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "During the band's first tour, Mia and Sebastian get into an argument; she accuses him of\nabandoning his dreams, while he claims she liked him more when he was unsuccessful. Mia\nleaves, insulted and frustrated. Sebastian misses Mia's play due to a band photo shoot that\nhe had previously forgotten. The play is a disaster; few people attend, and Mia overhears\ndismissive comments. Sebastian attempts to apologize to Mia for missing the play, but she\nis unwilling to forgive him and ends their relationship. Despondent and unable to pay the", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:36:12.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "theater back, Mia moves home to Nevada", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:36:21.664Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think kids would enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:08.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The director is Damien Chazelle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:16.173Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think preteens might like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:31.943Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:43.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably too smoozy for a little kid to enjoy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:44.624Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:37:50.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:38:08.527Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:17:30.777Z", 
+  "uid1LogOutTime": "2018-02-12T19:38:29.850Z", 
+  "uid1response": {
+    "feedback": "I do not like musicals or romantic comedies", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:17:31.011Z", 
+  "uid2LogOutTime": "2018-02-12T19:38:11.406Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3362", 
+  "user2_id": "USR922", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

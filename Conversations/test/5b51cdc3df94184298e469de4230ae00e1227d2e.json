@@ -1,0 +1,243 @@
+{
+  "date": "2018-03-20T22:13:55.894Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:14:10.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:14:13.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HAVE YOU WATCH THE MOVIE BEFORE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:14:33.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:14:41.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are you referring to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:14:48.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "toy story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:15:00.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, i have watched it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:15:11.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "tell me about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:15:21.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:16:03.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wait, i have not seen the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:16:06.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell me what it's about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:16:11.250Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I actually thought you mentioned that you already watched it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:16:51.626Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i have not. i mistook it for a different movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:17:18.254Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:17:56.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:18:15.459Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it worth watching?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:18:22.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:19:54.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry i went to pee", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:21:33.114Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no worries", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:22:36.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so have you seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:22:45.092Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "if so, can you tell me about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:22:53.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i have not seen it as well ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:23:20.154Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "just like you ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:23:31.862Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:23:35.155Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i've heard good things about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:23:48.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you heard anything about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:24:03.451Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not really ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:24:13.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so tell me the good things you heard about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:24:32.909Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "heard that it had a cute story line/plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:25:00.348Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and that there are three movies total, toy story 1, 2, and 3", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:25:55.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wow ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:25:55.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that's about it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:26:18.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thats really awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:26:34.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what are you up to?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:28:16.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you can end the conversation, they will still pay you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:28:36.162Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T22:13:55.894Z", 
+  "uid1LogOutTime": "2018-03-20T22:28:49.961Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T22:13:55.926Z", 
+  "uid2LogOutTime": "2018-03-20T22:29:06.589Z", 
+  "uid2response": {
+    "feedback": "user had not seen the movie and was not able to tell me about it", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4580", 
+  "user2_id": "USR4830", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

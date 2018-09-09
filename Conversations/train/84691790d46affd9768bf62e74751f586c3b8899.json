@@ -1,0 +1,104 @@
+{
+  "date": "2018-03-02T02:58:59.590Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I love how in Despicable Me it turned the villian into the good guy. That was\n great.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T02:59:58.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, it was awesome. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:01:00.764Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carrell and Jason Segel are both great, they really made the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:01:36.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i thought it was very funny too... it wasn't just a movie for the kids. It was great for adults as well!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:01:49.763Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Steve Carell played his character very well. It seemed like even though it was a cartoon it was still relatable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:02:33.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Definitely, this is a movie I actually look forward to watching when my kids ask. I wish there were more out there like this that the whole family can enjoy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:02:37.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I dont mind watching despicable me with my kids at all. I still laugh at it even after seeing it at least a dozen times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:03:48.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Us too, and I just noticed Russell Brand is Dr. Nefario, I never knew that! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:04:21.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "me either. im surprised i didnt know before now. I love russell brand", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:04:59.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Pharrell song was also a huge part of the movie, it went with it so well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:05:21.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is so true. Do you agree with the ratings the movie was given?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T03:06:23.953Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont understand the whole Rotten Tomato scoring system, but I see an \"A\" and I know that has to be good, so I would agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T03:07:17.276Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T02:58:59.590Z", 
+  "uid1LogOutTime": "2018-03-02T03:07:19.885Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T02:58:59.986Z", 
+  "uid2LogOutTime": "2018-03-02T03:07:09.102Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2390", 
+  "user2_id": "USR2385", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

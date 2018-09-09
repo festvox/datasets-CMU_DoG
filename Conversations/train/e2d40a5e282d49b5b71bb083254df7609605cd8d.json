@@ -1,0 +1,140 @@
+{
+  "date": "2018-02-20T09:47:22.209Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I love Steve Carell. Watch all his movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:48:10.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Despicable Me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:49:05.330Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too. I generally enjoy his characterizations.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:49:09.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:49:13.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:49:38.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ehh, not 100%. I think it's slightly overrated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:50:21.397Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not a very popular opinion. Do you agree?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:50:31.713Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think for a childen's animated movie, it is good. It give adults some room for jokes, but its really just made for kids in the end. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:51:51.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:52:17.318Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Pharr\nell song is really catchy though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:52:35.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What song is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:53:40.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"Happy\". Was a big hit!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:54:10.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's hard to believe it's going to be 8 years old this year.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:54:37.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you know the film was animated by a French studio?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:55:06.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I had no idea. That's pretty cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:55:44.797Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What I do like about this movie is the fact that it's from a villain's perspective.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:56:49.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's different than the norm.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T09:57:00.891Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do as well. Its really interesting especially in a kids movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T09:57:13.563Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T09:47:22.209Z", 
+  "uid1LogOutTime": "2018-02-20T09:57:17.764Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-20T09:47:22.576Z", 
+  "uid2LogOutTime": "2018-02-20T09:58:40.227Z", 
+  "uid2response": {
+    "feedback": "The user left the chat and I'm not sure if we talked about it enough so I don't want to be rejected because of that?", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4919", 
+  "user2_id": "USR4693", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

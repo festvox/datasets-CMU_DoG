@@ -1,0 +1,265 @@
+{
+  "date": "2018-02-16T23:58:07.293Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:58:25.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:58:42.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:58:51.942Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How to Train Your Dragon.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T23:59:11.070Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I have not seen that. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T23:59:22.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:01:31.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Movie is an animation based loosely on a British book series directed by Chris Sanders, with battles by dragons and coming of age.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:01:54.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:02:21.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:02:48.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch this movie because it's a thrilling action-adventure sage with exhilarating 3D movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:03:40.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it meant to be a children's movie or one for adults?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:03:49.877Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its a children's movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:04:31.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what age group? I may want to have my children see it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:04:53.828Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Starts off with a 15 year old son of the Village Chieftain and I would say anywhere from 7 and up.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:06:40.208Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rated PG?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:07:12.933Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has a rating of 7.9 and a 98% on Rotten Tomatoes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:08:03.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you didn't know it came out in 2010.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:08:36.094Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well then I guess we won't be seeing it in 3-D lol.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:08:55.049Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:09:20.012Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have not seen it yet but it goes on to say that the Stock the Vast is a dragon killer and instead of killing a rare dragon he sets it free.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:10:27.382Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting, what is the dragon's name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:11:28.232Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hiccup another character goes to a forest where the dragon was originally stuck and gradually tames the dragon which is a Nigh Fury.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:11:59.174Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "His name is toothless for his retractable teeth.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:12:29.711Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds cute. Maybe I can have my 5 year old see it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:13:20.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Absolutely Hiccup goes on to subdue a captive dragon in his final test, but does not harm it, Stoick on the other hand angers the dragon into attacking Hiccup!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:15:24.806Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you want to know more?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:15:39.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you usually watch animated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:16:05.171Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would love to know more. My children love animated films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:17:15.141Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toothless the dragon comes to protect Hiccup but ends up getting captured by the Vikings...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:18:43.516Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Stoick is Hiccups father and Hiccup ends up telling him by accident that \noothless knows where the dragons nest is and sets off with Toothless the dragon while disowning his son in the process.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:19:58.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toothless*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:20:09.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do the humans end up living in harmony with the dragons?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:21:34.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Vikings expel most of the dragons but attacked by the Red Death until Hiccup,\nAstrid fly in riding the dragons provide\ncover\n. Hiccup almost drowns trying to break Toothless free from a sinking ship but\nStoick saves them both and then reconciles with his son.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:22:02.494Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Toothless and Hiccup destroy the Red Death but he ends up getting hurt, giving him a prosthesis and the end up living in harmony!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:23:16.659Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That definitely sounds like something my five year old would like. What is the Red Death?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:24:58.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Red Death is another dragon who tries to take out the vikings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:25:39.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But glad I could persuade you to watch the movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T00:26:14.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T00:26:49.476Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T23:58:07.293Z", 
+  "uid1LogOutTime": "2018-02-17T00:26:52.612Z", 
+  "uid1response": {
+    "feedback": "It was interesting and was able to explain the movie to the other user!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T23:58:07.302Z", 
+  "uid2LogOutTime": "2018-02-17T00:26:50.590Z", 
+  "uid2response": {
+    "feedback": "My son will love it!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2928", 
+  "user2_id": "USR1314", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

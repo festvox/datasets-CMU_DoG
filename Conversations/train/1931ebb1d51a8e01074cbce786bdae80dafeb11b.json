@@ -1,0 +1,44 @@
+{
+  "date": "2018-01-30T00:28:07.279Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello how are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:29:09.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:29:35.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good. Have you seen the movie The Inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:30:04.892Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-01-30T00:28:07.279Z", 
+  "uid1LogOutTime": "2018-01-30T00:30:55.586Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T00:28:07.290Z", 
+  "uid2LogOutTime": "2018-01-30T00:30:39.942Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4317", 
+  "user2_id": "USR983", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

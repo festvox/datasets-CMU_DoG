@@ -1,0 +1,294 @@
+{
+  "date": "2018-03-29T15:15:15.146Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:15:30.410Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, everything OK", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:15:49.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:15:53.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine, fine. Tell me, do you know any good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:16:08.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Historical, political movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:16:44.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen one recently :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:16:54.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, surely.\n I would like to more about the movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:17:19.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Post is a historical political thriller directed and produced by Spielberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:18:02.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film has quite good ratings... Rotten Tomatoes gives 88% and 7.9/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:18:39.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Interesting, who\n are the main actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:19:00.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like Meryl Streep?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:19:06.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "or Tom Hanks?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:19:16.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "also Sarah Paulson, Bob Odenkirk and Tracy Letts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:19:35.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, both. I love their films, they are able to bring life into their characters!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:19:43.845Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's true...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:19:58.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The Post depict the true story of attempts by journalists at The Washington Post to publish the Pentagon papers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:20:51.349Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's about the 30-year involvement of the U.S. government in the Vietnam War", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:21:56.920Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I see, confidential information leaks. Quite intriguing!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:21:57.662Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:22:26.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I have heard of it but haven't watched it yet. And you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:23:05.197Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've watched this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:23:25.414Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's worth the time spending in the cinema :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:23:42.009Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Awesome! I should dedicate some time to watch it soon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:24:27.780Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How was the acting and the photography of the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:24:47.931Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just like in spielberg's films, everything is perfect.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:26:39.099Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He has a great perspective and he just know perfectly how to present his vision to everyone else. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:27:36.207Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What do you think is the most important moment in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:28:15.671Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In my opinion there is no single key moment, the whole plot is important :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:29:35.247Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great, so I should be focused since the beginning!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:30:36.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And what do you think is the message to the audience?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:30:55.755Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it starts in 1966 in Vietnam", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:30:56.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the right of the press to publish secret documents is important for a genuine democracy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:31:57.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, great message. I haven't seen it yet, but also I think it is important to know that fighting for the right cause is not an easy task, never.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:33:42.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you have any more questions?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:34:12.247Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really, do you want to tell me more details or impressions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:35:54.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wouldn't like to reveal important details of the film if you want to watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:36:41.853Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so thank you for the conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:37:08.380Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or.. one moment", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:37:22.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't worry, you won't ruin the movie for me. I like when people share their view with me!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:38:17.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sometimes it is worth to go to the film without knowing too much details :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:39:16.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, thanks for the conversation!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:30.588Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you for the conversation, have a nice day!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:39:31.479Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To you too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:39:37.286Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T15:15:15.146Z", 
+  "uid1LogOutTime": "2018-03-29T15:39:39.632Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:15:15.551Z", 
+  "uid2LogOutTime": "2018-03-29T15:39:41.327Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3412", 
+  "user2_id": "USR631", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

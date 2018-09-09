@@ -1,0 +1,246 @@
+{
+  "date": "2018-03-28T00:33:00.783Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:33:32.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:33:35.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good how are you ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:33:44.758Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good.  Do you like comedies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:34:22.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:34:49.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies with Joe Pesci.  I really enjoy movies he is in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:35:22.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he is funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:35:38.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone was a pretty funny movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:36:05.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree. Brings back so many childhood memories.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:36:25.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah me too.  I really liked Catherine O'hara in it too as the mom.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:37:01.106Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lol yes, she's a great actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:37:28.886Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's your favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:37:45.007Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The scene where they both realize that he was left behind.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:38:04.022Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mine is when he sets up all those traps lol pretty dang funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:38:08.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lol her face was priceless", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:38:20.643Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah they really did a good job with those", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:38:25.007Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think the setup for him being left behind wasn't really realistic I think in real life someone would realize if they left their child behind. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:38:48.406Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes exactly. I know I would", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:39:22.895Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I thought they spent too much time on his family and not enough on Kevin fighting off the burgulars.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:40:24.199Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yea I agree", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:40:56.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure what to do for this task ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:41:15.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who was your favorite character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:41:21.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Definitely kevin, yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:41:52.514Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "look at the paragraph at the top on the left and we talk about that part of the movie till it changes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:42:03.693Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked harry best.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:42:13.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought it would've changed already lol & the whole cast is really good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:42:59.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It should've had a better rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:43:17.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah it should have It's not the best movie of all time or anything but it was better then the critics said", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:43:33.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It kind of had a roadrunner and coyote cartoon fell to it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:44:00.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "er feel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:44:03.155Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree but everyone has their opinions", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:44:12.078Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I like a lot of the director's films he did the first harry potter one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:44:30.450Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "actually the first two i think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:44:35.655Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love those movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T00:44:59.592Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah me too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T00:45:12.464Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T00:33:00.783Z", 
+  "uid1LogOutTime": "2018-03-28T00:45:27.109Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T00:33:00.800Z", 
+  "uid2LogOutTime": "2018-03-28T00:45:35.636Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3769", 
+  "user2_id": "USR2948", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

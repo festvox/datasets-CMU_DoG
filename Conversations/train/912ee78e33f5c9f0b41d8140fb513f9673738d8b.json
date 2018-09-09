@@ -1,0 +1,244 @@
+{
+  "date": "2018-02-09T19:48:04.767Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:48:18.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I sense you have something you want to ask me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:48:56.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:48:56.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:49:11.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know any of the cast members? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:49:23.256Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "of what movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:49:30.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:49:35.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "(I don't have any documentation)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:49:43.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh, Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:49:47.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've heard about that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:49:52.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who's in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:49:58.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardio Dicaprio and Ellen Page", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:50:19.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Also Tom Hardy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:50:22.916Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is it a comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:50:32.847Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "actually the genre is science fiction", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:50:47.735Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "like vampires?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:50:55.303Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has a good rating on rotten tomatoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:00.270Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "not exactly ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:04.661Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:07.527Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is it's imdb rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:13.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "its about corporate espionate using an experimental technology", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:13.781Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "8.8/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:19.451Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:22.344Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that's high", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:24.882Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:27.589Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was made in 2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:34.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kinda old", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:39.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did the critics like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:51:46.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:51:52.486Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it has 3 key scenes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:52:04.925Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can you tell me more?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:52:14.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the critics rated it highly ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:52:16.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "about the scenes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:52:44.451Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are extractors who can infiltrate the subconcious", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:52:45.565Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the critics say it is a knockout", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:52:57.980Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T19:48:04.767Z", 
+  "uid1LogOutTime": "2018-02-09T19:52:51.825Z", 
+  "uid1response": {
+    "feedback": "will probably watch this movie again at some point", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T19:48:04.781Z", 
+  "uid2LogOutTime": "2018-02-09T19:53:07.194Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR729", 
+  "user2_id": "USR4634", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

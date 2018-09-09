@@ -1,0 +1,295 @@
+{
+  "date": "2018-03-29T14:20:05.007Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:20:16.774Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Do you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:21:17.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:21:54.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHich one specifically?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:22:08.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me the name?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:12.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "if you haven't already, I would highly suggest you watch Iron Man. It has great rating on Rotten Tomatoes, a 94% to be exact.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:23:12.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:23:37.111Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tony Stark, played by actor Robert Downey Jr.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:24:24.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Downey is talented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:44.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:25:58.147Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is! Critics stated this film as extremely entertaining and impressive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:26:54.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Any other good characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:27:18.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I loved the plot. It is based on the original Marvel Comics: An industrial and master engineer who becomes a technological and advanced superhero.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:29:34.782Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Other great characters are Jeff Bridges as Obadiah Stane\n, whom turns on him later on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:30:12.749Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jeff Bridges is also very talented", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:23.016Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like this genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:32:39.144Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I do, Would you consider watching this film since you like superhero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:35:02.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I am very interested now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:36:40.766Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think it is appropriate for kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:36:52.908Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great. Yes it is appropriate for kids. It is full of action and very comic-like.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:40:12.011Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:08.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I might see it with my son", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:13.649Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is it violent?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:27.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean I hope not too much...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:41:37.904Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There are uses of weapons that stark creates that are part of his suit, but I believe it is suitable for kids", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:44:46.371Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:39.852Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Any good scenes you liked it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:45:53.785Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anything memorable?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:46:38.129Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I scene I liked is when builds his empowered exoskeleton hero suit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:49:05.712Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "THat sounds interesting!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:32.464Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A memorable scene is when Stark puts on his suit and flies to Afghanistan where he saves the villagers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:50:32.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Afganistan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:46.603Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is an interesting twist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:50:59.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sort of modern", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:51:09.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "take", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:51:14.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am considering", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:52:29.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that is where Obadiah Stane (his nemesis) had delivered his companie's weapons and were being used to attack the village.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:52:34.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "to see this movie soon", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:52:44.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds political also", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:52:57.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is very thrilling and takes place in mnay different settings.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:53:06.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like movies with different settings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:54:38.438Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it also includes the United States Air Force", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:54:40.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am sure you will enjoy the end, where Stark reveals some very important and controversial news.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:55:36.486Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T14:20:05.007Z", 
+  "uid1LogOutTime": "2018-03-29T14:54:43.922Z", 
+  "uid1response": {
+    "feedback": "I really enjoyed the movie description.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:20:05.245Z", 
+  "uid2LogOutTime": "2018-03-29T14:56:52.971Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR335", 
+  "user2_id": "USR4788", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

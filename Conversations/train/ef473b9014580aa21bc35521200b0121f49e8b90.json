@@ -1,0 +1,120 @@
+{
+  "date": "2018-03-21T17:34:57.029Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:35:33.682Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:35:40.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so, let's chat about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:35:59.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:36:04.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:36:30.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:37:11.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:40:38.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:40:43.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre???????", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:41:06.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:41:21.048Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:41:21.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:41:21.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:41:21.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like this genre of movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:41:25.831Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nice spam", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:41:35.528Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T17:34:57.029Z", 
+  "uid1LogOutTime": "2018-03-21T17:41:44.069Z", 
+  "uid1response": {
+    "feedback": "The other user did not even tell me the name of the movie, just kept asking me if I liked this genre of movie", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T17:34:57.036Z", 
+  "uid2LogOutTime": "2018-03-21T17:41:38.152Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2123", 
+  "user2_id": "USR1204", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

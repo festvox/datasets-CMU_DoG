@@ -1,0 +1,222 @@
+{
+  "date": "2018-02-07T15:56:20.032Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:05.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Do you like monster movies or thrillers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:34.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like thriller movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:56.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to recommend Jaws, then. It's fast-paced and the characters are very interesting. It leaves you on the edge of your seat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:39.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool. Just how I like a movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:06.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the main character is like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:38.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's a very well-developed police chief", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:00:51.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Played by Roy Scheider", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:05.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about the other characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:26.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The other characters are a shark hunter, the mayor, and the Scheider's wife and they all live in a town with a lot of beachgoers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:21.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes the scariest parts don't even have the shark in them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:35.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:24.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So the movie is about scary sharks. what makes it scarier without sharks?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:34.433Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "For example, in one of the scenes you watch from the swimmer's perspective. One of the shark's victims is in the ocean and you see her disappear under the water, then later they find her body parts.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:31.538Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Omg... that is horrible. How many people died from a shark's death?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:51.452Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure, but I know the police chief tried to get them to close the beaches, but the mayor wouldn't let them because he didn't want to lose the tourist money.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:50.356Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's not right at all. Only one shark attacked people or multiple ones?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:43.795Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was just one shark but they had to pay a shark hunter $10K to kill it, and on top of that there were a bunch of amateurs trying to hunt the shark, too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:35.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I bet the shark put up a good fight with the hunter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:09:47.748Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They caught a tiger shark at first, thinking it was the shark that was killing people, but they were wrong so the hunt kept going.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:11:10.355Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So when did they realize the shark was the actual one doing the killing? They found a  body part on it or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:43.438Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, they didn't find any body parts in the tiger shark, so that was clue one. Then when out looking they found a huge shark tooth stuck in sinking boat.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:13:45.186Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which made them think it was a giant great white, so they kept looking", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:02.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting. this is really  a violent movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:29.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, you should see when they finally kill the shark. The hunter goes down underwater in one of those cages, but the shark is so big it destroys it and eats the shark hunter. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:16:47.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Luckily, the police chief manages to blow it up by feeding it a scuba tank and then shooting it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:17:12.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow! Poor shark hunter. It's good they finally got rid of it before it killed more people.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:17:42.440Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and I'm glad the police chief survived, as I liked his character. His son witnesses one of the attacks, though, and it freaks him out, so it got very personal for him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:18:39.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm happy the main character made it at least.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:19:56.666Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep. A lot of it could have been avoided if the dumb mayor had just shut the beaches down in the first place, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:27.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah .. a lot of deaths could've been avoided.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:21:21.813Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T15:56:20.032Z", 
+  "uid1LogOutTime": "2018-02-07T16:21:45.433Z", 
+  "uid1response": {
+    "feedback": "I never saw Jaws so it sounds interesting to me.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:56:20.074Z", 
+  "uid2LogOutTime": "2018-02-07T16:21:39.433Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR429", 
+  "user2_id": "USR411", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

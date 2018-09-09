@@ -1,0 +1,170 @@
+{
+  "date": "2018-02-14T20:15:55.261Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:16:02.389Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:16:15.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ever seen the avengers?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:16:38.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:17:13.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The one from 2012. I think it is the only one called The Avengers, the other one has Age of Ultron or something like that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:17:51.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:17:53.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who do you love?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:18:02.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't remember if I've seen it. It's been awhile.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:06.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Diana!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:10.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:14.046Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a different movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:18:26.683Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know but that's Diana right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:51.400Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I think you are thinking of Scarlett Johansson. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:13.340Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:19.875Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:22.344Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's Avengers about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:34.159Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about Thor's brrther Loki who tries to split the Avengers up by using some mystical energy force", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:21:37.697Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why is he trying to divide them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:21:54.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Because he wants to lead a group called the Chaturi against earth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:43.970Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does he succeed? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:56.618Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He does succeed in dividing them, but they eventually come back and regroup. In fact, one of the best scenes is when all the avengers are together and they can't decide on how best to defeat Loki's plans. They all start arguing and you are afraid that Mark Ruffalo, who plays Hulk, is going to start hurting everyone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:24:10.933Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did he end up hurting people?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:24:50.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He did. I am sorry. He killed a man named Agent Coulson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:08.645Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T20:15:55.261Z", 
+  "uid1LogOutTime": "2018-02-14T20:29:15.510Z", 
+  "uid1response": {
+    "feedback": "I don't know what happened to my partner.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T20:15:55.261Z", 
+  "uid2LogOutTime": "2018-02-14T20:34:26.453Z", 
+  "uid2response": {
+    "feedback": "The other user didn't seem to understand the concept of the task and it was difficult to try and read and interpret the document to the other user in a timely manner. The other user left in the middle of a conversation because I was trying to understand what your document was saying.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR664", 
+  "user2_id": "USR23", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

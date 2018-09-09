@@ -1,0 +1,142 @@
+{
+  "date": "2018-03-19T19:08:27.321Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:08:46.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How's it going?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:09:29.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:09:50.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is an American classic, Home Alone. Starring a really cute kid.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:10:27.524Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool! Who are the main actors?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:10:43.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Macaulay Culkin as the cute kid, Joe Pesci", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:11:10.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And who directed it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:11:58.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It also features Catheine Ohara. The movie is directed by Chris Columbus and is produced by John Hughes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:13:35.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice. Did it get good reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:14:32.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomato report 62% 5.5/10 stars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:15:22.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm...not so good but what do review know anyways.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:16:09.720Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:16:16.074Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "About a kid who is left home alone completely unsupervised. A burglar enters the home and tries tpo terroze the boy but he terroized the burglar instead", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:29.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ha! That sounds interesting. How did he get left alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:18:58.545Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:18:59.802Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "His family flies to paris and unintentionally left him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:20:01.363Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's terrible parenting!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:20:43.397Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tell me more about how he handles being alone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:21:14.230Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "At first he was afraid but after a while he began to enjoy himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:25:10.307Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T19:08:27.321Z", 
+  "uid1LogOutTime": "2018-03-19T19:25:25.718Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T19:08:27.424Z", 
+  "uid2LogOutTime": "2018-03-19T19:26:07.419Z", 
+  "uid2response": {
+    "feedback": "The other person was very slow to respond and left the chat early for some reason. They did not do a good job of describing the movie either.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3639", 
+  "user2_id": "USR922", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2018-02-02T19:52:58.086Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This was a good movie in 2009.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:53:49.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:53:57.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:54:07.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would really like to see this movie if it is good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:54:31.367Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The plot is a real thrill ride.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:54:59.872Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:55:11.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio does a wonderful job as the lead actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:55:28.511Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes he is a good actor that \nmakes me want to see the movie even more.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:55:53.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan is a great director and this is one of his best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:56:26.403Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow sounds like a really good movie. Great actors and director.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:57:01.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The whole breaking into people dreams concept is wild.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:43.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Indeed, that seems a bit surreal. Thought provoking.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:37.586Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you like science fiction movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:59:41.667Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. I love science fiction movies. Science fiction movies really interest me especially since they draw on actual science. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:01:22.357Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm an avid fan of Jules Vernes and anything science fiction related. The concept of the movie you described sounds interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:03:19.613Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked Ellen Page's character who is a graduate student of architecture, she constructs the dreamscapes in the movie. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:03:20.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Architecture blended with proper artistic skill can be beautiful. I imagine the dreamscapes were pretty fantastical. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:05:34.250Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The dreamscapes are described as mazes in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:06:14.826Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie got an average rating of 8.1 on Rotten Tomatoes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:07:25.946Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which infers the structure of the human mind I assume. A maze of the human psyche.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:07:29.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's a good score. I definitely would watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:07:55.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Tom Hardy is also in the movie as an associate of the lead character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:08:46.940Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not familiar with Tom Hardy but if he is working with Leonardo Dicaprio he must be a good actor. I trust Nolan has good casting. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:10:31.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The weirdest part of the movie is the different dream levels.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:10:56.587Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That reminds me of Dante's Inferno, different levels of hell but each level is a different layer of the human mind.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:12:49.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A dying dreamer in the movie goes into a sort of limbo or world of infinite subconscious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:13:35.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Interesting. So they can die in their dreams. Perhaps a coma.\n That's a bit scary. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:15:05.207Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It can get a little confusing in the movie, best not to get up for snacks or restroom breaks as you might be lost when you come back.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:16:30.368Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I get totally engrossed in movies. This seems like a movie I would watch all the way through while at the edge of my seat. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:18:15.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it is a good movie for a date night.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:20:05.572Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T19:52:58.086Z", 
+  "uid1LogOutTime": "2018-02-02T20:20:18.160Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:52:58.095Z", 
+  "uid2LogOutTime": "2018-02-02T20:19:19.404Z", 
+  "uid2response": {
+    "feedback": "The conversation was interesting and went well. The other user convinced me the movie was good. I would definitely watch this movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR703", 
+  "user2_id": "USR1496", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

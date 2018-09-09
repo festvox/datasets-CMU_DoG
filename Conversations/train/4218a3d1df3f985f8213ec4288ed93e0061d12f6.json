@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-26T14:38:31.893Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What's the movie's name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:39:37.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Greetings, we will be discussing The Shap\ne of Water ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:21.921Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Greetings, we will be discussing The Shape of Water ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:40:29.953Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:40:35.792Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Greetings, we will be discussing The Shape of Water. It was visually stunning and gorgeously filmed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T14:42:11.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but what is the film about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T14:42:34.173Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T14:38:31.893Z", 
+  "uid1LogOutTime": "2018-03-26T14:43:51.805Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-26T14:38:31.908Z", 
+  "user1_id": "USR3942", 
+  "user2_id": "USR180", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

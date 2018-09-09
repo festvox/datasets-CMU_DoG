@@ -1,0 +1,100 @@
+{
+  "date": "2018-03-20T17:12:41.098Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey how are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:13.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! I am well, thanks for asking. The movie we got was Home Alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:13:37.029Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how is that movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:13:56.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a good comedy. It has pretty good ratings from various film critics", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:14:17.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who stars in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:14:36.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Macaulay Culkin is the main actor. He plays the roll of Kevin McCallister", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:15:29.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "role", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:15:41.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh cool..so i assume it would be a good family movie to watch", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:15:50.582Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "For the most part, yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:16:29.982Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do it have any plot twist?\n4", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T17:16:59.888Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. He is left at home while his family goes on vacation, so there are a few twists throughout", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:39.565Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you typically like comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:17:48.151Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T17:20:39.384Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T17:12:41.098Z", 
+  "uid1LogOutTime": "2018-03-20T17:20:56.870Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-20T17:12:41.136Z", 
+  "user1_id": "USR1611", 
+  "user2_id": "USR3211", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

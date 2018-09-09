@@ -1,0 +1,480 @@
+{
+  "date": "2018-02-19T01:13:34.866Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:14:12.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:14:21.186Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm doing quite well, how are you doing today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:14:38.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doing great, \nthank you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:14:50.941Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Heard about any movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:15:20.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I believe we should talk about the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:15:23.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, a few actually.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:15:32.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Most movies I watched are from Netflix.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:15:45.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the one we should talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:15:56.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:16:02.398Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched it yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:16:10.956Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's that about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:16:11.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:16:16.356Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a good movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:16:55.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep. It's about an unlikely alliance between a rabbit girl and a fox guy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:17:11.997Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That seems like it would be funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:17:43.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it is.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:17:50.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else can you tell me about it? Without giving away the ending please!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:04.982Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "At first, it's a rocky start because the rabbit girl is a cop.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:18:07.865Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And the fox? He's a con artist.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:18:35.816Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, of course.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:18:50.289Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A rabbit cop? That's silly! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:18:55.494Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, but she's determined.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:19:06.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But of course the fox would be a con artist! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:19:11.345Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Even one animal can make a difference.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:19:22.343Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like that as a catch phrase.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:19:35.368Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So based on the movie, it's all about animals in clothes, like us people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:19:42.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Huh. That's pretty cool! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:20:36.538Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The female rabbit cop first time in the job was just about parking and parking meters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:21:19.520Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a rough day for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:21:54.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed. However, some turn of events, this unlikely heroine takes the case of a mystery that good manner predators. Like a polar bear, a sea otter or a panther are acting savage.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:22:41.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow! That's some turn of events! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:23:34.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is this a children's movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:23:38.572Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:23:42.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think it's\n funny for adults too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:24:09.513Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:24:18.168Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It includes the mafia.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:24:28.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What kind of animal is in the mafia?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:24:42.425Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Possum", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:24:58.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ";)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:25:04.443Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds adorable actually. I'm just picturing a possum in a zoot suit. Haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:25:22.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a disney film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:25:28.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:25:34.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's cool. What else can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:26:06.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, what else? What else? Oh, there's a good story about this con artist fox.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:27:16.923Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is he a bad guy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:27:34.239Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "With the mafia?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:27:48.389Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not always. At first, he really act sneaking against tricking the female rabbit cop.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:27:48.511Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh so that's how they meet!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:28:04.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, not really. Just tricking her about ice cream.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:28:28.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a biggest ice cream for elephants.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:28:40.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In truth, the little elephant was in disgusted by the con artist's boss to sell up one giant ice cream into several tiny ones for profit.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:29:13.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "-_-", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:29:17.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds funny actually. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:29:26.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Uh-huh.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:29:31.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And is kind of brilliant!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:29:33.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, it is.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:29:38.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It gets even more interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:29:47.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:29:55.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is involved with many schemes. Like knowing a weasel, getting in trouble with the mafia, and \"teaming up\" with the female rabbit cop on the mystery she was working on.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:30:42.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I'm going to have to rent this movie and check it out! It sounds really funny.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:31:10.658Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is. They \"worked together\" to gain leads on this mystery.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:31:19.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And it's also very touching too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:31:28.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like I said, the con artist isn't a bad guy. Not always. You'll see. ;)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:31:50.769Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, yeah. And what's also funny?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:32:13.337Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:32:20.815Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He knows a sloth that works very slow.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:32:25.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Informative, but slow.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:32:36.317Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love sloths!! I have to see this movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:32:39.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for telling me about it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T01:32:49.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You're going to love it, I bought the movie myself. Because I love animals, mainly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:33:02.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:33:23.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And you're welcome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:33:45.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good night", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T01:33:48.240Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T01:13:34.866Z", 
+  "uid1LogOutTime": "2018-02-19T01:33:12.189Z", 
+  "uid1response": {
+    "feedback": "The other user made it sound like the kind of movie I could watch with my nephews or just on my own. It sounds like it's pretty funny and I love disney movies, so that influenced my decision as well. I like the idea of unlikely allies coming together, and I'm very interested to see how a rabbit cop and a con artist fox work together! I'll definitely check this movie out sometime soon.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T01:13:34.989Z", 
+  "uid2LogOutTime": "2018-02-19T01:34:24.268Z", 
+  "uid2response": {
+    "feedback": "This is so amazing. I love it talking to a user who has no idea of the movie at all. I am glad to help out the user into recommending the movie without giving away the ending. I hope to do more. Thank you for a lovely time.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4402", 
+  "user2_id": "USR2525", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

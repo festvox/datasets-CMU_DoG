@@ -1,0 +1,76 @@
+{
+  "date": "2018-02-05T21:26:23.507Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Gal Gadots portrayal of Wonder Woman? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:27:19.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought she did a great job.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:27:40.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you thinK?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:27:57.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree! Loved it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:27:58.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought she was a great choice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:28:11.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:24.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She was unknown to me before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:28:36.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know if she was in anything before Wonder Woman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:29:14.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, what else did you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:33:21.732Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:26:23.507Z", 
+  "uid1LogOutTime": "2018-02-05T21:34:51.941Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:26:24.512Z", 
+  "user1_id": "USR2811", 
+  "user2_id": "USR4477", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

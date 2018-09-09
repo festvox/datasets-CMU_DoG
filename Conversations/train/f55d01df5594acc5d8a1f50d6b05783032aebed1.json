@@ -1,0 +1,59 @@
+{
+  "date": "2018-03-30T19:28:04.782Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:28:44.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Have you seen The Great Gatsby?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:28:50.370Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't know if I have, have you seen any good movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:29:10.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Gatsby is one of the greatest movies out here. Written based on an American Classic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:29:50.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has Leonardo DiCaprio in it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:30:20.454Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T19:28:04.782Z", 
+  "uid1LogOutTime": "2018-03-30T19:29:50.973Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T19:28:04.842Z", 
+  "uid2LogOutTime": "2018-03-30T19:30:35.227Z", 
+  "uid2response": {
+    "feedback": "The other person talked a little about the movie, then left the chat early. It was not a good chat. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR312", 
+  "user2_id": "USR2897", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

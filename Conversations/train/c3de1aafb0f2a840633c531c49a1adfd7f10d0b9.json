@@ -1,0 +1,331 @@
+{
+  "date": "2018-03-20T19:30:19.088Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:30:31.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is the great gatsby!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:30:38.442Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to hear about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:30:43.692Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes I would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:30:53.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:31:08.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a Romantic Drama directed by Baz Luhrmann", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:31:21.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And got a rating of 48% on rotten tomatoes and a CinemaScore of B", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:31:38.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who plays in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:31:47.310Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio plays Jay Gatsby, a famous billionaire who likes to host wild parties.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:32:17.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tobey Maquire plays Nick Carraway, a wanna be writer who lives next door to Gatsby", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:32:37.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Carey Mulligan plays Daisy Buchanan, Gatsby's former lover ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:32:55.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Emily Foreman plays Pamela Buchanan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:33:04.977Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Joel Edgerton plays Tom Buchanan, an upper class socialite who hates Gatsby and is now married to Dais, Gatsbys old love", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:33:35.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what part did you like the most about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:34:01.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked that it is a period piece, based off of F. Scott Fitzgerald's 1925 novel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:34:36.562Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You really get to see the lavish lifestyle of a millionaire back in the roaring twenties", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:35:09.073Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In New York state", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:35:13.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love that it has a modern twist to it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:36:16.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, and the actors really make the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:37:44.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But its important to let go of the literary agenda if you have read the book", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:38:05.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie had a $190 million budget, and i think it really shows", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:39:31.476Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes the actors they picked really made the movie great ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:39:48.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie actually starts in 1931 where Nick Carraway is getting help for alcoholism at a psychiatric hospital, where he meets Jay Gatsby, who he states is the most hopefuly man he had ever met", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:40:51.639Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He begins to write down every, which starts the movie in the summer of 1922", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:41:10.424Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nick had moved from the midwest to New york after abdonding his writing, and rents the house right next to Gatsby.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:41:38.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nick's cousin is Daisy Buchanan, who is married to Tom Buchanana", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:42:13.431Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and Gatsby who nick lives by is in love with daisy who lives right across  the water from them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:44:17.851Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yep!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:45:18.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you usually watch movies like The Great Gatsby", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:46:00.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I love movies like this. Especially ones based on books and from earlier times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:46:47.165Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Me too I love watching older movies or older based movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:47:33.229Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " there was another Great Gatsby movie based on the book too,\n It was made in 1974", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:49:07.828Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There some a big conflict between Tom and Gatsby. Gatsby tells Top abuot his affair with Daisy, and Tom accuses Gatsby of never having attended Oxford and saying he got his money through the mob. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:49:36.123Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Daisy says she loves Gatsby, but cannot bring herself to say she never loved Tom", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:49:58.643Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They both eventually leave", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:51:04.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Then there was the issue with Myrtle getting hit by Gatsby's car, but Nick realizes that Daisy was the driver, though Gatsby took the blame. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:51:04.973Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He then tells Nick how his real name was James Gatz and he was born penniless, and he asked Daisy to wait for him until he made something of himself", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:51:29.366Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "kind of a sad love story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:51:36.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:51:44.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then Gatsby is shot and killed by George, Myrtles husband, then commits suicide.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:52:37.938Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was a really sad ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:52:44.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what part of the movie is your favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:54:39.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I loved the parties", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:54:55.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I loved seeing what millionaires lived like in the 20s", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:55:03.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "all the costumes and outfits", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:55:07.721Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you think of this type of movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:56:38.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this type of movie is good  I like how they bring it to life ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:57:36.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and to see the way they used to dress back then it interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:58:03.141Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, definitely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T19:59:23.147Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T19:30:19.088Z", 
+  "uid1LogOutTime": "2018-03-20T19:59:25.997Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T19:30:19.112Z", 
+  "uid2LogOutTime": "2018-03-20T19:59:31.019Z", 
+  "uid2response": {
+    "feedback": "", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4553", 
+  "user2_id": "USR2336", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

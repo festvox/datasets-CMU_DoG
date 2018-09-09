@@ -1,0 +1,39 @@
+{
+  "date": "2018-02-18T19:26:30.182Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:27:03.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Looks like the film was John Wick. I'm always a Keanu Reeves action fan. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T19:29:32.177Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It looks rather interesting, honestly. I've not heard of any of these actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T19:33:00.185Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-18T19:26:30.182Z", 
+  "uid1LogOutTime": "2018-02-18T19:42:54.992Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-18T19:26:30.182Z", 
+  "user1_id": "USR2651", 
+  "user2_id": "USR1711", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

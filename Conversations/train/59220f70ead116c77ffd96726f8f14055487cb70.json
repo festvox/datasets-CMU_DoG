@@ -1,0 +1,116 @@
+{
+  "date": "2018-02-12T19:17:19.605Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:32.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love it. Do you like Spielberg's directing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:57.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No.  I think its a little much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:01.370Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was scary, but liked the character development. You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:33.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a scare machine that works with computer-like precision.  You feel like a rat, being given shock therapy,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:15.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is like that! I liked Dreyfus' character though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:54.510Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Matt Hooper is an oceanographer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:53.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. I liked the interplay between Him and Quint. Can you believe it came out way back in 1975?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:00.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.  It was based on Peter Benchley's 1974 novel of the same name.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:24:51.705Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The story line actually seemed believable.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:38.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A sensationally effective action picture, a scary thriller that works all the better because it's populated with characters that have been developed into human beings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:26:43.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They attribute that to Spielberg's directing skill. Do you think they're right? I lean that way.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:35.887Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The most cheerfully perverse scare movie ever made.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:48.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's what the critics claim. I agree. What did you think of the casting of Robert Shaw as Quint? interesting choice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:56.527Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:17:19.605Z", 
+  "uid1LogOutTime": "2018-02-12T19:32:43.334Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:17:19.622Z", 
+  "uid2LogOutTime": "2018-02-12T19:32:56.368Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4900", 
+  "user2_id": "USR1977", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

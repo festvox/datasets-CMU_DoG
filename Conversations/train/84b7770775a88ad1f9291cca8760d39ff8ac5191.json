@@ -1,0 +1,133 @@
+{
+  "date": "2018-04-02T16:20:55.037Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:21:21.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good, thanks. Iron man was a pretty good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:22:15.253Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea it was pretty good, I agree. I liked the first one much better than the others.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:31.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think Robert Downey Jr made a good Tony Stark?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:22:49.967Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't recall the first one but I did like Robert Downey Jr. Playing the role. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:27.081Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see it at the theater?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:23:45.803Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, this is the first one. I meant I like this one the best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:23:49.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did, a very long time ago. Did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:23:58.272Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, we bought the movie but I wish I would have lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:24:19.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah ok. It was pretty cool with the big sound and large screen. Did you have a favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:24:46.505Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I bet it was, no I can't,really think of a favorite scene, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:25:27.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think my favorite scene was when he called the press conference and announced he would stop making weapons. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:06.666Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you think of Gwyneth Paltrow?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:26:25.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah that was good. I was just going to mention her lol. I think she played the role ok, what did you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:27:06.758Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea I thought she was pretty great in the role. I like her. Also I really liked Jeff Bridges as the bad guy. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:27:54.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you think the ratings were fair?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T16:28:13.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was just reading those, I would kind of agree that it did seem like a military movie, but I still enjoyed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T16:29:26.536Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-04-02T16:20:55.037Z", 
+  "uid1LogOutTime": "2018-04-02T16:30:11.086Z", 
+  "uid1response": {
+    "feedback": "The user left the chat in the middle. ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T16:20:55.085Z", 
+  "uid2LogOutTime": "2018-04-02T16:30:02.067Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4427", 
+  "user2_id": "USR2003", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2018-03-29T21:59:02.431Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T21:59:10.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is this?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:00:06.060Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:00:06.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Monsters University is the movie. It's very funny and I highly suggest it if you like kids movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:00:40.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You will like this movie if you have seen the original Monsters Inc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:02:03.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have recently seen this movie and I enjoyed it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:02:29.008Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T21:59:02.431Z", 
+  "uid1LogOutTime": "2018-03-29T22:02:34.167Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T21:59:02.438Z", 
+  "uid2LogOutTime": "2018-03-29T22:00:58.316Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4045", 
+  "user2_id": "USR3974", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

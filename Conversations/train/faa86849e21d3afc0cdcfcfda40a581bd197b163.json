@@ -1,0 +1,55 @@
+{
+  "date": "2018-03-29T22:52:35.162Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:52:56.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:54:38.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to watch a heartwarming tale of parental neglect and wacky mishaps?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:55:35.817Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay, maybe that's not the right angle. Do you like movies that take place around Christmas?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:59:02.539Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T22:52:35.162Z", 
+  "uid1LogOutTime": "2018-03-29T22:54:25.238Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T22:52:35.176Z", 
+  "uid2LogOutTime": "2018-03-29T23:09:52.036Z", 
+  "uid2response": {
+    "feedback": "No responses. I tried twice. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2136", 
+  "user2_id": "USR2816", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

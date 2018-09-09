@@ -1,0 +1,277 @@
+{
+  "date": "2018-03-05T19:12:18.471Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:13:09.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:13:14.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the Social Network?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:13:25.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why, yes of course. Jesse Eisenberg was phenomenal as Zuckerberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:13:47.588Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you know that Eduardo Saverin was a consultant for the book titled the same?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:14:25.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't know that.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:15:31.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't believe this movie came out in 2010", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:15:44.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So long ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:15:48.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I;m sorry. The book was actually titled The Accidental Billionaires", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:15:56.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nYes, it felt like it came out yesterday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:16:04.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like biographies as such?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:16:49.613Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I like biographies. Mostly documentaries.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:17:17.300Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:17:18.716Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:17:25.741Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really liked the scene where he creates FaceSmash and the server gives in, you know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:18:17.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This movie got great reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:18:23.027Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen it, but I heard that scene was great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:18:36.731Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Of course, that is essential to the plot of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:19:11.042Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And \"Facebook me\", that is catchy as hell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:19:46.089Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:19:48.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's crazy that he was 19", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:20:04.205Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It definitely is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:20:10.940Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, and taking Sean Parker's advice to drop the \"The\", that is amazing, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:20:35.027Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah it was good. I haven't seen Andrew Garfield in anything else I don't think.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:21:25.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Too bad Saverin is left in NY for business", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:21:33.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He played Saverin's part pretty well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:21:50.720Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:21:58.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did you think about Justin Timberlake?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:23:02.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was pretty good too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:23:16.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I really liked it when the Winklevoss twins sue Zuckerberg, did you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:23:46.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did hear about that part.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:25:17.240Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After all, Zuckerberg really stole their ideas, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:25:25.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Slightly, yes. I liked David Fincher's directing, also. What did you think of the directing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:25:50.861Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was phenomenal, I think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:26:02.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and what about Zuckerberg's callous attitude, what was up with that? Eisenberg made it beleivable", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:26:15.899Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:29:16.477Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not a fan of Eisenberg because he usually plays the same rude character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:29:54.649Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But this time he actually fit the bill", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T19:30:00.988Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah yes, I think the same", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:30:10.794Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But \ndid you like it when Saverin's shares were diluted? I did not. Work in NY and also get shares diluted; pretty bad don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T19:30:19.077Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T19:12:18.472Z", 
+  "uid1LogOutTime": "2018-03-05T19:30:14.086Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T19:12:18.679Z", 
+  "uid2LogOutTime": "2018-03-05T19:30:34.822Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR857", 
+  "user2_id": "USR2142", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

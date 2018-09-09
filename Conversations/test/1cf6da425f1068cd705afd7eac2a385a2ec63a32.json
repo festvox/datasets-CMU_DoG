@@ -1,0 +1,40 @@
+{
+  "date": "2018-03-22T16:35:05.551Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I personally did not care for this movie. I thought the music did not fit the movie, Jay-Z isn't meant for the early 20's and there was too much green screen. I would rather see actual sets than the actors in front of a green screen.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T16:38:26.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don\u2019t understand why movie critics expect these types of movies to be literarily accurate. The point is to entertain an audience not give them an English lesson.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T16:43:26.424Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T16:35:05.551Z", 
+  "uid1LogOutTime": "2018-03-22T16:41:20.294Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T16:35:05.680Z", 
+  "uid2LogOutTime": "2018-03-22T16:48:33.150Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR908", 
+  "user2_id": "USR4539", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

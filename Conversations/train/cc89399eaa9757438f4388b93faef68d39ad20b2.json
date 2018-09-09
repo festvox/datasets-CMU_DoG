@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-15T21:28:54.544Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Who is supposed to start the chat?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T21:31:31.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The aspect of the imitation game I enjoyed the most is that it's a period piece. Those films transport me to a different world better.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:31:50.666Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I also like British movies but this one was an American movie that thought it was British. haha.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:33:17.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dude, you're just supposed to read the document, pretend you watched the movie, and chat about it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T21:34:48.116Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T21:28:54.544Z", 
+  "uid1LogOutTime": "2018-02-15T21:37:30.703Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T21:28:54.550Z", 
+  "uid2LogOutTime": "2018-02-15T21:35:31.959Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4134", 
+  "user2_id": "USR3960", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

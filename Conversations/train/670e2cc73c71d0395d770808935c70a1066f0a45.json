@@ -1,0 +1,122 @@
+{
+  "date": "2018-03-22T19:37:04.810Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:37:22.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A bit pal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:37:38.034Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a Christmas story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:37:41.431Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a staple on tv every Christmas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:37:52.012Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but I think I like the Home alon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:37:57.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you believe a parent will make that kind of error in real life\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:38:59.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is kind of old, asit was done in 1990, but it i still enjoyable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:39:14.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, this is evident from the ratings as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:39:42.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "though I thought it should have a better rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:40:11.023Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, the critics are old stuffy people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:40:27.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Chris columbus made a big hit as the director of the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:41:26.343Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes.  There was a sequel I believe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:41:40.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "kevin gets punished for reacting to his siblings ridicule jibes towards him ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:42:53.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but that left me asking why the older brother was not punished just like kevin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:43:38.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "O'hara and John Heard are kevin's parents in the movie, I see it as a good match you know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T19:46:28.707Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T19:49:36.978Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-22T19:37:04.811Z", 
+  "uid1LogOutTime": "2018-03-22T19:49:46.808Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T19:37:05.222Z", 
+  "uid2LogOutTime": "2018-03-22T19:47:01.077Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

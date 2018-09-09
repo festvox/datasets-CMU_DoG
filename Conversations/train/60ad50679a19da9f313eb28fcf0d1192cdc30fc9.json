@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-13T20:26:21.698Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:26:49.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:27:58.497Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi how r you  the movie I would love you to see is the Avengers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:29:28.062Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The first avengers or the second one coming out in May?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:29:58.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is the one that came out in 2012", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:30:48.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "awesome, what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:31:09.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why do you want me to see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:35:15.702Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": true, 
+  "uid1LogInTime": "2018-02-13T20:26:21.698Z", 
+  "uid2LogInTime": "2018-02-13T20:26:21.721Z", 
+  "user1_id": "USR2968", 
+  "user2_id": "USR719", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

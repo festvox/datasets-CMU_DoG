@@ -1,0 +1,336 @@
+{
+  "date": "2018-03-21T22:15:03.751Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:15:20.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is The Great Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:15:31.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh yes I've heard of it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:15:40.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is in the genre Romantic/Drama.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:15:51.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I read the book a long time ago.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:16:19.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You might know that Leonardo DiCaprio plays the main person - Jay Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:16:22.637Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I remember that from the trailers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:16:38.614Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is based on a novel from F. Scott Fitzgerald.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:16:44.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes indeed.  He was a good writer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:17:00.882Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The novel is from 1925.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:17:04.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes an old novel from the 1920s.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:17:21.546Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The rating on rotten tomatoes was only 48%.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:17:28.812Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Too bad, I wonder why it was so low.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:17:41.374Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The budget was $190 Million.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:17:59.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director was Baz Luhrmann.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:18:10.058Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like a big budget movie to me!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:18:12.146Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:18:17.150Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe you should see the 2013 movie, to find out why it rates so bad.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:18:39.384Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't follow directors, but he must be good if they trusted him to direct a $190 million movie, lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:18:51.249Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well perhaps I should.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:19:09.074Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Maybe they only expected to get a hit because of the great material.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:19:18.503Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well with Leonardo Dicaprio they have a big star there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:19:43.579Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As you read the novel, you know the little secret of Gatsby?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:19:45.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forget what it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:19:57.681Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rosebud.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:20:15.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is Rosebud? Was it a lady?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:20:26.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I guess that is what everyone expects.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:20:42.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "As I should tease you to watch the movie. I will not tell you :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:21:02.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe you can fast forward to get to the solution.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:21:15.067Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay fine I want to see the movie then. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:21:19.763Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I don't know if the riddle is contained in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:21:31.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So maybe you have to check the older movie or the novel again (back to school).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:21:52.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I remember the plot of the book, so I could figure it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:22:11.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But the plot turn is really unexpected. I watched the old movie in a video class-", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:22:44.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If someone watched it with me I could watch it for sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:22:51.061Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes I remember there were some twists to the plot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:23:12.236Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me just add that Tobey Maguire plays Nick Carraway.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:23:22.733Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nick is Gatsby's friend who was a journalist?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:23:42.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That will be Gatsby's neighbour and friend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:24:05.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is the narrator.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:24:11.800Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh.  Yes I remember he was the narrator.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:24:23.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Koel Edgerton is hyped by some critics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:25:04.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*Joel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:25:12.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\"It was what preyed on Gatsby, what foul dust floated in the wake of his dreams, that temporarily turned out my interest in the abortive sorrows and shortwinded elations of men\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:25:15.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "For his role as Tom Buchanan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:25:21.677Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was Tom Buchanan the husband of the lady?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:25:38.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "An upper clas  socialite who hates Gatsby because he is new-money.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:26:12.400Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:26:25.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice chat. Let's cash in :-) See you tomorrow.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:26:49.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:26:56.515Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T22:15:03.751Z", 
+  "uid1LogOutTime": "2018-03-21T22:26:58.929Z", 
+  "uid1response": {
+    "feedback": "The other user outlined the movie's basic points in terms of star, director and plot, as well as made me interested in finding out the secret.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T22:15:03.827Z", 
+  "uid2LogOutTime": "2018-03-21T22:26:58.878Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2122", 
+  "user2_id": "USR2357", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

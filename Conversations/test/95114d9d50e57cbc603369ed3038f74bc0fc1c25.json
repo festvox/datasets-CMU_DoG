@@ -1,0 +1,253 @@
+{
+  "date": "2018-02-20T18:53:36.103Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:53:43.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:54:02.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:54:32.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just watched The Blind Side (by John Lee Hancock). It was much better than I expected", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:54:48.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Whats it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:54:55.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:54:59.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a sports dama with Sandra Bullock. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:55:27.834Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There's an American football player that plays in the NFL even though he started in an impoverished\n area", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:56:11.577Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a \"rags to riches\" of sorts", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:56:16.744Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I love Sandra Bullock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:56:36.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think shes a great actress", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:56:43.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like her part on The Blind Side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:57:16.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah. Her performance really shines in this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:57:18.548Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about the other actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:57:26.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what other actors did you like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:57:31.463Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't really remember their names but the guy that played Big Mike (the main character) wasn't bad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:00.363Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He sells his character though. His character grew up in foster care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:24.988Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I see, and whats his role?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:59:12.492Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is he the football player?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:59:19.005Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, he is the football player that went on to play for the NFL. Specifically the Baltimore Ravens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:59:44.751Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That seems really interesting!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:00:02.303Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and what about ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:00:12.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "CinemaScore gave the movie an A+", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:14.164Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that sounds pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:00:24.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:27.231Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "and critic responces? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:00:33.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "To be fair though, Metacritic gave it a 53 and rotten tomatoes gave it 69%", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:43.992Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so... take what you will", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:48.530Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok I see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:01:12.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what else can you tell me about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:01:19.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Want to hear more about what happens in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:01:27.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah for sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:01:32.449Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "tell me more about it please", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:02:40.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The main character eventually gets enrolled in a Christian school and shines in football even though he's not the best student.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:02:50.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh I see, well the movie seems interesting enough, I think I will give it a shot. Thanks a lot.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:03:34.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm glad you liked it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:03:48.990Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T18:53:36.103Z", 
+  "uid1LogOutTime": "2018-02-20T19:03:50.397Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T18:53:36.210Z", 
+  "uid2LogOutTime": "2018-02-20T19:03:36.169Z", 
+  "uid2response": {
+    "feedback": "The movie sounds interesting and I like one of the leading actors. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR927", 
+  "user2_id": "USR960", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

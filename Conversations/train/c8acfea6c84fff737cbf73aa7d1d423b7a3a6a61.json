@@ -1,0 +1,62 @@
+{
+  "date": "2018-02-05T15:43:20.141Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey man, Jaws received really good reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:07.472Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I heard about that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:44:52.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a giant man eating shark, er, eating people.  You should watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:45:14.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "when did you see it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:45:54.037Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I forgot, but it's directed by Steven Spielberg.  It's got Roy Schneider in it too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:46:48.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are the special effects really good in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:02.458Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:50:43.987Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T15:43:20.141Z", 
+  "uid2LogInTime": "2018-02-05T15:43:20.174Z", 
+  "uid2LogOutTime": "2018-02-05T15:52:03.000Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4875", 
+  "user2_id": "USR474", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

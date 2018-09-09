@@ -1,0 +1,32 @@
+{
+  "date": "2018-02-09T18:02:15.738Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Inception? It has pretty good reviews on Rotten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:03:40.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen Inception. I will have to read the reviews also. Does it sound interesting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:04:42.589Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-09T18:02:15.738Z", 
+  "uid2LogInTime": "2018-02-09T18:02:15.919Z", 
+  "uid2LogOutTime": "2018-02-09T18:07:30.845Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4094", 
+  "user2_id": "USR2199", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

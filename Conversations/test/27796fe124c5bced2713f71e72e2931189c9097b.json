@@ -1,0 +1,83 @@
+{
+  "date": "2017-12-19T17:02:18.248Z", 
+  "docLinkIdx": 0, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, if you're into animated musical movies, you should really check out 2013 movie Frozen from Disney.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:04:25.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why should i check out this movie, i think it will be more for kids. since its disney.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:05:22.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have to admit though i have watched a couple of musicals with young ones from my family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:06:10.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're right but it is not just a typical musical movie. It's also an adventure in which the princess sets out on a journey to find her estranged sister.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:07:21.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has got around 89% of rotten tomatoes rating if you prefer watching movies having good ratings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:08:10.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hmmmm, i know it might be completely different in genre but this brings me back to times of THE CHRONICLES OF NARNIA", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:08:36.497Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wow 89% really is a high number. what else do you have for me this is getting interesting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:09:41.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Critics have raved it as the best-animated musical to come out of Disney. This movie has so many likable characters like; the rugged iceman, the reindeer, and a naive snowman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:11:40.424Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You might be familiar with Kristen Bell, she has provided the voice for the main protagonist's sister Anna.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:12:35.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You can also watch this movie for all the Icy powers shown in the movie and how those powers trapped the kingdom in an eternal winter.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:18:01.053Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-19T17:02:18.248Z", 
+  "uid1LogOutTime": "2017-12-19T17:23:10.061Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:02:18.296Z", 
+  "user1_id": "USR1722", 
+  "user2_id": "USR137", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

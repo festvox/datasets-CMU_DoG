@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-27T16:48:03.691Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:48:16.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello have you seen wolf of wall street?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:48:38.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No. But I heard about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:49:31.032Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:49:42.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What it is all about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:50:14.866Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "its about a stockbroker engaged in rampant corruption and fraud", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:50:43.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio stars as Belfort", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:51:23.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK.  I thought that Leonardo DiCaprio was in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:52:11.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am fallowing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:52:28.087Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Please, continue. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:52:40.354Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jonah Hill stars as his business partner Donnie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:52:42.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "some critics claim that the film is an irresponsible glorification rather than a satrical takedown.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:53:50.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK. Was this movie based on true live story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:54:25.908Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes the wolf of wall street is based on a true story in 1987", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:55:03.901Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I thought so. Thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:55:27.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What else can you tell me about it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:55:45.158Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Belfort finds his career terminated following black monday and takes a job at a brokerage firm selling penny stocks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:57:00.049Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot sounds interesting.Continue, please.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:57:34.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "thanks to his aggressive pitching style and the high commissions, Jordan makes a small fortune.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:58:00.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. Are there any female actresses who played in this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:59:10.689Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, Margot Robbie as Naomi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:59:35.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that actress. She does her job well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:00:29.071Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Margot Robbie is one of the most famous actresses in the world right now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:01:04.082Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Indeed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:01:21.776Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "By the way d\no you know who produced this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:01:43.615Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i do not know who produced it. but Martin Scorsese directed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:02:36.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK, thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:03:04.187Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Never heard of him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:03:41.848Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you have never heard of Martin Scorsese? he directed good fellas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:04:18.196Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, never watched that movie, but thank you for information.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:05:03.517Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like movies of black comedy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:05:35.931Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:05:48.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So what about the ratings for the movie? Was it any good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:06:41.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "rotten tomatoes gives this movie a 78% and metacritic scores it at 75/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:07:16.572Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not bad. \nDo you think it was well deserved?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:07:49.634Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think the movie deserves a better rating. more like 80%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:08:23.510Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK. I will go with your rating\n, thank you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:09:06.393Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice day.Thank you for chatting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:09:45.296Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T16:48:03.691Z", 
+  "uid1LogOutTime": "2018-03-27T17:09:50.653Z", 
+  "uid1response": {
+    "feedback": "I had a good experience chatting about the movie. The person gave me enough information to make an educational choice on whether watch movie or not. The user was actively responding to my questions about the plot. I will watch the movie.Thank you.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T16:48:03.692Z", 
+  "uid2LogOutTime": "2018-03-27T17:09:00.528Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR829", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

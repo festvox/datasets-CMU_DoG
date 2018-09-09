@@ -1,0 +1,38 @@
+{
+  "date": "2018-01-30T21:37:10.450Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T21:37:28.450Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:38:07.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Inception? It's a psychological thriller", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T21:38:27.844Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-01-30T21:37:10.450Z", 
+  "uid1LogOutTime": "2018-01-30T21:39:08.753Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-01-30T21:37:10.501Z", 
+  "user1_id": "USR2865", 
+  "user2_id": "USR920", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

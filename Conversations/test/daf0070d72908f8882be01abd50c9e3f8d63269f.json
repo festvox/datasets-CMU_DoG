@@ -1,0 +1,65 @@
+{
+  "date": "2018-02-13T18:04:19.870Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The critics say this is the best animated musical to come out of Disney since the little mermaid!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:05:28.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, that's impressive. \nIt's weird that the metacritic score is so low", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:05:46.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, but it got an A+ on Cinemascore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:06:11.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's true. How do you feel about the voice actors? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:06:27.099Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Kristen Bell, I think she did a really good job. Didn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:06:47.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "didnt know she could sing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:06:55.101Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you watch alot of Disney movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:08:06.479Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:04:19.870Z", 
+  "uid2LogInTime": "2018-02-13T18:04:19.934Z", 
+  "uid2LogOutTime": "2018-02-13T18:16:47.328Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2362", 
+  "user2_id": "USR620", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

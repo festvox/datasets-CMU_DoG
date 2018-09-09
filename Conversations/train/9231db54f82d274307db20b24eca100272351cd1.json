@@ -1,0 +1,125 @@
+{
+  "date": "2018-03-27T15:37:17.597Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:37:32.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! The movie that we're going to discuss today is Toy Story - a 1995 movie starring Tom Hanks and Tim Allen. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:38:35.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you haven't seen Toy Story, I would highly recommend watching it. Despite being an animated movie that's typically stereotyped for younger audiences, there's a certain charm and warmth to the idea of toys coming to life and both Hanks and Allen did an incredible job of not only keeping what is an interesting story going, but also bringing those characters to life.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:41:28.420Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you describe the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:42:47.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The premise around the movie is the relationship between Woody, a cowboy toy (voiced by Hanks) and a Space astronaught, Buzz Lightyear (voiced by Allen). Both Toys are striving to be accepted and loved by Andy, the boy who owns both Toys.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:43:36.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Andy's family is in the process of moving, and both Woody and Buzz get separated from Andy. Throughout the film, both Woody and Buzz have to overcome their differences and work together to be reunited with Andy and the rest of the toys.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:44:59.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds awesome.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:48:24.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I will definitely watch it! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:48:29.235Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the score o rotten tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:48:34.940Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great question! Rotten Tomatoes gave this Comedy ./ Action adventure movie a 100% score, with an average of 9.10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:49:20.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds great! My daughter would probably love it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:49:42.738Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you a fan of animated movies like Toy Story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:49:50.881Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I love pixar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T15:50:12.946Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's great. One of the interesting things about this movie is how the toys pretend to be lifeless when kids are around, but when nobody is there they spring to life. That adds such depth to the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:51:06.855Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "One of the most interesting parts of the movie I think is the introduction of Buzz, which comes early on. Andy's birthday results in the boy getting a new present, which is Buzz. This brings an element of insecurity forth in Woody's character, as he has always been Andy's favorite toy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:52:19.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You mentioned your daughter would love it, and I think you're right. My boys are glued to the screen whenever this movie comes on, and they make it a record of seeking out Buzz and Woody toys when we're out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T15:53:46.760Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T15:37:17.597Z", 
+  "uid1LogOutTime": "2018-03-27T15:54:40.293Z", 
+  "uid1response": {
+    "feedback": "the other user barely responded and just left.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T15:37:17.627Z", 
+  "uid2LogOutTime": "2018-03-27T15:54:33.567Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4253", 
+  "user2_id": "USR2151", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2018-02-05T21:57:27.709Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Jaws seems like a suspenseful movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:58:13.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes very thirll", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:58:29.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the director direct move very perfectly\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:58:54.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "directed by spielberg, he has done some great work.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:59:01.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this film based on peter benchly's novel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:59:27.184Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "in the novel gaint man eating, here share attack", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:00:10.102Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Roy scheider as chief martin braddy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:01:27.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sensationally effective action and thriller film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:03:10.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this film particularly sympathy for any of the shark's victims", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:07:59.061Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:57:27.709Z", 
+  "uid1LogOutTime": "2018-02-05T22:00:09.071Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:57:27.972Z", 
+  "uid2LogOutTime": "2018-02-05T22:19:48.753Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR596", 
+  "user2_id": "USR576", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

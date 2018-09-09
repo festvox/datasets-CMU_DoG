@@ -1,0 +1,67 @@
+{
+  "date": "2017-12-19T17:43:26.940Z", 
+  "docLinkIdx": 8, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:43:40.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:44:33.220Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we have to talk about the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:45:00.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "from the description it sounds like a pretty good movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:45:43.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good*", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-19T17:45:51.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is a good and entertaining option", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-19T17:46:15.937Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-19T17:43:26.940Z", 
+  "uid1LogOutTime": "2017-12-19T17:47:19.253Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2017-12-19T17:43:27.027Z", 
+  "uid2LogOutTime": "2017-12-19T17:47:37.032Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR465", 
+  "user2_id": "USR4498", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

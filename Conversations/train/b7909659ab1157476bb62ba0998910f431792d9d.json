@@ -1,0 +1,330 @@
+{
+  "date": "2018-02-16T20:55:55.989Z", 
+  "docLinkIdx": 11, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:56:30.015Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anyone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T20:57:40.583Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. So the movie is Mean Girls. Have you ever thought about watching it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T20:58:12.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello? Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:00:31.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:00:43.114Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. So the movie is Mean Girls. Have you ever thought about watching it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:00:57.453Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I've heard about the title", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:01:16.646Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a comedy. I like comedies so I was thinking about checking it out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:01:47.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it about a High School?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:01:56.885Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. So its basically the 'it' girls and the wannabe social groups of high school.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:02:38.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like comedies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:02:49.393Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like comedies but I am a bit old for the high school theamed movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:03:09.736Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who plays the roles?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:03:32.440Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lindsay Lohan is the main character.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:03:54.592Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rachel McAdams plays a lead character as well. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:04:29.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does she play a positive or a negative character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:04:31.390Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's you fevorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:05:22.162Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lindsay's character starts by trying to fit with the 'plastics' but then she plans revenge on them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:05:43.441Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I better like SiFi movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:06:21.963Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie is definitely not sci-fi but if you're looking for a good cliche laugh about revenge and high school\n this would be the one to watch ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:07:29.672Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK, may be sometime when I have nothing else to do. What other movies could you recomend?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:08:20.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Right now just mean girls. Do you like movies based on their rating?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:09:17.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you mean user ratings or PG type of ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:09:54.102Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No. Like when I'm looking for movies sometimes I'll look at rotten tomatoes to see what they have rated a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:10:36.630Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I check the ratings but often such ratings does not agree with me - a lot of movies highly rated on rotten tomatoes were plane boring", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:11:30.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. Mean Girls is rated at 6.9 out of 10. But i probably would have rated it a 4.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:12:07.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My favorite part of the movie is when one guy yells out 'she doesnt even go here'.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:13:23.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Many ratings are boosted by producing companies, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:13:24.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This is very true I agree with you on that.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:14:16.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is funny when adult people play kids in the movies, some of the actors are in late twenties", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:14:29.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree I always had that thought. Especially because Rachel Mcadams was fairly old when the movie came out.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:15:10.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And so is Lindsay Lohan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:15:33.915Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Mentally, Lohan is still a highschooler, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:16:10.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But it'll be nice if casting was more realistic, maybe it'll open a door forsome new young talents", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:16:55.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. Her character seemed so out of place. And her acting is low level.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:17:04.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was it fun to watch the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:19:25.241Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:20:31.808Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The wannabes are my favorite characters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:20:46.867Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did it remind you about your high school?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:20:47.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No not at all. The way that there was such fakeness or I guess the revenge was not really a part of my personal high school experience.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:21:47.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "good for you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:22:13.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " But guess we all probably wanted to fit in the way that Lindsay's character wanted to fit in.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:22:29.093Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A lot of movie plots seem to be made up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:22:42.533Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about your experience\n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:22:51.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. Most high school themed movies just as this one overrated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:23:15.917Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was a nerd in the high school and even did not try to fit in - stayed focused on studies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:23:53.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ok.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:25:05.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I have to run, nice chatting with you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T21:25:30.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same. have a wonderful day.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T21:25:47.869Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T20:55:55.989Z", 
+  "uid1LogOutTime": "2018-02-16T21:25:52.127Z", 
+  "uid1response": {
+    "feedback": "The conversation was nice but the movie theme (high school) was too far from my interests to consider watching it (I like SiFi movies and am much older than a high schooler)", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T20:55:56.020Z", 
+  "uid2LogOutTime": "2018-02-16T21:25:49.570Z", 
+  "uid2response": {
+    "feedback": "The typing was hard to do. I had to keep clicking inside the both mid typing to complete phrases or sentences. I'm not sure if the user understood the task but we worked it out great. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR253", 
+  "user2_id": "USR608", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

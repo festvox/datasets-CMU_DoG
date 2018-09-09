@@ -1,0 +1,416 @@
+{
+  "date": "2017-11-27T20:24:51.762Z", 
+  "docLinkIdx": 7, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:25:39.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:25:51.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen this movie, but I have seen others in the series", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:26:18.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:26:31.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its one of those super hero movies called the avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:26:47.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it have a good plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:27:00.301Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I only saw iron man which i liked, but this is about all of them coming together", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:27:46.127Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "for the greater of good and evil maybe", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:28:01.776Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it have Iron Man in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:28:16.087Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes Robert Downey JR", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:28:27.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Chris Evans", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:28:41.547Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What other superheroes are in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:28:43.870Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Mark Ruffalo Chris hemsworth", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:28:53.511Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Loki", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:28:56.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What type of person do you think would enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:29:16.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Captain America the hulk", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:29:24.728Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Probably a nerdy type", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:29:40.631Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It would mostly be for fans of them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:29:56.727Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would think so this is the sixth film in the series of Marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:30:16.566Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know anything about the plot, just in general?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:30:32.835Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am not sure if you need to see all six in order to follow one another", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:30:34.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That makes sense that you might need to.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:30:47.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seems the avengers are together at first and then become divided on how to take on Loki", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:32:04.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am guessing he is the bad dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:32:10.336Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is Loki their nemesis, then? I know pretty much nothing about superheroes. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:32:32.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nYeah me either, so from what I am reading yes he is", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:32:52.399Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That makes sense!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:33:00.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Must be pretty bad if they all have to team up to defeat him!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:33:12.436Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what types of ratings it has gotten from review sites and/or viewers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:33:46.065Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah seeems there is 5-6 of them and they all transform into their chracters or like iron man puts on a suit and he can fly", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:33:48.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten tomatoes gave it 8/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:34:14.022Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, that's pretty good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:34:26.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cinema score gave it an A plus", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:34:30.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "metacritic score only gave it 69/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:34:47.588Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like it's a good movie for people who like that genre. Is it an action movie, do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:34:51.009Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oops! That's not a good score.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:34:59.427Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes very action'y", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:35:03.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It takes place in NYC", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:35:29.454Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds busy and full of action, then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:35:52.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any other things about the movie that might help me know whether to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:36:09.967Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Loki uses a scepter as a weapon and tries to shut down a generator, seems like he is trying to destroy the city becuase some of them are evacuating civilians", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:36:17.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds scary!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:36:54.283Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Iron mans suit fails and he is falling to the ground only to be saved by the Hulk", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:37:17.274Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're supposed to spend 20 minutes doing this, right? I guess we're about halfway done, but I'm running out of ideas of what to ask! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:37:49.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds interesting! Are there a lot of special effects with the powers the superheroes have?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:38:24.919Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I thought it was at least 12 turns which we have done, but yeah I am not sure if the 12 tuens was supposed to take 20 minutes maybe", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:38:29.936Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:38:37.980Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it said both, but I could be wrong. Just let me know when you feel it has been enough. I think I can answer the question being posed to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:38:57.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say yes, I saw Iron man which I loved actually so I might go see this just to see the other aspects of the supoer heroes and the villian", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:39:07.910Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you interested in the movie after reading about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:39:21.969Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes because I would like to see how all the other super heroes use their special powers ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:39:50.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember watching the incredible hulk when I was a kid", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:40:09.485Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I just don't know all these others like Captain america, loki, Thor etc", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:40:28.904Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "At least watching it will help introduce you to them!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:40:51.541Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think so too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:41:20.060Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have the hit at almost 19 minutes", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:41:41.601Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I remember the Incredible Hulk being Bill Bixby. :) I just don't know much about superheroes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:41:45.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think thats probably pretty good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:41:51.959Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure! We can go if you feel comfortable with it. Thanks for telling me about the movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:42:04.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK cool, thanks you sorry i wasnt really good at this lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:42:20.610Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's okay! Thank you! Have a great day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T20:42:32.049Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:42:32.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T20:42:36.737Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2017-11-27T20:24:51.762Z", 
+  "uid1LogOutTime": "2017-11-27T20:42:41.363Z", 
+  "uid1response": {
+    "feedback": "The other person didn't do a bad job explaining the movie, but this type of movie just isn't the kind I would watch. I don't know anything about superheroes, so I didn't get excited hearing about the plot of it. I'm glad the other participant was interested in the movie, though! It's neat that it appealed to them.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-11-27T20:24:51.771Z", 
+  "uid2LogOutTime": "2017-11-27T20:42:38.510Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR515", 
+  "user2_id": "USR4521", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "date": "2018-03-19T18:03:13.080Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:03:31.371Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:03:35.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we're going to be talking about Monsters Universit", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:03:44.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "y", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:03:45.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:03:53.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:03:56.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i have, what did you think of the prequel? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:04:03.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:04:25.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'd watch it again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:04:30.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like this one better than the original?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:04:37.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, the original was much better", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:05:15.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:05:21.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree, I feel people were waiting for the sequel instead, with Boo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:05:28.994Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hehe I love Boo!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:05:48.032Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "she was great, I've heard they might be making that in the future", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:05:59.129Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:03:13.080Z", 
+  "uid1LogOutTime": "2018-03-19T18:06:14.795Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:03:13.085Z", 
+  "uid2LogOutTime": "2018-03-19T18:05:58.673Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1411", 
+  "user2_id": "USR3820", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

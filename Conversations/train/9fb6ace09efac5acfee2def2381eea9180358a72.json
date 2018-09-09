@@ -1,0 +1,44 @@
+{
+  "date": "2018-02-17T15:00:39.572Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:01:41.382Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm good! Have you seen Inception before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:02:49.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:04:42.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should totally see it. It's a SciFi film with a Leonardo Diario! He plays this dude who steals secrets from people's dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:07:08.625Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-17T15:00:39.573Z", 
+  "uid1LogOutTime": "2018-02-17T15:04:53.251Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-17T15:00:39.992Z", 
+  "user1_id": "USR2615", 
+  "user2_id": "USR694", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

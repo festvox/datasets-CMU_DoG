@@ -1,0 +1,270 @@
+{
+  "date": "2018-03-19T18:59:20.034Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:59:56.312Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:00:09.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Wolf of Wall Street", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:00:25.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main actors in The Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:00:48.809Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio, Jonah Hill, Margot Robbie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:01:21.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thanks! What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:01:55.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It recounts \nBelfort's perspective on his career as a stockbroker in New York City and how his firm Stratton\nOakmont engaged in rampant corruption and fraud on Wall Street that ultimately led to his\ndownfall.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:02:26.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it seem like an exciting movie to watch?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:03:20.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it does seem very exciting.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:03:40.296Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who plays Belfort in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:04:05.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leonardo DiCaprio as Jordan Belfort", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:04:20.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What character is Margot Robbie playing in The Wolf of Wall Street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:05:10.944Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Margot Robbie plays Naomi Lapaglia (Belfort's wife)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:06:00.870Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a dark comedy directed by Martin Scorsese", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:06:27.349Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did she suffer in the movie as a result of Jordan Belfort's actions?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:06:40.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Thank you for that information. Martin Scorsese is an excellent director.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:07:46.663Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She does suffer greatly in the end, due to the actions of her husband.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:08:36.994Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you tell what about the movie makes it a dark comedy? It almost sounds like a tragedy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:09:23.890Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is a bad guy, does illegal things. This movie is more of a glorification of the intense and wild raise and fall of this character. A satire.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:11:01.431Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Rise*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:11:13.857Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, okay. That makes sense. Do you think you would enjoy watching the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:11:53.723Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Absolutely! This sounds like a great movie exploiting the life of a conman. I like these types of movies. Plus the cast is fantastic.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:12:50.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Matthew McConaughey,\nRob Reiner, Jon Favreau, Joanna Lumley and Jean Dujardin also star.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:12:58.528Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, with that cast, it would be hard to pass up. Leonardo DeCaprio plays a conman quite well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:13:48.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think you will enjoy this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:14:39.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it sounds like a fast paced, very exciting film. What is the movie rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:14:42.185Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I think I will. You've made me want to watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:14:56.566Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Rotten Tomatoes 78%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:15:06.225Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Metacritic score 75/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:15:15.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "CinemaScore: C", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:15:26.966Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That does put it in perspective.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:16:01.418Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Though I don't always trust critic scores. Rotten Tomatoes is more accurate a gauge for me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:16:32.759Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A lot of intrigue and deception seem to be a theme in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:16:42.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So it would keep you on the edge of your seat, waiting for the next twist.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:17:17.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I usually go with Rotten Tomatoes myself, as well.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:17:20.204Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:17:27.025Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I would say you've convinced me! I will have to watch The Wolf of Wall Street now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:01.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for describing it to me.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T19:18:17.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you for allowing me the time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T19:18:27.912Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:59:20.034Z", 
+  "uid1LogOutTime": "2018-03-19T19:18:38.182Z", 
+  "uid1response": {
+    "feedback": "The other user did an excellent job of explaining the movie and hitting the selling points. The cast, type of movie, story line, and director all sound very good.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:59:20.121Z", 
+  "uid2LogOutTime": "2018-03-19T19:18:32.879Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2692", 
+  "user2_id": "USR2290", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

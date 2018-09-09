@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-28T18:36:16.938Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:36:27.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:36:47.971Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "???", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:37:32.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'm here, my internet was just a little slow for a bit, sorry about that! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:38:58.617Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-28T18:36:16.938Z", 
+  "uid1LogOutTime": "2018-02-28T18:39:52.004Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-28T18:36:17.066Z", 
+  "uid2LogOutTime": "2018-02-28T18:38:43.750Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1223", 
+  "user2_id": "USR4179", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

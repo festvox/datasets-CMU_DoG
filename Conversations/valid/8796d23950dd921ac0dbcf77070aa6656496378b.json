@@ -1,0 +1,44 @@
+{
+  "date": "2018-03-30T20:27:54.545Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey! Did you like the movie The Great Gatsby?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T20:28:18.438Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. I did. What about you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T20:29:13.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure! But the reviews aren't great ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T20:29:49.581Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-30T20:27:54.545Z", 
+  "uid1LogOutTime": "2018-03-30T20:30:42.813Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T20:27:54.592Z", 
+  "uid2LogOutTime": "2018-03-30T20:29:19.080Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1533", 
+  "user2_id": "USR1564", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

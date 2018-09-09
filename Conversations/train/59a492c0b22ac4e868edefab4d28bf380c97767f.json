@@ -1,0 +1,127 @@
+{
+  "date": "2018-03-01T19:49:09.710Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:49:28.306Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So what's the name of the movie that you read about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:50:25.290Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you ever seen the movie Bruce Almighty? I highly recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:50:29.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't seen it yet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:50:51.367Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:50:53.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a comedy starting Jim Carrey. This hilarious character plays Bruce Nolan a reporter who gets the chance to be \"god\" himself (played by Morgan Freeman).", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:52:43.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ooo I like Jim Carrey movies. When did this come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:53:13.593Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie scored 48% on Rotten Tomatoes and came out in 2003. Supporting actors include Jennifer Aniston. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:54:02.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ah the early 2000's was a good time for comedy movies. But man, it only scored 48% on Rotten Tomatoes?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:54:47.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's kind of disappointing....", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:54:54.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree, but the CinemaScore was an A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:55:34.501Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's good to hear. Are there any other movies that are similar to Bruce Almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:56:03.138Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot line of playing \"god\" for a week is only in this movie. No other ones like it that I am aware of.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:57:35.623Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ah got it. Is there a sequel to this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:58:17.326Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No current sequel to this film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:58:55.009Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wait so Morgan Freeman plays God? That's so funny. Does he have the full on white robe with a full white beard and booming voice?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:59:51.444Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T19:49:09.710Z", 
+  "uid1LogOutTime": "2018-03-01T20:00:53.413Z", 
+  "uid1response": {
+    "feedback": "The other user recommended this movie and told me that it's really funny, so I might check it out.", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:49:09.734Z", 
+  "uid2LogOutTime": "2018-03-01T20:00:44.627Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2666", 
+  "user2_id": "USR3052", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "date": "2018-02-15T03:22:28.234Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:22:56.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen sounds like a great movie. It's a Disney animated musical and has high ratings from critics.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:23:46.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen the movie. I really want to see it though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:24:04.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard the music? Idina Menzel sings th\ne part of Elsa.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:24:30.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe I have. Is Elsa the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:24:45.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Elsa is one of the main cast members. The others are Anna, her younger sister, and Kristoff, an iceman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:25:35.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think I've seen Kristoff. What country does the movie take place in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:26:09.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A kingdom called Arendelle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:26:49.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that a ficitonal country?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:27:15.158Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a fantasy film \nbased on a fairy tale", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:27:50.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Nice. What year did the movie debut?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:28:38.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In 2013", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:28:44.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are they going to make a sequel?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:30:07.090Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know. One of the critics said it was destined for a Broadway show!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:30:56.644Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That makes sense if it is that good. What is the moral of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:31:52.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'd say it's about mastering your powers rather than trying to suppress them.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:33:27.455Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That resonates with me. I really want to see the movie now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:33:47.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If you like musical fantasy and princesses, I think you'd find a lot there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:34:22.436Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:34:39.766Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is also a colony of magical trolls, which sounds cool.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:35:24.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:35:48.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And it's Disney's 53rd animated feature film! They must be doing something right.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:36:13.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow! 53. They are doing something right!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:36:31.372Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are actors in this film who play characters at different ages. I wonder if they are trying to broaden their appeal.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:36:55.304Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They probably are. They don't want to be type-cast.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:38:38.122Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can understand that. I hate to tell you spoilers, but in this one the handsome prince turns out to be a bad guy!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:39:19.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Really? That is surprising in a Disney movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:41:21.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The directors are Chris Buck and Jennifer Lee, I guess maybe they wanted something different", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:42:29.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't heard of them. But if you say it is a good movie, they must be doing something right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:42:50.307Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T03:22:28.234Z", 
+  "uid1LogOutTime": "2018-02-15T03:43:01.876Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T03:22:28.260Z", 
+  "uid2LogOutTime": "2018-02-15T03:43:21.123Z", 
+  "uid2response": {
+    "feedback": "It was a very smooth conversation. The document didn't have all the information I might have wanted but it was useful and would have been useful even if I hadn't seen the movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4845", 
+  "user2_id": "USR2941", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

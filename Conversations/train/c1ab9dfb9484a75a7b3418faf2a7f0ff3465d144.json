@@ -1,0 +1,266 @@
+{
+  "date": "2018-03-06T18:14:12.904Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:14:25.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:14:30.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Have you seen this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:14:33.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:14:38.681Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am fine. Thank you. How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:14:39.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good thanks for asking! Have you seen this film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:14:51.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I've seen it too but I saw it in theaters which was almost 10 years ago so I don't remember it much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:15:05.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I just remember thinking that it was going to be better. I didn't like it as much as I thought I would", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:15:35.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But I love Sandra Bullock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:15:41.902Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's been over five years for me as well, however, I remember it was ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:15:49.640Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a big fan of sports films", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:16:07.122Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like her too, it was unusual that she was in something other than typical romantic comedy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:16:16.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And I enjoyed that it was based on a true story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:16:25.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that was a good part of the movie: a true story of a rising sports star", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:16:47.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes she usually isn't in anything serious so this was a good change for her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:16:47.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and it was emotional too, in a way that she gave this orphaned boy a chance to do soemthing great in life!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:17:30.787Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't really like the actor that played Big Mike though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:17:32.826Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "which actor was that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:17:45.225Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah I enjoyed that she really cared for this boy to have a better life", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:17:49.028Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't think he's anyone too famous. I just remember the actor not being very good for this role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:18:06.052Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, I see, Quinton Aaron", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:18:19.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, I don't recall him too well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:18:32.584Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Tim McGraw was pretty good though ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:19:08.539Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "he is not really an actor but did well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:19:16.839Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I liked how Sandr Bullock's character didn't care what other people thought of her taking in this troubled kid in order to help him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:19:24.080Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh yeah I forgot he was in this movie too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:19:36.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think he was the husband", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:19:46.970Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, she typically plays light-headed fools, but in this one she was very strong-willed and determined!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:19:59.136Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, he was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:20:35.977Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its sad that Big Mike didn't think Leigh Anne had good intentions for taking him in. He probably never experienced true care before since his mother was addicted to drugs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:21:01.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was emotionally damaged and never got that motherly love to understand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:21:32.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and before of her, he got into college which definitely changed his life for the better", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:21:38.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what it is like to care", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:21:38.400Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, bless people like that, who give unfortunate kids a chance to rise!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:22:05.043Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because of her**", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:22:11.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah we need more people like that!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:22:27.166Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think I should rewatch this film. Maybe I would like it better now that I'm older", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T18:22:45.930Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, me too, I think I'll watch it again, it's been too long!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T18:23:10.786Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T18:14:12.905Z", 
+  "uid1LogOutTime": "2018-03-06T18:23:19.096Z", 
+  "uid1response": {
+    "feedback": "Great conversation and very polite user, thanks so much!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T18:14:12.962Z", 
+  "uid2LogOutTime": "2018-03-06T18:23:15.995Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4835", 
+  "user2_id": "USR3893", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

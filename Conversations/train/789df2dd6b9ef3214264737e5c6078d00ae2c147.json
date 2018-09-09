@@ -1,0 +1,56 @@
+{
+  "date": "2018-03-05T16:35:53.213Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:36:15.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:36:20.201Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So! Despicable Me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:36:35.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes,  thats the one with Steve Carell voice acting as Gru", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T16:37:03.611Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw that it got a 81 on Rotten Tomatoes. That's pretty impressive.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T16:37:47.987Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-05T16:35:53.213Z", 
+  "uid1LogOutTime": "2018-03-05T16:37:16.118Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T16:35:53.213Z", 
+  "uid2LogOutTime": "2018-03-05T16:40:00.769Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR578", 
+  "user2_id": "USR4493", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

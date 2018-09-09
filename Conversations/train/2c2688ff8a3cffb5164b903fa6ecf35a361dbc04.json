@@ -1,0 +1,94 @@
+{
+  "date": "2018-02-07T23:47:50.960Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:48:17.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you be able to tell me the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:48:34.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Zootopia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:49:04.846Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:49:09.470Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Could you tell me the basic plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:49:14.183Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a world populated with anthropomorphic mammals. The main character is a bunny who dreams about becoming a police officer in ubran Zootopia. She excels the academy but is doubted for her abilities as she is only a small rabbit, and is appointed parking duty. On her first day of the job she is met and hustled by a fox who is con artist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:54:26.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh okay cool!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:54:50.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are we supposed to talk about another movie now?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:55:07.106Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I was instructed that we continue to discuss Zootopia ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:55:54.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:55:58.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so then what happens to the bunny after she gets hustled?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:56:14.849Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T23:47:50.960Z", 
+  "uid1LogOutTime": "2018-02-07T23:59:35.989Z", 
+  "uid1response": {
+    "feedback": "The user abandoned me after giving me an intro they probably pasted.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:47:52.511Z", 
+  "uid2LogOutTime": "2018-02-07T23:57:02.828Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4858", 
+  "user2_id": "USR1751", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

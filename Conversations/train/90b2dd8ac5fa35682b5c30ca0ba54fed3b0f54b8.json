@@ -1,0 +1,307 @@
+{
+  "date": "2018-03-19T20:51:20.999Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hiii", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:51:36.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:52:15.003Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever watched movie Post?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:52:38.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "noo, never, is this the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:53:19.535Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a movie with Tom Hanks and Meryl Streep in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:53:35.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it sounds very interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:54:21.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Its about the fist female publisher in a major American news paper of Washington Post.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:54:58.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and what do the critics of this movie say?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:55:29.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has the  ratings of 7.9.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:55:44.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "7.9 out of 10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:56:03.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is directed by iconic Steven Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:56:29.474Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:56:34.887Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with that director and that cast you hear the movie very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:57:01.175Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The scene takes place in 1966", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:57:41.497Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "in Vietnam", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:58:25.673Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I love the movies of today set in those times", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:59:11.325Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So what do you thing about this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:59:16.483Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:59:36.832Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me as well. I like the scenery very much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:00:09.002Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "t\nhat sounds very interesting, I like his cast, his director, his adaptation in the 60s, I would like you to contras a bit more of his story ... please", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:00:21.642Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok. No problem", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:00:40.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Give me a minute, please.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:00:50.575Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok, take your time, I want you to convince me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:02:04.118Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie is historical political thriller.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:03:46.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "political history? from United States?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:04:30.472Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:04:43.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who was the president at that time? Nixon ???", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:06:06.303Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Let me check, please.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:06:30.044Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lyndon B. Johnson was a president at that time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:07:17.685Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and in the movie they say about ??\n\u00a0 or what is the main political issue?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:08:52.507Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Katherine Graham who played by Meryl Streep could destroy the newspaper that she sees as a family legacy\n.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:09:01.328Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She chooses to run her story instead establishing the Post itself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:10:46.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and that is negative?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:11:58.604Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not necessarily", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:13:12.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was the history in the making", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:13:46.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and what happens next? what is the role of Tom Hanks??", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:14:18.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ok. Tom Hanks is played as Ben Bradly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:15:10.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He is Post assistance editor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:16:30.696Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The \"complice\" of Graham, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:17:22.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, that is right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:17:48.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The story plot  is really controversial.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:18:41.994Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm really interested in watching this movie, thanks for your instructions, it means a lot to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:19:04.707Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day, thank you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:19:11.470Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:19:16.623Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have a nice day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:19:25.422Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T20:51:20.999Z", 
+  "uid1LogOutTime": "2018-03-19T21:20:06.283Z", 
+  "uid1response": {
+    "feedback": "The chat was very pleasant and interesting.The conversation went down smoothly. The other user was actively responding.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T20:51:22.172Z", 
+  "uid2LogOutTime": "2018-03-19T21:19:20.457Z", 
+  "uid2response": {
+    "feedback": "excellent talk, as always very grateful", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1228", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

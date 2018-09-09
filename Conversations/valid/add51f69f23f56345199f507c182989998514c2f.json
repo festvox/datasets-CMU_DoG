@@ -1,0 +1,88 @@
+{
+  "date": "2018-03-08T15:02:52.826Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Catch me if you can? Leonardo was great in that one!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:03:39.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I've seen it! His role as Frank Abagnale, Jr. was superb. Do you know what ratings did this movie receive?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:04:30.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, it got a 96% on Rotten Tomatoes! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:06:07.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That is a great score. What is amazing, that this movie is a biographical crime film, so it happened in real time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:08:08.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And the fact that he pulled it off when he was 18? insanse", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:09:49.712Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I wish I could pose as a Pan American World Airways pilot like Frank did.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:12:33.370Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he reminds me of that kid from the movie Blank Check, but all grown up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:13:56.637Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Huh, I haven't seen that one. What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:16:18.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh its just an old crappy movie from the 90s. some kid gets his hand on a blank check from some rich guy and cashes it for a million dollars and buys this awesome house with all this awesome stuff. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:17:46.872Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-08T15:02:52.826Z", 
+  "uid1LogOutTime": "2018-03-08T15:21:17.556Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T15:02:52.934Z", 
+  "uid2LogOutTime": "2018-03-08T15:20:57.819Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3977", 
+  "user2_id": "USR86", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

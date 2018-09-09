@@ -1,0 +1,150 @@
+{
+  "date": "2018-03-21T16:53:02.277Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi I was online with someone but computer did not show me the info I needed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:53:58.380Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is that the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:54:20.368Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "As a kid I thought this movie was the greatest.Home Alone is a must see, have you watched it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:54:21.484Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The director of the movie was Chris Columbus lol ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:54:42.476Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I  have seen it.  let's see if I get the page of info I need", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:55:12.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yea Im not sure why it isnt showing you the documents as well, since we both have seen the movie we can still easily discuss it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:55:57.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well not all but I can try anyway", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:56:00.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that was great the first time but now too many sequels", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:56:30.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The booby traps are really inspired", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:57:12.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Way too many sequels the first two were great especially Part 2: Lost in New York. I remember having that game for Sega Genesis", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:57:15.788Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "first came out in 1990   ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:57:41.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea the booby traps were genius, they should make a modern version, but with recent technology I dont think it would have the same effect. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:58:08.872Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Macaulay is perfect as the little kid ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:58:17.778Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yea he was great as Kevin and his older brothers were hilarious as well\n\\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:58:44.116Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, now they would have the talking spots  Sirius etc to scare the villians  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T16:59:13.214Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Some of the critical responses are funny. \"Sadistic fesitval of Adult Bashing' lmao who writes this crap", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T16:59:36.929Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They did start off slow but the booby traps really liven the film up ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:00:02.157Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lol yea that would be funny, robbers go into a house, and the Siri spokes them out because it is a smart house. Hell even I have a app that I can monitor my security footage ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:00:42.493Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It didn't get a good score with rotten tomatoes but it sure is a great film and keeps ongoing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:01:15.405Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T16:53:02.277Z", 
+  "uid1LogOutTime": "2018-03-21T17:01:12.331Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T16:53:02.353Z", 
+  "uid2LogOutTime": "2018-03-21T17:01:19.970Z", 
+  "uid2response": {
+    "feedback": "We started slow because I was having problems reading the review with my computer.  ", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4241", 
+  "user2_id": "USR424", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

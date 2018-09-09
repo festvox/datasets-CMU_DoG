@@ -1,0 +1,109 @@
+{
+  "date": "2018-03-29T18:44:22.980Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:44:59.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Have you seen the movie Home Alone? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:45:14.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The one with Macauley Culkin fending off his house from invaders?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:45:45.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:45:48.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wait no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:46:13.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not the first", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:46:17.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's so cute. I haven't seen it since it first came out. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:46:17.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, the one with Macauley", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:46:31.417Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Joe Pesci was one of the would be robbers. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:46:52.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What makes the first worth seeing if I thought the second was just alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T18:47:15.399Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The ways that Macaulay pulled tricks on the robbers was hilarious. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:47:59.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He set up traps that were kind of like Rube Goldberg machines. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:48:22.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Catherine O'Hara and John Heard play his parents. I think they are good too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T18:49:08.051Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T18:44:22.980Z", 
+  "uid1LogOutTime": "2018-03-29T18:54:51.724Z", 
+  "uid1response": {
+    "feedback": "The other user left pretty quickly. I waited five minutes in case they came back. I'm not sure that it went all that smoothly since he/she left. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T18:44:23.095Z", 
+  "uid2LogOutTime": "2018-03-29T18:49:01.709Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4465", 
+  "user2_id": "USR3602", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "date": "2018-02-12T19:06:08.856Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:06:33.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:07:16.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:07:25.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie today is called Lala Land. It stars Ryan Gosling and Emma Stone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:07:44.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never head of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:08:10.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is really good. It gets a score of 92% on Rotten Tomatoes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:08:30.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds like a good movie to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:09:02.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a comedy-drama about two people in Hollywood who fall in love while going for their dreams. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:09:45.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm trying to think of what Ryan Gosling and Emma Stone look like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:10:12.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:10:31.533Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ryan Gosling is handsome with blonde hair and blue eyes. Emma Stone is pale, and red headed. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:10:43.134Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds awesome", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:38.248Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I remember him now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:02.489Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, in the first part of the movie they meet but he brushes her off. Then they meet months later and don't get along despite their chemistry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:36.388Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ill have to rent that movie tomorrow nite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:01.088Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds like a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:56.659Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think you should. It is crazy popular. Would you like to know more about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:13:56.710Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like musicals", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:14:49.389Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I suppose you could tell me a little bit more if you want", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:02.125Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Musicals is that instruments", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:34.124Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Musicals is a type of movie, they do a lot of singing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:04.258Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The middle of the movie isn't the best, the story slows down.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:34.435Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK I know what musicals is now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:17:07.855Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The girl, Emma Stone, is having a hard time succeeding in LA. The boy is doing well with his band though. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:18:14.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:35.640Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then the band goes on tour and this causes an argument with the couple. The girl has a play and it is bad. Things aren't going well all around. The girl moves back home. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:00.052Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like you know this movie pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:36.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What's the next movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:30.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I know quite a bit about it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:33.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is no next movie, just Lala Land", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:39.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK I thought there was another one maybe I was mistaken", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:24.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No worries. I think we are done now though thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:38.683Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice meeting you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:56.924Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:06:08.856Z", 
+  "uid1LogOutTime": "2018-02-12T19:22:52.859Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:06:08.906Z", 
+  "uid2LogOutTime": "2018-02-12T19:23:17.739Z", 
+  "uid2response": {
+    "feedback": "I thought that was really cool.  That was the first time I have ever done that.", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3807", 
+  "user2_id": "USR3323", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

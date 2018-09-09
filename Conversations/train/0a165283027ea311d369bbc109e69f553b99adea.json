@@ -1,0 +1,241 @@
+{
+  "date": "2018-03-02T20:18:34.652Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:19:07.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:19:38.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you read the document ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:20:02.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did, abou tthe Blnd Side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:20:16.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh cool. what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:20:36.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ok movie. Definite feel good story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:20:37.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:20:57.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About a a white family taking in an african american kid, who turns out to be a good athlete, who eventaully becomes a pro football player.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:21:06.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "awesome sounds like a good movie. is it sad?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:21:43.599Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sandra Bullock, ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:21:47.213Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tim McGraw", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:21:52.147Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not sad at all, unless the kid leaving his family is sad.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:22:01.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh okay! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:22:15.722Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "why did he leave his family?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:22:35.594Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont recall why, something about poverty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:23:16.664Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I dont recall the mother really caring", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:23:20.388Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh okay. Makes sense. Does he ever see his mother again? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:23:43.792Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think he does.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:23:52.641Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh okay. does he call the new mother \"mom\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:24:10.825Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Pretty much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:24:37.614Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think he at least feels protected", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:24:47.358Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh okay! sounds like an interesting movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:24:55.753Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Have you actually seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:26:13.789Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, but a while ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:26:26.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay. anything else happen in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:26:58.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the kid still plays ni the nfl", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:26:59.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow thats awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:27:10.333Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it based on a true story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:27:17.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm actually way more into football than I am the movie haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:27:23.557Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is based on a true story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:27:27.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh awesome. I know nothing about football to be honest ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:27:53.892Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The kid does well enough when they find a way to meet his learning style he ends up going to college too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:28:00.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "His mother was a drug addict, accoring to the document. He keeps running away from homes though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T20:28:15.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T20:28:25.988Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-02T20:18:34.652Z", 
+  "uid1LogOutTime": "2018-03-02T20:28:28.075Z", 
+  "uid1response": {
+    "feedback": "I have seen the movie before. It is actually one of my favorite movies!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-02T20:18:34.674Z", 
+  "uid2LogOutTime": "2018-03-02T20:28:18.625Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3723", 
+  "user2_id": "USR28", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

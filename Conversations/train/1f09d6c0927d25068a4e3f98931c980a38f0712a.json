@@ -1,0 +1,270 @@
+{
+  "date": "2018-02-28T17:45:33.552Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:46:04.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:46:16.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:46:29.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good. How are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:47:06.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am doing good as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:47:12.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats the name of the movie you read about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:47:42.085Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:48:01.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I actually haven't", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:48:15.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is not out in theaters yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:48:22.820Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:48:25.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was out  in 2010.  Do you like movies in this genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:49:00.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh... 2010. I never heard of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:49:32.522Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:49:37.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about the founding of Facebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:50:21.933Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should try to see it. It is very good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:50:38.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh I see ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:01.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It stars Jesse Eisenberg as Mark Zuckerberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:15.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:15.805Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you generally watch high-rated movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:41.803Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No I don't ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:52.265Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What did you like most about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:57.906Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am more into action movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:52:38.562Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It think it is sort of truthful", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:52:46.335Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like comedy as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:52:53.900Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh that's cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:53:08.252Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is based on 2009 book The Accidental Billionaires: The FOunding of Facebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:49.385Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I never read the book :(", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:24.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Justin Timberlake  also plays in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:54:53.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:55:15.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "any other famous people that take part in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:55:40.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Zuckerberg is dumped by his girlfriend- I like the scene", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:56:44.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol that really sucks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:56:55.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and funny at the same time", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:03.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He writes and insulting entry ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:12.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:17.085Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Why did the girlfriend dump him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:25.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would say he is in much better state right now since he married a doctor ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:57:52.638Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Erica Albright - she dumps him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:57:53.679Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:58:05.907Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:45:33.552Z", 
+  "uid1LogOutTime": "2018-02-28T17:58:09.258Z", 
+  "uid1response": {
+    "feedback": "THanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:45:33.599Z", 
+  "uid2LogOutTime": "2018-02-28T17:58:12.137Z", 
+  "uid2response": {
+    "feedback": "The details that the other user provided sounds interesting. The subject of the movie is well known to a lot of people since is about the founding of Facebook. I personally haven't seen the movie but from what I heard it sounds interesting. I would watch it since Justin Timberlake takes part in the movie.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR335", 
+  "user2_id": "USR1159", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

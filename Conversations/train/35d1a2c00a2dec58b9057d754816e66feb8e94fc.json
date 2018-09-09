@@ -1,0 +1,125 @@
+{
+  "date": "2018-02-02T20:13:03.418Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:13:28.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:14:02.024Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Are you know \ninception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:14:23.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw inception and was completely confused. I could hardly follow \nwhat was going on in the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:14:36.654Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Talk about \"inception.\" Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:14:56.448Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes ! Rating was grate", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:15:21.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Leonardo DiCaprio. I thought he did great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:15:40.601Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:16:11.364Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo DiCaprio as Dom Cobb, a professional thief who specializes in conning secrets\nfrom his victims by infiltrating their dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:16:22.238Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cast : Tom Hardy as Eames, a sharp-tongued associate of Cobb.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:17:14.805Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Just amazing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:17:36.825Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " I liked this", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:18:10.133Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you generally watch movies with (good/bad) ratings? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:20:03.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I allso love Leonardo DiCaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:30.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you in online", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:58.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am wait for your response", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:15.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Critical Response ;\"wildly ingenious chess game,\" \"the result is a knockout.\"\n\u25cf \"DiCaprio, who has never been better as the tortured hero, draws you in with a love story\nthat will appeal even to non-sci-fi fans.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:17.575Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T20:13:03.418Z", 
+  "uid2LogInTime": "2018-02-02T20:13:03.638Z", 
+  "uid2LogOutTime": "2018-02-02T20:24:55.165Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR664", 
+  "user2_id": "USR4061", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

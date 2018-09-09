@@ -1,0 +1,177 @@
+{
+  "date": "2018-03-16T17:19:02.180Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:11.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:19.673Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good Thanks! and you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:32.853Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, thanks for asking!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:43.320Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the name of this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:52.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name is Despicable Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:08.198Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I love that movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:17.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like animation comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:24.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:24.873Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not usually, but this one was very funny and cute!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:45.137Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My kids loved it and I enjoyed it as well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:03.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have! This movie is filled with great comedians such as, Steve Carell, Jason Segal and Russell BRand!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:21:05.530Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know, I loved the comedy in it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:28.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Russell Brand was great!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:36.967Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I loved Victor character, the awkward geek with funny Transylvania accent!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:22:11.691Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and the story of the three adopted kids was very touching!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:22:26.617Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and of course the Minions- kids love them!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:22:44.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its no first rank CGI cartoon, but shows how Pixar's quailty over crass is inspiring the mid-list. Its definitly a fun movie for kidas and fresh for adults!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:23:39.070Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its even in 3D", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:24:15.437Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, because there are so many foolish animations out there, but this one is very fresh and innocent!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:24:29.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Rotten Tomatoes gave it 81% which is a very good rating!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:24:31.061Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Generally in movies, the villian really steals the show but in this one it is Gru that does it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:25:06.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Its amusing rather than just boring", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:25:46.198Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, very funny, and Despicable Me II is good as well, as is the Minions movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:26:07.017Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T17:19:02.180Z", 
+  "uid1LogOutTime": "2018-03-16T17:26:30.539Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:19:02.219Z", 
+  "uid2LogOutTime": "2018-03-16T17:26:34.175Z", 
+  "uid2response": {
+    "feedback": "The other user was polite and we had a good discussion! Thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4122", 
+  "user2_id": "USR4835", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

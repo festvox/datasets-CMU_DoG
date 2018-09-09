@@ -1,0 +1,236 @@
+{
+  "date": "2018-03-08T15:43:43.755Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:44:29.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, well, thanks. I recommend the movie, The Social Network. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:44:42.192Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh nice. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:44:59.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The beginnings of Facebook.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:45:10.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I think I saw previews\n for that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:45:38.211Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like drama films as a genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:45:43.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did it come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:45:47.986Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:45:59.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes I like dramas", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:46:03.552Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This one is interesting, well done. I actually read the book also", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:46:48.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The opening of the movie happens when Zuckerberg is dumped by his girlfriend. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:47:26.313Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh who plays Zuckerberg?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:47:47.941Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jesse Eisenberg", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:47:56.179Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I didn't know there were books", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:48:03.353Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The book is called \"The Accidental Billionaires\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:48:22.788Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh cool I might need to look it up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:48:46.416Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What info would be most helpful to you in your decision whether to see the movie or not? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:48:47.077Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What's the plot like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:48:57.778Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is set at Harvard for a while, and then the company moves to Palo Alto", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:49:28.502Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh that's cool I don't know what Palo Alto is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:49:55.787Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A city in CA. The plot centers around the adoption of Facebook and the growth of the company with various people involved in that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:50:29.396Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who else was involved. \\", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:50:56.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fellow Harvard students, mostly. Looks like the critical response to the movie was good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:51:24.226Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh what was some of the reveiws?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:51:48.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That the movie was very perceptive, smartly done. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:52:23.425Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also says that some biographical liberties were taken", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:53:06.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it sad? Or pretty upbeat?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:53:16.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dramatic is best way to describe. There are a few lawsuits of Harvard students who had some involvement early on...and want compensation as the company grows. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:54:12.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but a happy ending?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:55:04.445Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't know re: ending. The full name of the book is The Accidental Billionaires: The\nFounding of Facebook, A Tale of Sex, Money, Genius and Betrayal, by the way. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:55:40.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh wow that is a HUGE book name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:56:18.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:56:28.709Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what the Betrayal part is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T15:57:11.284Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Winklevoss twins claim that Zuckerberg stole their idea, while Saverin claims his shares of\nFacebook were unfairly diluted when the company was incorporated. The twins and Saverin were fellow Harvard students.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T15:57:51.539Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-08T15:43:43.755Z", 
+  "uid1LogOutTime": "2018-03-08T15:57:39.546Z", 
+  "uid1response": {
+    "feedback": "It was hard to get the other person to continue to talk. ", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T15:43:43.794Z", 
+  "uid2LogOutTime": "2018-03-08T15:58:36.297Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3241", 
+  "user2_id": "USR3494", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2018-02-05T21:18:45.311Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:18:58.734Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:19:20.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello there. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:19:21.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:19:37.214Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm alright. You?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:19:52.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:20:29.351Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T21:20:36.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "we are talking this ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:21:27.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:21:33.418Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can off 2009", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:04.949Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "with Leonardo DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:22:50.162Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you like with leonardo dicaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:24:26.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "molvies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:24:34.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T21:24:47.508Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-05T21:18:45.311Z", 
+  "uid1LogOutTime": "2018-02-05T21:26:02.438Z", 
+  "uid1response": {
+    "feedback": "thank you.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T21:18:45.328Z", 
+  "uid2LogOutTime": "2018-02-05T21:21:23.142Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2478", 
+  "user2_id": "USR4146", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

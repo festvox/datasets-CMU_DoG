@@ -1,0 +1,76 @@
+{
+  "date": "2018-02-07T23:51:05.778Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:51:21.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:51:39.180Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:52:11.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:52:29.135Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:52:42.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have. In the theater. It was a great movie! Are you a fan of DC comics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T23:53:16.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like a lot of their characters, but I'm not a fan of some of the more recent DC movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:53:59.209Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T23:56:23.211Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T23:51:05.779Z", 
+  "uid1LogOutTime": "2018-02-08T00:00:12.264Z", 
+  "uid1response": {
+    "feedback": "The other participant seemed to have left the chat. I waited for five minutes to ensure that I would get paid.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T23:51:05.832Z", 
+  "uid2LogOutTime": "2018-02-07T23:54:38.334Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4363", 
+  "user2_id": "USR2363", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

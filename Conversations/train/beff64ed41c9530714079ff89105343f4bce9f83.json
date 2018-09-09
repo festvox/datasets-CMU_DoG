@@ -1,0 +1,78 @@
+{
+  "date": "2018-03-29T14:07:27.646Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:07:39.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi there! I'm so glad Monsters U is the movie we get to talk about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:08:25.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not seen it yet", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:09:31.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:09:33.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have seen it! I thought it was hilarious. Young Mike and Sully were just as entertaining as I was hoping.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:10:35.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:13:12.170Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "whats it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:13:14.933Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well it's about these two monsters, Mike and Sully, when they were young and in college. It came out as a prequel to Monsters Inc. In the movie they start off hating each other but then they slowly become friends.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:15:08.536Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T14:07:27.646Z", 
+  "uid1LogOutTime": "2018-03-29T14:20:37.257Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T14:07:27.684Z", 
+  "uid2LogOutTime": "2018-03-29T14:26:41.653Z", 
+  "uid2response": {
+    "feedback": "sounds like an interesting movie", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2323", 
+  "user2_id": "USR45", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

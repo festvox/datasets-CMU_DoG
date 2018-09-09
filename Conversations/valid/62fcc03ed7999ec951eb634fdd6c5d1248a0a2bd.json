@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-20T22:31:48.837Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Okay, let's talk about the Wolf of Wall Street!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:32:27.163Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it:?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:32:32.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not, have you already seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T22:33:04.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. \nIt came out in 2013, is considered a dark comedy, and stars Leonardo DiCaprio, Jonah Hill, and Margot Robbie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:33:24.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's basically a story of a stockbroker in NYC who engaged in corruption and fraud on Wall Street, and the FBI agents who try to bring him down.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:34:14.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has pretty good reviews on Rotten Tomatoes (78%) and Metacritic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:34:47.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:35:44.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "BUELLER?!?!!?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T22:38:49.518Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-20T22:31:48.837Z", 
+  "uid2LogInTime": "2018-03-20T22:31:48.851Z", 
+  "uid2LogOutTime": "2018-03-20T22:39:30.346Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2248", 
+  "user2_id": "USR4511", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

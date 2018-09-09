@@ -1,0 +1,112 @@
+{
+  "date": "2018-02-07T20:04:44.161Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T20:04:54.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:05:14.816Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen la la land?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:05:42.791Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't but I heard it was really good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T20:07:11.965Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T20:07:14.158Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:07:17.771Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I loved it. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:07:21.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think most would and di\nd considering the scores, 93% on metacritic, is very high.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:07:51.690Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten tomatoes score was 92%.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:08:32.131Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there still?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:09:18.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You are taking\n a very long time to respond at all.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:09:46.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you doing a nother hit at the same time or something?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:11:05.129Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm here! SOrry my computer froze.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T20:11:57.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well maybe there is some glitch and you got disconnected or you are busy somewhere else but i have waited 5 minutes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T20:11:58.460Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T20:04:44.161Z", 
+  "uid1LogOutTime": "2018-02-07T20:12:07.730Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-07T20:04:44.289Z", 
+  "uid2LogOutTime": "2018-02-07T20:12:23.374Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR252", 
+  "user2_id": "USR857", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "date": "2018-03-03T02:05:22.672Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:05:55.354Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, Have you see The Blind Side?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:06:42.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:06:47.627Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Blind Side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:06:52.370Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I dont belive I have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:06:58.725Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:07:11.924Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sandra Bullock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:07:24.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is one of the main characters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:07:44.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is some of the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:07:59.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a really good movie. It's about a guy who grows up in a rough situation, and eventually plays football professionally.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:08:26.409Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is adopted by a family who helps him to move forward and succeed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:08:45.485Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK, so you enjoyed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:08:50.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I've seen it a few times.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:09:04.430Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who are some of the other actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:09:19.288Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Quinton Aaron is \"Big Mike\", MIchael Oher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:09:44.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tim McGraw is the father of the adoptive family", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:09:58.190Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok, was it given good ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:10:11.024Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It got a 69% on Rotten Tomatoes and 6.1/10. Some people may have thought it was too \"pat\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:10:46.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:11:04.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sandra Bullock was considered to have a good performance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:11:05.402Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:11:14.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The guy's mom is a drug addict so he has been in foster care, and was struggling in school. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:12:04.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "However, it turns out that he is really intelligent just hasn't had any support.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:12:17.978Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "wow that sounds rough", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:12:21.413Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So, Sandra Bullock", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:12:25.041Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "character helps him to improve in school so that his grades are good enough to play football.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:12:47.913Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it's based on the book about Michael Oher who was drafted by the Baltimore Ravens.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:13:42.118Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "im surprised how much emphasis is placed on football in our culture. Do you like football?\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:13:59.229Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I enjoy it.  How about yourself?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:14:16.656Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you watch movies related to sports?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:14:40.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its hard to watch guys \"bash their brains in\" after learning how da\nmaging it is to peoples brains", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:15:16.784Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sometimes I thought moneyball was good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:15:33.818Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh yes, I agree.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:15:40.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's dangerous. I guess in this movie it's a nice story because it helps the main character get out of a tough situation.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:16:06.930Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "was their any funny parts in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:16:14.422Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's been a while since I saw it, but it's more inspirational, the story.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:16:48.945Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:16:58.771Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sandra Bullock's character goes through a lot to adopt him. Her friends question her and people from his neighborhood also question her motives.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:17:30.887Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:17:46.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we are at the end, Have a nice day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-03T02:18:04.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great. You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-03T02:18:12.241Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-03T02:05:22.672Z", 
+  "uid1LogOutTime": "2018-03-03T02:18:28.360Z", 
+  "uid1response": {
+    "feedback": "I may watch if I get the chance, im not a football fan though.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-03T02:05:22.760Z", 
+  "uid2LogOutTime": "2018-03-03T02:18:18.044Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1100", 
+  "user2_id": "USR2806", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

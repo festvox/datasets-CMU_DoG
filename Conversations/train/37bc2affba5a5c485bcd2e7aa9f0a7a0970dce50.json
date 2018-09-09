@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-02T23:07:03.979Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T23:07:52.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T23:08:35.869Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here. The movie selected was Dunkirk.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T23:10:02.746Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I needed to read the movie description. Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T23:11:51.439Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T23:07:03.979Z", 
+  "uid1LogOutTime": "2018-02-02T23:09:32.768Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T23:07:04.158Z", 
+  "uid2LogOutTime": "2018-02-02T23:12:32.831Z", 
+  "uid2response": {
+    "feedback": "The user left the chat before I could even read the document. Will you be able to pair me with another user, if possible?", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4280", 
+  "user2_id": "USR2972", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

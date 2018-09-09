@@ -1,0 +1,234 @@
+{
+  "date": "2018-02-15T20:14:30.244Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:14:43.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:14:47.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you done reading the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:15:10.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen how to train your dragon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:15:16.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I've watched it a lot of times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:15:50.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you know that gerard butler does one of the voices in the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:16:30.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, I did not know that. Who is the character who used his voice?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:17:22.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Stoick the Vast ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:17:56.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he was the chief of the viking tribe and hiccup's father", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:18:20.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you like the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:18:55.075Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh really. That is an interesting fact. I really love Gerard Butler.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:19:11.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah he is good actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:19:25.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Of course, I love the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:19:32.124Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is your favorite character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:20:01.821Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hiccup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:20:12.564Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like him too. But I like most is Toothless.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:20:30.942Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you remember the scene where the dragons would periodically steal live stock from the viking village", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:21:03.803Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, is that your most favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:21:32.639Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "my favorite part is when he decides that he can't kill the dragon and instead sets it free", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:22:32.196Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is your favorite part of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:22:41.550Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the aerial battle scenes are pretty cool in the movie to.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:23:18.406Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "My favorite part of the movie is when Hiccup tried to tame Toothless.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:23:29.666Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you like the aerial battle scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:23:51.411Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, that was really awesome. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:24:09.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the director of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:24:29.876Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the directors are Chris Sanders and Dean DeBois.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:25:00.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They are really good directors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:25:25.061Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know anything else they have done?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:25:48.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jay Baruchel was the voice for Hiccup", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:26:36.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, Sanders directed some animated movie from Dreamworks and Disney films.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:27:16.296Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok I never heard of him before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:27:41.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T20:27:48.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a nice day too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:28:16.681Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T20:14:30.244Z", 
+  "uid1LogOutTime": "2018-02-15T20:28:20.274Z", 
+  "uid1response": {
+    "feedback": "The conversation went smoothly because I already watched the movie we've talked about.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T20:14:30.413Z", 
+  "uid2LogOutTime": "2018-02-15T20:27:50.531Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4031", 
+  "user2_id": "USR3356", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

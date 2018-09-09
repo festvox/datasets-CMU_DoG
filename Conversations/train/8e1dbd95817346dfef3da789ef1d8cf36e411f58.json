@@ -1,0 +1,78 @@
+{
+  "date": "2018-03-23T03:50:10.031Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So, I just watched Toy Story and thought it was a cute movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:52:23.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, I like the premise of the movie and the fact that is is computer animated film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T03:52:37.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked Mr. Potato Head and how he's so cynical about everything.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:53:05.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also liked that it was computer animated.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:53:31.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think the rating is fair and was a movie I enjoyed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T03:54:08.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T03:54:49.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love how the movie is interesting more so to adults sometimes, which makes it fun.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:54:56.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The rating of the movie was very high, which I also thought was fair.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:55:21.440Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-23T03:50:10.031Z", 
+  "uid1LogOutTime": "2018-03-23T03:55:27.447Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-23T03:50:11.066Z", 
+  "uid2LogOutTime": "2018-03-23T03:55:41.263Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2230", 
+  "user2_id": "USR3532", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

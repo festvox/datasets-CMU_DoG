@@ -1,0 +1,211 @@
+{
+  "date": "2018-03-21T20:37:34.253Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello what is the movie called?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:38:34.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called Ironman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:38:55.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie an action movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:39:30.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is about a superhero", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:39:46.657Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is the movie long?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:40:05.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm not sure what the length of the movie is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:41:07.150Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay what is the plot of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:41:19.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr plays Tony Stark, who is an inventor, a genius and a playboy CEO. He is a superhero based on the Marvel comics character Ironman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:42:26.833Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is this movie new?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:43:22.869Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is from 2008, but it looks really interesting and exciting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:44:00.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:44:34.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main character is Tony Stark/Ironman, played by Robert Downey Jr", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:45:08.858Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Does it have good reviews or can you not tell?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:46:25.333Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, most reviewers really enjoyed it, praising its special effects and sets and its reality", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:47:51.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Has it won any awards?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:47:56.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure if it's won any awards, but it certainly should have", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:48:53.747Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there a villain or protagonist in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:48:57.215Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, a character named Raza, from a terrorist group, and Lieutenant Colonel James Rhodes, played by Jeff Bridges, who is Tony Stark's friend. He later turns on him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:51:55.484Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there going to be a sequal or part 2 or is this a stand alone movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:52:05.974Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure if there's a sequel or a continuation but it sounds like they left room for one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:52:52.306Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does it have a happy ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:53:15.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm not sure. It probably has a suspenseful ending, leaving room for a continuation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:54:59.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you recommend this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:55:02.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, definitely. It seems action-packed and suspenseful and exciting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:55:28.423Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Awesome ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:55:43.065Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:55:55.209Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anything else I should know about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:56:18.523Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really. I think we covered just about everything", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T20:56:41.628Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "great", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T20:56:52.358Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T20:37:34.253Z", 
+  "uid1LogOutTime": "2018-03-21T20:57:09.776Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T20:37:34.486Z", 
+  "uid2LogOutTime": "2018-03-21T20:57:02.167Z", 
+  "uid2response": {
+    "feedback": "Person did well at answering my questions", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1134", 
+  "user2_id": "USR4671", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

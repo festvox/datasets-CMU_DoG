@@ -1,0 +1,63 @@
+{
+  "date": "2018-02-05T22:04:39.277Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:07:09.287Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen is a great movie that received very positive reviews", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:09:22.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like animated\n movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:10:04.001Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anyone there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T22:12:17.026Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:15:31.702Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "anyone there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T22:15:50.303Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-05T22:04:39.277Z", 
+  "uid1LogOutTime": "2018-02-05T22:14:12.736Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-05T22:04:39.628Z", 
+  "uid2LogOutTime": "2018-02-05T22:21:35.246Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3232", 
+  "user2_id": "USR96", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

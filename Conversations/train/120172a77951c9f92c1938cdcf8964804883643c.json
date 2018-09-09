@@ -1,0 +1,235 @@
+{
+  "date": "2018-02-20T19:00:13.860Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:01:07.516Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:01:11.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so i heard you seen a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:01:36.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, Despicable me. It's an animated movie that came out a few yers ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:02:01.367Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nice that's sound interested. can you tell me a little bit about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:02:22.911Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "would an adult also enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:04:10.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure, it stars Steve Carrell as a supervillan, with Russell Brand as his scientist/partner in crime. It was directed by Pierre Coffin..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:04:14.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "awesome", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:04:36.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do they offer a 3d version as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:04:46.962Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes! It got a rotten tomato score of 81%, and most reviews praise how smart the humor is. It's good for the whole family.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:04:52.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it comes in 3d and regular ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:05:08.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "nice", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:05:24.619Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you want to know the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:05:55.068Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like steve carrell, he was funny in other movies i have seen him in as well. i think it would be funny to see him doing a animated voice over.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:05:58.240Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no please tell me a little bit about it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:06:11.300Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i mean lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:06:31.699Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it really is! It is designed very well, and his personality comes through in the animation. Steve Carrell is trying to steal the moon after another villan steals the Pyramid at Giza", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:07:21.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh wow that sound interesting. what age group\n would you see this movie is made for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:08:11.776Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would say it's for young kids all the way up to adults. It is a good blend of silly and intelligent humor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:08:46.032Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is there alot of singing in the movie? i dont particular like musical type movies but my kids do?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:09:27.825Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "there's a song written just for this movie by Pharell. It's not too much music, and it's probably too hard for kids to memorize & sing constantly, but there are characters called Minions that dance and act very silly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:10:50.747Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok. lol sounds like my kind of movie. I'm a big kid at heart", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:12:34.146Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is the movie pretty long or standard?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:12:57.482Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "me too, I really enjoyed it. It's a good mix of funny and feel-good, Gru eventually adopts three little girls who help him steal the moon. It is not too long, maybe 1.5 hours", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:13:49.630Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh that is not bad at all. i think i will look forward to seeing this movie with my kids. should keep their attention for awhile. lol", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:15:58.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol it definitely will! although they might just want to watch it over and over again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:16:21.472Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "cool, this definitely helped me out . oh hey is this a disney movie or who is it made by?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:19:47.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's made by a French studio Mac Guff, but Illumination Entertainment bought the studio and released this movie with Universal Pictures.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:20:45.580Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh wow i didn't know universal had their hands in animation. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:23:27.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i didn't either, I think maybe they're involved because it was a Computer Animated film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:24:18.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh. makes sense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:27:16.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "will you watch it with your children or let them watch it while you do other things?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T19:28:56.643Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i thiink i would like to watch it with them. Sounds like it may be fun for the whole family.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:29:40.292Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-20T19:00:13.860Z", 
+  "uid1LogOutTime": "2018-02-20T19:29:42.263Z", 
+  "uid1response": {
+    "feedback": "The movie sounded like fun for the entire family. The other user gave me some great feedback about the movie which helped make my decision. I love movie that both are very entertaining for kids but also has some quirks and funny humor for adults to be entertained as well. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T19:00:13.913Z", 
+  "uid2LogOutTime": "2018-02-20T19:30:19.419Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR287", 
+  "user2_id": "USR123", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

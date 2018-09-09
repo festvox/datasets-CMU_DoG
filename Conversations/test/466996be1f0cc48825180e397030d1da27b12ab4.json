@@ -1,0 +1,48 @@
+{
+  "date": "2018-03-16T17:52:32.924Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I just saw Bruce Almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:53:09.634Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who! Did you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:53:49.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry I meant to say wooh! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:54:09.646Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T17:52:32.924Z", 
+  "uid1LogOutTime": "2018-03-16T17:56:29.593Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:52:32.995Z", 
+  "uid2LogOutTime": "2018-03-16T17:55:16.250Z", 
+  "uid2response": {
+    "feedback": "I had many connections errors and a conversation i had earlier was lovely", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4218", 
+  "user2_id": "USR3374", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

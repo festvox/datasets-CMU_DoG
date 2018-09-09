@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-19T18:06:47.263Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, what is the name of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:07:17.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "home alone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:07:37.173Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the main character of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:08:01.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "macaulay caulkin as kevin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:09:42.884Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T18:06:47.263Z", 
+  "uid1LogOutTime": "2018-03-19T18:08:32.977Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:06:47.301Z", 
+  "uid2LogOutTime": "2018-03-19T18:12:21.184Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2184", 
+  "user2_id": "USR873", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2018-03-07T18:01:39.136Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:01:48.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:01:52.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this was one of the best animated movies ever in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T18:02:05.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You think so?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:02:17.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like best about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T18:03:31.926Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-07T18:01:39.136Z", 
+  "uid1LogOutTime": "2018-03-07T18:27:46.972Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-07T18:01:39.184Z", 
+  "uid2LogOutTime": "2018-03-07T18:04:43.146Z", 
+  "uid2response": {
+    "feedback": "The other user left after only a couple minutes. The conversation was a little more choppy than usual before the departure.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4515", 
+  "user2_id": "USR3962", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2018-03-29T15:40:55.517Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:41:03.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:41:34.510Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What would you like to know?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:41:47.597Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "about the movie home alone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:42:05.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:42:13.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:42:19.925Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie was released in 1990. So it is 28 years old.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:42:56.542Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes it was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:04.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Home Alone is a comedy!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:12.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and I love the movie because it was comedy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:23.367Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It stars Joe Pesci and Daniel Stern!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:48.606Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The director is chris cholumbus", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:48.913Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did the movie earn any award?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:59.149Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the name of the little child that is the main actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:15.733Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It received a CinemaScore of: A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:44:26.071Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Macaulay Culkin is the main child actor!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:44:44.798Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "waoh, what a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:02.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "has hent movie, the child actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:17.089Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't understand.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:45:32.606Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I mean has he acted any recent movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:55.600Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "According to one critic the first half of the movie is, \"flat and unsurprising.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:04.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the child actore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:12.879Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:18.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Another critic hails it as being a \"sadistic festival of adult-bashing\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:59.167Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He dealt with those thief alone before the police arrived\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:47:08.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The thiefs, Harry and Marv, are knocked unconcious.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:47:56.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you know if the movie is from hollywood or produced in UK?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:48:33.680Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "An American comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:49:00.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you see this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:49:20.313Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It involves booby traps", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:49:47.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, really cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:49:56.869Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, I have seen the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:50:16.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what holiday this movies takes place during?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:50:53.907Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it involves a lot of trap that the child actor set, because it was a comedy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:51:38.153Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no am not sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:51:47.861Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T15:40:55.517Z", 
+  "uid1LogOutTime": "2018-03-29T15:51:48.884Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:40:55.564Z", 
+  "uid2LogOutTime": "2018-03-29T15:51:52.693Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1612", 
+  "user2_id": "USR1648", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

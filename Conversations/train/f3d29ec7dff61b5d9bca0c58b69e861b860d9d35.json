@@ -1,0 +1,215 @@
+{
+  "date": "2018-02-17T15:50:53.099Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:51:45.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I'd like to tell you about a movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:51:59.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:52:08.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I recently saw the movie Zootopia. The movie was recently released in 2016.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:52:35.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What kind of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:52:50.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a Comedy movie that takes place in a world populated by anthropomorphic mammals.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:53:12.273Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So it is a cartoon?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:53:35.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Correct. It is an animated comedy movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:54:00.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:55:14.006Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm unable to provide the specific length of the movie, but the thoughtful, inclusive message included in this state-of-the-art animation movie makes the movie feel like it goes pretty fast. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:56:39.936Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:57:11.003Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did enjoy the movie. I think that the director did a great job of making the movie enjoyable for all ages, especially for the young viewers. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T15:58:05.196Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was there good music?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T15:59:38.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I cannot comment on the music in the movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:00:38.806Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know what ages this movie is recommend for?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:02:53.592Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't provide specific ages, but with this being an animated movie I would assume that it is intended fo viewers between the ages of 6-12. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:03:54.556Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wo\nuld you see it again if you had the opportunity?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:04:30.755Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I would see this movie again\n. In fact, this movie received a 96% rating on Rotten Tomatoes. It also scored an average of 8/10. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:05:24.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like it was a pretty good movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:05:47.932Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was your favorite part?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:06:04.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "One of my favorite scenes was when the main character, Officer Judy Hoops, and her partner, Nick Wilde, gain access to the city's traffic cameras and discover that a group was captured by wolves. They located the missing persons and solved the case. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:09:05.873Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you have a character you fell in love with?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:10:27.826Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think the main character is easy to fall in love with. She's very optimistic and has a good outlook on her life. She's definitely easy to root for in this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:11:23.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you take young kids with to watch this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:11:57.116Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did, and they thoroughly enjoyed it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:13:45.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like it is one of those movies kids would watch repeatedly.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:14:25.558Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can you tell me anything else about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:15:22.688Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are a few big name actors and actresses that voice the characters. Ginnifer Goodwin, Jason Bateman, Jenny Slate, and Idris Elba.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:18:34.920Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how were the graph\nics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-17T16:22:40.816Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The graphics were very good. There are a lot of different animals portrayed in this movie which made the graphics really good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-17T16:24:12.299Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-17T15:50:53.099Z", 
+  "uid1LogOutTime": "2018-02-17T16:26:22.628Z", 
+  "uid1response": {
+    "feedback": "Sounds like it was a cute movie that the whole family can enjoy", 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-17T15:50:53.278Z", 
+  "uid2LogOutTime": "2018-02-17T16:24:15.130Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3911", 
+  "user2_id": "USR4053", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

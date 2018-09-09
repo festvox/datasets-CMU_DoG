@@ -1,0 +1,602 @@
+{
+  "date": "2018-02-06T17:02:56.571Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I've finished reading but am not entirely sure what we should do next. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:04:45.572Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm reading the tasks and strategies now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:05:55.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Since I'm not sure what else to do, I guess I'll ask a question from the strategies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:06:41.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, do you like movies like the one described in the document?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:06:54.784Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm...maybe a different question?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:10:12.710Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nDo you generally watch movies with good or bad\n ratings? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:10:24.072Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:11:04.167Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is anyone there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:17:05.144Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'll try a different question, I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:17:23.769Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:17:44.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I, personally, think the rating is spot on.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:18:45.874Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The performance of Gal Gadot was amazing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:18:57.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She came across as strong and determined but still feminine. The ultimate female champion, so to speak.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:19:24.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i am there", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:20:08.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "gal gadot done his hard work well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:20:26.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:20:28.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry for the late response", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:20:36.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:20:38.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "because of network problem", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:20:40.724Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's okay.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:20:45.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do u watched wonderwoman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:20:56.622Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, I watched it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:21:02.255Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like her fighting moves ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:21:10.129Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, me too. She was inspiring.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:21:20.110Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i saw her first on dawn of justice", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:21:42.094Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh? I haven't seen that one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:21:54.330Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "her gauntlets are more powerful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:21:56.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh do you see batman vs superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:22:13.686Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "More powerful in Wonder Woman or more powerful in Dawn of Justice?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:22:22.841Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I saw Batman vs Superman. It was good too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:22:38.624Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "more powerful in wonderful", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:22:47.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh, okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:22:52.088Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "but not more powerful than superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:23:01.764Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i saw her fight again superman in justice league movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:23:14.798Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nobody's more powerful than superman. :)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:23:17.441Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, that was a great movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:23:26.699Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe  a villain of darkseid has more powerful than superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:23:35.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, that's true", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:23:44.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was a villain in upcoming movie of justice league 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:23:46.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I haven't seen that one yet. Is it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:24:00.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like Wonderwoman's lasso the best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:24:28.387Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i recently watch justice league ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:24:33.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And  her gauntlets.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:24:40.070Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like her gauntlets and shiled", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:24:43.839Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, the shield is cool too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:24:54.854Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that sound makes me impressive", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:24:54.907Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:25:09.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but she can't win superman in justice league", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:25:25.933Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no, superman was stronger", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:25:39.047Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but superman defeated once by batman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:25:52.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "by using krypton", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:25:58.414Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked the villains in Wonderwoman too. The bad guys.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:26:06.112Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They were interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:26:09.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Especially the woman who makes the poison.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:26:21.465Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes. i thought the villain ares is more powerful.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:26:29.076Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but he did not make it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:26:36.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:26:38.912Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "nope", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:26:40.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ares the god of war", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:26:53.286Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Luckily the good guys always win in the end of these movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:00.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:05.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but the hero in the wonder woman was dead", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:27:19.370Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i never expect that scene", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:27:28.569Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which hero?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:33.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he sacrifice himself in climax", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:27:39.775Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, right", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:44.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "wonderwoman movie hero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:27:48.389Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, Steve Trevor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:48.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't expect t hat either", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:27:52.913Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah steve", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:27:54.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he was the pilot and I thought he would live", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:28:00.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe he will come in upcoming film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:28:14.547Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was ad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:28:16.444Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "*sad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:28:18.290Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, maybe so", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:28:22.710Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "just like bucky barns in captain america 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:28:29.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, that's a great movie too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:28:44.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "he plays friend character in part 1 and villain in part 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:28:54.383Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, that was a cool twist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:02.715Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "my favorite movie is civil war ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:29:06.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you like marvel movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:29:16.417Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know what else we need to do for this task?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:16.948Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, I do. Very much!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:22.618Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:29:29.442Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:33.134Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "we need to end up this conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:29:35.575Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh, okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:41.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the great conversation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:29:51.651Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i have no time to submit", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:29:52.987Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay, I'll do it now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:30:03.555Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you so much for giving time to chatting with me", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:30:06.330Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:30:10.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "byeee", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T17:30:17.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye and good luck on Mturk!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T17:30:18.852Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-06T17:02:56.571Z", 
+  "uid1LogOutTime": "2018-02-06T17:30:21.662Z", 
+  "uid1response": {
+    "feedback": "It took a long time for the other user to show up but when they did it all went well. Thanks for the opportunity and good luck with your research!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T17:02:56.784Z", 
+  "uid2LogOutTime": "2018-02-06T17:30:20.067Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2675", 
+  "user2_id": "USR1984", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

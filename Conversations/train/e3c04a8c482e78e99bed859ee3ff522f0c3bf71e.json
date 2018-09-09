@@ -1,0 +1,74 @@
+{
+  "date": "2018-02-14T19:40:56.407Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:04.900Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are we talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:21.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, the rotten tomatoes score is 98% this must be a great movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:41:30.069Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nwe are talking about the movie frozen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:41:40.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay. I am a big fan", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:41:47.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes the reviews are very good so audiences must of really loved it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:42:15.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:42:50.307Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:40:56.408Z", 
+  "uid1LogOutTime": "2018-02-14T19:42:17.913Z", 
+  "uid1response": {
+    "feedback": "The other person left me", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:40:56.432Z", 
+  "uid2LogOutTime": "2018-02-14T19:43:31.046Z", 
+  "uid2response": {
+    "feedback": "The other user left the chat after only 3 messages", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4474", 
+  "user2_id": "USR4927", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

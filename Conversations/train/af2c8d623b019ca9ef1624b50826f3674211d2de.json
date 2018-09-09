@@ -1,0 +1,262 @@
+{
+  "date": "2018-02-05T15:30:29.543Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:30:51.740Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:30:55.553Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is purpose this survey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:31:29.855Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Tell me about the movie, please.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:31:44.890Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "jaws", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:32:03.407Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, that sounds good. What's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:32:24.584Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "American thriller film directed by steven spielberg and based on  peter benchiey's  1974 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:33:53.408Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who stars in it, do you know?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:34:27.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Roy Scheider ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:35:29.942Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, nice! Is it scary?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:35:52.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:37:47.214Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you tell me a little about the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:38:18.041Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:39:06.945Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Okay, please do.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:39:18.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "a beach party takes place at dusk on amity island where a women ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:42:33.117Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Where a woman what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:43:07.819Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "amity island beach party", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:43:44.349Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:02.750Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the movie funny at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:44:11.809Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no it's thriller movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:45:56.490Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what year this movie came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:46:19.190Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:47:13.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When was it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:47:21.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thor 3  year \n2017", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:49:51.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't understand. I thought the movie was Jaws.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:33.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are we talking about a different movie now?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:50:47.872Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "jaws 1975", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:51:02.154Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. Are we suppose to keep taking about Jaws, or a different movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:51:37.725Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:52:26.038Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have information about another movie besides Jaws?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:52:53.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "jaws the revenge 1987 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:53:28.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. Does that one star the same guy as the first Jaws, Roy Scheider?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:54:20.012Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Roy Scheider as Cheif Martian Brody", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:56:03.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool, so he must not have died in the first one. Is this one a thriller too?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:56:33.503Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no its thriller movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:57:41.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:58:01.859Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no it's thriller movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-05T15:58:10.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have information on another movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-05T15:58:16.795Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-05T15:30:29.543Z", 
+  "uid1LogOutTime": "2018-02-05T15:58:30.270Z", 
+  "uid1response": {
+    "feedback": "The other user seemed like they were not fluent in English. They gave some responses that didn't really answer my questions, and seemed like copy and paste. They left the chat before we were done talking about all the movies, I think.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-05T15:30:29.793Z", 
+  "uid2LogOutTime": "2018-02-05T15:58:24.737Z", 
+  "uid2response": {
+    "feedback": "super thriller movie i like it all series ", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR853", 
+  "user2_id": "USR4868", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

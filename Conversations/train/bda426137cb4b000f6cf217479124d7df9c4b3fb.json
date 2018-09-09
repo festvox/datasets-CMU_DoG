@@ -1,0 +1,96 @@
+{
+  "date": "2018-03-06T04:43:35.123Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "You should not watch this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:44:20.780Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The blind side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:44:28.813Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why not?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T04:44:38.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T04:44:48.451Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a 53/100 metacritic and a 6.1/10 average on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:45:10.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " but what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T04:45:23.493Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a biographical sports drama about michael oher from the baltimore ravens.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:45:53.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why didnt you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T04:47:03.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has sanda bullock and it is definitely not her best performance. She was mediocre at best.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:48:04.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The delivery on the story is not the best. It follows oher's upbringing and leads to his draft in the nfl", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T04:53:27.441Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is his upbringing like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T04:57:48.434Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-06T04:43:35.123Z", 
+  "uid1LogOutTime": "2018-03-06T04:54:13.959Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-06T04:43:35.148Z", 
+  "uid2LogOutTime": "2018-03-06T05:30:31.535Z", 
+  "uid2response": {
+    "feedback": "This person has advised me not to watch the movie and i have decided to agree.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3919", 
+  "user2_id": "USR3882", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

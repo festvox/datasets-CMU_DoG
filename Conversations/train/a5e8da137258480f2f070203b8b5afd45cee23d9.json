@@ -1,0 +1,136 @@
+{
+  "date": "2018-03-19T20:21:54.013Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, have you saw this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:14.084Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:22:24.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:22:36.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should, it's a great family movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:41.649Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a group of toys that come alive.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:22:53.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have children?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:23:03.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no but I like toy story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:15.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The group of toys are rivals at first, for their owner's attention", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:23:50.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it like toy story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:23:51.445Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:02.907Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, it's that movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T20:24:04.322Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh! which one? the first one?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:24:24.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is there an evil neighbor?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:26:46.901Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:28:01.031Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:29:57.157Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:31:20.098Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "if you aren't there anymore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:32:46.639Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm going to abort the convo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:33:03.544Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "okay. I'm aborting the convo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T20:35:21.908Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-19T20:21:54.014Z", 
+  "uid2LogInTime": "2018-03-19T20:21:54.025Z", 
+  "uid2LogOutTime": "2018-03-19T20:36:00.818Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4272", 
+  "user2_id": "USR2681", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2018-03-16T20:49:27.955Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:49:39.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what moviie did you see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:50:25.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello how are you? Have you heard of Batman Begins? It is a great movie!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:50:26.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no tell me more", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:50:35.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:50:49.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Christian Bale, Michael Caine, and Liam Neeson. Great cast right? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:50:56.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:51:01.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:51:03.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:51:09.422Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is pretty much the reboot of the Batman film franchise with a new origin story. Christian Bale plays Batman. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:51:55.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:52:06.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how long is the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:52:11.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The film has pretty good reviews. Sorry but I am not sure how long the movie is based on the given document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:52:44.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:53:03.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what genre would you say the movie is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:53:39.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is of course a superhero movie. T\nhere are several DC comics characters in the movie like Scarecrow and Ra's al Ghul.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:54:00.744Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thats great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:54:24.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think I would love to see it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:54:37.103Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So in the beginning, Bruce Wayne falls into a well and is attacked by bats. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:54:51.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "then what happens", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:55:03.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:55:39.824Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well obviously he became afraid of bats. And then his parents get gunned down in the street by a mugger", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:55:42.775Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is the movie an animation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:56:17.064Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No. It is not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:56:53.683Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How does he become batman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:57:24.626Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The mugger is arrested for murder but soon freed in a plea deal. Bruce Wayne feels like he wants to take justice in\n his own hands", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:58:33.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:58:43.838Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the movie in theaters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:58:57.152Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "or on dvds", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:58:59.873Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie is from 2005. So you can watch it on DVDs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:59:13.989Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Thats great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:59:31.109Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would like to watch  it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:59:40.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bruce Wayne travels around the world and finds League of Shadows", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:59:56.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "whats league of shadows?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:00:15.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "League of Shadows is a secret organization with highly trained fighters ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:00:55.729Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where does bruce travel to?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:01:23.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "All over the world. He finds League of Shadows in Bhutan. Meanwhile in Gotham, there is trouble brewing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:01:47.860Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": ":)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:02:10.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any other main characters", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T21:02:29.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Dr. Jonathan Crane, a corrupt psychiatrist, tries to transfer criminals to Arkham Asylum", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:02:47.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You heard of Arkham Asylum? It is a criminal asylum for the insane", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:03:11.223Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Good bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T21:03:33.221Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T20:49:27.955Z", 
+  "uid1LogOutTime": "2018-03-16T21:03:06.699Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T20:49:27.999Z", 
+  "uid2LogOutTime": "2018-03-16T21:03:36.822Z", 
+  "uid2response": {
+    "feedback": "The partner was not very engaging or interested.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3157", 
+  "user2_id": "USR1533", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

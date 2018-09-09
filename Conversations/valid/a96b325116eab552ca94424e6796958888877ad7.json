@@ -1,0 +1,268 @@
+{
+  "date": "2018-04-02T15:34:47.542Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:06.317Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how r u?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:10.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:35:16.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have u ever watched this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:31.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "a long time ago.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:35:41.496Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like the fact that tim allen is in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:35:55.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and ofcourse tom hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:16.014Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it before", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:36:19.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "parts here and there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:29.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i might watch it again since now i have a 2 year old boy next to me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:36:46.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you get the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:36:52.388Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yep", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:37:00.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i have grandkids so I will watch again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:37:20.572Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:37:42.988Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so did u like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:37:55.841Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:03.493Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and omg has a 9/10 on rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:38:17.314Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, I was going to tell you that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:28.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you need to watch it with your child.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:38:54.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:39:03.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was by Pixar - a good animation company", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:39:50.691Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so what is ur favorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:40:08.720Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are still with me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:40:47.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:40:52.063Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i was asking u ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:40:56.666Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was ur faavorite part of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:41:05.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:41:47.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:41:48.749Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "can u see my messages ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:41:57.123Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\nI did not for a while.  I do not know what happened.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:42:25.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:42:53.527Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "did u see my question?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:43:02.315Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The voices were from familiar people.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:43:03.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:43:42.841Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the entire movie was my favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:43:52.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "We can go now.  Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-04-02T15:44:12.147Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what???", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:44:26.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "this is not supposed to be the right interaction here ...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:44:45.278Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how rude", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-04-02T15:44:48.081Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-04-02T15:34:47.542Z", 
+  "uid1LogOutTime": "2018-04-02T15:56:29.392Z", 
+  "uid1response": {
+    "feedback": "the other user ended the converstion very fast , didnt even answer my questions , was rude ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-04-02T15:34:47.637Z", 
+  "uid2LogOutTime": "2018-04-02T15:44:14.911Z", 
+  "uid2response": {
+    "feedback": "There was a system issue for a couple of minutes.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4383", 
+  "user2_id": "USR1758", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

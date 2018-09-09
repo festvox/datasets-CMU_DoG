@@ -1,0 +1,148 @@
+{
+  "date": "2018-03-16T20:41:02.923Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:41:13.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:41:45.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:41:50.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:42:04.326Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think its hilarious", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:19.387Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but im a huge fan of jim carrey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:36.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "do you know about the movie a little?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:42:55.762Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can take him or leave him.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:43:00.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It says it's about a guy given the chance to be God for awhile.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:43:30.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thats right! could you imagine having that power", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:44:03.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like kanye said \"no one man should have all that power\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:44:21.301Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It could make for a fun movie idea.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:44:35.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The new info mentions Steve Carell.  I'm a pretty big fan of his.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:45:12.201Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Love him too!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:45:45.822Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The critics seem mixed on the movie.  But I don't listen to them so much about comedies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:46:19.295Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me either especally when the fans like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:46:44.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Good stories are fine, but comedies don't need them to make you laugh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:47:18.145Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's been awhile since Jim Carrey was in a movie.  Haven't noticed him, at least.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:51:04.525Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "same here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T20:53:19.789Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T20:54:00.299Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-16T20:41:02.923Z", 
+  "uid1LogOutTime": "2018-03-16T20:53:30.069Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T20:41:02.940Z", 
+  "uid2LogOutTime": "2018-03-16T20:55:10.077Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2093", 
+  "user2_id": "USR3552", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

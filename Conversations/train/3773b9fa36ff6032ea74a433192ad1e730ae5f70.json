@@ -1,0 +1,49 @@
+{
+  "date": "2018-03-16T18:36:33.292Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie is the first of Christopher Nolan's version of the Batman series", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T18:37:47.950Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How you holding up dude", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:38:25.768Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I slept off yesternight when you wanted to talk to me about a movie\\", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:38:28.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bring it on please", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T18:38:28.358Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T18:36:33.292Z", 
+  "uid1LogOutTime": "2018-03-16T18:38:36.430Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T18:36:35.987Z", 
+  "uid2LogOutTime": "2018-03-16T18:38:28.571Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1480", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

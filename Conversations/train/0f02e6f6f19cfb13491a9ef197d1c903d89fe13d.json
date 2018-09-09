@@ -1,0 +1,80 @@
+{
+  "date": "2018-02-13T19:01:07.078Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Doesnt sound like a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:03:01.319Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds a little too predictable and common", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:04:28.247Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like my child would like it maybe. I don't like animations much though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:05:06.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ratings I believe may be too high 98%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:05:24.856Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "rotten tomatoes doesn't line up with the other ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:05:43.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I honestly dont ever trust reviews", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:06:09.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the critical response doesn't have any negatives", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:06:49.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im trying to figure out what a anthropomorphic mammal is lol4", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:07:53.968Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:01:07.078Z", 
+  "uid1LogOutTime": "2018-02-13T19:09:03.350Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:01:07.368Z", 
+  "uid2LogOutTime": "2018-02-13T19:09:26.087Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2306", 
+  "user2_id": "USR2867", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

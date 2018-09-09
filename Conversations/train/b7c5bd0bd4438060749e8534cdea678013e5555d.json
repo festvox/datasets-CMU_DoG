@@ -1,0 +1,139 @@
+{
+  "date": "2018-02-08T21:47:51.939Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:47:59.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, have you seen Wonder Woman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:48:17.286Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:50:39.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:29.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "male", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:51:52.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you a fan of Super Hero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:52:27.633Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:53:30.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "super man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:53:35.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you will really like this movie. Wonder Woman appeared following the Batman v. Superman: Dawn of Justice movie. The actress is Gal Gadot. Are you familiar with her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:12.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:56:27.286Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh nice, well in this film, she plays as Diana Prince. She's an Amazon warrior who leaves her homeland to help fight during World War I", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:58:29.342Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " She's an Amazon warrior who leaves her homeland to help fi\nght during World War", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:01:53.292Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:02:25.890Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:02:37.957Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's cool because it has a whole demi-god twist as Wonder Woman has to fight Ares in the setting of WWI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:04:25.805Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "t's cool because it has a whole dem\ni-god twist as Wonder Woman has to fight Ares in the setting of WWI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:04:37.174Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you just copying me lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:05:07.623Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes i like it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:06:14.671Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T21:47:51.939Z", 
+  "uid1LogOutTime": "2018-02-08T22:06:17.207Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:47:52.032Z", 
+  "uid2LogOutTime": "2018-02-08T22:06:06.780Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4439", 
+  "user2_id": "USR4187", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

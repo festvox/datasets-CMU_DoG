@@ -1,0 +1,43 @@
+{
+  "date": "2018-03-21T03:24:41.403Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The Great Gatsby is a romantic drama released in 2013 that offers Baz Luhrmann's interpretation of the novel of the same name by F Scott Fitzgerald. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T03:27:00.631Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hmm, that sounds like a good movie I should see. How is the acting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T03:27:36.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The standout actor is Joel Edgerton as Tom Buchanan. He did an excellent job portraying the character's gruffness", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T03:28:49.785Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-21T03:24:41.403Z", 
+  "uid1LogOutTime": "2018-03-21T03:30:28.437Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-21T03:24:41.440Z", 
+  "uid2LogOutTime": "2018-03-21T03:29:39.096Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4548", 
+  "user2_id": "USR1969", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

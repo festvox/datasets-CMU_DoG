@@ -1,0 +1,221 @@
+{
+  "date": "2018-03-30T15:51:05.545Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:51:26.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello, Have you received information about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:51:49.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:07.459Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:15.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:18.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:33.892Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a children's story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:48.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:57.020Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What are the names of the characters?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:53:08.228Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:54:03.396Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Woddy , buzz light year,Mr. Potato,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:12.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "abt 2 hours", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:21.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who produced the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:54:35.757Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "pixar and disney", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:47.515Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is woody the star?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:54:54.389Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:58.427Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the movie in color?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:55:12.963Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:55:16.615Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How old is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:55:29.412Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "abt 23 years", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:56:29.621Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there anything else I should know about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:57:11.627Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it is fun and exciting movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:57:36.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think my grandchildren, who are 8 and 12 would enjoy the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:58:08.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:58:15.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it more of a drama or comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:58:56.885Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:59:17.673Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "where does it take place?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:59:33.753Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Andy's house", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:00:21.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who is andy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:00:35.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the child in the movie that owns the toys", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T16:01:10.083Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T16:01:57.151Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T15:51:05.545Z", 
+  "uid1LogOutTime": "2018-03-30T16:02:01.774Z", 
+  "uid1response": {
+    "feedback": "The feedback was very short consisting of yes and one or two words.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:51:05.785Z", 
+  "uid2LogOutTime": "2018-03-30T16:02:01.672Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3623", 
+  "user2_id": "USR1821", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "date": "2018-03-29T13:59:27.723Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T13:59:37.742Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T13:59:56.447Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the title of this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:00:08.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The title is Real Steel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:00:18.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:00:31.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about robots who are used to simulate boxing matches. Imagine Rocky meets Transformers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:01:07.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sounds like an interesting concept, who is the main actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:01:36.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main actor is Hugh Jackman, known for playing Wolverine.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:01:54.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where is the setting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:02:11.304Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It doesnt specifically say but, from context, I believe the near future in the US", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:02:38.430Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is there any clue about which side is good or bad", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:10.210Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Jackman's character seems to be on the Good side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:03:28.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is he the one designing the robots for these fights", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:03:50.050Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure. I remember a trailer for this movie and he acted as a sort of trainer/ manager for the robots", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:04:13.504Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is there any indication about the types of weapons that the robots are using or are they just punching each other", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:05:14.320Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They only punch, no major \"weapons\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:05:38.946Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is there a love story or some other unrelated to the fighting type of plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:06:05.390Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The humans in the movie has their own sub plot but Jackman's character (Charlie) does not begin with a clear love interest", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:07:07.330Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "are the fights similar to a boxing match where there would be people watching and cheering for a fan favorite, or are they fighting in random places throughout the city", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:08:20.743Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They take place in an arena so there are people watching in a set space", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:08:42.501Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "is there a robot that is considered the champion", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:09:21.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There is one named Zeus who is considered the Global Champion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:09:46.629Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so that one would be like Apollo Creed in Rocky", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:10:09.311Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly. Jackman's character Charlie operates a robot called Atom who is the underdog", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:11:09.525Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are these robots similar to humans in their appearance or are they more advanced with jet packs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:12:01.324Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "My information does not explicity say. It does say that in one fight, Atom's sensors are broken so Charlie has to \"shadow box\" for him where the robot mimics Charlies movement", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:12:52.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so the Jackman controls the movement of Atom and has the ability to influence the choices he makes while fighting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T14:13:56.203Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes. like the Robots fight in place of the humans", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T14:14:14.616Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T13:59:27.723Z", 
+  "uid1LogOutTime": "2018-03-29T14:14:54.012Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T13:59:27.723Z", 
+  "uid2LogOutTime": "2018-03-29T14:14:22.263Z", 
+  "uid2response": {
+    "feedback": "The concept of the movie sounds interesting since it involves some fighting robots.  The main character is a decent actor, Jackman, so it would be worth checking out at some point.  The main plot seems somewhat unoriginal, but since there is likely to be a good amount of action, it would be a fun movie.  The other user was quick to respond and gave good details of the questions that I asked, I was able to have a solid understanding of what the movie was about.  ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1145", 
+  "user2_id": "USR3341", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

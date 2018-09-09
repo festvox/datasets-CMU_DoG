@@ -1,0 +1,129 @@
+{
+  "date": "2018-02-06T14:43:10.307Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:21.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:43:26.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:43:40.405Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not sure haven't received the document yet. did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:04.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:44:13.494Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so what's it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:44:41.236Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this movie name is byron howard rich moore", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:45:04.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can i guess what it may be ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:45:38.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i dont know my name is raj", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:01.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "zootopia ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:46:21.047Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "your from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:46:50.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "va", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:30.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:47:35.999Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "indian", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:47:44.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you which country\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:48:34.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "usa", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:49:34.481Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T14:43:10.307Z", 
+  "uid1LogOutTime": "2018-02-06T14:50:24.336Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:43:10.694Z", 
+  "uid2LogOutTime": "2018-02-06T14:49:34.043Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR720", 
+  "user2_id": "USR3252", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

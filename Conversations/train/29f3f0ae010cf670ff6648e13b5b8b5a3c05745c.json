@@ -1,0 +1,55 @@
+{
+  "date": "2018-02-13T19:36:30.871Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "YO!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:37:40.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey! How's it going?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T19:38:22.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good good!  Hey I saw a really good movie I want to tell you about!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:38:51.457Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw Lala land this weekend.. do you like musicals!?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T19:40:22.189Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T19:36:30.871Z", 
+  "uid1LogOutTime": "2018-02-13T19:38:49.989Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-13T19:36:30.930Z", 
+  "uid2LogOutTime": "2018-02-13T19:41:55.987Z", 
+  "uid2response": {
+    "feedback": "User two left before i could even start .... Do we get to be re-paired?", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1767", 
+  "user2_id": "USR1249", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

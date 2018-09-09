@@ -1,0 +1,259 @@
+{
+  "date": "2018-02-18T03:37:12.863Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:38:04.458Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:38:06.655Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so, what movie is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:38:22.182Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I'm currently looking at is La La Land, and it's definitely something you should see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:38:39.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:38:59.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It succeeds both as a fizzy fantasy and a hard headed fable, but is still a romantic comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:39:03.385Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan Gosling for the win", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:39:08.576Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's very genuine", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:39:13.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:39:18.169Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "is he with emma stone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:39:39.041Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He is with Emma stone in a lot of the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:39:48.896Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "They both are the main characters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:40:01.671Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Emma Stone plays a character called Mia", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:40:10.927Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i see. Is there a lot of singing in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:40:23.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There certainly is ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:40:32.332Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Most of the movie could be portrayed as a musical ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:40:44.035Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Romantic comedy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:40:46.733Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would say so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:40:50.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's many scenes in which Ryan Gosling and Emma Stone sing together", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:41:05.105Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You think I can bring kids?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:41:29.026Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you generally watch movies paying attention to good ratings?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:41:36.153Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And yes you definitely can", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:41:42.549Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "alright", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:41:50.519Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Lalaland has good ratings", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:42:16.284Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it certainly does", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:42:29.910Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think they won oscars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:42:36.589Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They did! A lot of them actually", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:42:46.269Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you typically like musical romantic comedies like la la land?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:43:28.080Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "is it a happy movie, no crying like The Notebook", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:43:34.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's definitely happier than the Notebook, although there are some dramatic parts", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:43:49.030Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I definitely didn't cry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:43:53.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked most of the musical numbers in the movie though, which were mostly happy ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:44:26.343Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no. I think it's cheesy. But I would try because they won Oscars", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:44:30.322Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:44:52.217Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Its definitely a solid movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:45:01.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I wasn't about all the hype", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:45:09.271Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It definitely is an important modern movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T03:45:35.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I prefer thriller and sci-fi ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T03:46:29.323Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T03:37:12.863Z", 
+  "uid1LogOutTime": "2018-02-18T03:47:33.874Z", 
+  "uid1response": {
+    "feedback": "It's a happy movie and I can bring my kid", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-18T03:37:12.948Z", 
+  "uid2LogOutTime": "2018-02-18T03:46:33.766Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4892", 
+  "user2_id": "USR646", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

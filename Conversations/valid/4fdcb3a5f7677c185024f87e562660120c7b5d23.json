@@ -1,0 +1,49 @@
+{
+  "date": "2018-02-15T23:12:36.556Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T23:13:18.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi! Today we'll be discussing the superhero drama \"The Avengers\"!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T23:13:38.410Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A great film!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T23:13:57.616Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Highly critically acclaimed by Rotten Tomatoes and Cinemascore! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T23:14:52.007Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T23:12:36.556Z", 
+  "uid1LogOutTime": "2018-02-15T23:15:22.751Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T23:12:36.608Z", 
+  "uid2LogOutTime": "2018-02-15T23:15:07.803Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3781", 
+  "user2_id": "USR539", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

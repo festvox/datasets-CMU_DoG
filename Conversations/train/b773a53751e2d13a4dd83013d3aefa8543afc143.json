@@ -1,0 +1,217 @@
+{
+  "date": "2018-02-15T03:12:35.632Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:13:01.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:13:20.592Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did not see it. Do you know the title of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:14:35.341Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. The film is called \"Dunkirk\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:14:37.707Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have seen it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:14:56.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK! Did \"Dunkirk\" get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:15:01.568Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. For the most part, all of the critics say it is a very exciting and powerful\n film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:15:56.530Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre is it in?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:16:08.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A war movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:16:27.583Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What war does the Dunkirk depict?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:16:46.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "World War 2", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:17:03.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know. What types of characters are portrayed?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:18:05.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did not. I did not see the movie yet.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:18:50.839Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am deciding if I would like to see Dunkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:19:04.575Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "British soldiers and pilots mostly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:19:10.020Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You should see it if you like exciting movies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:19:25.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK. Does the movie take place in the United Kingdom?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:19:32.291Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "France", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:19:43.727Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "But the characters are mostly British.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:19:56.280Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are protagonists British? Or are they from another country?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:20:20.476Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is a French character who maquerades as a British soldier though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:20:21.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The the French character a spy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:20:37.930Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sort of. He steals a British soldier's identity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:21:19.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who is the main character?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:21:32.879Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is a private named Tommy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:21:46.571Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What actor plays Tommy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:21:57.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Fionn Whitehead. There is an interesting story about how he was cast.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:22:31.626Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh. How was he cast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:22:47.548Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He had to audition in a process lasting several months and had to do it in secret", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T03:24:05.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow. Who did he have to keep it a secret from?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T03:24:33.329Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T03:12:35.632Z", 
+  "uid1LogOutTime": "2018-02-15T03:25:02.086Z", 
+  "uid1response": {
+    "feedback": "The content of the movie seemed interesting and it seemed to have some praise from critics.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T03:12:35.634Z", 
+  "uid2LogOutTime": "2018-02-15T03:25:33.016Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3209", 
+  "user2_id": "USR3557", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

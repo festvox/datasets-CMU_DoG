@@ -1,0 +1,51 @@
+{
+  "date": "2018-02-06T14:49:55.487Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. 'The Imitation Game' is based on a true story about code breaking in WWII. Great reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:52:24.685Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "don", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:52:56.996Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is about for good person", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:42.808Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about good people. It's a thriller, but actually happened.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:54:58.282Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-06T14:49:55.487Z", 
+  "uid1LogOutTime": "2018-02-06T14:56:28.180Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:49:55.993Z", 
+  "uid2LogOutTime": "2018-02-06T14:53:53.297Z", 
+  "uid2response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1977", 
+  "user2_id": "USR4842", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

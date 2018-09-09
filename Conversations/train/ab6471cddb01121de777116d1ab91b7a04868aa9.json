@@ -1,0 +1,307 @@
+{
+  "date": "2018-03-28T16:02:19.346Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:02:39.277Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good morning to you!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:02:48.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "We are discussing the Wolf Of Wall Street. Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:02:54.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it! Who stars in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:03:09.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leo DiCaprio, Jonah Hill, Margot Robbie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:03:24.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh and Rob Reiner haha. I forgot about him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:03:35.271Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Scorsese was the director.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:03:47.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen Rob Reiner in a long time. Do you know who he plays?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:04:05.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays Max Belfort. Yeah he usually just directs now.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:04:29.404Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I saw it and it really was a good movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:04:42.951Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Isn't it based on a true story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:04:58.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah it was from a memoir from a Wall Street guy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:05:18.743Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What makes the story so notable?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:05:40.905Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is about his rise from being pretty much a nobody to a huge stock broker.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:05:56.130Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And how it changed him into pretty much an a**.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:11.207Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The money and all that became too much for him to handle.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:25.482Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Dumb question but who plays the Wall Street guy?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:06:41.923Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "DiCaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:48.081Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Not dumb if you haven't seen it!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:06:56.862Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What happens to him? I don't care about spoilers, movies are about the journey for me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:07:37.574Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He starts in a small boiler room firm on Long Island doing penny stocks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:07:38.508Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And is super aggressive and starts making a lot of money.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:08:00.490Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "This is in the late '80s.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:08:28.604Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm guessing he doesn't keep things strictly legal.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:08:37.541Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "At first he does, then not so much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:08:47.189Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So then he and Jonah Hill start their own company.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:09:06.690Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And now it is definitely on the edge of legality.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:09:28.650Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "As they start doing really well, more young financiers want to join the company and it becomes huge.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:10:05.364Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know what they do specifically that gets them in trouble? If I knew anything about Wall Street I wouldn't be on MTurk.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:10:13.676Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:10:23.491Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It was called the pump and dump scam. I actually don't remember exactly what that is, but it was fairly easy to understand in the film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:10:57.064Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do they end up getting arrested?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:11:19.898Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is mostly what happens to him that the movie is about, as far as how his personality changes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:11:35.022Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He is married, but starts having affairs etc.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:11:53.667Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is he redeemed at all or does he remain totally awful?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:12:03.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He does get arrested actually.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:12:18.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He actually does redeem himself.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:12:56.529Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He basically rats out everyone else for a reduced sentence, and serves three years.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:13:32.593Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does he redeem himself personally?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:13:48.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not really if I recall.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:13:59.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like Henry Hill rats everyone out but is still a terrible person", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:14:02.133Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In Goodfellas", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:14:08.987Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Exactly like Henry Hill.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:14:11.554Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we're good. Have an awesome day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T16:14:30.382Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T16:14:38.804Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-28T16:02:19.346Z", 
+  "uid1LogOutTime": "2018-03-28T16:14:41.391Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T16:02:19.412Z", 
+  "uid2LogOutTime": "2018-03-28T16:14:46.844Z", 
+  "uid2response": {
+    "feedback": "Great, responsive user on the other end. Thanks.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2505", 
+  "user2_id": "USR2599", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

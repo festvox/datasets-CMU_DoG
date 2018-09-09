@@ -1,0 +1,92 @@
+{
+  "date": "2018-02-08T22:17:05.736Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you see La La Land?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:17:58.300Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did! What were the names of the main cast again?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:18:37.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan Gosling and Emma Stone. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:18:59.877Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of the critical responses?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:19:08.224Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm impressed. 93 on Metacritics and 92% on Rotten Tomatoes is quite excellent.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:19:37.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It certainly is. I appreciate that there are positive and negative reviews in the document", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:20:17.429Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, it is great to see a variety of opinions.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:20:31.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what CinemaScope is?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:20:46.145Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I don't, what is it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:21:08.705Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you usually like musicals?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:22:34.925Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T22:17:05.736Z", 
+  "uid1LogOutTime": "2018-02-08T22:25:32.414Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T22:17:05.764Z", 
+  "uid2LogOutTime": "2018-02-08T22:25:23.161Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4492", 
+  "user2_id": "USR1008", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

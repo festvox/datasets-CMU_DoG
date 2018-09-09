@@ -1,0 +1,208 @@
+{
+  "date": "2018-02-08T21:31:06.868Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi,", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:32:36.689Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nThe movie is Zootopia", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:32:56.291Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:33:18.812Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's in a world populated by human like animals. A bunny who becomes a police officer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:34:22.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like animation movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:35:05.464Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do like animated films. What is the rating for this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:36:03.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's very highly rated. 8.1 from IMDB and 98% from rotten tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:36:52.479Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Those are great numbers.  Is it pg or pg13?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:37:30.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't confirm that information exactly, but I am quite sure it is PG as most Disney movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:39:23.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is quite funny for younger viewers as well as adults", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:40:22.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the main character?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:40:40.360Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Officer Judy Hops, she is a little bunny who tries to\n prove her worth as an officer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:41:39.971Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "    Does she have a partner?\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:43:45.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She doesn't have a partner, but she consistently interact with boss Chief Bogo who doesn't believe in her, and a fox named Nick who is a con artist", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:46:36.217Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think so far? Would you like to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:49:58.419Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you actually seen the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:50:16.186Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I have and enjoyed it a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:50:41.308Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds like something I would enjoy watching with my family. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:08.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know when it was released?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:51:19.533Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Great! It was released in 2016, around the holiday season", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:52:33.930Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know if any streaming services have the movie available?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:54:14.556Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure, but it's always a good bet to check Netflix if you have subscription. I might have seen it on there.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:57:07.671Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is the run time?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:58:54.075Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I saw the trailer for it before.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:59:14.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "As far as I remember it is just under 2 hours", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:59:52.399Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think that is a good time for my toddler to stay intrigued.\n.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:02:00.437Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Definitely. You will enjoy it too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:02:23.046Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sounds like it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:02:58.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you able to finish conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:03:39.986Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has not given me the option to do so.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:03:56.896Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are you still there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:33:17.137Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T21:31:06.868Z", 
+  "uid2LogInTime": "2018-02-08T21:31:06.903Z", 
+  "uid2LogOutTime": "2018-02-08T22:42:53.757Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2520", 
+  "user2_id": "USR3519", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

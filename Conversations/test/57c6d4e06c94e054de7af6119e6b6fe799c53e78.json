@@ -1,0 +1,108 @@
+{
+  "date": "2018-02-08T23:37:04.704Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:37:16.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, I wanted to chat with you about a really good movie that Ryan Gosling stars in, it's called LaLa Land.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:39:45.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "cool lets do it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:41:13.528Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a love story taking place in Los Angelos, Emma Stone is also starring in this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:41:21.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that sounds great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:42:41.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "does it have a good story", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:44:03.675Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was created in 2016 and while it's categorized as a musical, it is also a romantic, comedy-drama. I think this would be a great movie to enjoy at home the the spouse, how about you/", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:44:35.863Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i think that it sounds like something that i would like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:45:27.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how's the music tracks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:46:34.893Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe the music would be entertaining as Gosling is a jazz pianist in this movie. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:46:49.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i love jazz music ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:47:30.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And Emma Stone is beautiful, her role as an actress should come easy for her in this one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T23:47:37.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "thanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T23:48:17.618Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-08T23:37:04.704Z", 
+  "uid1LogOutTime": "2018-02-08T23:48:21.560Z", 
+  "uid1response": {
+    "feedback": "it was a good talk", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T23:37:05.353Z", 
+  "uid2LogOutTime": "2018-02-08T23:48:00.287Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR163", 
+  "user2_id": "USR3454", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

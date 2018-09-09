@@ -1,0 +1,229 @@
+{
+  "date": "2018-03-01T19:18:18.123Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:18:29.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:18:47.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:19:05.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very good, thanks for asking!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:19:10.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:19:22.529Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can't see that information on my screen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:19:31.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "batman vs superman", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:19:39.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, have not seen it yet, what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:19:55.259Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have a few times", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:20:12.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its okay, its not the best superhero movie but its ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:20:25.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What do you think about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:20:36.428Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know much about this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:20:55.490Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think Ben affleck is good as batman which is the best part", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:20:59.720Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but the story is kind of medicore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:21:06.734Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the editing is bad as well. The story could be good, batman fighting superman but it just doesnt work as well as it could", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:21:26.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Ben Affleck is a good actor, who plays the superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:21:32.968Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Henry Cavill, an english actor, Hes not bad at all honestly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:22:03.346Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It seems like there are too many superhero movies these days", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:22:49.193Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "bad editing and story lines...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:23:08.529Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, and I was wanting this to be good, but yeah its just a hot mess with some good things, but not a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:23:21.346Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How is this one rated? Because usually they rate them highly and it all ends up in a big disappointment!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:23:56.381Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its 27 percent on rotten tomotoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:24:24.048Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Aww, that's not good...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:24:36.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "44/100 on metacritic", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:24:40.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not not good at all", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:24:43.862Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I was considering letting my teen kid watch it but now I think they would not like it! Especially now that I know it's rated so low!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:25:25.995Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, there is an extended cut on a certain blu ray that makes the movie way better", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:25:46.594Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Really?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:25:57.676Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and is edited better with all of the deleted scenes, I would watch that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:25:58.717Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:25:59.779Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "its much better", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:26:02.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I might check into it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:26:23.364Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-01T19:18:18.123Z", 
+  "uid1LogOutTime": "2018-03-01T19:26:30.479Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:18:18.153Z", 
+  "uid2LogOutTime": "2018-03-01T19:26:34.768Z", 
+  "uid2response": {
+    "feedback": "The conversation went smoothly and the other participant was active and responsive, thanks!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR76", 
+  "user2_id": "USR4835", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

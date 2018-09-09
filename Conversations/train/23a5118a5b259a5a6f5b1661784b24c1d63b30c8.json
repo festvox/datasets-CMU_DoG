@@ -1,0 +1,58 @@
+{
+  "date": "2018-03-05T17:34:53.306Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This movie is definitely\n way different then any other SS movie. I can understand the statement that imply's there is more comedy involved then other movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:37:15.671Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen this entire movie before, but I have always wanted to watch it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:38:26.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does the trailers make you want to watch it or does friend reviews make you want to watch it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:39:14.889Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The trailers are what made me want to watch the movie initially. But now I've heard from several people that it's a good movie. Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:40:04.130Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I generally like anything that has Leonardo DiCaprio in it. I can see how this would be a good movie the plot seems to be very interesting. It seems like it would have a lot of action in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:42:06.442Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T17:34:53.306Z", 
+  "uid1LogOutTime": "2018-03-05T17:47:41.322Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:34:53.311Z", 
+  "uid2LogOutTime": "2018-03-05T17:48:14.691Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3172", 
+  "user2_id": "USR3308", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

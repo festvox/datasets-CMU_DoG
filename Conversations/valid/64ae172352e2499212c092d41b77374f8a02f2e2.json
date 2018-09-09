@@ -1,0 +1,83 @@
+{
+  "date": "2018-01-26T18:56:59.206Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi there! What did you think of the movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:57:23.903Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a terrific Disney movie with great music", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:58:39.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What were your thoughts?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T18:58:57.016Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I definitely agree. I thought that it was really original and I love Idina Menzel from Wicked so that was fantastic to hear more of her singing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T18:59:18.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you think that it's a better movie than some of the movies that came before it, like the Little Mermaid or Beauty and the Beast?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:01:15.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:02:33.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:04:24.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you see what I'm writing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:04:38.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Because I've been messaging you and I'm not sure you're getting my messages?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-26T19:05:02.285Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "based on the time stamps of my messages Ive been waiting over 5 minutes for a response so Im going to abort now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-26T19:05:43.848Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-26T18:56:59.206Z", 
+  "uid2LogInTime": "2018-01-26T18:56:59.253Z", 
+  "uid2LogOutTime": "2018-01-26T19:05:55.809Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2522", 
+  "user2_id": "USR531", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

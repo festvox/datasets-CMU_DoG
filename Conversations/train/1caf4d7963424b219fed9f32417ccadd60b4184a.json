@@ -1,0 +1,42 @@
+{
+  "date": "2018-02-06T14:51:10.208Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This is \"John Wick\" 2014 with Keanu Reeves. I saw this and thought it was ok.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T14:52:11.190Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "OK", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T14:53:41.321Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T14:51:10.208Z", 
+  "uid1LogOutTime": "2018-02-06T14:52:51.105Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-06T14:51:10.335Z", 
+  "uid2LogOutTime": "2018-02-06T14:55:48.802Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR257", 
+  "user2_id": "USR3289", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

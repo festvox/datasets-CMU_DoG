@@ -1,0 +1,70 @@
+{
+  "date": "2018-03-01T19:37:54.420Z", 
+  "docLinkIdx": 12, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:38:43.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine.  And you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:40:05.957Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen The Notebook?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:40:22.622Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm great. I was just going to ask you the name of the movie. No, I haven't seen this one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:40:48.440Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It may be interesting.  Do you like romantic drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:41:14.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes, when it is not overly \"mushy\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:41:39.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:41:47.463Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T19:37:54.420Z", 
+  "uid1LogOutTime": "2018-03-01T19:42:45.110Z", 
+  "uid1response": {
+    "feedback": "It said \"User2 has left the chat\".Maybe I should have selected \"Abort conversation\"?", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:37:54.493Z", 
+  "uid2LogOutTime": "2018-03-01T19:41:41.725Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4571", 
+  "user2_id": "USR4111", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

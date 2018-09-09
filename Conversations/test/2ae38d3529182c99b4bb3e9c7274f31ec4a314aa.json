@@ -1,0 +1,252 @@
+{
+  "date": "2018-02-02T19:55:32.085Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:55:57.369Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:56:02.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie I'm going to be talking about is LaLa Land.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:56:24.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, okay, what type of movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:56:40.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a musical, drama, romance film. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:56:57.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds fun! Who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:12.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Ryan Gosling and Emma Stone. It also features John Legend and Callie Hernandez.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:05.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have no clue who Callie Hernande is  but I like Emma stone and R\nyan gosling a lot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:58:42.252Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lol, sorry Ryan... that is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:58:57.753Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has pretty good reviews too. It has a 92 percent on Rotten Tomatoes and a Metacritic score of 93/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:59:30.215Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow that is impressive, did they win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:59:54.487Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not entirely sure.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:00:58.402Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:01:07.610Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:02:39.203Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. In it Ryan Gosling is a jazz pianist and Emma Stone is an aspiring actress. They meet and fall in love while in Los Angeles pursuing their dreams.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:04:02.951Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:04:28.270Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The critical response has been very positive. Some have called it an intimate masterpiece and the year's most seriously pleasurable entertainment. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:05:52.488Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well I guess other people certainly liked it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:06:13.697Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know who choreographed the dance numbers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:07:09.042Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it mandy moore?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:07:17.518Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Indeed. The story kicks off when Sebastian (that's Ryan Gosling) performing a passionate jazz improvisation despite the owner of the restaurant he's working at demanding only traditional christmas songs", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:07:21.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like jazz and christmas music.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:08:18.044Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Mia (Emma Stone) overhears Sebastian's improvisation and \nis moved by it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:09:02.349Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And Emma plays an actress, is that right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:09:24.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she plays an aspiring actress.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:09:34.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Months later the two of them run into each other at a party.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:09:54.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ah, aspiring.. seems like\n a good plot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:09:55.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "After numerous failed auditions, Mia decides to write a one-woman play, at Sebastian's suggestion.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:10:53.227Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who directed it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:10:53.892Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Damien Chazelle directed it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:11:02.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think he also did whiplash. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:11:19.020Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that was a great film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:11:23.803Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am sure Lala Land will be\n good if ti is by him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:12:07.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is a work of sublime artifice and touching authenticity.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:12:29.761Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thanks for the rundown on it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:12:29.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You are welcome. I highly recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:12:54.487Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T19:55:32.085Z", 
+  "uid1LogOutTime": "2018-02-02T20:12:48.038Z", 
+  "uid1response": {
+    "feedback": "For times they were very active , but there were a few minutes where I WAS NOT SURE IF THEY WERE STILL THERE, HENCE THE HELLO? At one point. After that they were fairly quick to respond again. I was not sure if this was a bot or a human,did not also flow naturally or that well. Did not respond to a couple of questions such as choreographer or if they had seen it, not sure if that was due to instructions on their end or what.", 
+    "response": [
+      1, 
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:55:32.090Z", 
+  "uid2LogOutTime": "2018-02-02T20:12:56.564Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR252", 
+  "user2_id": "USR3819", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

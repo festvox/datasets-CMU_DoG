@@ -1,0 +1,271 @@
+{
+  "date": "2018-02-19T22:11:35.845Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:13:00.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:14:10.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Heloo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:14:31.248Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called Blind Side", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:14:49.770Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is an autobiographical movie based on the life of Michael Oher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:15:34.096Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That sounds interesting, I think I heard of it before. Sports movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:15:35.991Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is Michael Oher?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:15:47.955Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "When did the movie come out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:16:48.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:16:57.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He became one of the first round pick for the Ravens after overcoming an impoverished upbringing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:17:38.221Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like sports films, especially autobiographical ones?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:18:01.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ravens? That is football right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:18:10.830Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I enjoy sports and autobiography movies very much. That is why this sounds interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:18:48.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, NFL league. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:18:48.167Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:18:55.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "When was it released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:19:05.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this a tear jerker? Will it make me cry?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:20:09.311Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out on 2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:20:20.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So not too old, but not brand new. Ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:20:41.509Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:20:47.241Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is almost guaranteed to make you cry.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:21:15.865Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I kinda figured that much. How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:21:48.946Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He has an unstable childhood, moving around foster homes because of his mother's drug addiction.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:22:29.506Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That does sound like it will make me cry.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:23:10.521Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does he at least find stability in the end with his family?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:23:20.801Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, he is adopted by a wealthy family that takes care of him and supports him in his dream.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:24:19.941Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This sounds like  great movie!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:25:12.813Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:25:21.991Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sandra Bullock delivers a strong performance as Leigh Anne, his adoptive mother.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:25:23.783Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Love Sandra Bullock!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:26:01.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Does he have siblings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:26:09.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It has a 69% score on Rotten Tomatoes and A+ on Cinema Score", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:26:16.944Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not bad ratings at all!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:26:49.549Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you recommend the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:27:12.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, he has an adoptive brother named Sean Jr. Micheal befriended him and that's how he met the rest of the Touhy family, which ends up adopting him", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:28:11.386Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is everyone the same race within the adoption?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:28:57.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would totally recommend this movie. It has great source material from the life of Michael Oher and great perfromances", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:29:11.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What do you find most interesting on movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T22:30:29.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds great! from what you have told me so far!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T22:30:51.386Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-19T22:11:35.845Z", 
+  "uid1LogOutTime": "2018-02-19T22:30:55.921Z", 
+  "uid1response": {
+    "feedback": "Never saw the movie before, but sounds like something I would be very interested in! Looking to download soon!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T22:11:36.051Z", 
+  "uid2LogOutTime": "2018-02-19T22:31:05.427Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR360", 
+  "user2_id": "USR852", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

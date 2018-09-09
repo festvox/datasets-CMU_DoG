@@ -1,0 +1,60 @@
+{
+  "date": "2018-02-18T01:29:21.466Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "So..", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:29:49.680Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:32:04.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:32:09.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How to Train Your Dragon is an awesome fantasy movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-18T01:32:37.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh yeah? What's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-18T01:33:14.221Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-18T01:29:21.466Z", 
+  "uid1LogOutTime": "2018-02-18T01:33:28.910Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-18T01:29:21.972Z", 
+  "uid2LogOutTime": "2018-02-18T01:33:54.570Z", 
+  "uid2response": {
+    "feedback": "He failed to tell me about what the movie was about", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2886", 
+  "user2_id": "USR1504", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2018-03-05T18:19:53.905Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you have a good weekend? We had a nice time, watched a movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:20:58.480Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should check out The Social Network it stars Jesse Eisenberg and Eduardo Saverin", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:21:18.735Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I had a great weekend went and saw 3 movies at the theater.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:21:34.175Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I hadn't heard about that one. What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:22:06.104Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network is based on a book called The Accidnetal Bioolnaires.   The Founding of Facebook.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:23:20.487Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool. That sounds good. Is it boring just like a guy sitting in his dorm coding on the computer?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:24:10.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No it's not boring at all.   It also has Justin Timberlake in it. They have a good story, historically accurate but entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:25:38.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Justin Timberlake, I think he's great. So, the movie is historically accurate? Is there action to it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:27:28.848Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well no I wouldn't say action. It's a drama. It really is good got a average of 9/10 on rotten tomatoes. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:28:32.638Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a great review. What character does Justin Timberlake play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:29:14.961Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sean Parker the inventor of a online music streaming service. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:30:19.322Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Interesting. I didn't realize that an online music streaming service ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:33:19.730Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "\nwas part of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:33:56.405Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well that's justin's character has little to nothing to actually do with facebook.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:34:14.355Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-05T18:19:53.905Z", 
+  "uid1LogOutTime": "2018-03-05T18:34:17.386Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-05T18:19:53.940Z", 
+  "uid2LogOutTime": "2018-03-05T18:34:27.407Z", 
+  "uid2response": {
+    "feedback": "other party left the session\n", 
+    "response": [
+      2, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3522", 
+  "user2_id": "USR2231", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

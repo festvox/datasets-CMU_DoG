@@ -1,0 +1,167 @@
+{
+  "date": "2018-02-14T23:01:53.494Z", 
+  "docLinkIdx": 9, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:02:05.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:02:09.945Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "like war movies`?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:02:19.258Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Some at good, others are not, Which one?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:02:48.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh well, i dont really though but the ratings of the one we are talking about is quite good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:03:35.745Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "8.6/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:03:44.981Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which movie are you talking about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:03:54.594Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "8.6/10 That is a movie title?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:04:30.208Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:04:31.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk is the title of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:04:46.147Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OH, I did not see that yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:04:49.485Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I read very mixed reviews.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:05:12.292Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:05:23.623Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did they give u the document as well?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:05:31.168Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:05:36.838Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't im just in for the 2 dollars..hahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:06:00.043Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is a WWII movie, right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:06:26.020Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yea, written and produced by chritopher nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:06:53.656Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I heard its a true life story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:07:19.216Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Not sure I have seen other Nolan movies or not, do you know what else he has produced?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:07:33.617Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "True life, yes, Battle of Dinkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:08:01.448Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "not any that I can remember but he seems to be a house hold name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:08:04.957Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who are the actors", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:08:18.414Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "other person left, so now what?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:09:24.458Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T23:01:53.494Z", 
+  "uid1LogOutTime": "2018-02-14T23:09:58.245Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T23:01:55.015Z", 
+  "uid2LogOutTime": "2018-02-14T23:08:11.379Z", 
+  "user1_id": "USR2328", 
+  "user2_id": "USR3917", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

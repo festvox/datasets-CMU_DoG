@@ -1,0 +1,85 @@
+{
+  "date": "2018-03-27T16:12:08.153Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi! What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:14:53.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, the title of the movie is Home Alone.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:17:08.107Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me what genre it is? (action, comedy, drama, etc)?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:17:44.309Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is undoubtedly a comedy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:20:03.973Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard of it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:20:14.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, I haven't. Can you tell me a little more about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T16:20:48.230Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a film from the early 90s that stars Maculley Cullken as a boy left home alone on Christmas Eve.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:29:26.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He must face robbers in a strategic yet hilarious way that involves numerous memorable scenes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:29:56.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Does it sound like a film you'd be interested in viewing? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T16:30:29.020Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T16:12:08.153Z", 
+  "uid1LogOutTime": "2018-03-27T16:26:44.713Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-27T16:14:19.889Z", 
+  "uid2LogOutTime": "2018-03-27T16:31:10.585Z", 
+  "uid2response": {
+    "feedback": "The other user, User 2, aborted the conversation before we each had a chance to send 15 messages. ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1099", 
+  "user2_id": "USR4569", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

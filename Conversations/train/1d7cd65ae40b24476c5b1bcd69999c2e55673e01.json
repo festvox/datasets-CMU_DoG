@@ -1,0 +1,207 @@
+{
+  "date": "2018-02-09T00:10:36.128Z", 
+  "docLinkIdx": 2, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies from the thriller genre?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:11:57.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, yes i do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:13:03.347Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you watch movies with high reviews from critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:14:09.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:14:24.302Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jaws is a 1975 thriller with a rotten tomatoes score of 97%!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:14:27.806Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:15:25.237Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about a great white shark which attacks beachgoers. A police chief , marine biologist and professional shark hunter hunt the shark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:16:46.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who are the actors/actresses?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:17:12.436Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Roy Scheider, Robert Shaw, Richard Dreyfuss and Lorraine Gary!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:17:46.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did it win any awards?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:21:21.238Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure did you know that metacritics gave it a score of 87/100?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:23:03.739Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "In a key scene a woman goes skinny dipping before she is killed by a shark.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:24:20.815Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is the movie rated?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:24:34.045Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It has an IMDB rating of 8.0/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:24:48.706Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok, i think i would like to see the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:25:29.340Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "are there other movies like this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:26:33.561Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Some critics would argue that it is a sensationally effective action picture a classic Steven Spielberg film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:26:45.603Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did stephen spielberg win an award for the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:27:05.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not sure. But in another key scene the beaches open for fourth of July despite warnings from Brody and Hooper that the shark is still on the loose.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:28:32.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "was this based on a true story at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:28:51.759Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I don't know. You may google that if you're wondering.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:29:16.658Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what else can you tell me about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:29:27.830Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The mayor wants to keep the beaches open for tourist season even though there is evidence that the shark is still on the loose!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:30:01.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it sounds very good, are there other movies like this at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:33:02.282Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not know.  However, the boat in the movie is called Orca. In a critical scene, the shark attacks the boat and devours a main character however scuba gear saves the day...\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:34:02.431Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are there any real sharks in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:34:27.005Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do not have information on that...However, the scuba tank saves the main character's life when it explodes in the shark's mouth!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:35:25.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "that sounds interesting for sure, is this out on blurray?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T00:35:42.307Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not certain. But this movie is a thrilling adventure which some critics have compared the experience to shock therapy.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T00:37:02.088Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T00:10:36.128Z", 
+  "uid1LogOutTime": "2018-02-09T00:43:31.182Z", 
+  "uid1response": {
+    "feedback": "this is a definite mess, the other person responded so slowly that i almost ran out of time. even then the TWIELVE turns that i was told to do was more than twelve and i am quite frustrated at this ", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T00:10:36.242Z", 
+  "uid2LogOutTime": "2018-02-09T00:39:11.183Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4650", 
+  "user2_id": "USR3621", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

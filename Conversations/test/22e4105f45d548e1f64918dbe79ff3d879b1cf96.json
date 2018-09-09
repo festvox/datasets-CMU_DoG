@@ -1,0 +1,292 @@
+{
+  "date": "2018-02-09T17:50:12.262Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:11.025Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:29.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, what genre is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:51:46.621Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie directed by Patty Jenkins", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:51:54.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's Marvel Superhero", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:07.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "based movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:11.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Never heard of her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:13.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, is it Spiderman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:52:35.426Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The main character is a women", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:44.274Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "woman*", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:52:47.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I apologize it is DC Comics", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:06.939Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "not Marvel", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:10.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Chris Pine and Gal\n Gadot acted in this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:53:36.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Wonder Woman, it is. Have you watched it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:01.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, Wonder Woman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:09.528Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:17.253Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, never seen it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:18.229Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I saw the Justice League though so I know of her", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:34.226Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You must watch it if you like superhero movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:35.669Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You will love it. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:54:42.302Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who does Chris Pine play?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:54:44.501Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steve Trevor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:13.887Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Steve Trevor, an American Pilot and love interest of Diana", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:55:47.040Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:03.426Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the villan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:56:18.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When you watch the movie, not the scene which is set in present day Paris", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:41.010Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Danny Huston", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:56:56.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He plays the character of General Erich", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:10.294Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Jenkin is the first female director of a comic book superhero film, you must give this a try", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:57:58.380Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "She is really good at it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:58:04.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Cool. So it takes place in France.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:58:30.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you generally watch movies with (good\n) ratings? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:58:41.069Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T17:58:52.588Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The performance of Gal Gadot was \nstellar", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:13.631Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Great to hear that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:16.951Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is \"good\" rating accordingto you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:27.407Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie has a rating of 7.6 / 10 on imdb", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T17:59:58.568Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And a metacritic score of 76/100", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:10.905Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anything higher than 7 on imdb", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:14.152Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's wonderful. So, this\n meets your criteria", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:30.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's really good!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:32.781Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes it is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:00:39.914Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'll give it a try.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:00:55.095Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T17:50:12.262Z", 
+  "uid1LogOutTime": "2018-02-09T18:00:57.100Z", 
+  "uid1response": {
+    "feedback": "It has interesting casting and I didn't know ti was directed by a women. Plus, it got good ratings.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T17:50:12.271Z", 
+  "uid2LogOutTime": "2018-02-09T18:01:00.283Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2746", 
+  "user2_id": "USR3176", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

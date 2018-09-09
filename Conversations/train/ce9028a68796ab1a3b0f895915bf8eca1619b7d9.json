@@ -1,0 +1,40 @@
+{
+  "date": "2018-02-15T19:37:35.516Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. Did you watch avengers cartoons when you were a kid? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T19:38:29.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi, no I didn't. Did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T20:01:50.064Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-15T19:37:35.516Z", 
+  "uid1LogOutTime": "2018-02-15T20:02:08.471Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-15T19:37:35.528Z", 
+  "uid2LogOutTime": "2018-02-15T19:40:00.108Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2726", 
+  "user2_id": "USR2362", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

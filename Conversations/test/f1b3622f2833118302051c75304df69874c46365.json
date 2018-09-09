@@ -1,0 +1,148 @@
+{
+  "date": "2018-02-14T22:52:37.421Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:53:01.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:53:08.154Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:54:09.040Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "keanu reeves never gets old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:54:55.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "pity the ratings are low", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:54:55.066Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have u seen the movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:54:55.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh im good, thanks for asking :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:55:12.857Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like keanu reeves and he does hold his age well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:55:39.437Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movie are we discussing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:55:52.134Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "agreed ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:55:52.545Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "John Wick", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:55:59.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was thinking about seeing that one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:56:11.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "and he is the star in that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:56:12.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "would you recommend it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:56:23.448Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I've seen him in action/adventure movies before is this one of those?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:56:56.251Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i think this is his most recent effort although its already 4 years old", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:57:52.017Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you enjoy it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:58:09.577Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he acts as the best assasin in town that retired because his wife was killed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T22:58:20.440Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sounds like an action flick!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:58:42.917Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was it very violent and graphic?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T22:58:58.525Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was this movie rated R?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:01:51.425Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T22:52:37.421Z", 
+  "uid1LogOutTime": "2018-02-14T23:08:03.259Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T22:52:39.067Z", 
+  "user1_id": "USR281", 
+  "user2_id": "USR3917", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

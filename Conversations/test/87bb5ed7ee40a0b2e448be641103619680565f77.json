@@ -1,0 +1,234 @@
+{
+  "date": "2018-02-28T23:52:06.952Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI! can you tell me about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:52:44.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the social network?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:53:16.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i have not, what is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:53:25.897Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is about the founding of facebook and the people involved.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:54:00.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it a documentary?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:54:20.329Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No ,it is a drama based on fact.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:54:43.195Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "is it long and boring?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:54:53.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No , it is actually very interesting and you can follow the same people in real life today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:55:30.109Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who are the actors in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:55:48.569Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "good question....justin timberlake, jesse eisenberg and some others you probably have never heard of", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:56:43.575Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "isn't justin timberlake a singer? is he good in this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:57:16.697Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, does a good job. Eisenberg plays zuckerberg  in the movie and talks about when he started facebook after a break up with a girlfriend.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T23:58:40.141Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what makes it a drama, that seems kind of boring ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T23:59:09.306Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it tells the tale of when zuckerberg goes to work for the new platform facesmash at harvard and then goes to work for the company he eventually steals and turns into facebook.\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:00:45.360Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "okay how long is it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:01:57.471Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The ususal length, it got 9./10 on rotten tomatoes\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:02:31.637Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what movie is similar to it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:03:24.015Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is a comparable movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:03:37.137Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "probably a business movie, it talks about facebook expansion to different universities and introduces the winklevoss twins and the person with the money saverin , who later takes them to court. Timberlake plays sean parker the venture capatalist and introduces the name facebook", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:06:00.696Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who are the winklevoss twins? are they real, the name sounds made up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:07:20.927Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, they are real, they actually started facebook and zuckeberg stole the idea from them, it was called the harvard connection\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:08:45.631Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh i didn't know that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:09:03.793Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you like the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:09:08.406Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, good film , it shows the lack of integrity in business and greed and how zuck, parker basically stole the idea and business from saverin and winklevoss...court cases ettc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:10:14.388Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "would someone who is not interested in legal dramas enjoy it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:10:44.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it is intriguing , especially the popularity of facebook, It also exposes the human weakness of greed and fame", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:12:28.003Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "what is your best thing about the film you like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:14:29.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I  like the way the movie goes from the court depositions into the story line and explains all the legal and ethical problems. The acting was great alson", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:15:35.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who is your favorite actor in it ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:16:43.068Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or actress", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:16:50.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think timberlake was the best in his role of sean parker, Silicon valley venture capitalist\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:17:25.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay thanks!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T00:17:59.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks enjoyed the chat...!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T00:18:20.924Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T23:52:06.952Z", 
+  "uid1LogOutTime": "2018-03-01T00:18:03.920Z", 
+  "uid1response": {
+    "feedback": "it was a good conversation with good explanation of the movie", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T23:52:07.207Z", 
+  "uid2LogOutTime": "2018-03-01T00:18:30.070Z", 
+  "uid2response": {
+    "feedback": "thansk", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2765", 
+  "user2_id": "USR4050", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

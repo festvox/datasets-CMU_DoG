@@ -1,0 +1,138 @@
+{
+  "date": "2018-02-02T21:53:44.652Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:54:13.507Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good how about you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:54:22.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen jaws?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:54:51.157Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't. Is it good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:55:26.322Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is amazing. It's about a man trying to save his beach side town from a crazy shark", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:55:59.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about LA LA land? Have you seen that?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:56:47.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you say it has a happy ending to it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:56:48.664Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't seen LA LA land either. Which one would you recommend?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:57:11.325Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. They kill the Shark and get to relax and be happy in the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:57:14.994Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Aw man, spoilers haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:57:35.603Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly I would recommend jaws. It's such a great classic movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:57:41.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why not La La land? Do you not like it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:58:00.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What genre is La La land? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T21:58:38.367Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "LA LA land is OK but it doesn't compare to the action of Jews. I give it a 7.8 whereas jaws is a 9.1", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:58:46.614Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "LA LA land is a musical romantic Comedy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T21:59:49.864Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hmm, you might have to convince me a little more about Jaws just because I already know the ending. Since you said LA LA Land is a romantic comedy, is there any romance in Jaws?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:00:37.666Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And is LA LA Land based on a real story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T22:01:18.527Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No. Jaws has little romance", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T22:01:24.744Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T21:53:44.652Z", 
+  "uid1LogOutTime": "2018-02-02T22:01:47.679Z", 
+  "uid1response": {
+    "feedback": "I'm not sure which document the user read but I would rather watch LA LA Land instead of Jaws. With Jaws, the other user spoiled the ending and seemed to be pushing Jaws way too hard on me. I'd rather watch LA LA Land where I don't know the ending and I enjoy the genre more.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T21:53:44.759Z", 
+  "uid2LogOutTime": "2018-02-02T22:01:34.436Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2140", 
+  "user2_id": "USR590", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

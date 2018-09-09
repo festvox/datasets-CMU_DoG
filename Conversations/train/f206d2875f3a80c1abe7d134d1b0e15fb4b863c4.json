@@ -1,0 +1,253 @@
+{
+  "date": "2018-03-29T23:47:50.414Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:48:45.786Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:49:05.628Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How r u?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:49:11.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm great, how are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:49:22.871Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine, thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:49:28.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you like movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:49:40.642Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I am a huge fan of it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:49:57.636Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:50:18.546Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you like about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:50:23.004Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked the depth of the actors and the intricacies of the plot. What di you like about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:51:07.077Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Thought the acting was done well, especially Richard Jenkins.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:51:36.708Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Movie reminded me of Splash, which I also liked.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:51:44.724Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's also a great film. The genre of this movie is also one of my favorites.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:52:39.093Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did you have a favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:52:58.171Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My favorite scene was when the creature was revealed.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:54:07.715Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was yours?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:54:41.943Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked the sequence where the bathroom got flooded. Thought that was pretty creative.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:54:53.563Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I agree, I think the whole movie was very creative. I think it requires a lot of thought and imagination to think of a plot like this.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:56:18.400Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I agree.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:56:39.688Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What other movies of this genre did you like?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:56:57.897Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like other Benecio Del Toro dramas. He's a great actor, don\n'", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:58:56.580Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "**don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:59:06.244Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sorry, Guillermo del Toro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T23:59:39.938Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I dont know too many other movies that he did besides Pan's Labyrinth", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:00:02.128Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That one was pretty weird as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:00:15.603Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most of his movies are really weird. He's always rated pretty well too\n. His ratings for this movie were really high.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T00:01:23.232Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Speaking of weird, what did you think of the scene where the creature heals the character in the canal?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T00:02:50.464Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah I thought that was weird as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:03:01.870Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Like can he heal or what? He somehow also gave her gills.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:03:17.089Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I just found out that he also did Hellboy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:03:26.590Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So yeah he does all weird movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:03:31.109Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He must have a really fertile mind to be able to think of all these bizarre fantasy movies.... Healing a person and giving them gills... crazy stuff", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T00:04:29.170Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah definitely", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:05:01.131Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He directed it.. did he write this movie as well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:05:12.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it was written by del toro and Vanessa Taylor.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T00:05:52.669Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thats cool", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T00:06:06.397Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T23:47:50.414Z", 
+  "uid1LogOutTime": "2018-03-30T00:06:07.737Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T23:47:50.534Z", 
+  "uid2LogOutTime": "2018-03-30T00:06:15.232Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2688", 
+  "user2_id": "USR2819", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

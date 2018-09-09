@@ -1,0 +1,270 @@
+{
+  "date": "2018-03-21T17:06:16.780Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, how are you today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:06:29.934Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there! I am great! how are you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:07:15.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I fine, thanks.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:07:25.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie we are talking about today is toy story ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:07:40.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you seen it or heard about it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:07:49.423Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have seen it, years ago.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:08:04.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think about it? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:08:16.693Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really liked it and the story was also great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:08:36.969Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:09:00.765Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah I think it has a great message ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:09:08.931Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "about friendship and caring about people even if they are different than you ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:09:40.899Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "even though its a kids movie I think its great for adults too ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:09:53.496Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I watched it as a teen and as an adult.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:10:50.532Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What rating did it get from critics?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:11:10.580Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "when i first saw the movie i thought my toys could talk so i would always try to surprise them ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:11:13.364Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "100% on rotten tomatoes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:11:31.824Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "95/100 on metracritic ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:11:41.561Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and a in cinema score ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:11:48.685Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i agree with the ratings and think it is one of the best animated movies ever made ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:12:04.062Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree with them as well, it's well deserved.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:12:25.443Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who released it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:12:51.572Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the director is john lasseter ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:13:25.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it is a disney pixar movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:13:33.635Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who is your favorite character? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:13:43.612Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Disney, I am surprised. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:13:54.299Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "really? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:14:35.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lightyear", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:14:35.461Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Lightbuzz", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:14:45.281Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I forget the name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:14:51.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "buzz lightyear ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:14:57.335Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kind of the highlight of the first movei ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:15:07.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "movie* ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:15:11.130Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have you seen the second and third movies? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:15:22.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I have not, did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:15:33.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah i think the third one is the best in the series ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:15:47.809Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When was it released?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:16:02.405Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it is about andy going off to college and getting too old for toys ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:16:10.181Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think 2012 ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T17:16:12.612Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Really? Wow Disney still makes movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T17:16:34.673Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T17:06:16.780Z", 
+  "uid1LogOutTime": "2018-03-21T17:16:39.373Z", 
+  "uid1response": {
+    "feedback": "It has been years since I watched this movie and I will try to watch it again for old times.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T17:06:16.883Z", 
+  "uid2LogOutTime": "2018-03-21T17:16:24.653Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR55", 
+  "user2_id": "USR2015", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

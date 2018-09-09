@@ -1,0 +1,134 @@
+{
+  "date": "2018-03-07T20:52:26.227Z", 
+  "docLinkIdx": 16, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi what movie are we talking about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:53:39.698Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despicable Me", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:53:50.778Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh nice, whats that about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:54:18.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a cute movie staring steve Carell, Jason Segel and Russell Brand so you know it will be funny", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:54:44.280Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea it has to be then, whats the plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:55:26.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is animation about a villain who defeats another villain in the plot to take over the world", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:56:44.244Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh animated movie...I like those. Do you know if it has a long run time?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:57:22.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I do not however it has a CinemaScore of A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:58:01.217Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh that sure is a good rating. When did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T20:58:55.087Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It came out in 2010.  Directed by pierre Coffin and Chris Renaud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T20:59:26.831Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh nice. Do you know if it has a good soundtrack? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:00:00.605Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It does have music by Pharrell on the soundtrack", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:01:03.011Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh pretty big name. Did it do prettygood in box office sales?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:01:59.264Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am unsure however it is about a rivalry with 2 villains over a stolen Pyramid of Gyza", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:03:43.007Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "wow, how did he steal the Pyramid?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:04:46.314Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A shrink ray", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T21:05:21.739Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "whats something else that's fun about the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T21:06:27.102Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T20:52:26.227Z", 
+  "uid1LogOutTime": "2018-03-07T21:06:00.470Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T20:52:29.058Z", 
+  "uid2LogOutTime": "2018-03-07T21:09:21.147Z", 
+  "uid2response": {
+    "feedback": "The other user had mentioned a list of good actors, a good director, a good soundtrack and rating. That leads me to want to watch the movie.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1565", 
+  "user2_id": "USR1752", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

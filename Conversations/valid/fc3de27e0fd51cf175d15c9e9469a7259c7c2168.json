@@ -1,0 +1,96 @@
+{
+  "date": "2018-02-14T23:31:11.473Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:31:44.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:31:53.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:31:59.731Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "GOOD THANKS", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:32:06.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great. Have you seen La La land yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:32:20.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually, I haven't.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:32:32.313Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Me either", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:32:38.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:32:42.904Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you're supposed to tell me..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T23:32:50.113Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not really", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:33:02.943Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You chose the film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T23:33:06.257Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T23:31:11.473Z", 
+  "uid1LogOutTime": "2018-02-14T23:34:13.762Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T23:31:11.545Z", 
+  "uid2LogOutTime": "2018-02-14T23:35:00.702Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3665", 
+  "user2_id": "USR773", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

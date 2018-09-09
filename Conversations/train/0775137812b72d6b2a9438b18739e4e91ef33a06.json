@@ -1,0 +1,240 @@
+{
+  "date": "2018-03-29T10:28:48.754Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:29:20.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:29:25.301Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, what is this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:30:20.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie i was given a document for has wonderful ratings. It has a rotten tomatoes score of 100% and a cinema score of an !", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:30:31.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "A", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:30:33.433Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is animated based, but it has some great actors, Tom Hangs, and Tim Allen star in this film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:30:59.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's pretty impressive, what is the title?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:31:07.988Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:31:18.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Love Tom Hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:31:19.082Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh I heard of this, what is it about exactly? Toys?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:31:45.996Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tom Hanks is a national treasure. and he really brings his A game in this movie. Its a story about anthropomorphic toys pretending to be lifeless whenever humans are present", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:32:24.362Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And for Andy's birthday the toys are scared that they are going to be replaced by other toys and they'll be forgotten", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:33:13.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's pretty original for sure. I like the sound of that, is it emotional or funny?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:33:48.713Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who is Andy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:34:01.551Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Andy is the young boy who owns these toys. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:34:17.975Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is Andy an only child?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:34:41.123Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And the movie is very funny, even for audiences that may be older than the intended childrens demographic. and is suprisingly emotional as you see the struggles of being replaced going on with Woody\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:35:20.913Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Andy has a younger sister named molly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:35:29.299Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Interesting, is it a recent film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:36:10.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, this film came out in 1995", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:36:24.827Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is the animation like? Is it hand drawn like the old animated films?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:37:08.202Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is computer animated, but it is produced by disney.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:37:51.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohhhhhhh Disney, I love what they do with animation. Computer animated, early days indeed, does it look good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:38:22.301Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Though it is older, the animation really does look great. What they chose to animate looks wonderful, and they didnt do anything that looks to bad compared to todays standards", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:40:24.206Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What are the characters like? Are they compelling? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:41:42.306Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Very much so. You have characters that are conveying an array of emotions and story arc's. For instance, we have buzz who is a galactic force ranger toy who doesnt believe that he is a toy. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:42:58.350Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Then Woody is getting jealous, trying to get rid of buzz in a myriad of ways; This all stems from the fact that everyone is so impressed with Buzz and comes to a boiling point when Andy chooses buzz over woody as a toy to take out to a pizza place", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:44:11.732Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's funny, so Buzz & Woody are the main characters?  Why does Andy choose Buzz over Woody?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:45:01.778Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, they are the main characters. Andy chooses Buzz because he's the new popular toy with different actions and lights and sounds. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:46:19.647Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are Buzz & Woody enemies because of that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:46:48.273Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes! That is one of the main causes of the conflict. Woody feels like he is being replaced with something new", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:47:28.996Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was the film successful when it came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:48:24.714Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was a smash! Crictics were calling it brilliant. People applauded the technique of digital animation. The story was lauded as fun for children and adults\n alike", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T10:50:08.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I kinda want to watch it now. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T10:51:04.094Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T10:28:48.755Z", 
+  "uid1LogOutTime": "2018-03-29T10:51:09.488Z", 
+  "uid1response": {
+    "feedback": "I've already seen the film and am a big fan of it, so there you go !", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T10:28:48.846Z", 
+  "uid2LogOutTime": "2018-03-29T10:50:53.222Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR347", 
+  "user2_id": "USR1292", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

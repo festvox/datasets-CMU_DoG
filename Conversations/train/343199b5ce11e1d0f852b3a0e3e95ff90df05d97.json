@@ -1,0 +1,254 @@
+{
+  "date": "2018-03-19T21:27:26.919Z", 
+  "docLinkIdx": 22, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:27:50.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:27:53.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of Maleficent?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:28:14.989Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its not my favorite movie, it was a little boring.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:28:34.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:28:54.378Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you find boring?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:28:57.878Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked it okay. It wasn't very memorable.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:29:22.944Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The story was slow and I didn't care enough about the characters.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:29:23.311Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I agree about the characters.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:29:35.850Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was there anything positive?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:29:42.249Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I thought the costumes were nice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:29:57.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "And the special effects", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:30:11.760Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Same, some of the settings were interesting too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:30:13.399Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Are you a fan of Sleeping Beauty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:30:43.585Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes definitely. They  did a good job creating a \"magical\" world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:30:48.480Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It isn't my favorite, but I like it okay. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:31:07.906Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Same. Do you think that impacts your feelings about Maleficent?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:31:39.869Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think it was interesting how they gave the villain in Sleeping Beauty more depth and made her more complex in this movie\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:33:00.858Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't have strong feelings about her character to begin with though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:33:26.736Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you think you might feel differently about Sleeping Beauty now that you've seen this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:33:35.695Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No not really. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:34:15.777Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Same, I don't think I like either story enough.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:34:48.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like movies of this genre generally?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:35:03.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not particularly. I like the originals better usually. What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:35:36.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can like it but generally not the ones aimed towards children.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:36:05.000Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How do you feel about Disney movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:36:12.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like some of them, but a lot of them have boring plotlines.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:36:34.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:36:52.015Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I like a lot of them.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:37:01.476Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Which are your favorites?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:37:23.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really enjoyed Moana.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:37:42.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:37:49.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I liked that one too. I liked Tangled.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:38:17.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think you like the animated films more than the live action ones?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:38:24.252Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The animated ones usually, you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T21:38:41.017Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Same-- the live action ones tend to come off poorly", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T21:38:56.987Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T21:27:26.919Z", 
+  "uid1LogOutTime": "2018-03-19T21:38:59.801Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T21:27:26.949Z", 
+  "uid2LogOutTime": "2018-03-19T21:38:56.196Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1897", 
+  "user2_id": "USR405", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

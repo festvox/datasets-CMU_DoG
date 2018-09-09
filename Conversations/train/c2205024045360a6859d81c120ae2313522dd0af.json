@@ -1,0 +1,95 @@
+{
+  "date": "2018-03-29T22:01:40.015Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:01:55.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yo", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:02:16.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:02:32.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You seen toy story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:02:34.241Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course, I used to have a Woody doll bro", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T22:02:49.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "classic film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:03:02.875Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i had a mr potato head figure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:03:28.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "haven't watched in years, 1995 was a long ass time ago", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:04:16.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "put it in your top 10?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:05:34.789Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:07:24.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T22:16:37.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "why open a HIT only to abandon it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T23:12:29.010Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T22:01:40.015Z", 
+  "uid1LogOutTime": "2018-03-29T23:14:25.572Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T22:01:40.084Z", 
+  "user1_id": "USR114", 
+  "user2_id": "USR2579", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

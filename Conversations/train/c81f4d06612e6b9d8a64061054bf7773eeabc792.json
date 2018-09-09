@@ -1,0 +1,59 @@
+{
+  "date": "2018-02-20T17:14:08.827Z", 
+  "docLinkIdx": 18, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:14:33.148Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:14:39.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the movie about", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T17:14:51.075Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "name of movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:20:00.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of my movie is The Blind Side", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T17:20:25.780Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T17:14:08.827Z", 
+  "uid1LogOutTime": "2018-02-20T17:24:22.914Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T17:14:08.857Z", 
+  "uid2LogOutTime": "2018-02-20T17:19:39.154Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1962", 
+  "user2_id": "USR3961", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

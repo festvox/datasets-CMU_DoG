@@ -1,0 +1,150 @@
+{
+  "date": "2018-03-01T19:25:22.607Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello,", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:25:55.881Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who produced the movie \"How To Train Your Dragon\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:26:29.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:26:55.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "DreamWorks Animation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:27:19.249Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\nproduced the movie\n \"How To Train Your Dragon\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:27:35.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In fact what year was it made", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:28:04.327Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " June 13, 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:29:05.901Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was a 2010 movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:29:39.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but  released on June 13, 2014", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:30:32.225Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is one of those animation 3D movies I don't like ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:30:53.100Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hahahaha... i also dont like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:31:41.583Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would say the ratings the movie received is quite good, what do you think", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:31:49.922Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Imagine a 15 year old making devices to fight dragons", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:32:55.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i didn't watch this moie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:33:33.177Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:33:37.502Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you are watching this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:34:15.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it was directed by Chris Sanders and Dean Debois", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:34:44.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah..", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:34:57.831Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what your name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-01T19:35:05.974Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay let me give you a run down of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-01T19:35:15.152Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-01T19:25:22.607Z", 
+  "uid1LogOutTime": "2018-03-01T19:35:54.032Z", 
+  "uid1response": {
+    "feedback": "awesome", 
+    "response": [
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-01T19:25:24.259Z", 
+  "uid2LogOutTime": "2018-03-01T19:35:42.712Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2850", 
+  "user2_id": "USR3998", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

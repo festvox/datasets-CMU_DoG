@@ -1,0 +1,77 @@
+{
+  "date": "2018-02-28T17:49:13.438Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:49:30.304Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you see bruce almighty?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:49:48.141Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I did not. I saw the blindside.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:50:30.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am here. How was the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:51:03.512Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it was a good jimmy carry movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:51:21.556Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "he struggled in recent years but this movie is one that was close to his early comedy ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:52:00.715Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great! Jim Carry is a funny comedian", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:52:41.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yea he is! in this move he t", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T17:53:23.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was it a long movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T17:54:45.739Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T17:49:13.439Z", 
+  "uid1LogOutTime": "2018-02-28T17:53:08.001Z", 
+  "uid1response": {
+    "feedback": "the person left the chat\n", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T17:49:13.532Z", 
+  "user1_id": "USR4566", 
+  "user2_id": "USR2657", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

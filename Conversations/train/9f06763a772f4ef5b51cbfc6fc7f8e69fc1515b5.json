@@ -1,0 +1,248 @@
+{
+  "date": "2018-03-30T18:49:03.863Z", 
+  "docLinkIdx": 24, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:49:21.400Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:49:44.284Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you? :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:49:48.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Im doing great, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:49:56.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am fine thanks for asking!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:50:02.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Lets talk about Real Steel!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:50:11.058Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure thing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:50:21.333Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watched the movie before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:50:30.359Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have, but it has been awhile.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:50:36.251Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:50:44.258Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, I do remember enjoying the movie, I think it is a very solid movie in my opinion.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:51:50.861Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I did enjoy it too, well personally I am a huge fan of Hugh Jackman.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:52:20.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am too, I feel like he is one of the few humble actors there is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:52:36.577Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I am also a huge fan of robots generally especially in movies lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:52:49.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's interesting. How do you feel using robots to square off to one another?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:53:23.559Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it is very awesome and very realistic.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:53:37.265Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well at least the movie made me feel like it is realistic lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:53:52.480Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:55:10.797Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree. Do you remember a scene that makes you remember the movie or made the movie so good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:55:38.772Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "In fact I do. By the way, you watched the movie right? I forgot lol.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:55:58.192Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes I did.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:56:19.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh right right, I remember the later part of the movie, almost at the end.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:56:38.185Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Which part?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:56:45.408Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When they go against the strongest robot in the tourney, and they lost against it, I felt like that was the right ending just because the crowd was cheering \"People's champ! People's champ!\" at the end.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:57:46.935Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohh right, that was the ending I preferred because that was the strongest opponent and it would be a cliche if they did defeat the strongest one.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:58:37.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Atom! Thats the name of their robot!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:58:56.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, such a fitting name.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:59:02.358Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I cant believe the rating for this movie though. Its unfair. It should be at least a 6.5/10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T18:59:34.682Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree. I mean a 59% from rotten tomatoes is just asking a lot jesus.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T18:59:51.697Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Zeus was the strongest robot, man I missed this movie, might watch it again later.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:31.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hahaha, same.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:00:36.334Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for the great conversation! You have a good one alright?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:46.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You too thanks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:00:49.559Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T19:00:51.121Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bye.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T19:00:52.764Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-30T18:49:03.863Z", 
+  "uid1LogOutTime": "2018-03-30T19:00:54.219Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-30T18:49:03.868Z", 
+  "uid2LogOutTime": "2018-03-30T19:02:47.819Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1672", 
+  "user2_id": "USR4306", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2018-03-29T15:59:11.991Z", 
+  "docLinkIdx": 27, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello, have you seen the Shape of Water?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:59:25.483Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:00:29.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, it's a really good movie. It's a Fantasy/Drama", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:00:49.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year di it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:01:50.265Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:01:56.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "2017", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:02:00.566Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:02:09.839Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what year did it come out?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T16:02:13.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It came out in 2017.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T16:02:32.187Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-29T15:59:11.991Z", 
+  "uid1LogOutTime": "2018-03-29T16:03:07.599Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:59:12.004Z", 
+  "uid2LogOutTime": "2018-03-29T16:03:09.589Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2800", 
+  "user2_id": "USR3403", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

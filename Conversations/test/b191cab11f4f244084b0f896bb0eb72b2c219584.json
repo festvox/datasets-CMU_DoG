@@ -1,0 +1,134 @@
+{
+  "date": "2018-03-27T07:00:25.090Z", 
+  "docLinkIdx": 23, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, How are you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:01:24.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello,I'm fine. How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:01:50.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the genre of this movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:02:36.790Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Comedy and animation\n  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:03:33.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Excellent. Thank you. Who is leading actor of this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:04:19.607Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the movie rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:07:26.788Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "In which year this movie was released ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:10:14.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Billy Crystal is the leading actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:13:14.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "79% and 6.8/10 rating", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:13:53.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "released 2013", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:14:12.753Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You took very long time to give answer any way what is the plot of this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:14:51.743Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Plot you can find in the introduction ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:15:59.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is a \nCinemaScore:", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:19:51.062Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot of the movie is Mike and Suelly going to college ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:20:20.121Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "CinemaScore: A", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:20:53.519Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would you please tell about any Key Scenes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T07:21:19.488Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "key scene is Mike Wazoski as a 7 yr old aspires to become a scarer - am monster who scares children", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T07:22:49.664Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-27T07:00:25.090Z", 
+  "uid1LogOutTime": "2018-03-27T07:26:16.029Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T07:00:25.179Z", 
+  "uid2LogOutTime": "2018-03-27T07:26:01.677Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2188", 
+  "user2_id": "USR4145", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

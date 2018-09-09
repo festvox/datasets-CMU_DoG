@@ -1,0 +1,46 @@
+{
+  "date": "2018-03-22T14:57:31.303Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:57:44.976Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is anyone there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T14:58:28.907Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes i'm here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T15:00:50.652Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-22T14:57:31.303Z", 
+  "uid1LogOutTime": "2018-03-22T15:01:08.323Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T14:57:31.432Z", 
+  "uid2LogOutTime": "2018-03-22T14:58:53.881Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4029", 
+  "user2_id": "USR206", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

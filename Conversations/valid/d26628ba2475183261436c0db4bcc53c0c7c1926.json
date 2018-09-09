@@ -1,0 +1,52 @@
+{
+  "date": "2018-02-06T19:56:06.070Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-06T19:57:06.946Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey there! So, the movie I got is inception.  I really think it would be a good watch for you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T19:59:05.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was rated really highly on IMDB and Rotten tomatoes so that's already a good sign. Leonardo DiCaprio is the lead, he portrays a thief that steals information from peoples dreams. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:02:10.067Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "One critic response states \"wildly ingenious chess game\" so if you're into deep psychological thrillers that's definitely another plus.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:04:51.810Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies in the scientific genre?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-06T20:07:53.474Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-06T19:56:06.071Z", 
+  "uid1LogOutTime": "2018-02-06T20:09:07.518Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-06T19:56:07.937Z", 
+  "user1_id": "USR3133", 
+  "user2_id": "USR3490", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

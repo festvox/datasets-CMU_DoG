@@ -1,0 +1,224 @@
+{
+  "date": "2018-03-16T17:09:53.808Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Did you like the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:11:33.339Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah! Seeing Batman, Wonderwoman, and Superman team up was awesome!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:11:59.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which superhero do you prefer. Batman or Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:12:19.970Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman, although I didn't like his portrayal in this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:13:03.365Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How were the action scenes in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:13:07.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The effects were fun, but it was a little dry.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:13:23.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Was Lex Luther's character diabollicaly evil?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:13:33.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "His intentions were fair, but his methods were evil.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:07.517Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How was the script?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:14:12.397Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A bit jumbled at times.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:14:44.534Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did the cinematography wow you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:14:51.665Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, Zack Snyder is great with effects", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:12.423Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did Wonder Woman really fit in in this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:28.688Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If so, did Wonder Woman make the movie better or worse?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:15:57.983Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "She did fit it definitely\n made it better", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:16:33.460Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What was your favorite scene?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:09.569Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When Batman and Superman engage in combat loved all of those scenes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:56.161Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What was your favorite scene?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:18:06.703Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "When Batman sees Superman as a threat humanity", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:30.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How do you feel about the rating for this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:18:41.397Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Right on target", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:00.554Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What would you rate this movie from 1 to 4 stars?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:19:15.822Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "A 2", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:19:34.013Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did Ben Affleck fit the role as Batman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:04.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Certainly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:13.750Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How did you like Diane Lane?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:20:32.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "She did fine.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:20:45.156Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How does this compare to previous Batman movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:21:04.428Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It sucked. Many of the Batman movies before this one were better", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:34.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you think the movie was a little to long?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:22:02.552Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It could have been longer to fill in holes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:22:30.849Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-16T17:09:53.808Z", 
+  "uid1LogOutTime": "2018-03-16T17:22:55.348Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:09:53.817Z", 
+  "uid2LogOutTime": "2018-03-16T17:22:47.682Z", 
+  "uid2response": {
+    "feedback": "A smashing success.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1071", 
+  "user2_id": "USR444", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-02-19T19:31:41.041Z", 
+  "docLinkIdx": 14, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "How do you feel about super hero movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:32:44.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Good. I dont have a lot of time to watch them, but I like the ones I see.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:32:54.975Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you say you prefer more upbeat ones or the complex types that have a lot of drama?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:33:27.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I honestly like upbeat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:35:25.523Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:31:41.041Z", 
+  "uid1LogOutTime": "2018-02-19T19:36:39.230Z", 
+  "uid1response": {
+    "feedback": "The other user left the chat", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:31:41.087Z", 
+  "uid2LogOutTime": "2018-02-19T19:35:07.381Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR28", 
+  "user2_id": "USR3448", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "date": "2018-02-13T20:26:25.474Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:27:22.146Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:28:01.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:28:20.999Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds interesting, it is a comedy that uses animals as the main characters", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:28:53.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what it is called?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:29:04.323Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe it is Zootopia, however I have not seen the movie, so I can not be entirely sure", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:29:45.596Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "8", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:29:57.755Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do they explain the setting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:30:33.123Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It takes place in a rural bunnyburrow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:31:18.335Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's directed by Byron Howard and Rich Moore, have you ever seen a movie by them?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:31:50.739Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not sure.  I am not very familiar with directors of films.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:32:49.059Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Can you tell me about the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:33:10.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The film looks at a rabbit cop and this dealings with the a con artist", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:33:12.541Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like movies with odd pairings.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:34:04.476Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The suspect, Otterton, is recorded confessing to tax evasion. The police catch up to him and think they have him, when he banishes. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:35:05.320Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is the main character a male or female?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:35:15.762Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The officer is female while the suspect is male.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:35:54.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is the ending given away?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:36:39.064Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, the adventure continues with the officer finding an underground prison that the wolves keep people in. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:37:57.775Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Would you like to hear the ending?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:38:09.369Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes please", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:38:22.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Spoiler Alert: Judy, the officer, solves the case while finding the con man being held by the wolves.  Judy and the con man become friends as escape from the prison. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:39:41.993Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That sounds like a happy ending", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:40:20.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "However, in a press confrence her comments cause tension between wolf a prey so she is forced to quit! I guess the was not the ending and the saga continues.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:41:07.622Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh i see.  It is a plot twist!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:41:38.642Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I would be interested in seeing this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:42:48.736Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Judy and the otter, find a drug making Ram who is stealing tulips to source the drug", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:43:06.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "This movie is pretty intense and they throw in comedy along the way!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:43:45.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Having the characters as animals makes the movie sound like a movie for kids, but it sounds like it involves drugs and abductions!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:45:39.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think we are actually at the end now, and there is a twist. Should I hold off on saying it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:45:58.521Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Go ahead!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:46:07.637Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The Mayor, Bellwether, was behind most of the crimes that occured! Judy tapes him confessing it to her, while he tries to pin everything on her", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:47:54.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The police department ends up arresting the mayor. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:48:16.796Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow it sounds like a big conspiracy!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:48:32.182Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree, seems like a lot for a kids movie. Seems like a very interesting movie overall!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:48:49.832Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I agree!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:49:15.542Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T20:26:25.474Z", 
+  "uid1LogOutTime": "2018-02-13T20:49:17.872Z", 
+  "uid1response": {
+    "feedback": "The other user explains the main plot points of the movie to make it sound dramatic and fun and intense and that sounds like a movie I would watch.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:26:25.478Z", 
+  "uid2LogOutTime": "2018-02-13T20:49:30.484Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2933", 
+  "user2_id": "USR4785", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

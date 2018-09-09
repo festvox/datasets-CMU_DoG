@@ -1,0 +1,63 @@
+{
+  "date": "2018-03-02T19:52:43.595Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:52:52.428Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:53:06.783Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the title of the film ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:53:11.030Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Social Network", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:53:17.867Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sorry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-02T19:53:47.818Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I never saw but I intend to see it, it is on my Netflix list", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-02T19:53:55.653Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-02T19:52:43.595Z", 
+  "uid1LogOutTime": "2018-03-02T19:54:14.616Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-02T19:52:43.648Z", 
+  "uid2LogOutTime": "2018-03-02T19:53:51.769Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1955", 
+  "user2_id": "USR3637", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

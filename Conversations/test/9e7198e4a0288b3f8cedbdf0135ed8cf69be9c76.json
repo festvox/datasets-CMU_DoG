@@ -1,0 +1,61 @@
+{
+  "date": "2018-02-13T20:34:20.097Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, are you there? I am anxious to learn about the movie you saw", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:37:24.091Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a Disney movie that came out in 2013 about 2 sisters.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:38:36.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, my gilrfriend's daughter should enjoy that. Would you recommend it for a 12 year old girl?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:39:25.652Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its a story of a fearless princess who sets off on a journey alongside a rugged iceman, his pet reindeer and a snowman to find her sister who has icy powers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:39:28.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:39:37.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds like a fun fantasy adventure. how long is the movie? you know how kids can be attention wise", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:40:15.398Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-13T20:34:20.097Z", 
+  "uid1LogOutTime": "2018-02-13T20:42:12.122Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:34:20.132Z", 
+  "uid2LogOutTime": "2018-02-13T20:43:48.049Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR1033", 
+  "user2_id": "USR3012", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

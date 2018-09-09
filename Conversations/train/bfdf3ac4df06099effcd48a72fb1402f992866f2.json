@@ -1,0 +1,57 @@
+{
+  "date": "2018-02-16T00:16:22.288Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:17:39.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T00:17:54.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "La La Land may look like the world that we dream about, but it also understands the\ncruelty that can come out of (or undermine) those dreams; it's shot in CinemaScope, and\nyet it's still an intimate masterpiece.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:19:32.617Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": " Do you agree with the rating of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:21:19.586Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\u25cf Rotten Tomatoes: 92% and average: 8.6/10\n\n\u25cf Metacritics: 93/100\n\u25cf IMDB: 8.1/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:21:30.844Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i think the IMDB One it's a bit underrated compared with the others", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T00:21:57.521Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-16T00:16:22.288Z", 
+  "uid2LogInTime": "2018-02-16T00:16:22.293Z", 
+  "uid2LogOutTime": "2018-02-16T00:26:58.948Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4508", 
+  "user2_id": "USR959", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

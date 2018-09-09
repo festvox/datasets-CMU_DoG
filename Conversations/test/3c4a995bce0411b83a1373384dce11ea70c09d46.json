@@ -1,0 +1,225 @@
+{
+  "date": "2018-02-08T21:55:00.168Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:55:12.176Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:55:29.427Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:55:46.356Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:55:57.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i see all ctions movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:10.245Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie in particular?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:56:22.557Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:38.039Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think you're the one with the movie info because I don't have any...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:56:39.452Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "iron man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:42.149Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wonder woman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:56:50.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Which one in particular do you like the best?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:57:04.792Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the avengers", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:57:19.150Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:57:24.283Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who starred in that movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:57:34.101Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i dont know", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:57:57.764Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What about the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:58:49.254Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what is your favourite movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T21:58:54.720Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am supposed to ask you about the movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:59:20.030Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you tell me what year it came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T21:59:27.124Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "the director name is \njoss whedon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:00:40.701Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, okay. I think I've heard of Joss.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:00:57.209Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:01:11.114Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Were the reviews good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:01:46.850Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the movie realesed 2012 april", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:02:23.962Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, wow. That was a while ago.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:02:52.932Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did the movie get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:04:05.834Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:05:40.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "action is good ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:08:25.250Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What did the reviews say?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:08:40.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i thinkis good movie and fit scenes is good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:09:21.599Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who starred in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-08T22:10:37.698Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Robert downey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-08T22:13:24.770Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-08T21:55:00.168Z", 
+  "uid1LogOutTime": "2018-02-08T22:13:48.833Z", 
+  "uid1response": {
+    "feedback": "My partner did not participate as much as I would have preferred. I could not understand my partner's responses as much as I would have preferred.", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-08T21:55:00.358Z", 
+  "uid2LogOutTime": "2018-02-08T22:13:52.179Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR857", 
+  "user2_id": "USR1984", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

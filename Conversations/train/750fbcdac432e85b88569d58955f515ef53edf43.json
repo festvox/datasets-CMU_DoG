@@ -1,0 +1,222 @@
+{
+  "date": "2018-03-19T18:04:24.777Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:04:54.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:04:54.709Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am interested in watching a movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:05:19.650Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how about Toy Story?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:05:27.343Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sure, anything interesting about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:05:48.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's an animated movie starring Tom Hanks and Tim Allen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:06:19.052Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it an old movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:06:31.013Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From 1997, so sort of", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:06:39.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:06:43.526Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "1995*", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:06:47.948Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "23 years ago!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:07:07.884Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I feel old now", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:07:14.219Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, I know", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:07:20.109Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Apparently it has a perfect Rotten Tomatoes score", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:07:38.189Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you know how long the movie is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:07:40.987Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't but I think it's around 90-100 minutes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:08:21.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I probably need to just buy the digital version, I lost the original a long time ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:08:25.270Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's a good movie to have in a collection, I think", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:09:10.653Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A perfect score, wow, bet not many movies could say that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:09:22.964Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Many movies that come out today seem like fails", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:09:43.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It can be a great family movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:10:56.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think that Pixar often succeeds in these things by bringing in very nuanced emotions, like the fear of being replaced as someone's most loved person (or toy in this case\n)", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:11:12.926Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It has been so long since I watched it, I don't remember the storey line", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:12:06.501Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Andy, the little boy, gets a new Buzz Lightyear, voiced by Tim Allen and Woody, the cowboy toy played by Tom Hanks, is jealous because he's Andy's favorite toy", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:13:06.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, I love Time Allen and Tom Hanks, both great voices.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:13:35.727Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, and the movie also features Don Rickles and Wallace Shawn who have very unique voices", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:14:09.197Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Who does Don Rickles play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:24.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He's Mr. Potato Head", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:14:33.138Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I never knew that", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:41.392Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks for all the info, learned something new today", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T18:14:56.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No problem!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T18:15:08.322Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T18:04:24.777Z", 
+  "uid1LogOutTime": "2018-03-19T18:15:12.054Z", 
+  "uid1response": {
+    "feedback": "It was hard not to include information from outside the document when talking about a movie I know things about", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T18:04:24.799Z", 
+  "uid2LogOutTime": "2018-03-19T18:15:18.813Z", 
+  "uid2response": {
+    "feedback": "It has been more than a decade since I have seen that movie, what a great treasure to rediscover for my young kids.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3846", 
+  "user2_id": "USR1215", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

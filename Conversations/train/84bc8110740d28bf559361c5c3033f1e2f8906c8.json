@@ -1,0 +1,262 @@
+{
+  "date": "2018-02-28T18:00:20.512Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:27.412Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:29.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen this movie before ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:00:43.647Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you reading about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:48.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:00:53.741Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah the movie is called How to train your dragon", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:11.928Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not heard about that movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:23.366Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:28.635Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same here ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:01:30.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it a mid evil type movie\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:49.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Something like Lord of the Rings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:01:57.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the description says its about battles between tamed dragons and evil dragons. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:10.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "seems kind of mid evil ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:17.650Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow that sounds intense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:22.566Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it animated or live action?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:28.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Cinemascore ranked it A i might watch it sometime ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:32.186Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "with special effects?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:33.696Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "live action ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:02:36.660Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Any big stars in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:02:46.613Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Chris sanders , dean debios , gerard butler ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:23.476Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:29.425Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i dont know any of them though", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:29.486Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "How long is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:03:36.953Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No time frame on the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:03:55.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "looks like it came out in 2010", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:04:11.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any additional information about the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:14.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "2010...that was a while back now", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:20.174Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does it say anything about the music or sound track?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:04:44.118Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "reading about the key scenes now ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:00.823Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:05:12.597Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Back at the village, Hiccup subdues a captive dragon in his final training test in front of his\nfather instead of killing it, but Stoick inadvertently angers the dragon into attacking.\nToothless attempts to protect Hiccup in the ensuing panic but is instead captured by the\nVikings. Hiccup accidentally reveals to Stoick that Toothless is capable of locating the\ndragons' nest. Stoick disowns his son and sets off for the nest with Toothless chained to the\nlead ship as a guide.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:05:32.961Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow, that sounds intense", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:05.220Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Might be interesting to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:09.329Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe I'll have to check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:16.524Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well thank you for the information", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:20.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-28T18:06:24.644Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah it sounds pretty good i love mid evil type movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:27.708Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a good day !", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-28T18:06:34.699Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-28T18:00:20.512Z", 
+  "uid1LogOutTime": "2018-02-28T18:06:26.321Z", 
+  "uid1response": {
+    "feedback": "Movie seemed interesting at first, but then I thought more about it and realized I don't like fantasy movies", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-28T18:00:20.522Z", 
+  "uid2LogOutTime": "2018-02-28T18:06:36.112Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4905", 
+  "user2_id": "USR1895", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "date": "2018-03-21T21:29:24.836Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:29:38.095Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "how are you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:29:40.795Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "im talkin whit you about this movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:29:51.185Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:29:54.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi, fine :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:30:07.829Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like films about superheroes? :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:30:37.819Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:30:59.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like classic movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:31:16.754Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Iron Man is based on the Marvel Comics, did you read it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:32:04.038Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not sure if Iron Man belongs to the group of 'classic movies' :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:32:45.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you watch any other film directed by Jon Favreau?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:33:18.415Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This is a marvel superhero movie, if it is. I think I've seen it before.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:34:19.980Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "this was his first delivery", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:34:45.921Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "info from the critics 'a slighty depressed'... what do you think about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:35:23.018Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "apparently it was a very low criticism but it responded to the expectations of the followers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:37:12.143Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Being directed by Jon Favreau, he was very successful with\nthe group of Stan Lee, Hawk Ostby, Art Marcum and Matt Holloway.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:38:04.285Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Movies belong to the genre SuperHero can be produced only in Hollywood probably...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:40:59.520Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the majority was from that city", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:41:26.352Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The plot is based around Tony Stark, an entrepreneur and engineer, who builds a motorized exoskeleton and becomes a technologically advanced superhero.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:42:02.785Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Tony Stark \"Genius, billionaire who has inherited the defense contractor from his father'... It couldn't happen in other part of the world :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:42:14.960Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "On the other hand, the question is, why such movies are produced only in the USA...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:43:21.689Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have to watch this film one again...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:43:57.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's 2008", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:45:07.528Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think that it is the most technologically advanced country in the world of superheroes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:45:44.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what do you think in general about this film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:47:04.416Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is a movie that had a lot of success and acceptance, it has great special effects and good argument.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:48:58.057Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": " Do you like movies of SuperHeroes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:49:18.407Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "if I really like", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:49:52.296Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " Do you generally watch movies with a lot of special effects?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:50:22.577Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "almost all have it\nespecially of wars or super heroes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:51:20.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": " I liked this scene on the top of the Stark Industries building", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:52:41.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably because I have a little fear of heights", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:53:52.574Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "then you suffer a little vertigo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:54:35.366Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you generally watch movies with good ratings or do you prefer to give a chance to have your own view about movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:55:15.035Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and it's the reason why I usually do not fight on the top of the buildings :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:56:56.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I prefer to have my own qualification, sometimes I do not like the recommended movies and other times I like unpopular movies but they end up being great.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:57:29.169Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you work in mturk", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:57:55.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "from time to time ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:58:38.497Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "for a moment I thought that this a robot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:59:09.892Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "it difficult to check :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:59:22.224Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i understand", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:59:58.215Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but moving to our topic...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:00:35.765Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "In general this movie began in 1990 with Universal Pictures, Paramount Pictures, and New Line Cinema before Marvel Studios reacquired the rights in 2005.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:01:04.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "interesting why in such films bad people are killed at the end... :)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:02:37.608Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and Stane with his armor fell into the exploding reactor...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:03:07.481Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "probably we can finish our conversation...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:03:51.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "maybe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:04:35.760Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "all full", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:04:39.897Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Marvel put the project into production as its first self-financed film, with 20th Century Fox as its distributor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:05:27.937Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thank you for conversation...", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:06:26.356Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T22:06:35.041Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "than to you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T22:06:38.529Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-21T21:29:24.836Z", 
+  "uid1LogOutTime": "2018-03-21T22:06:41.951Z", 
+  "uid1response": {
+    "feedback": "was excellent", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T21:29:24.878Z", 
+  "uid2LogOutTime": "2018-03-21T22:06:36.633Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR166", 
+  "user2_id": "USR631", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

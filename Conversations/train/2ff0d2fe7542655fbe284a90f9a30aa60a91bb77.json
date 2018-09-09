@@ -1,0 +1,276 @@
+{
+  "date": "2018-03-27T17:09:40.230Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:09:52.094Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:10:32.401Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:10:36.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine, thank you and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:10:50.213Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine as well.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:10:55.992Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So have you seen the Great Gatsby!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:11:05.886Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:11:07.246Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "U\nnfortunately, I never get to see the entire movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:11:49.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Why is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:11:56.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but I love Leonardo DiCaprio's movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:12:06.059Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Didn\u2019t you want to or couldn\u2019t?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:12:10.086Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes! DiCaprio is a very talented actor.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:12:27.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I couldn't. and you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:12:28.578Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I have seen it and liked it moderately really.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:12:40.269Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It\u2019s a good filn, but it\u2019s definetely lacking some spirit.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:13:01.551Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what is it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:13:06.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mmmm really?? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:13:11.886Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It\u2019s a bout a millionaire who likes to have wild parties in his house, but he has a secret.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:14:11.486Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yeah, which parts have you seen already?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:14:22.054Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "From the film I mean", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:14:30.049Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Just the beggining but never get all the idea", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:15:23.545Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Okay", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:15:29.215Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, I guess you definetely have to see more than that to get a general guess about what the plot will be about.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:16:04.442Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I knew it was from a novel ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:16:09.309Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It is", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:16:13.411Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Children in almost every high school has to read it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:16:25.517Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn\u2019t thiugh. You?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:16:32.522Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I didn't. I barely remember the mandatory novels to read.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:17:30.465Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Haha,  yeah. I never really read any.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:17:55.742Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So, would you be interested in watching the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:18:05.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hehe, so can you tell me the end..or the secret Gatsby had.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:18:11.581Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Gatsby was in love with a married woman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:18:29.562Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "haha, yes. My friends always want to see that movie with me.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:19:16.140Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That\u2019s basically it. He was having the parties so she\u2019d come and leave her husband for him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:19:21.312Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohh I see. Not only a party-drama movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:19:45.991Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean, you should see it, but it\u2019s not life changing. It\u2019s just entertaining.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:19:51.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "who was the director?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:20:08.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess it\u2019s very lighthearted at first, but then it turns dark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:20:16.186Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ohh okay", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-27T17:20:18.700Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay. Great chat!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-27T17:20:22.078Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-27T17:09:40.231Z", 
+  "uid1LogOutTime": "2018-03-27T17:20:23.486Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-27T17:09:41.281Z", 
+  "uid2LogOutTime": "2018-03-27T17:20:39.453Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR773", 
+  "user2_id": "USR3836", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

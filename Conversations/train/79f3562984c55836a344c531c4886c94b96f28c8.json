@@ -1,0 +1,72 @@
+{
+  "date": "2018-02-12T19:37:12.532Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:37.549Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:38:12.471Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So the document I have is a synopsis about the movie, John Wick, have you seen that movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:38:46.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Keanu Reeves as the main character.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:39:37.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Action packed, shoot em up, murder, revenge, that kind of thing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:40:17.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I have not seen this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:59:53.344Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Keanu Reeves. How was the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T20:01:13.430Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:37:12.532Z", 
+  "uid1LogOutTime": "2018-02-12T19:43:48.906Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:37:12.593Z", 
+  "uid2LogOutTime": "2018-02-12T20:04:07.967Z", 
+  "uid2response": {
+    "feedback": "The other person stated that the movie was great very action packed and I love  action movies.", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR888", 
+  "user2_id": "USR3015", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2018-02-02T19:54:55.986Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, you should definitely check out Ryan Gosling & Emma Stone's Musical Romance movie La La Land.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:56:40.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:22.841Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:47.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T19:57:50.615Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about the celebration of love and music, I loved it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:01.219Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has 92% Rotten Tomatoes rating", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:13.518Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And an IMDB rating of 8.1, which is really good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:58:42.181Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ryan Gosling plays a Jazz pianist and Emma stone plays an aspiring actress.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T19:59:59.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is critically acclaimed by various critics. what do you think about the critics?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:01:42.226Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-02T19:54:55.986Z", 
+  "uid1LogOutTime": "2018-02-02T19:58:34.957Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-02T19:54:56.168Z", 
+  "uid2LogOutTime": "2018-02-02T20:03:35.927Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR4384", 
+  "user2_id": "USR1722", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

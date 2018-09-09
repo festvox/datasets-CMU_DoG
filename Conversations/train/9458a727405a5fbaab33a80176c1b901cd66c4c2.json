@@ -1,0 +1,361 @@
+{
+  "date": "2018-03-19T22:46:03.838Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:46:34.701Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi there!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:47:00.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How's your day going so far?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:47:25.536Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Fine, thanks. Yourself?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:47:49.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Pretty good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:48:02.502Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have chosen the movie \"Home Alone\". have you watched it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:48:34.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven't. Could you please tell me more \nabout it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:49:45.547Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. It's an american comdey movie about a teenage boy who is left alone at home by accident over christmas holiday", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:50:49.307Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Can you tell me what is funny about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:52:05.199Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so two thieves try to break in and steal from the house but the teenage boy, Kevin, tries to scare them off.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:53:25.174Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is this a movie for young kids or general audience? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:54:35.019Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think it's suitable for both", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:55:44.038Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it is a family movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:56:01.376Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Any famous actors?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:56:40.550Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "so the role of the teenage boy, kevin, is played by Macaulay  Culkin", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:57:28.117Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh sure, I remember him. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:57:49.024Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds like an interesting movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:57:53.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "and the two thieves are played by Joe Pesci and Daniel Stem", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:57:53.087Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know Joe Pesci as well. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:58:10.073Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember him in a Lethal Weapon movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:58:19.321Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know when Home Alone was made?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T22:58:25.577Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh I see.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:58:31.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes, it was made in 1990", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T22:58:41.867Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds like a fun family-friendly movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:00:23.285Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes! specially for movie nights for Christmas holidays", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:01:00.706Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay great, I might check it out!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:01:40.463Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "You might know the director. It was directed by Chris columbus.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:01:50.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Actually I do know of him.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:02:42.539Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He did some of the Harry Potter films", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:02:46.780Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh nice!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:02:49.968Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which ones?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:02:55.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Harry Potter and the Sorcerer's Stone and Harry Potter and the Chamber of Secrets", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:03:32.891Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe they are the first two in the series.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:03:39.740Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes! I've seen those two", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:04:11.339Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "\ns", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:04:56.468Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "in the home alone movie, kevin sets a lot of booby traps to deceive the thieves", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:05:19.903Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which I believe makes it a lot funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:05:45.894Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but he never tells his parents about the traps and the story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:06:09.261Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and still gets called out by his brother about messing his room", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:06:28.926Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh sure, it sounds like a funny situation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:07:03.921Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anything specific you remember from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:07:10.817Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well, at the beginning Kevin wishes that his family leave him alone because he had a fight with his brother", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:08:07.929Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "but at the end, he seems very happy to get reunited with them", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:08:51.033Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which gives a heart-warming feeling", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:09:06.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So let me ask you a question when you want to watch a movie, how important is the rating to you? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:09:59.245Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's pretty important. I don't like to watch bad movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:10:19.087Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Home Alone has a 62% score on Rotten Tomatoes. Would you choose it to watch?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:11:14.374Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It seems to have a decent enough rating for a fun movie. I think I would choose to watch it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:12:38.365Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That's good!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:12:56.162Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you have anymore questions from me?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:13:06.447Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No I think that's enough information. Thanks for the recommendation.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:13:52.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:14:06.161Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "have a great day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-19T23:14:10.310Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks! you too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-19T23:14:35.591Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-19T22:46:03.838Z", 
+  "uid1LogOutTime": "2018-03-19T23:15:51.597Z", 
+  "uid1response": {
+    "feedback": "I was given a lot of information about the movie and told it's Rottentomato score which proves to me that it is a decent fun family-friendly movie.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-19T22:46:03.859Z", 
+  "uid2LogOutTime": "2018-03-19T23:14:46.523Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR78", 
+  "user2_id": "USR310", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

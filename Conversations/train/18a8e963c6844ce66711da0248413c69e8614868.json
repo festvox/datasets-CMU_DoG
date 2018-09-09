@@ -1,0 +1,229 @@
+{
+  "date": "2018-02-16T01:53:38.630Z", 
+  "docLinkIdx": 3, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI! What is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:53:59.721Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, the name of the movie is La La Land", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:54:11.876Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:54:22.703Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a jazz pianist and an aspiring actress who meet and fall in love", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:54:57.771Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "that sounds cute. what genre is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:55:42.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "they are both living in Los Angeles pursuing their dreams", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:55:51.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it is a romantic comedy-drama", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:56:00.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:56:54.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "the movie stars Ryan Gosling and Emma Stone", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:57:10.964Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh I like them. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:57:44.274Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What type of rating did it get?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:57:55.680Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, they are both good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:58:00.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie got a 92% rating, so pretty good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:58:15.269Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh thats pretty good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:59:10.793Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the average user rated it 8/10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T01:59:15.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So what is the movie actually about? What makies it so good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T01:59:27.290Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think that it is easy to relate to. it looks like the world we dream about but also points out the reality and the harshness of the world\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:01:15.025Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well that sounds interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:02:03.511Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "ARe there any good reviews about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:02:23.473Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, one review mentioned that it was \"the year's most seriously pleasurable entertainment.\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:03:29.573Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Who is the director?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:04:29.175Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the film was directed by Damien Chazelle", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:04:56.297Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else happens in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:06:52.620Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The musician joins a band and they go on tour. The two main characters get in a fight where she accuses him of abandoning his dreams. She leaves feeling insulted, frustrated. He ends up missing her play due to band photo shoot that he had forgotten about. The play is bad and hardly anyone attends. He attempts to apologize for missing the play but she is unwilling to forgive him and terminates their relationship and she moves back to her hometown.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:10:42.364Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "man, that doesn't sound so romantic!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:12:19.532Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i can definitely see the drama part. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:12:28.002Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there good music in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:12:39.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "parts romantic, parts dramatic", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:13:11.391Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes, there is. jazz music. he plays the piano", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:13:40.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I do enjoy piano.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:14:56.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Any singing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-16T02:15:00.094Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes there is", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-16T02:16:28.330Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-16T01:53:38.630Z", 
+  "uid1LogOutTime": "2018-02-16T02:17:52.499Z", 
+  "uid1response": {
+    "feedback": "The other user was helpful with the description. I would have liked some more info tho. ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-16T01:53:38.889Z", 
+  "uid2LogOutTime": "2018-02-16T02:18:15.047Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4553", 
+  "user2_id": "USR3555", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

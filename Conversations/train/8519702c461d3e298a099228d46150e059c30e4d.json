@@ -1,0 +1,269 @@
+{
+  "date": "2018-03-22T22:46:21.503Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello User 2! What's your movie's name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:46:55.782Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi.  Do you like movies about business?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:47:00.240Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes, it really depends, what's it about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:47:11.174Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's the Wolf of Wall Street.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:47:14.169Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh wow, I've heard a lot of good things about that one. What's the actor", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:47:28.127Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "'s name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:47:31.831Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It stars Leonardo DiCaprio as Jordan Belfort", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:47:44.232Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's a usually a good one. What kind of role does he play? Should I be ready more for an action role of his or something else?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:48:26.880Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's more of a black comedy from Belfort's perspective.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:48:53.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He was involved in rampant corruption and fraud.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:49:13.648Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I take it that's a commentary on the US's economy or something then?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:49:29.058Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, not really.  It's about his lifestyle and his craziness.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:50:25.299Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's a different direction than I expected. Do you know anything about the kinds of reception the movie's gotten?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:50:45.412Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He liked to party a lot according to the critics.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:50:45.547Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "78% Rotten Tomatoes and average 7.8/10", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:51:23.251Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "MetaCritic Score 75/100", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:51:32.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "CinemaScore: C", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:51:40.723Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's mostly consistent, so it sounds like I'll like the movie, but it won't rock my socks off.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:52:30.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Who directed it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:52:36.208Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A guy named Mark Hannah turned him on to the sex and drugs Wall Street lifestyle.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:52:39.689Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What else is the movie about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:53:15.969Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That's about it, it's an over the top movie that some critics claimed is \"epic in size, claustrophobically narrow in scope\".", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:54:03.265Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "\"Irresponsible glorification\" of the crazy lifestyle and corruption, also.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:54:40.692Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Eesh, that's a pretty harsh criticism. I'm guessing this wouldn't be a family friendly film I could take my kids to then", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:54:47.107Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "No, not at all.  Lots of prostitutes and drugs.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:55:23.778Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Are there any other noteworthy names in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:56:04.982Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "They launched an IPO, to their credit.  They had a big company.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:56:13.317Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes.  Jonah Hill, Margot Robbie, Matthew McConaughey.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:56:51.291Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Huh, I didn't think Jonah Hill would be in this kind of movie. Are there any kinds of politics in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:57:23.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No.  Jonah Hill is his business partner, friend and partner in crime.  He's wild.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:58:17.452Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What kind of people do you think would like this kind of movie? I'm usually into more wholesome films and this reminds me of a serious version of \"The Hangover\" almost", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T22:59:20.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, this is like the Hangover.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T22:59:56.795Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's not necessariy more serious than the Hangover.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T23:01:00.292Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What parts of the movie would you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T23:01:06.702Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I saw the whole thing, and it was all crazy, but I guess it was all good.  That said, it was long and once you saw it once it is hard to watch it again for me.  I could watch it again with someone else though.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T23:02:50.958Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you know the exact movie length?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T23:03:21.922Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It doesn't say here, but I would estimate over 2 hours of debauchery overall.  It is a black comedy because it does show the consequences such as prison time unlike The Hangover.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T23:04:40.262Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a mind-numbing whirlwind of prostitutes and money to me. I'm wondering what kind of conflict they could make arise from that, other than, \"We got caught, now there's some kind of consequences\", and then one of the characters make some kind of artificial growth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T23:05:58.471Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess, that sounds about right.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T23:06:39.735Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-22T22:46:21.503Z", 
+  "uid1LogOutTime": "2018-03-22T23:06:53.685Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-22T22:46:21.538Z", 
+  "uid2LogOutTime": "2018-03-22T23:06:36.655Z", 
+  "uid2response": {
+    "feedback": "The conversation was a bit awkward. At some points, I don't know what more I could have even asked. This isn't a movie that I would generally enjoy and the description made me less likely to want to see it.", 
+    "response": [
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2122", 
+  "user2_id": "USR1390", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

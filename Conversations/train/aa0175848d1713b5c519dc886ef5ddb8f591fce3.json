@@ -1,0 +1,101 @@
+{
+  "date": "2018-02-13T18:42:33.976Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:43:54.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:44:01.078Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen the avengers?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:44:09.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:44:18.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you enjoy? Would you recommend it to someone?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:44:53.605Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, I liked it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:45:19.055Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would recommend to others", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:45:47.570Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's got a lot of good actors in. Mark Ruffalo is my favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:45:58.267Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like him too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:46:29.015Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I really like the banter between him and Iron Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T18:47:13.357Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "who else is in it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:48:19.529Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "that you like", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T18:51:39.801Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-13T18:42:33.976Z", 
+  "uid1LogOutTime": "2018-02-13T18:52:00.802Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-13T18:42:34.572Z", 
+  "uid2LogOutTime": "2018-02-13T18:52:01.802Z", 
+  "uid2response": {
+    "feedback": "We had both seen the movie.", 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2589", 
+  "user2_id": "USR3204", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

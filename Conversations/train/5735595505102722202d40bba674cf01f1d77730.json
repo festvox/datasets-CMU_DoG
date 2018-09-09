@@ -1,0 +1,51 @@
+{
+  "date": "2018-03-16T22:32:19.301Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T22:34:09.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You there? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T22:34:18.269Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Batman Vs Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:37:25.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is Batman Vs Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T22:37:27.845Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T22:32:19.301Z", 
+  "uid1LogOutTime": "2018-03-16T22:48:44.029Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T22:32:19.323Z", 
+  "uid2LogOutTime": "2018-03-16T22:39:33.156Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR2987", 
+  "user2_id": "USR3063", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

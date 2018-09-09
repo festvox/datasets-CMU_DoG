@@ -1,0 +1,86 @@
+{
+  "date": "2018-03-07T16:54:15.633Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "I really liked this movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:54:54.321Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, me too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:55:03.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "But it got a very low rating in Roten Tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:55:48.766Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh really? I thought it was pretty popular with everyone", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:56:09.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's suprising.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:56:14.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Maybe some movie critic doesn't like this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:57:09.075Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I think Jim Carrey was really good in it. He isn't in that many movies lately.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T16:57:31.573Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It got only 48% in rotten tomatoes.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:57:37.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah, he is so funny in this movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T16:58:06.898Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T16:54:15.633Z", 
+  "uid1LogOutTime": "2018-03-07T16:58:46.712Z", 
+  "uid1response": {
+    "response": [
+      1
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-03-07T16:54:16.053Z", 
+  "uid2LogOutTime": "2018-03-07T16:58:59.041Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2299", 
+  "user2_id": "USR4031", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

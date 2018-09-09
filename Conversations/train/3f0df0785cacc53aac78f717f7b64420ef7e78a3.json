@@ -1,0 +1,102 @@
+{
+  "date": "2018-02-14T01:48:03.666Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What do you think of froze", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:49:04.699Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:49:45.913Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't watch that movie but Wonder Woman was a great movie made by Patty Jenkins", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:49:48.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah i love that movie too .it was a great one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:50:41.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I generally liked comic book movies and I really liked that this one was like a war movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:51:16.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:51:50.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love funny movie that make me laugh alot ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:52:23.696Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Funny movies entertain and so did this one. That is for sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T01:53:26.990Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So how old are you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:53:42.785Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:54:28.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:54:43.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What about wonder woman you like?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T01:57:17.557Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T01:48:03.666Z", 
+  "uid1LogOutTime": "2018-02-14T01:53:50.419Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-14T01:48:03.730Z", 
+  "uid2LogOutTime": "2018-02-14T01:59:48.380Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1951", 
+  "user2_id": "USR3112", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

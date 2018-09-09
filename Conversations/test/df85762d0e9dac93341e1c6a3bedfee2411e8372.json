@@ -1,0 +1,62 @@
+{
+  "date": "2018-03-16T17:15:20.937Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi, Have you ever seen Batmanv Superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:15:56.439Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have. It wasn't the best movie in my opinion. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:38.079Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you think of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:17:50.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever had a chance to see Batman v superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:52.987Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you ever had a chance to see Batman v superman?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-16T17:17:57.898Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think about the movie Batman v Superman?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-16T17:21:43.568Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-16T17:15:20.937Z", 
+  "uid1LogOutTime": "2018-03-16T17:18:19.910Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-16T17:15:20.969Z", 
+  "uid2LogOutTime": "2018-03-16T17:22:52.887Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2234", 
+  "user2_id": "USR4413", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

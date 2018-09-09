@@ -1,0 +1,238 @@
+{
+  "date": "2018-03-06T17:12:19.341Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:12:38.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi what movie are we reviewing today ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:12:42.935Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like biographical crime dramas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:12:55.793Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes they are very interesting ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:13:11.836Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Catch Me if you Can?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:13:17.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No I haven\u2019t seen that one yet? Who is in it ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:13:46.005Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Leonardo diCaprio, Tom Hanks, Christopher Walken, Amy Adams", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:14:19.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's directed by Stephen Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:14:28.638Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ohh that\u2019s a big cast !! What\u2019s it about ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:14:32.527Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Stephan Spielberg !!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:14:42.966Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ET was a great movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:15:02.198Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's about a 18 year old kid who creates different identities and perfroms check fraud.  He was at one time on FBI's most wanted list.  Now he helps the FBI catch criminals.  It's a cool story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:15:45.057Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think he comes up with some treat ideas ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:15:54.542Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well, this is based on a real person", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:16:05.000Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh how Interesting ! Who does Leo play ? he is a good actor !! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:16:45.853Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He faked being a pilot, a doctor, and a lawyer among other things.  It's pretty crazy.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:16:48.004Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Leo plays the lead", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:16:55.162Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hanks plays the FBI agent chasing him", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:17:05.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Wow I am surprised I didn\u2019t see this one sooner ! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:17:09.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And Walken plays Leo's dad", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:17:19.113Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ohh Tom Hanks he is fun !! I like him as well !! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:17:26.159Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It came out in 2002", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:17:29.665Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Walken is a great actor ! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:17:40.228Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I think so too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:17:46.371Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was a while ago ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:18:09.807Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Probably why I missed it !! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:18:18.812Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is it a family friendly movie ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:18:35.906Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it's one of Leo's best performances in my opinion", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:18:52.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Leo had many abilities to play different characters so he is probably great in this !! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:19:33.573Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wi see if Netflix has this on ?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:19:50.996Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah.  It might.  It's regulalry on cable networks, too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:20:11.029Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh I will have to check that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:20:46.433Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, I think you'd enjoy it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T17:21:16.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Does this film come across as violent ? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T17:21:27.926Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T17:12:19.341Z", 
+  "uid1LogOutTime": "2018-03-06T17:23:03.683Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T17:12:19.443Z", 
+  "uid2LogOutTime": "2018-03-06T17:21:31.793Z", 
+  "uid2response": {
+    "feedback": "Excited to see this one since I missed it got some good information from the other person ! Thanks !", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2618", 
+  "user2_id": "USR517", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

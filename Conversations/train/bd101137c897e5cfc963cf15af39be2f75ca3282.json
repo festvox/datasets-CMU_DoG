@@ -1,0 +1,93 @@
+{
+  "date": "2018-02-20T06:40:19.618Z", 
+  "docLinkIdx": 13, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:40:50.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Batman Vs Superman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T06:40:56.773Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've never seen it. Can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:41:08.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the plot?/", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:41:53.324Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Of course, Its a Superhero movie directed by Zack Snyder, Staring Ben Affleck and Henry Cavill. Its set in the DC universe and is the second installment in their attempt to make a joint universe. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T06:42:23.732Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The plot follows the two main characters as they attempt to sort out their different views on the man of steel himself. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T06:43:13.738Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should really see it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T06:47:00.679Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds really interesting. I've seen most of the Superhero movies but not Batman Vs Superman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:52:21.760Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like Superhero movies. I love all the action.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:53:09.506Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My favorites would have to be the Ironman movies or the Avengers movies.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T06:54:19.846Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T06:40:19.618Z", 
+  "uid1LogOutTime": "2018-02-20T06:54:40.516Z", 
+  "uid1response": {
+    "feedback": "They answered all my questions and it seems interesting. I will be seeing it soon.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-20T06:40:19.619Z", 
+  "uid2LogOutTime": "2018-02-20T06:48:23.388Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3188", 
+  "user2_id": "USR4454", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2017-12-01T13:11:25.876Z", 
+  "docLinkIdx": 9, 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "is someone here?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:11:41.051Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:11:55.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is the name of the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:12:07.589Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Dunkirk", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:12:15.045Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "can you tell about the movie genere", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:12:31.982Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not seen it yet", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:12:34.859Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:12:38.402Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "no,no movie description is given to me", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:13:12.728Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name Dunkirk appears as a comedy or might be a thriller", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:14:09.858Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what is your opinion on the movie name?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:14:34.739Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "are you there?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:15:51.727Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "please have a conversation,we have to do it atleast 12 times ", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:16:49.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "please share some of the details on the movie plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:18:35.606Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "who were the actors in the play", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:19:09.288Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:19:33.948Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-01T13:11:25.876Z", 
+  "uid1LogOutTime": "2017-12-01T13:19:43.011Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2017-12-01T13:11:26.067Z", 
+  "uid2LogOutTime": "2017-12-01T13:19:49.691Z", 
+  "user1_id": "USR3795", 
+  "user2_id": "USR1420", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

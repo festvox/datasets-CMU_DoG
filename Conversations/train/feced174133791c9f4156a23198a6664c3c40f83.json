@@ -1,0 +1,268 @@
+{
+  "date": "2018-03-06T21:04:59.038Z", 
+  "docLinkIdx": 19, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:06:31.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so this movie is called catch me if you can", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:06:32.775Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh cool I have seen that movie. I liked it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:07:05.801Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeah, it seemed to get pretty good reviews on rotten tomatoes, and apparently steven spielberg directed it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:08:38.575Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't know Spielburg directed it. But it had Di Caprio in it doesnt it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:09:58.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Tom Hanks", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:10:35.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, leonardo dicaprio is the star. the rest of the cast is rounded out by other A-listers like tom hanks, christopher walken, and martin sheen", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:10:50.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Martin Sheen was in it? I didn't know. I loved Leonardo, Tom, and Christopher", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:11:30.462Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes, he had a supporting role. i forgot that dicaprio's character posed as a prosecutor as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:13:20.142Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought he was  genius. Was it based on a true story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:13:52.393Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes, it's considered a biographical crime film. and apparently he was able to pull off his cons before he even hit his 19th birthday", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:15:31.404Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Wow. Thats amazing. So he really did work for the FBI at the end of his prison term?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:16:10.205Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Helping them with check fraud?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:16:20.348Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he did. in fact, he was able to steal over $2.8 million from pan am by forging payroll checks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:17:22.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you know his mother was french? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:17:48.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I didn't. Did she live in America?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:18:05.173Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i'm not too sure, but she did have an affair with her husband's friend, jack. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:18:50.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh, noo, thats too bad. I saw she divorced her husband, and remarried, but didn't know it was to his friend Jack.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:19:37.664Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yep, and to make it worse, frank returns back to his mothers house after being released from prison and escaping the plane to find that she married jack, and he has a half-sister", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:21:13.437Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember that. He looked through the window and saw the little girl. And she was just a toddler, and she touched the window, but didn't say anything. His mother didn't know he was outside. Sad.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:22:22.691Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well luckily, after another bout in prison, carl was able to convince the FBI to bring frank on board because of his expertise in check fraud in exchange for reducing frank's sentence", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:24:49.466Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes, I thought that was clever. I am sure he was very helpful. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:25:31.360Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "He was so young to be so clever.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:26:27.163Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so much so that when frank tried to attempt to run off and pose as an airplane pilot again, carl talked him out of it. do you remember the part when carl was nervous that frank hadn't gotten to work yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:27:25.275Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i thought he was going to run off again ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:27:42.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, but I sort of knew he would come back, because if he didn't he would go back to prison", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:29:31.228Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And this time they would have caught him easily. Just warn the airlines, since they saw his face.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:30:12.890Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well luckily it all worked out for them, because frank wound up inventing\n unforgeable checks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:31:31.051Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ohh, now thats something I didn't know he did. I knew he worked for the FBI but didn't know he made unforgeable checks.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:32:37.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did he ever get married? I knew he had a girlfriend, but did he marry her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:33:26.287Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "apparently he earns millions of dollars each year off of it and has helped to catch forgers all over the globe", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:33:31.718Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "the credits at teh end of the movie said that he was happily married to his wife of 26 years and had 3 sons", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:33:58.609Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "not sure who he wound up marrying but the credits also revealed that he and carl remain close friends", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:35:09.542Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Really? I was not sure. I know he had to run away from Carl, so I didn't know if he went back to the girlfriend, (or wife) or what. It was a good movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:35:12.034Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "seems like his short crime stint wound up working out for him in the end", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:36:11.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, lol. He did what most career criminals only dream to. He turned his knowledge of forgery into an asset. I think burglars do it to. They work for security companies.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:37:28.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That was a good conversation", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:37:52.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i guess if you're so successful at knowing check fraud and the FBI needs your help, you can stand to make millions of dollars each year on the right side of the law haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-06T21:39:15.091Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "hahaha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-06T21:39:37.358Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-06T21:04:59.038Z", 
+  "uid1LogOutTime": "2018-03-06T21:40:17.773Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      2, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-06T21:04:59.092Z", 
+  "uid2LogOutTime": "2018-03-06T21:40:31.018Z", 
+  "uid2response": {
+    "feedback": "The movie sounds like a good one and I would love to go see it. It sounds like a classic, with Tom Hanks and Christopher, and Leonardo. Full of excitement and twists and turns.", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4421", 
+  "user2_id": "USR2281", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

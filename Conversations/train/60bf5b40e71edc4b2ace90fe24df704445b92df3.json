@@ -1,0 +1,457 @@
+{
+  "date": "2018-02-14T19:48:37.988Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:49:07.550Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:49:57.559Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you read about a movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:13.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I have just been going through the document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:50:31.998Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Keanu Reeves\n?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:50:42.011Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie is it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:42.516Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I do enjoy his movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:50:58.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is called John Wich, have you watched it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:22.716Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I have watched both of them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:51:37.305Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry, typo...John Wick :-)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:51:52.176Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "If you haven't watched them they are action movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:04.651Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "No, I haven't watched it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:52:28.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you have an aversion to violence?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:52:51.266Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I read is also a bit of a thriller", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:52:52.616Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no, I don't mind violence, as long as it is not splatter", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:53:12.910Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you enjoy this kind of movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:53:23.013Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "There is a bit of that, in my opinion those movies are over-the-top, but in a good way", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:53:47.931Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I do like them", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:54:05.598Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I read John Wick is an ex=hitman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:54:53.722Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "a bit of a criminal", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:55:03.691Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah he was retired until some gangsters stole his car and killed his dog, which was a gift from his recently deceased wife", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:55:44.360Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "did you say there have been more than one of the john wick movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:56:42.256Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There are two", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:56:54.939Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I really didn't start enjoying Keanu Reeves movies until his part in The Matrix. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:57:58.264Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I couldn't stand to watch those Bill & Ted movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T19:58:45.537Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I take in John Wick he has kind of steered in a different direction. Do you recall any particular scene of the movie you particularly enjoyed?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T19:59:29.956Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The majority of the movies are gun porn. There is a scene where these Russian gangsters are sent to his home to kill him, I remember the acrobatics and overall composition of this scene being quite memorable.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:01:26.535Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What about the scene where he fights with Viggo?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:02:10.497Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The final fight was okay, but I kind of had to suspend belief and just go along for the ride. I felt this way because the guy seemed so old to me that Wick should have been able to beat him easily. i guess this could be explained away by how much abuse he had already taken earlier.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:04:20.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "From all you say, and what I read, I don't understand why it has been rated only as a \"B\" by the critique. Do you know why this could be?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:06:01.977Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It's a campy film in my opinion, not meant to be taken too seriously. That's one of it's strong points in my opinion, but maybe that's not enough for the critic in question. Who was the reviewer?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:08:12.004Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I don't know exactly who is behind CinemaScore, but they gave a B to the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:09:18.919Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well a B isn't bad, especially for the type of movie it is.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:09:52.235Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was good enough for a sequel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:10:28.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is, it made enough money at the Box Office to warrant a sequel", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:10:52.439Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I suppose it must have made enough money to warrant the second movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:11:42.110Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I see also Wollem Dafoe was part of the casr", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:11:58.053Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "part of the cast", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:12:05.429Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which character did he play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:12:26.201Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He was another hitman, who was also friends with John Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:13:13.420Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I can see Dafoe as a hitman, suits him very well", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:13:35.616Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think his character was called Marcus", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:14:16.234Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If you were to give a score to the movie, what would you give it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:14:52.863Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Viggo killed him though, because he wouldn't kill Wick", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:14:54.614Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "On a scale of 5 stars, I personally would give it 4 stars, but of course that's subjective.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:15:55.357Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is good score. Not having watched it, I would probably tempted to watch it based on the information", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:17:47.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If you like John Woo type action flicks, then I recommend you check it out.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:18:18.180Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that the only movie were supposed to talk about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:01.692Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I suppose so, I only have info about this movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:19:31.205Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Too bad, I enjoy talking about movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:19:55.011Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I suppose there is only so much you can talk about a single movie, besides going through the whole story line", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:20:36.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did you have any other questions about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:20:50.288Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is there any particularly \"emotional\" scene in the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:21:07.073Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I mean, not for the action", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:21:24.724Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It may not seem that important, but when his dog dies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:21:40.338Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "How does the dog die?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:22:11.458Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There's also the moment when he recieves the dog and he flashes back to memories of his wife", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:19.099Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "When the russian guys break in his house the first time to steal his car, they kill the dog", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:22:59.363Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "And is there any scene where you feel like wanting to join John seeking revenge, or the movie keeps a sort of distance?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:24:54.585Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Not me personally, I'm always nothing more than a viewer of a film. I never get so wrapped up in a movie emotionally that I begin to feel what the person feels. I can relate, but it's not my story.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:26:57.723Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I wish I was so detached when watching movies. Probably I would have not felt emotionally involved with this movie either, \nbut there have been other movies where I just couldn't help.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:31:04.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm curious, you mentioned John's wife... what happened to her?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:31:39.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, everyone is different, it's not a good or bad thing, it's just the way we choose to absorb said form of entertainment.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:23.633Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Honestly I forgot, I think she had cancer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:32:38.665Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Is that part of John memories?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:33:19.077Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I only remember that shortly after her death he receives a puppy that his wife scheduled to be delivered after her passing to help him deal with the grief.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:34:43.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, although she is not an active character in the movie, she is the main motivation for him to seek revenge, isn't she?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:38:08.994Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I guess you could say that. I would be hard pressed to find the death of a puppy and the theft of a classic automobile as reason enough to go on a murderous rampage, but then again, I was never a hitman.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:39:57.960Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "While I would love to keep talking about this I think we have more than filled our quota of twelve responses, we've been at it for almost an hour. So I will say, it has been nice talking with you, and I hope you have a great day.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T20:43:15.704Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed, nice to talk to you, and you too have a great day. Bye", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T20:43:46.233Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-14T19:48:37.989Z", 
+  "uid1LogOutTime": "2018-02-14T20:43:53.946Z", 
+  "uid1response": {
+    "feedback": "I will at some point watch the movie John Wick again, but it won't be anytime soon.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-14T19:48:38.057Z", 
+  "uid2LogOutTime": "2018-02-14T20:44:00.387Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2961", 
+  "user2_id": "USR2563", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

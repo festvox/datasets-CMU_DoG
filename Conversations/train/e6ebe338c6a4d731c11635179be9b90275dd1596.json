@@ -1,0 +1,171 @@
+{
+  "date": "2018-03-20T18:39:44.670Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Have you ever seen the movie Toy Story?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:41:32.920Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:42:36.922Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is a great movie, about toys that come to life when people aren't present", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:42:52.499Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I remember it having alot of life lessons about friendship", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:43:20.674Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Exactly. I love how Woody and Buzz are rivals in the beginning and then turn out to be friends in the end", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:44:06.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what was the little kids name again?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:44:55.525Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Andy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:45:01.767Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "oh right, it was written on the bottom of their shoes right?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:46:06.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He sure did love them. I loved how real they acted", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:47:15.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:47:22.414Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what happened in the plot? did the toys get lost?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:49:04.261Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The family was preparing to move, so they had to have Andy's birthday party a week early", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:50:24.113Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's when he got Buzz as a birthday gift", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:50:51.657Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh and Buzz didnt realize he was a toy?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:52:50.875Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did  you like the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:53:21.631Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes! It was so funny!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:53:45.073Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Was it sad at all? Or just funny??", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:54:25.278Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I remember when Buzz was determined to prove he wasn't just a toy and jumps off the landing of the stairs, to show he can fly.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:54:37.470Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That was pretty sad to me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:55:24.599Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "was it a long movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T18:55:48.286Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I can't remember", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:56:04.631Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Can you believe it was released in 1995? I can't believe it was that long ago", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T18:57:11.453Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think I'm going to watch it again this week", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:02:02.417Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like animation movies?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T19:05:10.658Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-20T18:39:44.670Z", 
+  "uid1LogOutTime": "2018-03-20T20:24:59.692Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-20T18:39:44.884Z", 
+  "uid2LogOutTime": "2018-03-20T19:07:57.149Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR3543", 
+  "user2_id": "USR2402", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2018-02-12T19:09:18.222Z", 
+  "docLinkIdx": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "this movie sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:11:18.165Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I've seen that the movie was on Netflix and i think it was a great one.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:12:06.191Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i like dramas the reviews are good i have never seen it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:12:19.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a pretty good cast, and movie is fast paced, I highly recommend it if you get the chance to see it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:13:06.334Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "thanks i might check it out the cast looks good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:13:27.578Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "keira knightly is one of my favorite actors", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:15:06.046Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like her a lot too, she is a wonderful actress and paired with Benedict Cumberbatch makes for a great movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:15:57.047Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Y\nes sound like a must see movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:16:30.207Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The reviews that it got are definitely an accurate representation of it.\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:16:38.156Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great and its a historical drama which is very interesting to me!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:18:40.808Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I had no knowledge of Alan Turning before watching this actually ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:50.589Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't know him at all.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:21:09.307Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It gives a lot of history lessons in this movie as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:24.145Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I would like to learn about him after reading this. I like history.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:51.614Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It takes place during the war with Germany, which is always intriguing to me\n ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:23:58.337Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How interesting.  Wars are very intriguing.  Sounds entertaining", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:19.935Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I like that it got it such a good score on Rotten Tomatoes because I always look at the reviews on there. It deserved a great revew.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:26:40.284Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "And dramas are some of my favorite movies and like this one, it just engulfs you in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:27:01.960Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you ever choose movies by there ratings or reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:31:22.953Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "This movie gives an insight into homosexuality as well", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:14.723Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would happily recommend this to everyone.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:32.469Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-12T19:09:18.222Z", 
+  "uid1LogOutTime": "2018-02-12T19:38:08.306Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:09:18.368Z", 
+  "user1_id": "USR907", 
+  "user2_id": "USR965", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

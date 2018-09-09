@@ -1,0 +1,224 @@
+{
+  "date": "2018-03-05T17:56:43.470Z", 
+  "docLinkIdx": 17, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:57:57.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Have you watched The Social Network? It was a surprisingly good movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T17:58:49.653Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T17:59:22.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It sounds like a good film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:00:04.613Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, I'm here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:00:57.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The performances were great. Justin Timberlake is not only a talented singer but a pretty good actor as well. Jesse Eisenberg fit the part very well too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:01:00.659Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:01:19.949Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:01:26.562Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:01:32.626Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was just going to ask how Timberlake was as an actor", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:01:47.505Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi. I was saying how Justin Timberlake and Jesse Eisenberg were pretty good actors.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:01:52.477Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah. He's better than I thought he would be.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:02:02.464Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'm not usually into Biographies ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:02:33.719Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me neither but this one was pretty good. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:02:49.408Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "But this one is probably a decent one to watch", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:02:50.957Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's crazy how fast Fb blew up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:03:10.514Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It would be interesting to watch the film", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:03:23.597Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is. I didn't think Mark Zuckerberg had a very interesting life but I guess he has.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:03:31.370Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Facebook is a monster.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:03:38.915Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I don't think most people could live without it at this point in time.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:03:54.649Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I bet. He was pretty young when he made fb wasn't he", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:03:55.178Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's kind of messed up though. Zuckerberg was accused of stealing someone else's ideas to get started.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:04:28.974Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. He was still in college.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:04:44.756Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yeah, too many people relay on fb now! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:05:04.749Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know. It's fun but people use it a little too much.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:05:32.831Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The movie doesn't really go into that though. They need to do a sequel that talks about how FB has affected society.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:06:10.684Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, that would be cool to see", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:06:25.865Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "more of a documentary\n of sorts. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:06:42.298Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It started out as a simple chat to help college students with dating but turned into something much bigger.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:06:49.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Kind of a dramatized documentary though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-05T18:07:05.149Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "lol, right!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-05T18:07:17.620Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-05T17:56:43.470Z", 
+  "uid1LogOutTime": "2018-03-05T18:07:22.992Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-05T17:56:43.490Z", 
+  "uid2LogOutTime": "2018-03-05T18:07:42.408Z", 
+  "uid2response": {
+    "feedback": "The other user kept leaving the chat but came back on. Other than that, the chat went fine. The information about the movie was interesting. I've never seen it but I'm interested now.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3668", 
+  "user2_id": "USR4039", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

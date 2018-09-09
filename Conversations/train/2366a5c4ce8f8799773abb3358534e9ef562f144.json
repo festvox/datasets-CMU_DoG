@@ -1,0 +1,57 @@
+{
+  "date": "2018-01-30T00:53:26.812Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "do you see the document?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:54:01.521Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I can not see it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:54:08.815Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yeah I see the document, was just reading further instructions.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:54:26.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen the movie Inception before?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-30T00:54:50.125Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am sorry Ill abort they seem to have issues", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-30T00:54:52.750Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-01-30T00:53:26.812Z", 
+  "uid1LogOutTime": "2018-01-30T00:55:51.292Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-01-30T00:53:27.040Z", 
+  "uid2LogOutTime": "2018-01-30T00:55:06.893Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR679", 
+  "user2_id": "USR3246", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

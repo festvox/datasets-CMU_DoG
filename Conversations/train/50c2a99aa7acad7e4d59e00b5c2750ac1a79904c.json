@@ -1,0 +1,90 @@
+{
+  "date": "2018-03-28T18:55:04.230Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:55:18.443Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:55:57.854Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am not suprised that a film with such a strong cast is scored so highly on Rotten Tomatoes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:56:30.677Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I didn't watch it, so I can't tell", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:56:50.700Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "did you watch it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:56:56.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I enjoy watching period pieces.  Especially when it has such a strong director.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:57:59.261Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well, Steven Spielberg is a great director", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:42.042Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I also like Meryl Streep and Tom Hanks very much", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:58:57.686Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it must be a great movie, I guess I should watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T18:59:11.293Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "They are amazing actors which is why it must have them talking about award season.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T18:59:30.541Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-28T18:55:04.230Z", 
+  "uid1LogOutTime": "2018-03-28T19:01:08.214Z", 
+  "uid1response": {
+    "feedback": "I don't think the other user understood what the task was meant to do.", 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-28T18:55:04.522Z", 
+  "uid2LogOutTime": "2018-03-28T19:00:56.163Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2727", 
+  "user2_id": "USR1552", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2018-03-22T12:18:16.025Z", 
+  "docLinkIdx": 25, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-22T12:18:23.537Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:19:39.720Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So, you have got to see this movie! It's called The Great Gatsby.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:21:16.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "User 2 left the chat", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-22T12:21:44.270Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-22T12:18:16.025Z", 
+  "uid1LogOutTime": "2018-03-22T12:18:56.399Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-22T12:18:16.028Z", 
+  "uid2LogOutTime": "2018-03-22T12:21:47.965Z", 
+  "uid2response": {
+    "feedback": "The 2nd user left the chat right after joining.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3761", 
+  "user2_id": "USR710", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

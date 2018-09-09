@@ -1,0 +1,241 @@
+{
+  "date": "2018-02-13T20:25:34.426Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:26:24.694Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello. Shall we talk about the movie John Wick? I have seen it and can highly recommend it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:26:46.865Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a retired hitman who is forced to get revenge on some of his former employers.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:28:00.396Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sure - can you tell me about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:28:01.027Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "\"forced\" by whom? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:28:33.153Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I say 'forced.' The main character, played by Keanu Reeves, is treated horribly by the arrogant son of the crime bosses he used to work for. As in, beaten up, his car stolen, and his new puppy killed by them. They just think he's some guy with a nice car.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:30:04.376Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I really like Keanu Reeves - and that does sound interesting! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:31:35.626Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What did you say the name of this movie is? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:32:06.098Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's called John Wick. It's action-heavy, but it's got some humor, too. Lots of fun cameos as well. Like Ian McShane and Willem Dafoe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:32:52.492Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Not familiar with those names, is this a new movie? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:33:48.239Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's from 2014, so somewhat new.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:34:02.909Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Honestly, I was just looking at a description of it - you've gotten me interested ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:35:27.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I was surprised when I watched it, too. It was a lot better than it sounded. The plot is sort of thin, as in a guy goes on a killing streak for being treated awfully. But it really is worth watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:36:28.624Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I'll be sure to check it out - thanks! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:37:36.522Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I liked Keanu Reeves in The Matrix - have you seen that? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:38:42.558Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like the Matrix a lot. The first one, not the sequels, though.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:39:09.481Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What did you like about The Matrix?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:39:54.597Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I agree. Wouldn't even typically watch that kind of a movie, except that I kept hearing from people that \"I really needed to see it\" ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:39:56.132Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Its actually more of a documentary, than faction - as it turns out. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:40:34.081Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah. John Wick is the same kind of thing. \"Need to see it.\" Not for the plot, but for the world they create. There's a secret assassin underworld. Special hotels, special night clubs, etc.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:40:53.108Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Really? I wouldn't think there are that many assassins to create whole business's around them! ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:41:56.322Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Are you familiar with the CIA \"heart-attack gun\"? \nIts just like it sounds...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:42:49.829Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah, it sort of went a bit far with the special services. But they were only located in major cities.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:43:00.981Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, John Wick is a lot less serious than real CIA stuff. It's amusing rather than disturbing.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:43:45.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sure. Actually, watching all the revelations that are finally coming to the fore - is better than ANY movie I've ever seen! \n\nDo you know who the BIGGEST drug dealers in the world are/have always been? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:45:06.280Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Anyway, you might enjoy John Wick. It sounds silly, but it's quite a lot of fun", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:45:26.188Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "No, doesn't sound silly - I'm from Chicago and spent many years in the restaurant business...lol ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:46:33.462Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Knew them \"all\" - the mobsters and their counterparts, law enforcement ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:47:27.632Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, the hotel scenes/night club scenes might be of interest to you. Made it seem pretty interesting/glamorous, rather than what a life as a paid killer probably was", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:48:07.128Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was the best thing Keanu was in since the Matrix, I'd say", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:49:13.819Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "LOL - people also think that the restaurant business is \"glamorous\" too. Its NOT. Its hard work, long hours, with weekends and holidays ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:49:36.460Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Glamorous people might come to a restaurant, but someone has to cook them the food and throw away what they don't eat. I'm sure life in the restaurant is a lot more difficult.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:50:23.199Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, well thanks so much for telling me about it. \nWill definitely check it out!\n\nLooks like we've chatted to someone's satisfaction here, as \"finish conversation\" has now enabled. \n\nHave a great day!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-13T20:51:14.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-13T20:51:23.128Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-13T20:25:34.426Z", 
+  "uid1LogOutTime": "2018-02-13T20:51:26.146Z", 
+  "uid1response": {
+    "feedback": "Because of the wonderful conversation with the chatter, I've learned of a movie that I wasn't aware of - and it sounds like one I'd like to see! \n\nThank you, for this opportunity!", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-13T20:25:34.477Z", 
+  "uid2LogOutTime": "2018-02-13T20:51:25.823Z", 
+  "uid2response": {
+    "feedback": "Interesting study, thanks.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3359", 
+  "user2_id": "USR3891", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

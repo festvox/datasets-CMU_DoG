@@ -1,0 +1,122 @@
+{
+  "date": "2018-02-19T19:00:39.887Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi. Did you see the movie Bruce Almighty?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:01:47.997Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I did. I really enjoyed the concept of the film, but the acting seemed to be hit or miss. What about you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:02:19.748Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes I did also. I found it very entertaining and Morgan Freeman as God was a good choice.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:03:01.413Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He typically does very well in a variety of roles. I also liked Jennifer Aniston's casting in the role.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:03:46.478Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. Even though her part was a small one. Jim Carrey was good. This was not his typical slapstick. Although, there was quite a bit of slapstick in the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:04:52.916Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you prefer slapstick comedy like what was present in this movie or more in-depth comedies? ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:05:56.845Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It depends on my mood. I like high concept comedies but my taste range also includes Tarantino and Lynch. My favorites. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:07:02.414Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Very interesting. I like Carrey in some of his more serious roles moreso than his comedy roles. I'm also a big Tarantino fan.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:08:46.571Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He tried to break out with his usually style. He was not very welcomed by critics. Eternal Sunshine was good.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:09:57.465Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is one of my all-time favorite movies. I'm not too sure about how well it was critically acclaimed, but I enjoyed.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:11:05.074Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes. I was very good. Bruce Almighty was also good. The scenes with Jenifer Aniston were very funny. She too is someone who can not seem to get out of her cast type. Steve Carell also is a wonderful dramatic actor. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:13:27.206Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't seen many Steve Carrell movies.... is he good in comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:23:22.447Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": " Ten minutes between responses is too long. At 15 exchanges, it will be too long to carry on this chat. I enjoyed what we did exchanges. Sorry. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:24:48.702Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Apparently I will not get paid if we do not continue. Yes Steve Carrell is good in movies and television. Do you like him?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-19T19:26:02.163Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sorry for any issues", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-19T19:31:17.551Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-19T19:00:39.887Z", 
+  "uid1LogOutTime": "2018-02-19T19:31:19.036Z", 
+  "uid1response": {
+    "feedback": "This was clunky and I did not understand what was going on", 
+    "response": [
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-19T19:00:39.887Z", 
+  "uid2LogOutTime": "2018-02-19T19:27:08.010Z", 
+  "uid2response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "user1_id": "USR1198", 
+  "user2_id": "USR1898", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

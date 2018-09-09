@@ -1,0 +1,105 @@
+{
+  "date": "2018-03-26T16:17:55.959Z", 
+  "docLinkIdx": 21, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:18:37.202Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, any thoughts on Iron Man?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:19:04.538Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "for me it is an excellent movie of the superhero genre", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:20:01.296Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would agree. I particularly like Robert Downey Jr. in this role, it's as though he spent his entire adult life preparing for the role of Tony Stark.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:20:37.612Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "it's as if he really was tony hehehej", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T16:21:33.435Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Right, I couldn't have picked a better franchise to kick off the marvel cinematic universe. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:22:08.262Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Despite the futuristic technology, the series stayed rooted in realism for years.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:25:42.619Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have any thoughts about Jon Favreau's creative decision to update the setting to Iraq from the comic's canonical Vietnam War setting?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:27:37.645Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have any thoughts at all?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:28:45.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you capable of any response whatsoever?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:33:16.827Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the rating of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:33:57.204Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I liked Jeff Bridges as Obadiah Stane. He played the role in a way that led the audience to trust him until his true motivations became apparent.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:36:17.071Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You're a very stand-offish robot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:37:57.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you were designed to stop replying one step before finishing the conversation so that your coder can gather information without compensating mechanical turk workers, don't say anything.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T16:54:38.518Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-26T16:17:55.959Z", 
+  "uid1LogOutTime": "2018-03-26T16:55:24.530Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T16:17:57.138Z", 
+  "user1_id": "USR3361", 
+  "user2_id": "USR2172", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

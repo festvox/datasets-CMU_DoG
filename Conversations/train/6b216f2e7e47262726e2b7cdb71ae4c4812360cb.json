@@ -1,0 +1,133 @@
+{
+  "date": "2018-03-07T00:49:03.899Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T00:49:40.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T00:50:08.495Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the name of the movie you just read about? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T00:50:29.166Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T00:50:57.419Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh, i've wanted to watch that movie for a while. I've never seen it. Was there anything you found interesting about the movie while reading about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T00:51:50.489Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well, for starters, it has Morgan Freeman in it. He's a really great actor. But the plot sounds very interesting, a man is having bad luck. He is a TV reporter, and he begins complaining to God. He then gets to see what it's like to be God for a week.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T00:52:43.838Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I often complain to God about things but never consider what it would be like to be on the receiving end of those complaints lol. I've heard lots of jokes about the movie, it seemed to be very popular when it came out. I do love Jim Carrey so much too, he is also in it right? And Morgan Freeman plays God?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T00:55:02.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, that's correct! The film also has Jennifer Aniston. All wonderful actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T00:55:40.526Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you have any idea when the movie was released, or how long the movie is? I'm not sure how much information the document you read had in it. But I've been told to gather information, so that's what i'm gonna try to do :D", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T00:57:30.829Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I know it was released in 2003, but I'm not sure how long it is. It was directed by Tom Shadyac, and it has okay-reviews. Rotten Tomatoes gave it  48%, and it received an \"A\" by CinemaScore", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T00:59:23.820Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh, I think that's the same guy who directed Ace Ventura. One of my favorite comedies from the 90's! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:00:32.069Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He's in a relationship with his girlfriend (Jennifer Aniston), but he has a crush on a co-worker. He's a field-reporter, but he wants to be a news anchorman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:00:47.689Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Boy, he sounds like a real winner. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:01:25.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Lol, right! I guess it's a comedy but it sounds sad due to his bad luck. His rival at his job receives the promotion that he wants.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:02:12.398Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds like a good recipe for some heart warming comedy that might leave me saying, \"Hmm, I've learned so much about life from this movie and suddenly feel compelled to change my attitude.\" lol. I feel like Jim Carrey often chooses movies that leave you feeling that way. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:03:55.905Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yeah!! Critics say it's one of Carrey's best films!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-07T01:04:55.504Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oooooh. Well, this sounds very compelling to me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-07T01:05:37.954Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-07T00:49:03.899Z", 
+  "uid1LogOutTime": "2018-03-07T01:05:35.366Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-07T00:49:04.134Z", 
+  "uid2LogOutTime": "2018-03-07T01:05:42.230Z", 
+  "uid2response": {
+    "feedback": "I love Jim Carrey. I've actually seen the movie before, Bruce Almighty, but after this conversation I really want to watch it again :)", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR778", 
+  "user2_id": "USR545", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

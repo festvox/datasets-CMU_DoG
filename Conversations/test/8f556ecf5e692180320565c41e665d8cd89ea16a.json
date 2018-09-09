@@ -1,0 +1,101 @@
+{
+  "date": "2018-02-07T03:17:32.268Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:17:52.441Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "GUYS", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:18:09.800Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HOW ARE YOU", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:18:18.456Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T03:18:23.289Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should see Avengers. It has Mark Ruffalo in it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T03:18:38.467Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He's great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T03:19:14.552Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YES", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:19:21.194Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YOU SHOULD SEE AVENGERS MOVIE", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:19:39.544Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Robert Downey plays a very complex and intersting character", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T03:19:42.722Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "joss Whedon is a great director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T03:20:16.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "YOU know\n Chris Evans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:21:03.609Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T03:21:09.864Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T03:17:32.268Z", 
+  "uid1LogOutTime": "2018-02-07T03:21:10.390Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T03:17:32.577Z", 
+  "uid2LogOutTime": "2018-02-07T03:21:21.756Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1324", 
+  "user2_id": "USR526", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

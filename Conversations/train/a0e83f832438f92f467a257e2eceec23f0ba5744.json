@@ -1,0 +1,53 @@
+{
+  "date": "2018-02-14T00:39:16.237Z", 
+  "docLinkIdx": 4, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "What did you think about zootopia? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:40:39.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought it was funny, my daughter loved it and watches it regularly.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-14T00:42:52.840Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I thought the state-of-the-art animation was amazing.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:44:34.751Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Ginnifer Goodwin played the part of Officer Judy well.  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:47:00.509Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jason Bateman as Nick Wilde was hilarious. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-14T00:56:58.339Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-14T00:39:16.237Z", 
+  "uid1LogOutTime": "2018-02-14T00:57:39.610Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-14T00:39:16.322Z", 
+  "user1_id": "USR1827", 
+  "user2_id": "USR1650", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

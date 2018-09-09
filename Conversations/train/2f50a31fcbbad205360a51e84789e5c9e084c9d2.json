@@ -1,0 +1,205 @@
+{
+  "date": "2018-03-29T15:41:13.566Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:41:34.972Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:41:43.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "so did you watch wolf of wall street?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:42:12.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:42:16.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you liked it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:03.416Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yeh", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:08.604Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:10.644Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:13.837Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what did you like the best", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:43:22.224Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the acting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:41.108Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:43:43.148Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the direction", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:14.871Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "how was RDJ?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:44:20.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "he was cool", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:44:27.475Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah he was", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:20.721Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it was his comeback movie, right?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:45:33.119Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:45:36.535Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "anything you hated about it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:07.288Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:10.807Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "alright", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:16.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how about you", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:20.347Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i hated gwyneth", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:26.882Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:37.668Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she was just ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:41.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "exactly", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:46:46.802Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "she is good in future  movies though", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:46:58.246Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i see", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:47:02.625Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you watch any of them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-29T15:48:07.831Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think i saw the 2nd one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-29T15:48:15.109Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-29T15:41:13.566Z", 
+  "uid1LogOutTime": "2018-03-29T15:48:19.735Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-29T15:41:13.590Z", 
+  "uid2LogOutTime": "2018-03-29T15:48:17.326Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2418", 
+  "user2_id": "USR3127", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

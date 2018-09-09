@@ -1,0 +1,80 @@
+{
+  "date": "2017-12-01T13:56:22.189Z", 
+  "docLinkIdx": 6, 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good morning", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T13:56:45.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Mornin", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:57:07.373Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So I chose a movie to talk about, but it randomly assigned me a different movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:57:37.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So let's talk about a movie I've never seen, John WIck.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:57:58.392Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Basically Keanu Reeves is an ex-hitman who fights against a Russian crime syndicate after the death of his wife.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:58:49.263Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He is also trying to get revenge because they stole his car and killed his dog.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:59:31.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If I had a dog and someone killed it I know I would be trying to hurt them really bad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T13:59:55.948Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So do you have anything to add to this conversation?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T14:00:23.908Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-01T13:56:22.189Z", 
+  "uid1LogOutTime": "2017-12-01T14:00:41.086Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-12-01T13:56:22.197Z", 
+  "uid2LogOutTime": "2017-12-01T13:57:19.677Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR969", 
+  "user2_id": "USR3460", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

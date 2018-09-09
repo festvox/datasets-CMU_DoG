@@ -1,0 +1,337 @@
+{
+  "date": "2018-02-07T16:00:07.509Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:02.929Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!  The movie is Wonder Woman.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:01:20.978Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Where did you got the movie name but I couldn't see any movie name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:45.270Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I believe in this discussion, you don't see the document.  I'm supposed to read it and convince you to watch it based on information in the document.  ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:28.574Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Patty Jenkins was the director.  I was glad to see that they picked a woman director for the film.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:08.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay so it's your own creation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:11.603Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the music director ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:03:43.352Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It doesn't say on the document anything about the music.  That's a shame.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:25.473Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The critics only scored this movie 76/100?  What do they know?  This movie deserves better than a \"C\".", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:05:33.731Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "May be but it's a complete movie and I'm interested to know more about the other technicians worked in this movie too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:40.230Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Movie Name is AVATAR", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:57.805Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I had another Wonder Woman document pop up.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:25.898Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "3D - Directed by James Cameron ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:39.436Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I haven't got any pop up", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:07:26.598Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That's the first James Cameron film I remember watching.  It blew me away in the theater.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:07:33.186Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I watched 12 times in Theater and many times at TV - One of my best collections\n...", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:20.678Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Starring Sam Worthington ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:43.640Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I used to own it back with HD DVD\nGal Gadot p", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:47.518Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "sorry", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:56.758Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I used to own it back when HD DVD'S still existed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:09:14.893Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I got another Wonder Woman document", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:09:31.710Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Also the musician is James Horner ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:10:23.212Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I never watch Wonder Woman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:10:47.199Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It says on here that Wonder Woman is the fourth installment in the SC Extended Universe.  I hadn't heard that before.  I've heard of James Horner.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:10:54.001Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "It's one of the better movies in the Avengers series.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:11:19.675Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "May be But I like Spider Man & Avengers I & II", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:23.844Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Most of the movie is set in 1918, so the clothing and sets are beautiful.  Some of it is filmed on an island.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:12:29.534Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe it's a Marvel Series... Not Avenger Series.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:12:53.942Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Am I correct if i'm not wrong ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:13:02.006Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, she's part of the Justice League.  Your right.  So basically, it's giving me a run down of all key scenes from the movie.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:13:46.990Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:14:17.346Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So now i'm eagerly waiting for the Avatar 2 ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:14:57.827Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love more fictional movies.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:35.406Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But I didn't get the chance to watch Wonder Woman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:15:47.898Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I didn't know they were making a second one.  That is exciting.  Image how amazing this one will look.  It's been over 20 years, right?  \n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:15:56.934Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Next in my list was X-Man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:16:01.059Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I could see see the Finish\n Conversation", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:16:27.927Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I love the X-Men movies too.  I don't know what they are going to do about Wolverine's character.  I'm not sure I can accept anyone other than Hugh Jackman in that rold.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:17:09.984Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:17:11.672Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm a great fan of Hugh Jackman.......... and loved his movies... Real Steel , Most Probably Van Helsing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:17:55.509Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Maybe they will make him younger.  I absolutely love him too.  I hear the Greatest Showman is really good too.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:18:31.103Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I believe we both can watch Hugh Jackman Movies... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:18:39.064Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Shall we finish our Conversation.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:19:08.233Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It' is more than 20 minutes now.. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:19:19.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok.  I wasn't sure how this was supposed to work.   Nice talking to you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:19:38.317Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nice talking to you too", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:20:16.954Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "same here bit confused... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:20:24.314Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Bah bye... have a great day", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:20:50.105Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I'm reading through the directions again", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:50.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:20:55.399Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T16:00:07.509Z", 
+  "uid1LogOutTime": "2018-02-07T16:21:24.525Z", 
+  "uid1response": {
+    "feedback": "Only few areas are confusion and we are really need to discuss about the movie or the person we need to convince them to watch. HOwever I share the movies that I was interested and the other user also more interested in the movies that I listed.. But the user suggest me to watch Wonder Woman in which i'm not interested to watch it", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:00:08.427Z", 
+  "uid2LogOutTime": "2018-02-07T16:21:25.666Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR40", 
+  "user2_id": "USR2345", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2018-03-26T19:51:03.652Z", 
+  "docLinkIdx": 20, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-26T19:51:27.558Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:51:49.116Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where would you like to start?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:52:44.028Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "user 2 left the convo ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-26T19:54:02.195Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-26T19:51:03.652Z", 
+  "uid1LogOutTime": "2018-03-26T19:52:41.189Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-26T19:51:03.853Z", 
+  "uid2LogOutTime": "2018-03-26T19:54:29.833Z", 
+  "uid2response": {
+    "feedback": "I was very prepared to carry on with this activity, but the other user left before I even sent my second message. I would still like my earnings please, because I did nothing wrong. ", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3514", 
+  "user2_id": "USR1055", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

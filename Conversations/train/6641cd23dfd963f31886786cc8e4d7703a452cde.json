@@ -1,0 +1,55 @@
+{
+  "date": "2018-02-07T16:08:18.492Z", 
+  "docLinkIdx": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Good Morning", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:09:01.021Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is a Disney movie called Frozen. It is inspired by a Hans Christian Anderson fairytale called the Snow queen", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:10:47.486Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Rotten Tomatoes gives it a rating of 89% and Cinema Score gives it an A+", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:14:19.629Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That movie is alright", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:27:20.276Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "From what I was told", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:27:24.598Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-02-07T16:08:18.492Z", 
+  "uid1LogOutTime": "2018-02-07T16:27:38.423Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-02-07T16:08:18.497Z", 
+  "uid2LogOutTime": "2018-02-07T16:22:38.614Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3545", 
+  "user2_id": "USR4041", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

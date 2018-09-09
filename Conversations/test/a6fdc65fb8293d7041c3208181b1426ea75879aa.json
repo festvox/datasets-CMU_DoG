@@ -1,0 +1,136 @@
+{
+  "date": "2018-02-15T01:12:38.033Z", 
+  "docLinkIdx": 8, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:13:13.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What movie are you reading about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:13:46.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "This movie is wonder Woman. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:14:01.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice. What kind of reviews did it get?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:14:16.088Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is the story about?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:15:09.065Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There were good reviews. For instance, one review said the movie provides a welcome respire from DC's house style of grim darkness", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:15:19.468Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's cool. So it stands out from movies in the past.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:15:49.187Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you know what kind of themes the movie touches on?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:16:20.861Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's about a princess, Diana, who grows up on an island. A pilot crashes on an island and she rescues him. The pilot tells her about the wars going on and Diana leaves home to help end the war. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:16:40.229Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's drama and superhero. It touches on themes of courage", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:17:11.093Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think so far?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:17:48.381Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "About the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:17:52.171Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Diana sounds very noble", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:18:02.660Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it something you will be interested in watching?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:18:15.292Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes she is very noble and brave", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:18:22.272Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes I like that it's a DC movie with a female lead", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T01:18:45.317Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Me too.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:19:12.920Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Have you watched the trailer yet?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T01:19:48.520Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-15T01:12:38.033Z", 
+  "uid1LogOutTime": "2018-02-15T01:26:09.689Z", 
+  "uid1response": {
+    "feedback": "The other user ended the conversation abruptly. ", 
+    "response": [
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T01:12:38.061Z", 
+  "uid2LogOutTime": "2018-02-15T01:19:11.861Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2209", 
+  "user2_id": "USR580", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

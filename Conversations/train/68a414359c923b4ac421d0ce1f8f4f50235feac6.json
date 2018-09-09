@@ -1,0 +1,231 @@
+{
+  "date": "2018-02-09T18:54:56.215Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello there. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:55:12.491Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:55:20.985Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am really interested in some new movies. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:55:32.704Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Would you like to chat about inception?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:55:39.164Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I would !", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:55:48.121Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was directed by christopher nolan.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:56:01.212Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have heard of him. Who stared in the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:56:13.500Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it before?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:56:16.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I have not. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:56:20.008Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "L\neonardo Dicaprio.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:56:27.105Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Is it a kid movie or is it rated for adults?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:56:38.048Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He plays a guy named Cobb.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:56:42.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That is a nice name. Is he the only big star?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:56:53.928Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Um, I am not sure. But I think more adult.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:08.816Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no he is not.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:16.625Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ok, well do you think the plot is good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:57:23.738Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ellen Page plays adrienne.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:27.841Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I know her from other films. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:57:35.253Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Josepg gordon levitt is also in it.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:42.057Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Joseph", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:46.054Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Ya I like her.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:57:50.635Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I have seen him in some films too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:57:50.705Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Me too. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:57:56.695Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Both are talented.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:58:02.690Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:58:18.758Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The concept is pretty different, cobb recruits adrienne/ellen to create a dream world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:59:02.744Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So, is it like a fantasy movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:59:15.978Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "But there \nactually in this world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:59:18.782Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, wow that sounds really nuts. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:59:29.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It is really realistic feeling.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T18:59:30.390Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Wow. Does it end well?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T18:59:39.111Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It goes through a lot before the end, hard to explain.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-09T19:00:02.837Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well, I think I will debate watching this movie. Thank you so much!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-09T19:00:04.551Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-09T18:54:56.215Z", 
+  "uid1LogOutTime": "2018-02-09T19:00:08.838Z", 
+  "uid1response": {
+    "feedback": "They made the movie sound like it will be a really cool one and they mentioned lots of actors that I like in other movies too. ", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-09T18:54:56.241Z", 
+  "uid2LogOutTime": "2018-02-09T19:00:26.385Z", 
+  "uid2response": {
+    "feedback": "This one was hard for me in trying to be responsive and get info from the document out to the chat. I felt the document moved to quickly and then I could not go back to retrive prior pages. It just felt to  pass by too fast so not very understandable. Also wanted to say did one just prior and the other person left the chat almost immediately and you may want to add that as an option on the abort page, also some clarity as to if one can just submit that as the full turk or not woudl be nice to know. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2183", 
+  "user2_id": "USR252", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

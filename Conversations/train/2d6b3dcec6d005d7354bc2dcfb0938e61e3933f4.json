@@ -1,0 +1,84 @@
+{
+  "date": "2018-03-21T21:38:36.364Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "This was one of the best kids animated movies ever", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:38:57.498Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Agreed! I think the AAA actors for voice acting was a smart decision that helped put the movie as highly ranked as it was.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:39:44.033Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love how it's as much for adults as it is for kids too. Very cool.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:40:44.159Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I had no idea it got 100% on Rotten Tomatoes, though. I can't think of another movie that has been ranked so high! Totally well deserved.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:41:53.891Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you agree with the ratings of this movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:42:58.308Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:44:02.532Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes i do agree with it. i dont like rotten tomatos", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:44:35.539Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "but i agree that it should be 100%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-21T21:44:45.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "All the reviews are pretty consistent, Rotten Tomatoes, Metacritic and CinemaScore. I think the movie and the concept of the movie were just amazingly done. Toys who don't know they're toys? Hilarious.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-21T21:45:45.093Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-21T21:38:36.364Z", 
+  "uid1LogOutTime": "2018-03-21T21:46:21.222Z", 
+  "uid1response": {
+    "feedback": "My partner was very annoying. Took very long to respond and conversation was not smooth.", 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-21T21:38:36.374Z", 
+  "uid2LogOutTime": "2018-03-21T21:46:10.761Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR3987", 
+  "user2_id": "USR4515", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

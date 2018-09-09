@@ -1,0 +1,175 @@
+{
+  "date": "2018-02-07T17:32:42.390Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:33:58.010Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hai", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:34:07.475Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like to watch movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:34:21.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes..what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:34:43.826Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:34:49.384Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is your favorite actor?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:35:00.362Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "vijay for you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:35:38.023Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which is your favorite movie in 2017?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:36:02.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like avengers.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:36:12.860Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like Leon\nardo Dicaprio ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:36:43.196Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should watch a movie called the inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:37:32.814Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has a nice plot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:37:44.074Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello are you there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:39:00.245Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like daniel radcliffe", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:39:11.392Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:39:25.466Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah its very interesting movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:39:32.229Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like sci fi movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:39:38.917Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no,\n i like horror movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:41:21.797Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:41:26.111Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "did you ever watch the inception?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:41:33.698Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "do you like sci fi movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:41:37.157Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T17:42:27.678Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes sometimes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:42:30.756Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was your favorite part of inception", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T17:42:49.970Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-07T17:32:42.390Z", 
+  "uid1LogOutTime": "2018-02-07T17:44:19.103Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T17:32:42.480Z", 
+  "uid2LogOutTime": "2018-02-07T17:43:46.152Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4818", 
+  "user2_id": "USR132", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "date": "2018-02-12T19:16:26.881Z", 
+  "docLinkIdx": 7, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:17:06.043Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:17:44.610Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you heard about any good movies lately?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:17:57.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like superhero movies? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:09.482Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen Marvel's The Avengers yet?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:19:23.579Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sometimes.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:26.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No, not yet. Have you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:19:33.630Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is in it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:20:28.350Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Robert Downey Jr. as Iron Man", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:20:49.777Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I like him a lot.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:39.295Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who else?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:21:44.752Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christ Evans as Captain America, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson & Jeremy Renner", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:22:00.236Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like all of those actors.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:49.281Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the plot?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:22:54.800Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "S.H.I.E.L.D. recruits Iron Man, Captain America, the Hulk & Thor to stop Loki from taking over the world.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:37.291Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "You know, typical superhero plot", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:24:49.425Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sounds pretty good I guess.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:24:54.451Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Did it get good reviews?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:29.396Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Was just looking at some reviews - the critics seem to like it. I just went because my friend wanted to go", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:25:37.029Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Did you like it? Would you recommend it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:25:54.725Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I'm not a huge superhero fan, but if you want to stay in & have a movie night at home, it would be good to rent on Netflix or Hulu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:27:19.876Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "So you don't think it's necessary to see on the big screen?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:28:29.864Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Only for Marvel superhero fans", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:11.830Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If you're not a huge fan, I'd wait ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:29:49.403Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, I'm not a big fan. But I heard the Iron Man movies were very good.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:29:57.369Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It got a Rotton Tomatoes score of 92%", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:31:19.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did the reviews say anything specific about Robert Downey Jr.?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:31:22.875Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What is the movie rated? PG-13?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:33:17.230Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It says his character is a team player with 2 superpowers with a sharp tongue ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:33:21.024Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "92% is pretty high. Even people who aren't fans of superhero movies would probably like it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:34:04.527Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I think it's PG-13 (teeny tiny letters even with the zoom - grrr.)", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:34:29.857Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Okay, thanks. I can take my niece and nephew then.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:34:51.376Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It looks like we've chatted long enough and can finish the conversation. Thanks for all the information!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:35:17.265Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh, good. Thanks for putting up with me. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:36:44.277Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It wasn't too bad!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-12T19:36:55.074Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thank you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-12T19:37:15.680Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-12T19:16:26.881Z", 
+  "uid1LogOutTime": "2018-02-12T19:37:11.799Z", 
+  "uid1response": {
+    "feedback": "Even though the reviews of the movie were good and I like a lot of the actors in it, I am just not a fan of the Superhero genre in general.", 
+    "response": [
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-12T19:16:26.967Z", 
+  "uid2LogOutTime": "2018-02-12T19:37:17.082Z", 
+  "uid2response": {
+    "feedback": "The other user was better at this than I am. Even with the text zoomed in, I still had a hard time reading it. The document was understandable, but I think it would be easier to chat about if it was set-up in sections: (ex.: characters/actors; plot summary; reviews). This would be very helpful especially if you don't like the type of movie you had to discuss. Which reminds me, the pick a movie to discuss disappeared too fast for me to pick one, so we ended up with a randomly assigned movie to discuss.", 
+    "response": [
+      1, 
+      2, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4886", 
+  "user2_id": "USR2623", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

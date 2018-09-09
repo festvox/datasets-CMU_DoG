@@ -1,0 +1,52 @@
+{
+  "date": "2018-03-08T02:56:57.159Z", 
+  "docLinkIdx": 10, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:57:15.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:57:26.411Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I want to recommend a movie for you. It's called Bruce Almighty.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T02:57:46.019Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Really...I have heard about that movie, but I have never seen it.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T02:58:06.513Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-08T02:56:57.159Z", 
+  "uid1LogOutTime": "2018-03-08T03:11:20.713Z", 
+  "uid1response": {
+    "feedback": "User 1 left the conversation, I waited five minutes but they never came back.", 
+    "response": [
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T02:56:57.185Z", 
+  "uid2LogOutTime": "2018-03-08T02:58:04.779Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR4705", 
+  "user2_id": "USR1505", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

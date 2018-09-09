@@ -1,0 +1,265 @@
+{
+  "date": "2018-03-20T21:11:28.483Z", 
+  "docLinkIdx": 28, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HI, tell me a bit about the movie please?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:11:52.832Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello, the movie is called the wolf of wall street", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:12:15.053Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "have you heard of it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:12:21.993Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I haven't", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:12:28.105Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Is it good?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:12:55.179Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is an American Black comedy based of a memoir of the same name", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:13:03.128Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It recounts Belforts perspective as stockbroker in New York City", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:13:37.520Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Oh ok. Talks about his experience as a stockbrocker?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:13:57.279Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "broker", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:14:17.202Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "sorry", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:14:26.544Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Np, did he do well?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:14:48.022Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The lead is played by Leonardo Dicaprio", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:14:51.372Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the movie is good", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:14:55.356Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "His firm Stratton Oakmont engaged in rampant corruption and fraud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:15:36.611Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like him. Is he a good guy or bad?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:15:53.677Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it led to Belfort fall", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:15:56.387Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He seems like the bad guy since he engaged in fraud", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:16:13.371Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Yes, true. Does it have much action?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:16:49.129Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It is a black comedy not action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:17:05.378Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Under Hanna, Belfort engages in sex, fraud, and drugs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:17:39.567Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh right. Gotcha. So, funny, but a dark funny.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:17:43.900Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Hanna is a fellow stockbroker for Rothschild", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:18:13.674Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Sounds interesting. I'm sure has true elements of that life.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:19:05.872Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yep, Jordan Belfort later\n starts a company with his buddy Donnie Azof", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:19:27.171Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Well, I guess he learned many tricks of the trade with the company", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:20:00.915Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The company scams people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:20:06.957Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Will he try to not scam people in his new company?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:20:23.367Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Nope, the basis of the company is to scam people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:20:39.457Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "so, even when he starts his own, huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:20:51.412Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep. Belfort also loses his wife after she discovers he has been sleeping with prostitutes and  using drugs", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:21:22.963Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Can't say I blame her lol", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:21:47.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:21:53.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Two years later Jordan Belfort is arrested by the FBI", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:22:19.792Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Did he get convicted?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:22:59.851Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "However, he is given leniency for exchange for evidence against his colleagues", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:20.179Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Sounds like a good movie. Can we finish now?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:23:24.148Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yep. Thanks for chatting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-20T21:23:39.952Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "thanks, I will watch it. SOunds good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-20T21:23:52.662Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-20T21:11:28.483Z", 
+  "uid1LogOutTime": "2018-03-20T21:24:16.541Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-20T21:11:28.859Z", 
+  "uid2LogOutTime": "2018-03-20T21:23:54.450Z", 
+  "uid2response": {
+    "feedback": "It sounded like an interesting movie that I haven't watched yet. I will make sure that I do! The other user was very helpful and descriptive. I will have to email completion code, as I had some technical issues, I believe because of the weather and had to submit with my Mturk ID# A3NMQ3019X6YE0. Thanks for understanding.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR379", 
+  "user2_id": "USR4272", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

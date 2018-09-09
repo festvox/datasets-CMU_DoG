@@ -1,0 +1,330 @@
+{
+  "date": "2018-03-08T06:03:48.511Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:04:18.772Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! Today we will talk about the Movie \"Bruce Almighty\" starring Jim Carrey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:04:45.798Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Okay Brunce almighty", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:04:58.372Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm a big Jim Carrey fan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:05:06.136Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you see the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:05:14.718Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes. did you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:05:23.964Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No not yet, all of my friends talk about it from time to time though. They say it's really funny", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:05:53.345Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes. do you enjoy comedy movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:06:09.623Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Actually, I only really watch comedy so it's a wonder I missed this one", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:06:57.676Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "when was it released? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:07:00.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was released in 2003.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:07:36.595Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Jesus. Thats an old one...what's it about? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:08:01.013Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Well it's about a down-on-his-luck Tv reporter played by Jim Carrey who complains to God for not doing his job. So he gives Jim Carrey the job of being God for a week.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:09:01.712Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It's pretty funny, especially an iconic scene with  Steve Carrel ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:10:03.389Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Actually I think I've seen clips from the movie on youtube ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:11:40.857Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "but I've never seen the full thing", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:11:45.696Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What's your favorite part of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:11:54.812Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "My favorite scene is when Jim Carrey blows up during an interview he is doing at the Niagra Falls ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:12:49.989Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Although people gave it a good review, it was poorly received with critics... ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:13:38.203Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think maybe because critics are too critical haha", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:13:53.516Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "people forget to enjoy the movie", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:13:59.803Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "this one sounds like it would be easy watching", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:14:07.977Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well it sounds interesting", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:14:38.571Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I want to watch it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:14:40.971Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Is there anything else you think I should know about the movie? ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:14:56.172Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "A key fact is that God is played by Morgan Freeman ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:16:29.702Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh really?!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:16:39.097Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "You didn't say that before! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:16:52.177Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I am a huge Morgan Freeman fan!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:16:59.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I should have mentioned that... Also that not all critics were harsh, CinemaScore gave it a solid A.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:17:27.245Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "If I were talking to God, I imagine he would sound exactly like Morgan Freeman", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:17:35.224Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I've only seen Rottentomatos reviews. I'll have to check out CinemaScore. Do they revivew as often as rotten tomatoes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:18:57.546Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I am not sure... Maybe not as much.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:19:29.257Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Also Tom Shadyac directed the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:20:02.838Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Have you seen any of his other movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:20:09.248Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I saw \"The Nutty Professor\" as well as \"Ace Ventura\"", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:21:19.740Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "He seems to enjoy working with Jim Carey pretty frequently", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:21:32.353Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I would not blame him for that", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:22:05.751Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Indeed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:22:12.811Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Jim Carrey is a funny guy. I love his movies!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:22:32.316Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So in your opinion ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:22:49.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "why did you think it was funny despite the critics reviews?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:23:09.843Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Well I enjoyed it being original, it has a great cast: Jim Carrey, Morgan Freeman and Jennifer Aniston. There are funny scenes as the one where Jim is God and he has to respond to everybody's prayers in the form of an email", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:24:33.084Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "So he automatically replies yes to everybody so everybody's prayers are answered but that's not always a good thing", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-08T06:25:13.164Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Hmm I agree", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:26:10.657Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "and I can see why you enjoyed it", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:26:17.057Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I definitely dont see many movies along this sort of theme so", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:26:26.183Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I will definitely check it out in the future! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:26:33.410Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Thanks!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-08T06:26:35.010Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-08T06:03:48.511Z", 
+  "uid1LogOutTime": "2018-03-08T06:26:46.706Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-08T06:03:48.537Z", 
+  "uid2LogOutTime": "2018-03-08T06:26:49.263Z", 
+  "uid2response": {
+    "feedback": "I gained a lot of information about the movie due to the other user's review of the movie. I thought that if they had a document on the other side telling them what to say then it was pretty detailed and any questions I'dve had about the movie were realistically answered. ", 
+    "response": [
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4343", 
+  "user2_id": "USR2785", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

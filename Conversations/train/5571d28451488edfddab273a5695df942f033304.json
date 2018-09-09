@@ -1,0 +1,234 @@
+{
+  "date": "2018-02-02T20:21:13.825Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:21:31.563Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:21:42.080Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like movies", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:10.260Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:15.554Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:19.979Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:25.379Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "where are you ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:22:44.090Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Did you review a movie recently?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:22:57.849Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:05.880Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Iam in US", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:09.643Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "what movie did you review", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:17.632Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i review the avengers movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:29.780Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i am in india ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:23:35.500Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:49.514Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "How was the avengers movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:23:56.286Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "that is nice film i like the all characters in the movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:24:31.962Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "who stars in it", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:24:43.593Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "iron man ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:25:17.273Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "oh ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:25:27.304Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "what was it about", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:25:35.310Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "i like iron man ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:26:00.814Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "avengers is a good film i like mostly ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:26:19.244Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ok", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:26:37.916Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "do you watch movies a lot", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:26:47.946Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no i watch only similar movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:27:13.125Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "oh ok you like marvel and dc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:27:31.212Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like dc ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:27:42.426Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "are you like that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:27:52.056Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which movie are you mostly like that ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:28:04.596Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes i like avengers", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:28:21.231Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like true movies also", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:28:38.627Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "which character mostly like that movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-02T20:28:42.107Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i like spider man", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-02T20:29:01.461Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-02T20:21:13.826Z", 
+  "uid1LogOutTime": "2018-02-02T20:29:11.876Z", 
+  "uid1response": {
+    "feedback": "The use did not provide much information on the movie.", 
+    "response": [
+      2, 
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-02T20:21:13.917Z", 
+  "uid2LogOutTime": "2018-02-02T20:29:24.288Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4818", 
+  "user2_id": "USR1018", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

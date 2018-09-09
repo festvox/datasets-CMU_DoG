@@ -1,0 +1,240 @@
+{
+  "date": "2018-02-07T15:54:52.700Z", 
+  "docLinkIdx": 6, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:02.697Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:55:50.294Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:23.835Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you from", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:56:36.255Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "nyc", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:54.355Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:56:56.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "india", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:05.375Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "my parents are from india", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:57:33.346Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wow which place", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:57:58.063Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "gujarat", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:01.831Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "mm i am tamilnadu", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:58:18.095Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "very nice. have you seen John Wick?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:58:38.733Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "no you", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:01.065Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yes i have seen both 1 and 2", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:41.202Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "it's very good. full of action", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T15:59:46.283Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ok", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T15:59:59.867Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "do you like action movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:01:02.454Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:02:06.708Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "have you seen any good american action movies recently?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:02:36.505Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes black panther", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:03:28.229Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "you saw it already?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:15.106Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "it hasn't come out here", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:18.851Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "how was it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:04:20.863Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "nice and good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:04:37.595Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:05:21.120Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "how to finish this task\n ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:07.583Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i'm not really sure", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:17.855Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "i think we have to talk about the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:28.617Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "or maybe it's time based", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:06:34.973Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "kk", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:42.716Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "your name", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:06:56.600Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "deepak", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:11.825Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yours?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-07T16:08:13.385Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yuvaraj", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-07T16:08:22.547Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-07T15:54:52.700Z", 
+  "uid1LogOutTime": "2018-02-07T16:09:07.830Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-07T15:54:53.538Z", 
+  "uid2LogOutTime": "2018-02-07T16:08:50.911Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      3, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2553", 
+  "user2_id": "USR3252", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

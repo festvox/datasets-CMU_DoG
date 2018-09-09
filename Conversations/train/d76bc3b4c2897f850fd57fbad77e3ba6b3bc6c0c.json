@@ -1,0 +1,254 @@
+{
+  "date": "2018-02-15T11:05:15.021Z", 
+  "docLinkIdx": 5, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:05:30.061Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:05:31.927Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who is the director of your movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:06:17.883Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Christopher Nolan", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:06:29.455Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What genre is the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:06:40.895Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Scientific", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:06:44.866Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That's cool, has it received a lot of positive ratings?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:07:00.995Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It has received an average rating of 8.1 out of 10", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:07:23.508Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Who are the main actors in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:07:32.125Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The main actors are Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page and Tom Hardy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:07:53.906Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the movie about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:08:06.567Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The movie is about corporate espionage using military technology", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:08:59.852Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Sounds interesting. Is there anything that stands out in the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:09:08.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "There's different dream levels in the movie that the team goes through", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:09:33.408Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "So are they sleeping?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:09:40.169Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They are in an infinite subconscious world", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:09:59.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That sounds kind of confusing.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:10:01.924Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Anything more? Or any other key scenes from the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:10:13.818Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The main characters are only asleep for a few hours, however, it was really 50 years in a dream", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:10:44.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That is crazy, what is the name of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:11:08.210Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "The name of the movie is The Inception", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:11:20.136Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you know when it came out?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:11:24.249Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The movie came out in 2009", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:11:29.116Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "What else can you tell me about the scenes?\n#", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:11:40.639Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "There was a planted idea that the main character saw his own father in the dream state", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:12:26.737Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think teh movie is good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:12:33.895Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I personally haven't watched it but the movie is highly acclaimed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:12:56.654Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Seems like a movie I would be interested in.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:13:05.653Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you typically watch movies like this?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:13:18.747Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, I really like scientific movies", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:13:27.413Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were there any negative comments about the film?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:13:40.482Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Some people thought the movie was overrated", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:13:58.211Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Was the acting in the movie good?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:14:42.327Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, it was good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:15:02.218Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was good talking to you.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-15T11:15:25.576Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "It was good talking to you too", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-15T11:15:32.660Z"
+    }
+  ], 
+  "rating": 2, 
+  "status": 1, 
+  "uid1LogInTime": "2018-02-15T11:05:15.021Z", 
+  "uid1LogOutTime": "2018-02-15T11:15:33.849Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-02-15T11:05:15.031Z", 
+  "uid2LogOutTime": "2018-02-15T11:15:35.028Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR4401", 
+  "user2_id": "USR4204", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ]
+}

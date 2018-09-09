@@ -1,0 +1,233 @@
+{
+  "date": "2018-03-23T03:55:41.205Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello, how are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:56:20.461Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello! I'm great, what's on your mind today?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T03:56:40.752Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Well I just finished watching the movie Toy Story, it's a great film you should really watch it!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:57:02.894Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a classic!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:57:05.672Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Cool, what's it about?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T03:57:32.847Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "wells it takes place in a world where anthropomorphic toys pretend to be lifeless whenever humans are present, the plot focuses on the relationship between Woody, a pullstring cowboy doll and Buzz Lightyear, an astronaut action figure. They fight for the affection of Andy, their owner. They later become friends and work together to be reunited with Andy as his parents prepare to move homes!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:59:16.620Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Doesn't that sound amazing?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T03:59:29.007Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "That does sound awesome! Any other cool plot points?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:00:05.637Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "well the plot also contains an array of extremely cool other dolls like Slinky Dog, a dachshund slinky toy played by Jim Varney! and Rex, a nervous green T-Rex figurine played by Wallace Shawn", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:01:47.899Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Nice! Who play's Buzz and Woody?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:02:21.811Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "So Woody is played by the amazing Tom Hanks, and Tim Allen, another great actor, plays Buzz!!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:02:57.616Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I think this sounds like my kind of film... anything else cool about it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:03:30.903Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "well, it's a film that received a perfect score of 100% on Rotten Tomatoes! That should tell you how amazing the movie is. There's also this very interesting scene where Woody organizes all the toys in a scouting mission during Andy's birthday to find out what new toys he got! Green army men toys spy on the party and report on baby monitors. All of them are happy to find out they haven't been replaced by new toys, until Andy receives a surprise gift-- Buzz! It all makes for an interesting story line", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:05:57.834Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "That sounds like something my kids would really enjoy! I love the rating!!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:06:58.077Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah it's perfect for kids. It's a comedy with animation and a lot of Adventure. It is an older film, produced in 1995, but it still holds to this day", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:07:48.118Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Oh wow. I guess it's stood the test of time. I like animated comedies! This movie sounds pretty neat. ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:08:58.614Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "yeah, and its directed by John Lasseter, so you know it's well directed", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:09:37.012Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the critical responses are all so positive as well!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:09:53.520Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Nice! I can't wait to see it. Sounds like my type of film.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:10:29.135Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "of course, do you want to hear another plot point that will definitely make you want to go see the film?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:11:21.918Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "YES PLEASE!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:11:38.782Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "so Andy goes out on a family outing to Pizza Planet and his mom lets him bring one toy. Woody fears that he might not get picked and tries to trap Buzz behind a desk but ends up knocking him out of a window!! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:12:35.710Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Oh wow! What happens to them?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:13:12.850Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "well Andy decides to take Woody to Pizza Planet but when the family stops for gas, Woody finds that Buzz caught a ride with them and they fight at the gas station only to find that the family has left without them! ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:14:06.255Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "They catch a ride with a Pizza delivery truck and make it back only to get stuck in a crane game where they are salvaged by Andy's own neighbor, Sid Phillips!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:14:49.846Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Ouch! That poor toy. I hope he has better luck later!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:15:20.493Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "they do! But they have to go through Sid Phillips to get back! As they try to leave Sid's place, Sid's dog gives them a chase of their lives. Woody makes it to the moving truck but Buzz is left with Sid's dog. Woody then tries to take Andy's RC car to save Buzz while trying to fight against the other toys that think Woody is trying to kill Buzz and RC!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:17:54.054Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Oh no! What happens?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:18:33.101Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "well the toys realize their mistake in thinking Woody is trying to kill Buzz and RC and try to help Woody and Buzz and RC get on the moving truck but RC's batter dies! Woody decides to ignite the rocket on Buzz's back and manages to throw RC into the truck while gliding with Buzz through the air before the Rocket explodes and glide safely back into the box in the car right next to Andy!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:21:14.097Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Aww nice! I like that!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:21:39.341Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yeah, the ending is really sweet too. They move into their new house and on Christmas, Buzz and Woody try to prepare for the new toys that might arrive and to their surprise Andy gets a puppy!", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:24:14.419Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "isn't that just the cutest?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-23T04:24:19.691Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "That is! I think i'm gonna love this film!", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-23T04:24:47.699Z"
+    }
+  ], 
+  "rating": 3, 
+  "status": 1, 
+  "uid1LogInTime": "2018-03-23T03:55:41.205Z", 
+  "uid1LogOutTime": "2018-03-23T04:24:51.159Z", 
+  "uid1response": {
+    "feedback": "The other person made the movie seem cool, sweet, and fun. I want to give it a try.", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-03-23T03:55:41.849Z", 
+  "uid2LogOutTime": "2018-03-23T04:25:35.638Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR3756", 
+  "user2_id": "USR437", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

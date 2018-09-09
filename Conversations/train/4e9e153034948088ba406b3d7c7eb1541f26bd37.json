@@ -1,0 +1,163 @@
+{
+  "date": "2018-03-28T15:20:27.883Z", 
+  "docLinkIdx": 26, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hey, whats the name of the movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:21:06.534Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:17.917Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The name of the movie is The Post", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:29.599Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It is directed by Steven Spielberg", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:45.000Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And stars Mery Streep and Tom Hanks", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:21:54.711Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Great, does it take place in current day?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:22:06.936Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "No", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:10.888Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It takes place in the 1970's", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:17.083Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What's the main plot?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:22:32.299Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Meryl Streep plays the first publisher of a major American newspaper", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:34.056Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It's a true story about how they try to publish the \"Pentagon Papers\"", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:22:56.807Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What role does Hanks play?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-28T15:22:57.222Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "He plays the editor of The Washington Post", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:16.036Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The Pentagon Papers were classified and had information about American actions during the Vietnam War", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:42.112Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Sounds very interesting", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:46.821Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You should definitely check it out", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:23:52.089Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you like historical dramas?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:20.910Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Even if you don't, it sounds great", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:26.736Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And I love Meryl Streep...she's just the best", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:43.406Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "And Tom Hanks is really good two", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:49.110Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you see them in a movie, you can't go wrong", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:55.383Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:24:58.155Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Are you still there?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-28T15:26:24.562Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": false, 
+  "uid1LogInTime": "2018-03-28T15:20:27.883Z", 
+  "uid1LogOutTime": "2018-03-28T15:40:06.889Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-28T15:20:27.883Z", 
+  "uid2LogOutTime": "2018-03-28T15:23:24.212Z", 
+  "uid2response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "user1_id": "USR2372", 
+  "user2_id": "USR2071", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}

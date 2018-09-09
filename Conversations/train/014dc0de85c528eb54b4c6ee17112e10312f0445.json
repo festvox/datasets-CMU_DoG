@@ -1,0 +1,113 @@
+{
+  "date": "2018-03-30T15:50:55.233Z", 
+  "docLinkIdx": 29, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:51:39.140Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How are you today?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:14.122Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:29.533Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:43.749Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:53.959Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:54.316Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:54.485Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:54.669Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey, how are you doing?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:52:55.585Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I am good. Thank you.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:52:55.624Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hey", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-03-30T15:53:01.117Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "There is this great movie I want to tell you about called Toy Story", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:53:26.041Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "It was made in 1995 and was one of the first full length  computer animated films.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:54:42.454Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The voice actors in the movies are very famous stars such as Tom Hanks, Tim Allen, and Don Rickles.", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-03-30T15:55:40.984Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-03-30T15:50:55.233Z", 
+  "uid1LogOutTime": "2018-03-30T15:53:19.181Z", 
+  "uid1response": {
+    "response": [], 
+    "type": "abandonWithoutAnsweringFeedbackQuestions"
+  }, 
+  "uid2LogInTime": "2018-03-30T15:50:55.239Z", 
+  "uid2LogOutTime": "2018-03-30T15:56:03.066Z", 
+  "uid2response": {
+    "feedback": "The other participant left the conversation.", 
+    "response": [
+      1, 
+      -1
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1800", 
+  "user2_id": "USR2469", 
+  "whoSawDoc": [
+    "user2"
+  ]
+}

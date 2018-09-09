@@ -1,0 +1,164 @@
+{
+  "date": "2018-02-20T18:57:34.312Z", 
+  "docLinkIdx": 15, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "Heyo", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:57:46.598Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:57:53.231Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:57:59.120Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I cannot see the movie, so can you tell me what it is?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:58:01.548Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Bruce Almighty", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:08.514Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Have you seen it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:11.930Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Its hilarious ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:17.756Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Yes, a long time ago. How about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:58:22.168Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Samer", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:26.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I love Jim Carrey", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:58:29.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Same, ace ventura was childhood", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:58:40.625Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Theres a scene in bruse almight with steve correll", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:59:03.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:59:10.271Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Now you're talking my language. ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-02-20T18:59:11.937Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "haha", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:59:20.446Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "the office fan?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T18:59:25.263Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "The cast for bruce almighty was stellar", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:14.745Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Morgan freemon as God was a force that coudnt be stopped", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:00:38.226Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hello?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:02:20.209Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Do you enjoy slap stick comedies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:02:46.361Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Hola?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:03:32.114Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I need a reply to move on", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-02-20T19:03:48.611Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2018-02-20T18:57:34.312Z", 
+  "uid1LogOutTime": "2018-02-20T19:06:01.753Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2018-02-20T18:57:34.330Z", 
+  "uid2LogOutTime": "2018-02-20T18:58:57.730Z", 
+  "uid2response": {
+    "feedback": "The user just left after two messages\n", 
+    "response": [
+      1, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR1592", 
+  "user2_id": "USR4474", 
+  "whoSawDoc": [
+    "user1"
+  ]
+}
