@@ -31,12 +31,12 @@ This paper introduces a document grounded dataset for conversations. We define "
       * 'text': the text of each utterance.
       * 'utcTimestamp': the server utc timestamp of this utterance.
       * 'uid': the user id of this utterance.
-      * 'docIdx': the current document index of the file. Could be missing some files.
-    * 'rating': A number from 1 or 2 or 3. A larger number means the quality of the conversation is better.
-    * 'uid1LogInTime', 'uid1LogOutTime', 'uid2LogInTime', 'uid2LogOutTime': The log in and log out time of user1 and user2. Any of the field could be missing.
+      * 'docIdx': the current document index of the file. Could be missing some files. (explain better)
+    * 'rating': A number from 1 or 2 or 3. A larger number means the quality of the conversation is better. (where Rating 3 means good quality conversations and Rating 1 means bad quality conversation. To understand how this number is calculated please refer to our paper.)
+    * 'uid1LogInTime', 'uid1LogOutTime', 'uid2LogInTime', 'uid2LogOutTime': The log in and log out time of user1 and user2. Any of the field could be missing. (why)
     * 'uid1response', 'uid2response': a json object contains the status and response of user after finishing the conversation. Fields in the object includes
       * 'type': should be one of ['finish', 'abadon','abandonWithouAnsweringFeedbackQuestion']. 'finish' means the user successfully finishes the conversation, either by completing 12 or 15 turns or in the way that the other user leaves the conversation first. 'abandon' means the user abandons the conversation in the middle, but entering the feedback page. 'abandonWithouAnsweringFeedbackQuestion' means the user just disconnects or closes the web page without providing the feedback.
-      * 'response': the answer to the post-conversation questions. The meaning of the option presents in the data is as follows:
+      * 'response': the answer to the post-conversation questions. The meaning of the option presents in the data is as follows (rephrase):
         * For type 'finish'
           * 1: The conversation is understandable.
           * 2: The other user is actively responding me.
@@ -70,7 +70,7 @@ This paper introduces a document grounded dataset for conversations. We define "
       * 'movieName': the name of the movie.
       * 'rating': a list of ratings from major review websites for this movie. The ratings usually includes some of the Rotten Tomatoes, IMDB, CinemaScore, or Metacritic.
       * 'year': the year the movie came out.
-      * 'index': the index of the movie, corresponding to the 'docLinkIdx' field in conversation data.
+     * 'index': the index of the movie, corresponding to the 'docLinkIdx' field in conversation data. (more explanantion)
 
 ## References
 
