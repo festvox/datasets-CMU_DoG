@@ -11,6 +11,7 @@ This paper introduces a document grounded dataset for conversations. We define "
   * Rate 1: Low BLEU score(< 0.1), or the number of turns lower than 10
   * Rate 2: All the conversations that do not fit in rate 1 or 3
   * Rate 3: Conversations with more than 12 turns, with BLEU score over one std
+
 * Overall stats based on ratings
   Stats\Ratings                       | Rate 1         | Rate 2        | Rate 3
   ------------                        | ----           | ----          | ---
