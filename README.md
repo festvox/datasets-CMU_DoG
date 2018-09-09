@@ -21,7 +21,7 @@ This paper introduces a document grounded dataset for conversations. We define "
   Mean/Std length of utterances       | 7.51 ± 50.19   | 10.56 ± 8.51  | 16.57 ± 15.23
 
 ## Data Format
-* Conversations Data
+### Conversations Data
   * All the conversation data files are in the 'Conversations' folder, with train/validation/test split.
   * Each conversation file is a json file. Fields in the file includes
     * 'date': the time the file is created.
@@ -56,7 +56,7 @@ This paper introduces a document grounded dataset for conversations. We define "
     * 'status': 0 means the conversation finished with error(At least one user abandoned the conversations). 1 means the conversation finished correctly.
     * 'whoSawDoc': Should be one of ['user1'], ['user2'], ['user1', 'user2']. Indicating which user read the document.
 
-* Wiki Document Data
+### Wiki Document Data
   * All the wiki document data files are in the 'WikiData' folder
   * An example of the data is included in the repository.
   * Each file is a json file. Fields in the file includes
