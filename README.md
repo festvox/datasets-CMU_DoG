@@ -11,14 +11,14 @@ This paper introduces a document grounded dataset for conversations. We define "
   * Rate 1: Low BLEU score(< 0.1), or the number of turns lower than 10
   * Rate 2: All the conversations that do not fit in rate 1 or 3
   * Rate 3: Conversations with more than 12 turns, with BLEU score over one std
-
 * Overall stats based on ratings
+
   Stats\Ratings                       | Rate 1         | Rate 2        | Rate 3
   ------------                        | ----           | ----          | ---
   Total Number of conversations       | 1443           | 2142          | 527
   Total Number of utterances          | 28536          | 80104         | 21360
-  Average utterances per conversations    | 19.77 ± 13.68  | 35.39 ± 8.48  | 40.53 ± 12.92
-  Average length of utterances       | 7.51 ± 50.19   | 10.56 ± 8.51  | 16.57 ± 15.23
+  Mean/Std utterances per conversations    | 19.77 ± 13.68  | 35.39 ± 8.48  | 40.53 ± 12.92
+  Mean/Std length of utterances       | 7.51 ± 50.19   | 10.56 ± 8.51  | 16.57 ± 15.23
 
 ## Data Format
 * Conversations Data
