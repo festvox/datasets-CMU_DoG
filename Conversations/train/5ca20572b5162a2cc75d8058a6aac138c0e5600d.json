@@ -1,6 +1,5 @@
 {
   "date": "2018-02-07T23:59:09.322Z", 
-  "docLinkIdx": 3, 
   "history": [
     {
       "docIdx": 0, 
@@ -278,5 +277,6 @@
   "user2_id": "USR989", 
   "whoSawDoc": [
     "user1"
-  ]
+  ], 
+  "wikiDocumentIdx": 3
 }
