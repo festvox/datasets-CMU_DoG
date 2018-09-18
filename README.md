@@ -25,19 +25,18 @@ This paper introduces a document grounded dataset for conversations. We define "
   * All the conversation data files are in the 'Conversations' folder, with train/validation/test split.
   * Each conversation file is a json file. Fields in the file includes
     * 'date': the time the file is created.
-    * 'docLinkIdx': the index of the document. See the 'index' part for next section for details.
-    * 'docType': (Do we need to include this?).
+    * 'wikiDocIdx': the index of the wiki document.
     * 'history': a list of json object containing the whole chat history. Fields in the json objects in the list includes
       * 'text': the text of each utterance.
       * 'utcTimestamp': the server utc timestamp of this utterance.
       * 'uid': the user id of this utterance.
-      * 'docIdx': the current document index of the file. Could be missing some files. (explain better)
-    * 'rating': A number from 1 or 2 or 3. A larger number means the quality of the conversation is better. (where Rating 3 means good quality conversations and Rating 1 means bad quality conversation. To understand how this number is calculated please refer to our paper.)
-    * 'uid1LogInTime', 'uid1LogOutTime', 'uid2LogInTime', 'uid2LogOutTime': The log in and log out time of user1 and user2. Any of the field could be missing. (why)
+      * 'docIdx': the current section index of the wiki document when the utterance is said. There are in total 4 sections for each document.
+    * 'rating': A number from 1 or 2 or 3. A larger number means the quality of the conversation is better.
+    * 'uid1LogInTime', 'uid1LogOutTime', 'uid2LogInTime', 'uid2LogOutTime': The log in and log out time of user1 and user2. Any of the field could be missing due to technical issue.
     * 'uid1response', 'uid2response': a json object contains the status and response of user after finishing the conversation. Fields in the object includes
       * 'type': should be one of ['finish', 'abadon','abandonWithouAnsweringFeedbackQuestion']. 'finish' means the user successfully finishes the conversation, either by completing 12 or 15 turns or in the way that the other user leaves the conversation first. 'abandon' means the user abandons the conversation in the middle, but entering the feedback page. 'abandonWithouAnsweringFeedbackQuestion' means the user just disconnects or closes the web page without providing the feedback.
-      * 'response': the answer to the post-conversation questions. The meaning of the option presents in the data is as follows (rephrase):
-        * For type 'finish'
+      * 'response': the answer to the post-conversation questions. The options presented to the user are as follows:
+        * For type 'finish' (the worker can choose multiple of them)
           * 1: The conversation is understandable.
           * 2: The other user is actively responding me.
           * 3: The conversation goes smoothly.
@@ -45,10 +44,10 @@ This paper introduces a document grounded dataset for conversations. We define "
           * 1: The other user is too rude.
           * 2: I don't know how to proceed with the conversation.
           * 3: The other user is not responding to me.
-        * For chatType 0 (both users were given the document)
+        * For users given the document
           * 4: I have watched the movie before.
           * 5: I have not watched the movie before.
-        * For chatType 1 (only one user was given the document)
+        * For the users without the document
           * 4: I will watch the movie after the other user's introduction.
           * 5: I will not watch the movie after the other user's introduction.
       * 'feedback': the user-entered feedback after the conversation.
@@ -70,7 +69,7 @@ This paper introduces a document grounded dataset for conversations. We define "
       * 'movieName': the name of the movie.
       * 'rating': a list of ratings from major review websites for this movie. The ratings usually includes some of the Rotten Tomatoes, IMDB, CinemaScore, or Metacritic.
       * 'year': the year the movie came out.
-     * 'index': the index of the movie, corresponding to the 'docLinkIdx' field in conversation data. (more explanantion)
+     * 'wikiDocIdx': the index of this wiki document, corresponding to the 'wikiDocIdx' field in conversation data. You can use this key to map the this document to the conversation file.
 
 ## References
 
