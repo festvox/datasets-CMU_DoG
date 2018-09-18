@@ -70,7 +70,7 @@ This paper introduces a document grounded dataset for conversations. We define "
       * 'movieName': the name of the movie.
       * 'rating': a list of ratings from major review websites for this movie. The ratings usually includes some of the Rotten Tomatoes, IMDB, CinemaScore, or Metacritic.
       * 'year': the year the movie came out.
-     * 'wikiDocumentIdx': the index of this wiki document, corresponding to the 'wikiDocIdx' field in conversation data. You can use this key to map the this document to the conversation file.
+     * 'wikiDocumentIdx': the index of this wiki document, corresponding to the 'wikiDocumentIdx' field in conversation data. You can use this key to map the this document to the conversation file.
 
 ## References
 
