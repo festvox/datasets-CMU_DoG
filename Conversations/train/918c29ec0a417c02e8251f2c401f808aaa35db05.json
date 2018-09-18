@@ -1,0 +1,73 @@
+{
+  "date": "2017-12-01T06:37:07.701Z", 
+  "docType": 1, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "The movie I'm going to try to get you to see is Zootopia.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:37:48.386Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What is that about", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-12-01T06:38:01.332Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "The movie is about a rabbit becoming a police officer.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:38:54.954Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She is discriminated against because of her species.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:39:38.189Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "She meets a sly fox named Nick Wilde.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:40:34.227Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Do you need more information about the movie or have I convinced you?", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:41:15.684Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "If you need more convincing there has been good reviews about the movie with Rotten Tomatoes giving it 98% approval and an average rating of 8/10.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-12-01T06:42:25.605Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 0, 
+  "uid1LogInTime": "2017-12-01T06:37:07.701Z", 
+  "uid1LogOutTime": "2017-12-01T06:44:10.495Z", 
+  "uid1response": {
+    "response": [
+      2
+    ], 
+    "type": "abandon"
+  }, 
+  "uid2LogInTime": "2017-12-01T06:37:07.702Z", 
+  "uid2LogOutTime": "2017-12-01T06:44:47.888Z", 
+  "uid2response": {
+    "feedback": "It sounds good", 
+    "response": [
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2883", 
+  "user2_id": "USR4667", 
+  "whoSawDoc": [
+    "user1"
+  ], 
+  "wikiDocumentIdx": 4
+}

@@ -1,0 +1,337 @@
+{
+  "date": "2018-01-29T22:48:58.448Z", 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "HELLOL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:49:21.765Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "HELLO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:49:41.823Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:34.658Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I LIKE THIS MOVIES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:38.787Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "which movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:46.337Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "JAW", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:51:01.842Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "i dont know that movie ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:51:11.138Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "please tell me another one ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:51:28.018Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "JAW IS ABOUT WHIT SHARK ATTACKS PEOPLE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:52:06.569Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "WHITE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:52:12.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ohh i got it ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:52:18.649Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "sorry i for get the movie name but i saw the film ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:52:39.290Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "i like fast and furious and sherlock homes movies ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:53:18.801Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "THEY  MADE PART 1,2,3. IT GOOD IF LIKE THRILLER MOVIES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:53:41.962Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "JAW", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:53:51.867Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "YOU DON'T THE PAPER ON THE LEFT SIDE?\n  ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:41.584Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "SEE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:47.256Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "ME TOO", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:03.233Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I I HARE WALKER DIE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:43.596Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "HATE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:49.984Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "HOW LONG IS THIS?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:56:20.194Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "OK I WILL WATCH THAT MOVIES ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:21.675Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "THAT GOOD IDEA", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:56:38.262Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "RECENTLY I WATCHED THE THRILLER MOVIES ANABELL ONLY ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:56:52.735Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "HOW LONG IS THIS SURVEY?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:16.628Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "WAS IT GOOD. IS IT ON \n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:58:08.072Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "WE WANT COMPLETE 12 CONVO", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:58:16.627Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "THEN WE WILL FINISHED THIS SURVEY ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:58:28.257Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "HOW MANY IS THAT?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:58:36.423Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "NEFLEX", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:58:58.481Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "MOVE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:59:12.580Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "OK THIS WHILE", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:59:43.184Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I DONT KNOW ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:59:43.289Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NO ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:05.090Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OUT TASK IS NOT COMPLETE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:11.360Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "SO KEEP GOING ON ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:18.950Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "THIS MOVIE IS ABOUT HOW JAW EAT EVERYBODY", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:00:43.028Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OHH I SEE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:09.661Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "IF YOU DON'T LIKE BLOOD DON'T WASH THIS MOVIES", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:01:21.424Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I LIKE HARRY POTTER MOSTLY ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:32.132Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NO ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:38.722Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NOW WE ARE FINISH THIS CONVERSATION JUST CLICK THE FINISH CONVERSATION ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:59.488Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "THAT MOVIE IS SO LONG TO WASH I MAY FALL A SLEEP", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:06.772Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK DONE ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:18.453Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "THAT ALL", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:37.351Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "OK", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:02:43.293Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NICE TEXTING YOU", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:05.598Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "HAVE A GOOD DAY.", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:19.947Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "NOTHING ", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:41.032Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "ARE STILL THEIR\n?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:04:09.549Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T22:48:58.448Z", 
+  "uid1LogOutTime": "2018-01-29T23:04:20.617Z", 
+  "uid1response": {
+    "feedback": "THANK YOU", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T22:48:58.755Z", 
+  "uid2LogOutTime": "2018-01-29T23:02:32.033Z", 
+  "uid2response": {
+    "feedback": "This is good survey because i am knowing the many films and stories . that movie was created a curiosity for me. so i will watch the all movie ", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2478", 
+  "user2_id": "USR1018", 
+  "whoSawDoc": [
+    "user1"
+  ], 
+  "wikiDocumentIdx": 2
+}

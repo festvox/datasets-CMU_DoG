@@ -1,0 +1,222 @@
+{
+  "date": "2018-01-29T22:49:05.078Z", 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hi", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:08.931Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:14.108Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "What do you think of the movie?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:50:51.377Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "what's this document ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:50:58.747Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "I'm sorry?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:51:11.828Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes,i thick good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:51:14.314Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "You liked it?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:51:22.474Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "yes ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:51:29.667Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Which character is your favorite?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:51:40.491Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "my favorite tommy", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:52:02.444Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Why is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:52:25.321Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Because its my favorite role", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:09.755Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He seems like a hero in the movie", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:37.365Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "He saves lots of people", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:54:41.293Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "A\nnd its masterpiece of film", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:54:58.289Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Christopher Nolan is a talented director", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:55:14.788Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "yes ,very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:55:32.267Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Gibson is my least favorite", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:56:01.890Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Alex  is my least favorite", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T22:57:31.014Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Why is that?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T22:57:39.327Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "no reason", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:04.875Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Do you like war movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:00:20.359Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:00:26.267Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you agree with the rating?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:01:00.048Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes,i agree ", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:01:26.877Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you think it is the best war movie of the year?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:01:49.213Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "yes", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:02:37.191Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "because the war very good", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:03:04.151Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Do you look at ratings before you watch the movies?", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:03:21.713Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "no", 
+      "uid": "user2", 
+      "utcTimestamp": "2018-01-29T23:03:40.553Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I normally do", 
+      "uid": "user1", 
+      "utcTimestamp": "2018-01-29T23:04:15.246Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2018-01-29T22:49:05.078Z", 
+  "uid1LogOutTime": "2018-01-29T23:04:18.108Z", 
+  "uid1response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2018-01-29T22:49:05.089Z", 
+  "uid2LogOutTime": "2018-01-29T23:04:04.589Z", 
+  "uid2response": {
+    "feedback": "good", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2834", 
+  "user2_id": "USR1818", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ], 
+  "wikiDocumentIdx": 9
+}

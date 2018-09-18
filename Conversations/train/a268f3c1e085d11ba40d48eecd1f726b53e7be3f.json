@@ -1,0 +1,189 @@
+{
+  "date": "2017-11-27T20:59:48.825Z", 
+  "docType": 0, 
+  "history": [
+    {
+      "docIdx": 0, 
+      "text": "hello", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:00:00.035Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Hi", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:00:03.374Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "How do you feel about this movie?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:00:19.303Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "Frozen is a great movie.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:00:23.132Z"
+    }, 
+    {
+      "docIdx": 0, 
+      "text": "My daughter is in love with it. It is pretty cure. Do you like Anna or Elsa?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:00:45.587Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I like Elsa more.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:00:54.230Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It must suck to have your parents die huh?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:01:23.626Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "It sure does. That was sad.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:01:33.900Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "I wish I could freeze things, what about you?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:01:52.197Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "Would make things funner. Could have your own winter anytime.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:02:18.079Z"
+    }, 
+    {
+      "docIdx": 1, 
+      "text": "What is the first thing you would do if you could freeze things or make snow or whatever?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:02:44.880Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I would make ice for any drink I have.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:03:07.518Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "I think winter is beautiful, do you like it?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:03:58.233Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. The movie makes me want winter all the time.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:04:12.269Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "That prince hans is such a scumbag, don't you think?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:04:30.227Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "Yes. He is too arrogant.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:04:52.245Z"
+    }, 
+    {
+      "docIdx": 2, 
+      "text": "What is your favorite winter sport?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:06:08.726Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "The high jump", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:06:29.662Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Would you live in an ice palace?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:06:46.270Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "If I don't get frostbite, sure.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:07:05.238Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Don't you think it is said when Anna's heart freezes?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:07:47.079Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "sad", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:07:58.096Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Yes, very heartbreaking.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:08:01.016Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "Were you relieved when Elsa escaped the cell that Hans puts her in?", 
+      "uid": "user2", 
+      "utcTimestamp": "2017-11-27T21:09:12.401Z"
+    }, 
+    {
+      "docIdx": 3, 
+      "text": "I did. Glad she escaped.", 
+      "uid": "user1", 
+      "utcTimestamp": "2017-11-27T21:09:38.784Z"
+    }
+  ], 
+  "rating": 1, 
+  "status": 1, 
+  "uid1LogInTime": "2017-11-27T20:59:48.825Z", 
+  "uid1LogOutTime": "2017-11-27T21:09:45.922Z", 
+  "uid1response": {
+    "feedback": "Was fun", 
+    "response": [
+      1, 
+      2, 
+      3, 
+      5
+    ], 
+    "type": "finish"
+  }, 
+  "uid2LogInTime": "2017-11-27T20:59:48.840Z", 
+  "uid2LogOutTime": "2017-11-27T21:10:04.358Z", 
+  "uid2response": {
+    "feedback": null, 
+    "response": [
+      1, 
+      2, 
+      3, 
+      4
+    ], 
+    "type": "finish"
+  }, 
+  "user1_id": "USR2024", 
+  "user2_id": "USR3504", 
+  "whoSawDoc": [
+    "user1", 
+    "user2"
+  ], 
+  "wikiDocumentIdx": 0
+}
