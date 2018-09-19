@@ -78,9 +78,9 @@ This paper introduces a document grounded dataset for conversations. We define "
 
 ## References
 
-    @inproceedings{document_grounded_emnlp18,
+    @inproceedings{cmu_dog_emnlp18,
     title={A Dataset for Document Grounded Conversations},
     author={Zhou, Kangyan and Prabhumoye, Shrimai and Black, Alan W},
     year={2018},
-    booktitle={Proc. EMNLP}
+    booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing}
     }
