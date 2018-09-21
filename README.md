@@ -3,7 +3,7 @@
 ## Overview
 
 This repo contains the code and data of the following paper:
->A Dataset for Document Grounded Conversations. *Kangyan Zhou, Shrimai Prabhumoye, Alan W Black*. EMNLP 2018. [arXiv](https://arxiv.org/pdf/xxx.pdf)
+>A Dataset for Document Grounded Conversations. *Kangyan Zhou, Shrimai Prabhumoye, Alan W Black*. EMNLP 2018. [arXiv](https://arxiv.org/pdf/1809.07358.pdf)
 
 This paper introduces a document grounded dataset for text conversations. We define "Document Grounded Conversations" as conversations that are about the contents of a specified document. In this dataset the specified documents were Wikipedia articles about popular movies. The dataset contains 4112 conversations with an average of 21.43 turns per conversation. This positions this dataset to not only provide a relevant chat history while generating responses but also provide a source of information that the models could use. We describe two neural architectures that provide benchmark performance on the task of generating the next response. We also evaluate our models for engagement and fluency, and find that the information from the document helps in generating more engaging and fluent responses.
 
